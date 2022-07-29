@@ -11,7 +11,7 @@ This document does not contain all of the rules of the tournament; only the ones
 
 If you would like to contact the CS:GO team with questions or comments, feel free to send an email to csgoteamfeedback [at] valvesoftware.com, with the subject #MajorsRule.
 
-## TO Obligations
+## Tournament Organizer Obligations
 *What is expected of tournament organizers with respect to this document.*
 
 ### Publication
@@ -68,6 +68,8 @@ In the event that the RMRs must be held online, there will be 5 RMR regions
 
 #### Team Regional Assignment
 A team’s region is determined by the citizenship of the majority of its players. In case of a tie, the team chooses between the two.
+In the case of players that don't belong to one of the 3 regions (Europe, Asia, Americas), those players can assign themselves to a region already represented on the roster.
+If all players are from another region, then they can choose any region.
 
 #### Regional Representation
 The number of teams invited from each region depends on the performance of that region in the preceding Major. Legends and Challengers invitations are allocated according to the number of teams from the region that earned their respective position in the Major:
