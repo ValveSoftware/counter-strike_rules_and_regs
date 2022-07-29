@@ -35,9 +35,9 @@ These are the main deliverables outlined in this document that are required of t
 
 ### Invitations
 #### Invitations [MAJOR]
-Major invites are sent to the teams of five players who earned an invitation from the most recent RMR. If a team used a substitute, an invitation is extended to the five who played in the last match they won. 
+Major invites are sent to the core lineup (not including a substitute) who earned an invitation from the most recent RMR.
 
-A team cannot adjust their roster between the RMR and the Major. However, they can register a different coach or substitute player.
+A team cannot adjust their core lineup between the RMR and the Major. However, they can register a different coach or substitute player.
 
 The Major features 24 teams
 - 8 teams are invited as Legends, to enter the Major in the Legends Stage.
@@ -45,7 +45,7 @@ The Major features 24 teams
 - 8 teams are invited as Contenders, to also enter the Major in the Challengers Stage.
 
 #### Invitations [RMR]
-RMR invites are sent to teams of three or more players who played together in the Legends Stage of the previous Major. If a team used a substitute, the five players that are considered to have "played together" are the five who played in the last match they won.
+RMR invites are sent to teams of three or more members of the core lineup who participated in the Legends Stage of the previous Major.
 
 #### World Regions
 Separating world-wide competition into regions that allow players to compete with low latency is important to measure skill on a level playing field.
@@ -101,7 +101,6 @@ If a team declines an invitation, or is no longer intact, the next-highest ranke
 - Team roster may optionally include 1 substitute player.
 - The coach and substitute may be the same person.
 
-
 #### Participant Manifest
 The TO needs to collect the following of all registered participants and [deliver them to Valve](#Deliverables) (Excel or CSV). 
 
@@ -116,7 +115,6 @@ The TO needs to collect the following of all registered participants and [delive
 - Steam Workshop autograph item link
 
 *The TO must inform participants that this information will be transferred to Valve.*
-
 
 ### Player/Team Info
 #### Player Nicknames
