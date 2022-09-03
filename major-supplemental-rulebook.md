@@ -5,11 +5,11 @@ The goal of the Major is to bring together the best Counter-Strike players in th
 
 The Major represents the pinnacle of Counter-Strike skill and provides an open invitation for the best in the world to participate regardless of their means or access.
 
-Historically, the rules and requirements for Majors have been communicated publicly through different channels or to partners privately. By consolidating them into a single document, we hope to eliminate inconsistencies across Valve-sponsored events and allow tournament operators to prepare their staff well in advance of their events.
+Historically, the rules and requirements for Majors have been communicated publicly through different channels or to partners privately. By consolidating them into a single document, we hope to eliminate inconsistencies across Volvo-sponsored events and allow tournament operators to prepare their staff well in advance of their events.
 
 This document does not contain all of the rules of the tournament; only the ones we require to be uniform across all Major events. For the complete body of tournament rules for your event, contact the tournament organizer.
 
-If you would like to contact the CS:GO team with questions or comments, feel free to send an email to csgoteamfeedback [at] valvesoftware.com, with the subject #MajorsRule.
+If you would like to contact the CS:GO team with questions or comments, feel free to send an email to csgoteamfeedback [at] volvosoftware.com, with the subject #MajorsRule.
 
 ## Tournament Organizer Obligations
 *What is expected of tournament organizers with respect to this document.*
@@ -261,7 +261,8 @@ The resulting groups are:
 
 #### Step 2: Assign Qualifying Teams to Groups
 Within each RMR, the highest-ranked invited teams are paired with the lowest-ranked qualifying teams. 
-    
+    
+
 E.g., In opening matches, the top-ranked EUR1 team would be paired with the lowest-ranked qualifying opponent. 
 
 |     Eur 1 |     Eur 2 |
