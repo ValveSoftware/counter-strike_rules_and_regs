@@ -92,7 +92,7 @@ Note that for the purposes of RMR, regions represented by more than 8 teams will
 #### Invitation Process
 Invitations will be sent to intact teams, per the [invitation](#Invitations) requirements above. 
 
-If a team declines an invitation, or is no longer intact, the next-highest ranked team receives their invitation. If there are no additional teams available then the remaining slots are to be determined by a last-chance regional qualifier.
+If a team declines an invitation, or is no longer intact, the next-highest ranked team receives their invitation. If there are no additional teams available, then the remaining slots are to be determined by a last-chance regional qualifier.
 
 ### Team Rosters
 #### Team Requirements
@@ -133,7 +133,7 @@ Players and teams are required to accept the following agreement (verbatim) in o
 
 1.1 (a) “CS:GO” means Counter-Strike: Global Offensive, and future versions thereof. (b) “Likeness” means my appearance, performance, name, biographical information, and statements, and any audio or video depiction produced by me (i) during the CS:GO event, or (ii) provided by me or my team to Valve Corporation (“Valve”) or the event operator. With respect to a team, Likeness also includes team trademarks, logos, or other team intellectual property that the team may decide to provide Valve or the event operator outside of the CS:GO Workshop.
 
-1.2 I agree that Valve may use, distribute and display my Likeness (a) in CS:GO, or (b) in media relating to CS:GO or to a CS:GO event that Valve licenses or sponsors. I agree that Valve will retain these rights for so long as I continue to participate in CS:GO events. I also agree Valve may retain these right to use, distribute and display my Likeness related to historical CS:GO events forever. 
+1.2 I agree that Valve may use, distribute, and display my Likeness (a) in CS:GO, or (b) in media relating to CS:GO or to a CS:GO event that Valve licenses or sponsors. I agree that Valve will retain these rights for so long as I continue to participate in CS:GO events. I also agree Valve may retain these rights to use, distribute and display my Likeness related to historical CS:GO events forever. 
 
 1.3 I agree that Valve has no obligation to submit to me any material using my Likeness for any further approval and that Valve may edit my Likeness as Valve deems reasonable for the uses permitted by paragraph 1.2. However, Valve is not obligated to make any use of any of the rights set forth in this agreement.
 
@@ -147,7 +147,7 @@ Players and teams are required to accept the following agreement (verbatim) in o
 
 2.1 Teams and players should not have any financial interest in the success of any team that they are competing against. To participate in this Tournament, players and teams are required to affirm that they have no conflict of interest (including any business entanglement such as shared management, shared ownership of entities, licensing, and loans) with any other participating team or its players. 
 
-2.2 I am not currently aware of any conflict of interest that I might have with another participating team or any player on another participating team. If I currently have a conflict of interest, or become aware of one over the course of the event, I will immediately provide detail to the CS:GO development team explaining the nature of my relationship with the other party, and a plan for resolving the issue in the future. 
+2.2 I am not currently aware of any conflict of interest that I might have with another participating team or any player on another participating team. If I currently have a conflict of interest or become aware of one over the course of the event, I will immediately provide detail to the CS:GO development team explaining the nature of my relationship with the other party, and a plan for resolving the issue in the future. 
 
 ```
 
@@ -162,7 +162,7 @@ The TO is to collect any Disclosures of Conflicts of Interest that result from [
 
 ### Eligibility
 #### VAC
-The TO will not qualify, nor allow in any qualifying event, any player who has been "Valve Anti-Cheat" banned ("VAC Banned") in CS:GO. Any player who is VAC Banned on any of their accounts must be approved in writing by Valve in order to be eligible to participate in the event. Any team on which a banned player has played during the period starting with the first qualifier and ending with the end of the event, will be banned ("Banned Team"). Valve also reserves the right to disqualify any player, team, broadcaster, commentator or producer in its sole discretion. The TO will immediately disqualify such person or team upon notice from Valve. 
+The TO will not qualify, nor allow in any qualifying event, any player who has been "Valve Anti-Cheat" banned ("VAC Banned") in CS:GO. Any player who is VAC Banned on any of their accounts must be approved in writing by Valve in order to be eligible to participate in the event. Any team on which a banned player has played during the period starting with the first qualifier and ending with the end of the event, will be banned ("Banned Team"). Valve also reserves the right to disqualify any player, team, broadcaster, commentator, or producer in its sole discretion. The TO will immediately disqualify such person or team upon notice from Valve. 
 Any event winnings by such player or such Banned Team will be forfeit. No player from a Banned Team will be eligible to compete in the event with any other team. 
 
 #### Staffing
@@ -200,7 +200,7 @@ The RMR format for a region is determined by the number of slots for that region
 
 - 5 to 8 invites: 16 team [Swiss bracket](#Swiss-Bracket)
 	
-	Best of 3: Decider matches (e.g, matches where a team reaches their third win or third loss).
+	Best of 3: Decider matches (e.g., matches where a team reaches their third win or third loss).
 	
 	At times, it will be necessary to identify Legends and/or Contenders among a group of teams with identical records. In that case the following process should be used to separate them:
 	
@@ -261,7 +261,8 @@ The resulting groups are:
 
 #### Step 2: Assign Qualifying Teams to Groups
 Within each RMR, the highest-ranked invited teams are paired with the lowest-ranked qualifying teams. 
-    
+    
+
 E.g., In opening matches, the top-ranked EUR1 team would be paired with the lowest-ranked qualifying opponent. 
 
 |     Eur 1 |     Eur 2 |
@@ -437,7 +438,7 @@ Competition PCs are to be secured and managed by event staff and restricted down
 	1. Set allow rules for the following (can be set for the everyone group or the Windows user players will be using):
 		- Steam.exe
 		- csgo.exe
-		- any other applications players will need access to such as VOIP (note that these application may be blocked from making config file changes on the limited Windows user account so prepare the configs ahead of time from the admin account)
+		- any other applications players will need access to such as VOIP (note that these applications may be blocked from making config file changes on the limited Windows user account so prepare the configs ahead of time from the admin account)
 	1. Set Deny rules for the following (can be set for the everyone group or the Windows user players will be using):
 		- powershell.exe
 		- cmd.exe
