@@ -281,7 +281,25 @@ E.g., In opening matches, the top-ranked EUR1 team would be paired with the lowe
 - All elimination and advancement matches are to be best of three.
 - All other matches are to be best of one.
 - Teams are not to play the same opponent twice in the same stage, if possible.
-- Matchups shall be determined by [seed](#seeding). The highest seeded team faces the lowest seeded team available that does not result in a rematch within the stage. When identifying pairings that avoid re-matches, priority should be given in order to the seed 1 team playing against (a) seed 4, (b) seed 5, (c\) seed 6, (d) seed 3.
+- Matchups shall be determined by [seed](#seeding). In round 3, the highest seeded team faces the lowest seeded team available that does not result in a rematch within the stage. In other rounds, refer to the following table and select the top-most row that does not result in a rematch:
+
+| Priority |  |  |  |
+|:--------:|--------:|--------:|--------:|
+|1         | 1v6    |2v5    |3v4    |
+|2         | 1v6    |2v4    |3v5    |
+|3         | 1v5    |2v6    |3v4    |
+|4         | 1v5    |2v4    |3v6    |
+|5         | 1v4    |2v6    |3v5    |
+|6         | 1v4    |2v5    |3v6    |
+|7         | 1v6    |2v3    |4v5    |
+|8         | 1v5    |2v3    |4v6    |
+|9         | 1v3    |2v6    |4v5    |
+|10        | 1v3    |2v5    |4v6    |
+|11        | 1v4    |2v3    |5v6    |
+|12        | 1v3    |2v4    |5v6    |
+|13        | 1v2    |3v6    |4v5    |
+|14        | 1v2    |3v5    |4v6    |
+|15        | 1v2    |3v4    |5v6    |
 
 ##### GSL Group
 - Opening Matches
