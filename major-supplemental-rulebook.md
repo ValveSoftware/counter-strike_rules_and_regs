@@ -80,12 +80,12 @@ Teams that earn an invitation for their region (i.e., top 16 teams from the Majo
 
 Additionally, 8 Contender invitations are distributed to regions.
 
-|     Region | Legends | Challengers | Contenders  |
-|-----------:|:-------:|:-----------:|:-----------:|
-|     Europe | --      | --          |             |
-|    America | --      | --          |             |
-|       Asia | --      | --          |             |
-| **Totals** | **8**   | **8**       | **8**       |
+|     Region | Legends | Challengers | Contenders |
+|-----------:|:-------:|:-----------:|:----------:|
+|     Europe | --      | --          | 3          |
+|    America | --      | --          | 3          |
+|       Asia | --      | --          | 2          |
+| **Totals** | **8**   | **8**       | **8**      |
 
 Note that for the purposes of RMR, regions represented by more than 8 teams will be subdivided into groups of 8 or less, so that each group can be resolved with one of the available [RMR formats](#format_rmr).
 
