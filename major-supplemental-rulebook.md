@@ -188,7 +188,7 @@ Individuals (including coaches) that are prohibited from participation in the ev
 
 <a id="format_rmr"></a>
 ### Format [RMR]
-The RMR format for a region is determined by the number of slots for that region. All teams not directly invited due to RMR position are to qualify in through open qualifiers. The formats are as follows:
+The RMR format for a region is determined by the number of slots for that region. All teams not directly invited due to RMR position are to qualify in through [closed qualifiers](#format_closed). The formats are as follows:
 
 - 1-4 invites: 8-team double-elimination bracket
 	
@@ -352,6 +352,20 @@ All Major and RMR events are to use the following map pick-ban process for deter
 1. Team B removes one map
 1. Team A removes one map
 1. Team B chooses starting side on map 3
+
+<a id="format_closed"></a>
+### Format [Closed Qualifier]
+All teams not invited to an RMR due to their position from the prior Major (i.e., Legends) will qualify via closed qualifier. The closed qualifier requirements are as follows:
+- Each region will hold one closed qualifier
+  - The closed qualifier may be held online.
+  - If a region must be subdivided to accommodate ping of participating teams (e.g., AMER -> NA and SA), RMR invitations will be split evenly among the regions. If invitations cannot be evenly split, the remaining invitation(s) will be granted to the subdivided qualifier featuring the team with the highest Regional Standing.
+- The closed qualifier format will follow the RMR format for the corresponding number of teams.
+  - The number of participating regional teams will be, at minimum, twice the number of teams who will advance to the RMR. More teams should be added to accommodate the nearest applicable tournament format.
+- Half of the teams in the closed qualifier will be invited directly based on their [Regional Standing](#Regional-Standing). The other half are to qualify through open qualifiers.
+
+### Regional Standing
+Teams in each Major Region are sorted via an official Regional Standing.
+
 
 ### Seeding
 #### Pre-event Seeding
