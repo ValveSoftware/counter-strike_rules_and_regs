@@ -727,41 +727,41 @@ Final Major Rankings are determined by (in order)
 1. Challengers Stage Difficulty
 1. Initial Seeding
 
-#### Example: 2022 Antwerp
+#### Example: 2022 Rio
 |  # | Team              | Position         | W/L<sub>L</sub> | D<sub>L</sub> | W/L<sub>C</sub> | D<sub>C</sub> | Initial Seeding | Next Major Slot                   |
 |---:|:------------------|:----------------:|:---------------:|:-------------:|:---------------:|:-------------:|:---------------:|:---------------------------------:|
-|  1 | FaZe Clan         | Major Champion   |                 |               |                 |               |                 | EUR1 #1 <br><sub>Legend</sub>     |
-|  2 | Natus Vincere     | Grand-finalist   |                 |               |                 |               |                 | EUR2 #1 <br><sub>Legend</sub>     |
-|  3 | Team Spirit       | Semi-finalist    | 3-0             |               |                 |               |                 | EUR1 #2 <br><sub>Legend</sub>     |
-|  4 | ENCE              | Semi-finalist    | 3-1             |               |                 |               |                 | EUR2 #2 <br><sub>Legend</sub>     |
-|  5 | Ninjas in Pyjamas | Quarter-finalist | 3-1             |               |                 |               |                 | EUR1 #3 <br><sub>Legend</sub>     |
-|  6 | Copenhagen Flames | Quarter-finalist | 3-2             | 3             |                 |               |                 | EUR2 #3 <br><sub>Legend</sub>     |
-|  7 | Heroic            | Quarter-finalist | 3-2             | 0             |                 |               |                 | EUR1 #4 <br><sub>Legend</sub>     |
-|  8 | FURIA             | Quarter-finalist | 3-2             | -1            |                 |               |                 | AMER #1 <br><sub>Legend</sub>     |
-|  9 | G2 Esports        | -                | 2-3             | 2             |                 |               |                 | EUR2 #4 <br><sub>Challenger</sub> |
-| 10 | Team Vitality     | -                | 2-3             | -4            |                 |               |                 | EUR2 #5 <br><sub>Challenger</sub> |
-| 11 | Imperial Esports  | -                | 2-3             | -7            |                 |               |                 | AMER #2 <br><sub>Challenger</sub> |
-| 12 | BIG               | -                | 1-3             | 2             |                 |               |                 | EUR1 #5 <br><sub>Challenger</sub> |
-| 13 | Cloud9            | -                | 1-3             | 1             |                 |               |                 | EUR2 #6 <br><sub>Challenger</sub> |
-| 14 | Outsiders         | -                | 1-3             | -2            |                 |               |                 | EUR1 #6 <br><sub>Challenger</sub> |
-| 15 | Bad News Eagles   | -                | 0-3             | 2             |                 |               |                 | EUR2 #7 <br><sub>Challenger</sub> |
-| 16 | Team Liquid       | -                | 0-3             | 1             |                 |               |                 | AMER #3 <br><sub>Challenger</sub> |
-| 17 | forZe             | -                | -               | -             | 2-3             | 4             |                 | EUR1 #7 <br><sub>Contender</sub>  |
-| 18 | Astralis          | -                | -               | -             | 2-3             | 3             |                 | EUR2 #8 <br><sub>Contender</sub>  |
-| 19 | MIBR              | -                | -               | -             | 2-3             | -3            |                 | AMER #4 <br><sub>Contender</sub>  |
-| 20 | Complexity Gaming | -                | -               | -             | 1-3             | 4             |                 | AMER #5 <br><sub>Contender</sub>  |
-| 21 | Eternal Fire      | -                | -               | -             | 1-3             | -1            |                 | EUR1 #8 <br><sub>Contender</sub>  |
-| 22 | IHC Esports       | -                | -               | -             | 1-3             | -5            |                 | ASIA #1 <br><sub>Contender</sub>  |
-| 23 | 9z Team           | -                | -               | -             | 0-3             | 2             |                 | AMER #6 <br><sub>Contender</sub>  |
-| 24 | Renegades         | -                | -               | -             | 0-3             | -5            |                 | ASIA #2 <br><sub>Contender</sub>  |
+|  1 | Outsiders         | Major Champion   |                 |               |                 |               |                 | EUR1 #1 <br><sub>Legend</sub>     |
+|  2 | Heroic            | Grand-finalist   |                 |               |                 |               |                 | EUR2 #1 <br><sub>Legend</sub>     |
+|  3 | FURIA Esports     | Semi-finalist    | 3-0             |               |                 |               |                 | AMER #1 <br><sub>Legend</sub>     |
+|  4 | MOUZ              | Semi-finalist    | 3-2             |               |                 |               |                 | EUR1 #2 <br><sub>Legend</sub>     |
+|  5 | Cloud9            | Quarter-finalist | 3-0             |               |                 |               |                 | EUR2 #2 <br><sub>Legend</sub>     |
+|  6 | Fnatic            | Quarter-finalist | 3-1             |               |                 |               |                 | EUR1 #3 <br><sub>Legend</sub>     |
+|  7 | Team Spirit       | Quarter-finalist | 3-2             | 0             |                 |               |                 | EUR2 #3 <br><sub>Legend</sub>     |
+|  8 | Natus Vincere     | Quarter-finalist | 3-2             | -3            |                 |               |                 | EUR1 #4 <br><sub>Legend</sub>     |
+|  9 | BIG               | -                | 2-3             | 5             |                 |               |                 | EUR2 #4 <br><sub>Challenger</sub> |
+| 10 | Team Liquid       | -                | 2-3             | 3             |                 |               |                 | AMER #2 <br><sub>Challenger</sub> |
+| 11 | ENCE              | -                | 2-3             | 2             |                 |               |                 | EUR2 #5 <br><sub>Challenger</sub> |
+| 12 | Bad News Eagles   | -                | 1-3             | -2            | 3-0             |               |                 | EUR1 #5 <br><sub>Challenger</sub> |
+| 13 | Team Vitality     | -                | 1-3             | -2            | 3-2             |               |                 | EUR2 #6 <br><sub>Challenger</sub> |
+| 14 | Sprout            | -                | 1-3             | -4            |                 |               |                 | EUR1 #6 <br><sub>Challenger</sub> |
+| 15 | Ninjas in Pyjamas | -                | 0-3             | 2             |                 |               |                 | EUR2 #7 <br><sub>Challenger</sub> |
+| 16 | FaZe Clan         | -                | 0-3             | -1            |                 |               |                 | EUR1 #7 <br><sub>Challenger</sub> |
+| 17 | Team GamerLegion  | -                | -               | -             | 2-3             | 6             |                 | EUR2 #8 <br><sub>Contender</sub>  |
+| 18 | OG                | -                | -               | -             | 2-3             | 0             |                 | EUR1 #8 <br><sub>Contender</sub>  |
+| 19 | 9z Team           | -                | -               | -             | 2-3             | -3            |                 | AMER #3 <br><sub>Contender</sub>  |
+| 20 | Grayhound Gaming  | -                | -               | -             | 1-3             | 3             |                 | ASIA #1 <br><sub>Contender</sub>  |
+| 21 | Evil Geniuses     | -                | -               | -             | 1-3             | 1             |                 | AMER #4 <br><sub>Contender</sub>  |
+| 22 | IHC Esports       | -                | -               | -             | 1-3             | -4            |                 | ASIA #2 <br><sub>Contender</sub>  |
+| 23 | 00 Nation         | -                | -               | -             | 0-3             | 3             |                 | AMER #5 <br><sub>Contender</sub>  |
+| 24 | Imperial Esports  | -                | -               | -             | 0-3             | 1             |                 | EURO #9 <br><sub>Contender</sub>  |
 
-##### Major Invites for Fall 2022
+##### Major Invites for Spring 2023
 |     Region | Legends | Challengers | Contenders  |
 |-----------:|:-------:|:-----------:|:-----------:|
-|   Europe 1 | 4       | 2           |             |
-|   Europe 2 | 3       | 4           |             |
-|    America | 1       | 2           |             |
-|       Asia | -       | -           |             |
+|   Europe 1 | 4       | 3           | 1 (+0.5)    |
+|   Europe 2 | 3       | 4           | 1 (+0.5)    |
+|    America | 1       | 1           | 3           |
+|       Asia | -       | -           | 2           |
 | **Totals** | **8**   | **8**       | **8**       |
 
 <a id="Final-Ranking-RMR"></a>
