@@ -360,7 +360,6 @@ All teams not invited to an RMR due to their position from the prior Major (i.e.
   - The closed qualifier may be held online.
   - If a region must be subdivided to accommodate ping of participating teams (e.g., AMER -> NA and SA), RMR invitations will be split evenly among the regions. If invitations cannot be evenly split, the remaining invitation(s) will be granted to the subdivided qualifier featuring the team with the highest Regional Standing.
 - The closed qualifier format will follow the RMR format for the corresponding number of teams.
-  - The number of participating regional teams will be, at minimum, twice the number of teams who will advance to the RMR. More teams should be added to accommodate the nearest applicable tournament format.
 - Half of the teams in the closed qualifier will be invited directly based on their [Regional Standing](#Regional-Standing). The other half are to qualify through open qualifiers.
 
 ### Regional Standing
