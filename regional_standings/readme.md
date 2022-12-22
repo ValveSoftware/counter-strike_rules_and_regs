@@ -4,7 +4,7 @@ Our goals for the resulting Regional Standings are that they are accurate, not e
 
 ## Regional Standings
 
-We will use the Regional Standings to invite teams in future events, so the ideal model is one that predicts future match results. To that end, the current model incorporates the following factors:
+We will use the Regional Standings to invite teams to future events, so the ideal model is one that predicts future match results. To that end, the current model incorporates the following factors:
 
 1.	Team’s
     -	Prize money earned
@@ -24,7 +24,7 @@ The current standings can be found here:
 -   [Americas](standings_americas.md)
 -   [Asia](standings_asia.md)
 
-## Evaluating the Model.
+## Evaluating the Model
 
 The approach we’re taking to evaluate the accuracy of our model is to measure the relationship between the expected and observed win rates in matches.
 
@@ -36,8 +36,8 @@ Here’s how the expected vs. observed win rates look when we go through this pr
  
 There’s a strong relationship between expected and observed win rates. The correlation between the two (Spearman’s rho in this case) is 0.98. But the slope is shallower than we’d like--in an ideal world, the slope of this line would be closer to 1. The current model tends to underestimate win rates at the low end and overestimate at the high end. 
 
-We think this is a good starting point. 
+We think that this is a good starting point. 
 
 ## Updating and Improving the Model
 
-The model we’re shipping today is the one we will use through the next Major. We’re going to keep experimenting, and we think you should too. After we ship the code and data in this repository, feel free to tinker and make something new. As long as your model does well and fits our goals, we’d be happy to consider it.
+The model we’re shipping today is the one we will use through the next Major. We’re going to keep experimenting, and we think you should too. After we ship the code and data to this repository, feel free to tinker and make something new. As long as your model does well and fits our goals, we’d be happy to consider it.
