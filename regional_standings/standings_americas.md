@@ -100,3 +100,5 @@
 |96|510|Los Grandes Academy| TEKO, mAThx, puni, suNday, perez|
 |97|501|Hawks| Nata, TISAN, BerSeCkaZo, roy, zock|
 |98|492|Hype| kYOShix, MITHPUTTINI, Haz4rt, fokiu, mid1|
+
+_Event data for Regional Standings provided by HLTV.org_

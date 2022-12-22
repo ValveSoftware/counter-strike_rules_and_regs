@@ -43,3 +43,5 @@
 |39|484|CAMO| PeetyG, NikkeZ, bogeymanh, Kobe, CyanideJr|
 |40|478|DNA| k1, KenZ, Gank88, ch1py, 0K1N|
 |41|468|Elemental| tallaj, Reapz, isa1ah, roryyytrc, Word|
+
+_Event data for Regional Standings provided by HLTV.org_

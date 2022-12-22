@@ -173,3 +173,5 @@
 |169|576|PGE Turow| darko, baljs, gRuChA, noise, kadziu|
 |170|499|Ambush| SIXER, devoduvek, wasiNk, Gringo, SoneSb|
 |171|494|WLG| BROKENNN, DESIRE, THE BAD GUY, Panos_jks, ge|
+
+_Event data for Regional Standings provided by HLTV.org_
