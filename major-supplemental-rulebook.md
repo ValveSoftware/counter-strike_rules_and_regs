@@ -567,7 +567,6 @@ occlusion_test_async
 spec_replay_enable
 sv_allow_votes
 sv_allow_wait_command
-sv_clockcorrection_msecs
 sv_dc_friends_reqd
 sv_forcepreload
 sv_hibernate_postgame_delay
