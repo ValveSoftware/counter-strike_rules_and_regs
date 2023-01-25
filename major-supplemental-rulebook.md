@@ -591,7 +591,6 @@ sv_server_graphic2
 sv_steamgroup
 sv_steamgroup_exclusive
 sv_voiceenable
-sv_vote_issue_pause_match_spec_only
 sv_vote_quorum_ratio
 sv_vote_timer_duration
 tv_advertise_watchable
