@@ -1,8 +1,8 @@
 "use strict";
 
 module.exports = {
-    generateRanking: generateRanking,
-    displayRankings: displayRankings,
+    generateRanking,
+    displayRankings,
 }
 
 const RankingContext = require('./ranking_context');
@@ -59,7 +59,7 @@ function displayRankings( teams, regions = [0,1,2] ) {
 
     var dispRank = 0;
     sortedTeams.forEach((t, idx) => {
-		if (t.matchesPlayed >= 5 && regions.some(r => r === t.region) ) {
+	if (t.matchesPlayed >= 5 && regions.some(r => r === t.region) ) {
             let seedModifiers = t.modifiers;
             let seedModifierValue = calculateSeedModifierValue( seedModifiers );
 
