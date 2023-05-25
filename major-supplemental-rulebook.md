@@ -1,7 +1,7 @@
-# The CS:GO Major Series Supplemental Rulebook
+# The CS Supplemental Rulebook
 
 ### Foreword
-The goal of the Major is to bring together the best Counter-Strike players in the world to a LAN setting, provide them an opportunity to claim their title, and to demonstrate to millions of CS:GO players around the world just how high the Counter-Strike skill ceiling is.
+The goal of the Major is to bring together the best Counter-Strike players in the world to a LAN setting, provide them an opportunity to claim their title, and to demonstrate to millions of CS players around the world just how high the Counter-Strike skill ceiling is.
 
 The Major represents the pinnacle of Counter-Strike skill and provides an open invitation for the best in the world to participate regardless of their means or access.
 
@@ -9,7 +9,7 @@ Historically, the rules and requirements for Majors have been communicated publi
 
 This document does not contain all of the rules of the tournament; only the ones we require to be uniform across all Major events. For the complete body of tournament rules for your event, contact the tournament organizer.
 
-If you would like to contact the CS:GO team with questions or comments, feel free to send an email to csgoteamfeedback [at] valvesoftware.com, with the subject #MajorsRule.
+If you would like to contact the CS team with questions or comments, feel free to send an email to csgoteamfeedback [at] valvesoftware.com, with the subject #MajorsRule.
 
 ## Tournament Organizer Obligations
 *What is expected of tournament organizers with respect to this document.*
@@ -131,13 +131,13 @@ Players and teams are required to accept the following agreement (verbatim) in o
 ```!
 1. Rights Release
 
-1.1 (a) “CS:GO” means Counter-Strike: Global Offensive, and future versions thereof. (b) “Likeness” means my appearance, performance, name, biographical information, and statements, and any audio or video depiction produced by me (i) during the CS:GO event, or (ii) provided by me or my team to Valve Corporation (“Valve”) or the event operator. With respect to a team, Likeness also includes team trademarks, logos, or other team intellectual property that the team may decide to provide Valve or the event operator outside of the CS:GO Workshop.
+1.1 (a) “CS” means Counter-Strike, and future versions thereof. (b) “Likeness” means my appearance, performance, name, biographical information, and statements, and any audio or video depiction produced by me (i) during the CS event, or (ii) provided by me or my team to Valve Corporation (“Valve”) or the event operator. With respect to a team, Likeness also includes team trademarks, logos, or other team intellectual property that the team may decide to provide Valve or the event operator outside of the CS Workshop.
 
-1.2 I agree that Valve may use, distribute, and display my Likeness (a) in CS:GO, or (b) in media relating to CS:GO or to a CS:GO event that Valve licenses or sponsors. I agree that Valve will retain these rights for so long as I continue to participate in CS:GO events. I also agree Valve may retain these rights to use, distribute and display my Likeness related to historical CS:GO events forever. 
+1.2 I agree that Valve may use, distribute, and display my Likeness (a) in CS, or (b) in media relating to CS or to a CS event that Valve licenses or sponsors. I agree that Valve will retain these rights for so long as I continue to participate in CS events. I also agree Valve may retain these rights to use, distribute and display my Likeness related to historical CS events forever. 
 
 1.3 I agree that Valve has no obligation to submit to me any material using my Likeness for any further approval and that Valve may edit my Likeness as Valve deems reasonable for the uses permitted by paragraph 1.2. However, Valve is not obligated to make any use of any of the rights set forth in this agreement.
 
-1.4 To the extent Valve and I separately agree to terms governing my Likeness depicted in a submission to the CS:GO Workshop, the agreement(s) regarding the Workshop will apply to the Workshop submission instead of this agreement.  
+1.4 To the extent Valve and I separately agree to terms governing my Likeness depicted in a submission to the CS Workshop, the agreement(s) regarding the Workshop will apply to the Workshop submission instead of this agreement.  
 
 1.5 I warrant and represent that this release does not in any way conflict with any existing commitment on my part. Each team also warrants and represents that its players may make this without any conflict with any existing commitment on to the team or by the team.  
 
@@ -147,7 +147,7 @@ Players and teams are required to accept the following agreement (verbatim) in o
 
 2.1 Teams and players should not have any financial interest in the success of any team that they are competing against. To participate in this Tournament, players and teams are required to affirm that they have no conflict of interest (including any business entanglement such as shared management, shared ownership of entities, licensing, and loans) with any other participating team or its players. 
 
-2.2 I am not currently aware of any conflict of interest that I might have with another participating team or any player on another participating team. If I currently have a conflict of interest or become aware of one over the course of the event, I will immediately provide detail to the CS:GO development team explaining the nature of my relationship with the other party, and a plan for resolving the issue in the future. 
+2.2 I am not currently aware of any conflict of interest that I might have with another participating team or any player on another participating team. If I currently have a conflict of interest or become aware of one over the course of the event, I will immediately provide detail to the CS development team explaining the nature of my relationship with the other party, and a plan for resolving the issue in the future. 
 
 ```
 
@@ -162,7 +162,7 @@ The TO is to collect any Disclosures of Conflicts of Interest that result from [
 
 ### Eligibility
 #### VAC
-The TO will not qualify, nor allow in any qualifying event, any player who has been "Valve Anti-Cheat" banned ("VAC Banned") in CS:GO. Any player who is VAC Banned on any of their accounts must be approved in writing by Valve in order to be eligible to participate in the event. Any team on which a banned player has played during the period starting with the first qualifier and ending with the end of the event, will be banned ("Banned Team"). Valve also reserves the right to disqualify any player, team, broadcaster, commentator, or producer in its sole discretion. The TO will immediately disqualify such person or team upon notice from Valve. 
+The TO will not qualify, nor allow in any qualifying event, any player who has been "Valve Anti-Cheat" banned ("VAC Banned") in CS. Any player who is VAC Banned on any of their accounts must be approved in writing by Valve in order to be eligible to participate in the event. Any team on which a banned player has played during the period starting with the first qualifier and ending with the end of the event, will be banned ("Banned Team"). Valve also reserves the right to disqualify any player, team, broadcaster, commentator, or producer in its sole discretion. The TO will immediately disqualify such person or team upon notice from Valve. 
 Any event winnings by such player or such Banned Team will be forfeit. No player from a Banned Team will be eligible to compete in the event with any other team. 
 
 #### Staffing
@@ -420,7 +420,7 @@ Players can have workshop maps on their competition machines provided that
 
 ### Anti-tampering
 #### Network Restrictions
-Competition PCs are to have no internet access aside from what is minimally required to log in to Steam and CS:GO and run the game.
+Competition PCs are to have no internet access aside from what is minimally required to log in to Steam and CS and run the game.
 
 - Block access to everything and allow only UDP traffic to AS32590 blocks (http://bgp.he.net/AS32590#_prefixes) to avoid any content hosted on 3rd party sites from getting onto the tournament machines. Blocking all non-UDP traffic, primarily TCP access, even to our AS32590 blocks is also required, because our IP ranges still deliver game content, and malicious participants can have game content masquerading as different appid on Steam Greenlight, Early Access, or the Workshop.
 
@@ -438,7 +438,7 @@ Competition PCs are to be secured and managed by event staff and restricted down
 	- **Let us know the Steam account you will be using to author the SSD images** and we will add correct licenses to your Steam account so that you could download all the required assets. Without the correct licenses some players will be unable to launch the game because network restrictions will be blocking downloads of missing assets.
 - Create non-admin Windows account for players and do not distribute admin credentials or access.
 - Set the entire Steam folder to Read-Only access with the exception of the \Steam\logs\ folder which will need write access to update the log files.
-- Create a directory “C:\configs” on each machine and define a system global environment variable USRLOCALCSGO with the value of that directory “C:\configs” (or if each player has their own Windows account that environment variable can have path pointing at player’s roaming profile subdirectory). Players can copy their config.cfg into C:\configs and the game will load and save configs there so you won’t need administrator rights for players to change configs, and Steam CS:GO install can remain read-only.
+- Create a directory “C:\configs” on each machine and define a system global environment variable USRLOCALCSGO with the value of that directory “C:\configs” (or if each player has their own Windows account that environment variable can have path pointing at player’s roaming profile subdirectory). Players can copy their config.cfg into C:\configs and the game will load and save configs there so you won’t need administrator rights for players to change configs, and Steam CS install can remain read-only.
 - Collect a list of required peripheral drivers from players and download them directly from the manufacturer.
 - USB mass storage devices and similar devices should be disabled using the following instructions:
 	- Start > Run > gpedit.msc
@@ -627,9 +627,9 @@ Servers must be configured to submit logs in order for the match results to pres
 ##### Pre-event GOTV Testing
 Below is a step-by-step test to confirm that GOTV and caster camera/audio are working correctly.
 
-1. Get a vanilla CS:GO game server install using SteamCMD >> app_update 740 validate.
+1. Get a vanilla CS game server install using SteamCMD >> app_update 740 validate.
 
-1. Create your game server login token for CS:GO AppID 730 at: https://steamcommunity.com/dev/managegameservers
+1. Create your game server login token for CS AppID 730 at: https://steamcommunity.com/dev/managegameservers
 
 1. Launch the game server using bash on Linux 
 `./srcds_run -debug -game csgo -console +game_type 0 +game_mode 1 +mapgroup mg_dust247 +map de_dust2 -tickrate 128 +sv_setsteamaccount TOKEN_FROM_PREV_STEP +tv_enable 1 -ip 10.10.10.12`
@@ -712,7 +712,7 @@ Servers must be configured to submit logs and data is to be entered for each mat
 1. Provide Valve a Web API key for the Admin account. If you don't have one, create one [here.](https://steamcommunity.com/dev)
 
 #### Before Each Match
-1. Launch CS:GO from the Admin account, click on Watch, and then click on Control Room button. 
+1. Launch CS from the Admin account, click on Watch, and then click on Control Room button. 
 1. Fill out the stage, teams and map for the match about to be played. We suggest formatting the match password as follows: ```teamname1-vs-teamname2-stage-1-of-3-map```
 1. On the server the match is to be played on, set the following convars.
 ```
