@@ -5,7 +5,7 @@
 function remapValueClamped( val, inStart, inEnd, outStart, outEnd )
 {
     const interp = ( inStart === inEnd ) ? 0.5 : ((val - inStart) / (inEnd - inStart));
-    const clamped = Math.max( interp, Math.min( interp, 1 ), 0);
+    const clamped = Math.max( Math.min( interp, 1 ), 0);
     return ( clamped * outEnd + ( 1 - clamped ) * outStart );
 }
 

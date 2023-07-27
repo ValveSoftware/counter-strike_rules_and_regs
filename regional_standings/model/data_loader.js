@@ -155,7 +155,7 @@ class DataLoader
     // with the nth most prize winnings.
     setNthHighest( nth ) { this.rankingContext.setOutlierCount( nth ); }
 
-    loadData()
+    loadData( versionTimestamp = -1 )
     {
         const data = fs.readFileSync( '../data/matchdata.json' );
         const dataJson = JSON.parse( data );
@@ -164,6 +164,7 @@ class DataLoader
         let matches = dataJson.matches;
 
         // Filter matches to only the data we are interested in.
+        this.setTimeFilter( versionTimestamp );
         matches = filterIncompleteMatches( matches );
         const [startTime,endTime] = findTimeWindow( matches, this.filterEndTime, this.filterWindow );
         let graceperiod = 30 * 24 * 3600; // 1 month
@@ -210,4 +211,3 @@ class DataLoader
 }
 
 module.exports = DataLoader;
-

@@ -12,20 +12,22 @@ const Table = require('./table');
 const remapValueClamped = require('./util/remap_value_clamped');
 
 const SEED_MODIFIER_FACTORS = {
-    bounty: 1,
-    selfBounty: 1,
-    opponent: 1,
-    //selfOpponent: 0,
+    bountyCollected: 1,
+    bountyOffered: 1,
+    opponentNetwork: 1,
+    //ownNetwork: 1,
 };
+const MIN_SEEDED_RANK = 400;
+const MAX_SEEDED_RANK = 1000;
 
-function generateRanking()
+function generateRanking( versionTimestamp = -1)
 {
     // Parameters
     const rankingContext = new RankingContext;
     rankingContext.setHveMod(1).setOutlierCount(5);
 
     const dataLoader = new DataLoader( rankingContext );
-    dataLoader.loadData();
+    dataLoader.loadData( versionTimestamp );
 
     let teams = dataLoader.teams;
     let matches = dataLoader.matches;
@@ -60,8 +62,6 @@ function displayRankings( teams, regions = [0,1,2] ) {
     var dispRank = 0;
     sortedTeams.forEach((t, idx) => {
 		if (t.matchesPlayed >= 5 && regions.some(r => r === t.region) ) {
-            let seedModifiers = t.modifiers;
-            let seedModifierValue = calculateSeedModifierValue( seedModifiers );
 
 			dispRank += 1;
             table.addElem( dispRank );
@@ -88,7 +88,7 @@ function seedTeams( glicko, teams ) {
     let maxSeedValue = Math.max( ...teams.map(t => t.seedValue ) );
     
     teams.forEach( team => {
-        team.rankValue = remapValueClamped( team.seedValue, minSeedValue, maxSeedValue, 500, 2000 );
+        team.rankValue = remapValueClamped( team.seedValue, minSeedValue, maxSeedValue, MIN_SEEDED_RANK, MAX_SEEDED_RANK );
 
         // Save off original rank
         team.rankValueSeed = team.rankValue;

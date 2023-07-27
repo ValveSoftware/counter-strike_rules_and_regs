@@ -107,6 +107,9 @@ class Team {
 
     static initializeSeedingModifiers( teams, context )
     {
+        function curveFunction( x ) { return Math.pow( 1 / ( 1 + Math.abs(Math.log10(x)) ), 1 ); }
+        function powerFunction( x ) { return Math.pow( x, 1 ) };
+
         // no work to do
         if( teams.length === 0 )
             return;
@@ -142,6 +145,7 @@ class Team {
             team.eventMap.forEach( teamEvent => {
                 team.scaledPrizePool += teamEvent.getTeamWinnings() * context.getTimestampModifier( teamEvent.event.lastMatchTime );
             } );
+
         } );
 
         // Phase 2 relies on the data from *all* teams in phase 1 being calculated.
@@ -156,34 +160,39 @@ class Team {
         } );
 
         // Phase 3 looks at each team's opponents and rates each team highly if it can regularly win against other prestigous teams.
-        teams.forEach( team => {
-            let sumScaledPrizeContribution = 0;
-            let sumScaledOpponentContribution = 0;
-            let sumScaledDenominator = 1;
-    
-            team.wonMatches.forEach( teamMatch => {
-                let matchModifier = context.getTimestampModifier( teamMatch.match.matchStartTime );
 
-                sumScaledPrizeContribution += teamMatch.opponent.winnings * matchModifier;
-                sumScaledOpponentContribution += teamMatch.opponent.teamsDefeated * matchModifier;
-                sumScaledDenominator += matchModifier;
+        teams.forEach( team => {
+            // Bounties (and your opponents' networks) are 'buckets' that fill up as you win matches.
+            // Bounties/Networks are scaled by the stakes (i.e., prize pool) of the event where they occur and the age of the result
+            // We only consider the top N best outcomes, post-scaling. So there's never any harm in playing in a low-stakes match.
+            let bucketSize = 10;
+            let bounties = [];
+            let network = [];
+
+            team.wonMatches.forEach( teamMatch => {
+                let timestampModifier = context.getTimestampModifier( teamMatch.match.matchStartTime );
+                let prizepool = Math.max(1, teamMatch.team.eventMap.get( teamMatch.match.eventId ).event.prizePool);
+                let stakesModifier = curveFunction( Math.min( prizepool / 1000000, 1 ) ); //prizepool of the event is curved the same as a bounty.
+                let matchModifier = timestampModifier * stakesModifier;
+
+                bounties.push( teamMatch.opponent.winnings * matchModifier );
+                network.push( teamMatch.opponent.teamsDefeated * matchModifier );
             } );
     
-            sumScaledDenominator = Math.max(10,sumScaledDenominator); // in case you don't have much data or it's all very old
-        
-            team.opponentWinnings = sumScaledPrizeContribution / sumScaledDenominator;
-            team.opponentVictories = sumScaledOpponentContribution / sumScaledDenominator;
+            bounties.sort( (a,b) => b - a );
+            team.opponentWinnings = bounties.slice(0,(bucketSize - 1)).reduce( (a,b) => a + b, 0 ) / bucketSize;
+
+            network.sort( (a,b) => b - a );
+            team.opponentVictories = network.slice(0,(bucketSize - 1)).reduce( (a,b) => a + b, 0 ) / bucketSize;
         } );
 
         // Finally, build modifiers from calculated values
-        function curveFunction( x ) { return Math.pow( 1 / ( 1 + Math.abs(Math.log10(x)) ), 1 ); }
-        function powerFunction( x ) { return Math.pow( x, 1 ) };
         
         teams.forEach( team => {
-            team.modifiers.bounty       = curveFunction( team.opponentWinnings );
-            team.modifiers.selfBounty   = curveFunction( team.winnings );
-            team.modifiers.opponent     = powerFunction( team.opponentVictories );
-            team.modifiers.selfOpponent = powerFunction( team.teamsDefeated );
+            team.modifiers.bountyCollected  = curveFunction( team.opponentWinnings );
+            team.modifiers.bountyOffered    = curveFunction( team.winnings );
+            team.modifiers.opponentNetwork  = powerFunction( team.opponentVictories );
+            team.modifiers.ownNetwork       = powerFunction( team.teamsDefeated );
         } );
     }
 }
