@@ -1,99 +1,92 @@
-### Regional Standings for Americas as of 2023-02-12
+### Regional Standings for Americas as of 2023-07-27
 
-| Standing | Points | Team Name            | Roster                                         |
+| Standing | Points | Team Name            | Roster                                          |
 | -: | -: | :- | :- |
-|        1 |   1845 | Liquid               | nitr0, NAF, EliGE, oSee, YEKINDAR              |
-|        2 |   1574 | Complexity           | JT, floppy, hallzerk, Grim, FaNg               |
-|        3 |   1508 | FURIA                | arT, yuurih, KSCERATO, saffee, drop            |
-|        4 |   1413 | MIBR                 | HEN1, exit, Tuurtle, brnz4n, insani            |
-|        5 |   1395 | paiN                 | NEKIZ, hardzao, biguzera, skullz, zevy         |
-|        6 |   1371 | Evil Geniuses        | autimatic, Brehze, neaLaN, wiz, HexT           |
-|        7 |   1345 | Fluxo                | felps, WOOD7, vsm, Lucaozy, history            |
-|        8 |   1316 | Nouns                | cJ, MarKE, cynic, Bwills, nosraC               |
-|        9 |   1307 | EG Black             | RUSH, stanislaw, junior, Walco, jeorgesnorts   |
-|       10 |   1306 | EG White             | Jonji, ben1337, PwnAlone, Momo, viz            |
-|       11 |   1304 | ATK                  | djay, b0denmaster, Swisher, MisteM, Pluto      |
-|       12 |   1279 | TeamOne              | Maluk3, iDk, trk, malbsMd, pesadelo            |
-|       13 |   1251 | Vendetta             | cxzi, consti, chop, silas, Tender              |
-|       14 |   1228 | 00NATION             | coldzera, TACO, dumau, latto, nqz              |
-|       15 |   1217 | Strife               | Snakes, Infinite, aris, reck, J0LZ             |
-|       16 |   1182 | 9z                   | max, dgt, dav1deuS, try, buda                  |
-|       17 |   1171 | Imperial             | FalleN, boltz, chelo, VINI, JOTA               |
-|       18 |   1167 | Sharks               | drg, chay, togs, Gafolo, rdnzao                |
-|       19 |   1159 | FURIA fe             | Olga, GaBi, izaa, bokor, kaah                  |
-|       20 |   1154 | Corinthians          | Demonos, r4ul, voltera, proSHOW, fREQ          |
-|       21 |   1150 | Detonate             | brett, Cryptic, micro, freshie, SLIGHT         |
-|       22 |   1141 | timbermen            | droid, shane, dare, snav, intra                |
-|       23 |   1135 | ARCTIC               | ponter, MaLLby, keiz, ninjaZ, short            |
-|       24 |   1122 | O PLANO              | kNgV-, shz, piriaz1n, lub, decenty             |
-|       25 |   1121 | Flamengo             | zqkS, SHOOWTiME, delboNi, f4stzin, n1ssim      |
-|       26 |   1110 | Paquetá              | DeStiNy, yel, ALLE, nython, venomzera          |
-|       27 |   1109 | FUSION               | KUN, peqexino, christo, guidimon, naz          |
-|       28 |   1092 | INTZ                 | w1, TEKO, Leomonster, desh, BobZ               |
-|       29 |   1090 | B4 fe                | goddess, julih, nani, poppins, yungher         |
-|       30 |   1086 | Meta                 | dok, abr, CutzMeretz, supLexN1, Alisson        |
-|       31 |   1077 | FURIA Academy        | zmb, kauez, kye, Bruninho, mello               |
-|       32 |   1072 | Disconnected         | Swahn, aris, D4rtyMontana, silas, Fr3nk1e      |
-|       33 |   1067 | Limitless            | Makzwell, scar, kmrn, JBa, Grizz               |
-|       34 |   1036 | ODDIK                | remix, naitte, vLa, RICIOLI, r1see             |
-|       35 |   1025 | ex-Isurus            | Noktse, meyern, Luken, deco, luchov            |
-|       36 |   1025 | Mythic               | freakazoid, fl0m, Cooper, hate, Trucklover86   |
-|       37 |   1024 | RED Canids           | realz1n, danoco, detr0ittJ, t9rnay, ckzao      |
-|       38 |   1015 | Fuscão 1500          | DANVIET, nolkz, roz, Lcm, gbb                  |
-|       39 |   1014 | Davenport University | Danejoris, Austin, Pugg, spek, corn            |
-|       40 |   1011 | Eros                 | nooz, Scottiyio, PALADIN, PNDLM, xam           |
-|       41 |   1003 | TropiCaos            | land1n, caike, dzt, mawth, tatazin             |
-|       42 |   1001 | Vendetta             | Momo, consti, WOOHOO, Tender, Pluto            |
-|       43 |    969 | Take Flyte           | zander, Wolffe, Umar, nicx, SummY              |
-|       44 |    946 | Nouns                | JazzPimp, cynic, Bwills, cxzi, jeorgesnorts    |
-|       45 |    940 | Case                 | steel, leo_drk, RCF, yepz, honda               |
-|       46 |    937 | Boca Juniors         | MRN1, lenci, pavv, atarax1a, tomaszin          |
-|       47 |    903 | Noxious              | VulcaN, K4mr0, cypress, FAME, N4hSi            |
-|       48 |    893 | CLG Red              | GooseBreeder, BiBiAhn, uhKelsie, Kaoday, madss |
-|       49 |    885 | 1 JIN                | ayy, LEARSI, Jason, sacrifice, REAL            |
-|       50 |    882 | WINDINGO             | restikk, PREDI, FRANAR, fakzwall, bichop       |
-|       51 |    881 | Red Wolves           | Fatality, CAJUN, sam, Laboom, Locke            |
-|       52 |    876 | DNG                  | NikoM, tom1jed, atarax1a, abizz, zock          |
-|       53 |    856 | SWS                  | lineko, stainzin, bsd, CSO, mxa                |
-|       54 |    851 | Rehl                 | BRNZ1K, DebornY, kurg4n, lukz, gh              |
-|       55 |    850 | EX CINERE            | insane, Livid, AJaxz, PoseidoNN, Beastman      |
-|       56 |    848 | Villainous           | shutout, Alvin, omniscient, tatm, zebra        |
-|       57 |    845 | REIGN                | jchancE, Gabe, CoJoMo, Fugi, mds               |
-|       58 |    841 | Strife               | reck, J0LZ, jitter, SLIGHT, D4rtyMontana       |
-|       59 |    839 | Cartel terraza       | k1Nky, pacmanN, KOT3, Marro, LegenD            |
-|       60 |    839 | Snakes Den           | ChwE, DJF, Pr0mise, Reason, Pat_               |
-|       61 |    837 | Phantom Troupe       | Cryptic, freshie, JTMythic, niise, Florence    |
-|       62 |    826 | X13                  | STRiiDER, Drewtheshrew, Feral, Andrew, Austin  |
-|       63 |    817 | Furious              | Andrew, KAISER, laser, tom1jed, ABM            |
-|       64 |    816 | Orion                | Laboom, Lysander, z0mb1e, Domestic, SopraN     |
-|       65 |    813 | Brazen               | RZU, Danejoris, grape, Fr3nk1e, Pol0           |
-|       66 |    807 | Villainous           | Noxio, shutout, tENSKI, Alvin, BeaKie          |
-|       67 |    804 | Stars Horizon        | lukz, BobZ, UnK, hoax, pigo                    |
-|       68 |    804 | B4                   | realz1n, w1, t9rnay, supLexN1, matios          |
-|       69 |    784 | NO ORG               | bnc, tkl, beg0d, happ, cerolzin                |
-|       70 |    776 | Los Grandes Academy  | puni, hoax, suNday, bks, vinaabEAST            |
-|       71 |    747 | 7AM NA               | SolGoat, AtomiK, TiCx, Drew, Izik              |
-|       72 |    747 | Liberty              | brokeN, mtsGOD, brn$, rdnzao, nyezin           |
-|       73 |    745 | O PLANO              | kNgV-, NEKIZ, yel, caike, piriaz1n             |
-|       74 |    741 | Snakes Den           | Cyrix, Seb, bird, DJF, Lake                    |
-|       75 |    739 | Boca Juniors         | MRN1, elemeNt, lenci, Hezz, alexer             |
-|       76 |    730 | MIBR Academy         | card, lub, beg0d, insani, spinnie              |
-|       77 |    730 | Mystic               | dAVE, Creed, dea, supa, Ethex                  |
-|       78 |    711 | Disconnected         | seziwana, Swahn, ChwE, Munk, D4rtyMontana      |
-|       79 |    701 | EG Gold              | m1lky, Jesscas, garden, PiggyKiki, empathy     |
-|       80 |    698 | Ape Gang             | christo, Yokowow, pavv, andizin, tomaszin      |
-|       81 |    673 | FUSION               | KUN, jotti, BK1, ign, naz                      |
-|       82 |    656 | Unjustified          | Just2EZ, tENSKI, micro, Cyrix, jsfeltner       |
-|       83 |    655 | Mad Kings            | zockie, tor1towOw, Knight, BabyRage, SJR       |
-|       84 |    652 | MIBR Academy         | nak, phx, card, nicks, diozera                 |
-|       85 |    646 | Task Force 141       | Noxio, LEARSI, landmaz, jermanji, Viathan      |
-|       86 |    642 | 9z Academy           | juaniv, relentless, FURQE, ivz, HUASOPEEK      |
-|       87 |    641 | Take Charge          | catez, Talen, Hunter, reham, Sandman           |
-|       88 |    641 | River Plate          | JERUZZZ, maxxkor, guishu, aw0kenn, gon         |
-|       89 |    638 | Take Flyte           | zander, Umar, farg, Penguin, Grizz             |
-|       90 |    629 | Sharks               | jnt, drg, n1ssim, chay, guizin                 |
-|       91 |    531 | Eclipse              | nero, Elk, R2D2J, aleph, shade                 |
-|       92 |    502 | Redragon             | fp1, fetixe, fbz, Timothyo, souz4h             |
-|       93 |    501 | Los Grandes Academy  | TEKO, mAThx, puni, suNday, perez               |
+|        1 |    907 | 9z                   | max, dgt, dav1deuS, try, buda                   |
+|        2 |    853 | MIBR                 | HEN1, exit, Tuurtle, brnz4n, insani             |
+|        3 |    819 | Sharks               | drg, togs, Gafolo, rdnzao, doc                  |
+|        4 |    798 | BESTIA               | Noktse, meyern, deco, luchov, tomaszin          |
+|        5 |    781 | Imperial             | HEN1, boltz, felps, VINI, JOTA                  |
+|        6 |    774 | Nouns                | cJ, MarKE, Bwills, stamina, nosraC              |
+|        7 |    763 | paiN                 | NEKIZ, hardzao, biguzera, skullz, zevy          |
+|        8 |    762 | 00NATION             | coldzera, NEKIZ, dumau, latto, nqz              |
+|        9 |    746 | FURIA                | FalleN, chelo, arT, yuurih, KSCERATO            |
+|       10 |    744 | M80                  | malbsMd, WolfY, maNkz, Swisher, reck            |
+|       11 |    715 | Evil Geniuses        | autimatic, junior, Walco, HexT, Jeorge          |
+|       12 |    712 | FURIA Academy        | zmb, kauez, kye, Bruninho, mello                |
+|       13 |    711 | Wildcard             | brett, Cryptic, freshie, SLIGHT, d4rty          |
+|       14 |    689 | Paquetá              | DeStiNy, hardzao, nython, short, venomzera      |
+|       15 |    688 | ODDIK                | remix, naitte, vLa, RICIOLI, r1see              |
+|       16 |    682 | Complexity           | EliGE, JT, floppy, hallzerk, Grim               |
+|       17 |    677 | ARCTIC               | ponter, MaLLby, keiz, short, lux                |
+|       18 |    677 | Boca Juniors         | lenci, pavv, BK1, nacho, atarax1a               |
+|       19 |    674 | ATK                  | djay, b0denmaster, Swisher, MisteM, reck        |
+|       20 |    671 | Strife               | motm, Infinite, stamina, CLASIA, d4rty          |
+|       21 |    663 | Solid                | DANVIET, nolkz, Lcm, gbb, xureba                |
+|       22 |    653 | Fluxo                | felps, WOOD7, vsm, Lucaozy, history             |
+|       23 |    652 | Party Astronauts     | ben1337, PwnAlone, chop, silas, spek            |
+|       24 |    645 | O PLANO              | kNgV-, SHOOWTiME, shz, piriajr, decenty         |
+|       25 |    644 | paiN Academy         | cass1n, nyezin, souz4h, xureba, paqueta         |
+|       26 |    632 | Sojoga               | land1n, mawth, tatazin, CSO, Faraó              |
+|       27 |    626 | Rocket               | droid, nero, WOOHOO, Elk, aleph                 |
+|       28 |    621 | B4 fe                | goddess, julih, nani, poppins, yungher          |
+|       29 |    619 | W7M                  | zede, fokiu, jz, stormzyn, saadzin              |
+|       30 |    618 | FlyQuest RED         | GooseBreeder, BiBiAhn, uhKelsie, Kaoday, madss  |
+|       31 |    615 | WITHOUT WARNING      | Spongey, J0LZ, consti, Tender, Pluto            |
+|       32 |    615 | FLUFFY AIMERS        | LEARSI, dea, Jason, sacrifice, Peeping          |
+|       33 |    609 | Strife               | Snakes, Infinite, aris, stamina, J0LZ           |
+|       34 |    599 | Black Dragons fe     | cAmyy, Le, annaEX, s1non, Babs                  |
+|       35 |    598 | RED Canids           | realz1n, danoco, detr0ittJ, t9rnay, ckzao       |
+|       36 |    594 | Shimmer              | vanessa, empathy, Lx, lisa, abby                |
+|       37 |    592 | Meta                 | abr, Leomonster, CutzMeretz, supLexN1, Alisson  |
+|       38 |    591 | LRV                  | reversive, 1962, christo, tom1jed, zock         |
+|       39 |    587 | Flamengo             | zqkS, SHOOWTiME, delboNi, f4stzin, n1ssim       |
+|       40 |    584 | TeamOne              | Maluk3, iDk, trk, malbsMd, pesadelo             |
+|       41 |    583 | Detonate SparX       | Bouchard, sapphire, Andrea, Kionetta, Chowdzz   |
+|       42 |    580 | ex-Snakes Den        | Wolffe, Cyrix, arcade, Seb, Lake                |
+|       43 |    577 | FURIA fe             | gabs, GaBi, izaa, bokor, kaah                   |
+|       44 |    573 | Vendetta             | cxzi, consti, chop, silas, Tender               |
+|       45 |    573 | The Union            | jnt, hoax, koala, happ, rainny                  |
+|       46 |    573 | ODDIK                | WOOD7, Tuurtle, naitte, matios, r1see           |
+|       47 |    569 | Evil Geniuses        | autimatic, Brehze, refrezh, neaLaN, wiz         |
+|       48 |    568 | BeBold               | bnc, tkl, beg0d, leleo, cerolzin                |
+|       49 |    567 | WINDINGO             | restikk, PREDI, fakzwall, bichop, righi         |
+|       50 |    565 | EG White             | Jonji, ben1337, PwnAlone, Momo, viz             |
+|       51 |    562 | yur                  | reck, jitter, walker, CLASIA, d4rty             |
+|       52 |    554 | INTZ                 | w1, Leomonster, desh, bobz, lub                 |
+|       53 |    554 | EG Gold              | m1lky, jesscas, garden, PiggyKiki, 7licious     |
+|       54 |    552 | Take Flyte           | zanz, Wolffe, Umar, hyza, nicx                  |
+|       55 |    542 | the jungle           | nooz, shutout, scar, PALADIN, PNDLM             |
+|       56 |    541 | timbermen            | droid, shane, dare, snav, intra                 |
+|       57 |    540 | Corinthians          | Demonos, r4ul, proSHOW, fREQ, agR               |
+|       58 |    531 | ex-BHOP              | micro, jsfeltner, Drewtheshrew, Andrew, Penguin |
+|       59 |    529 | Case                 | steel, RCF, yepz, Snowzin, honda                |
+|       60 |    529 | 9z Academy           | relentless, ivz, PABLEK, HUASOPEEK, rzk         |
+|       61 |    528 | W7M fe               | ujliana, Samys, hera, mari, brunakiller         |
+|       62 |    526 | MIBR fe              | khizha, chjna, REGIANE, ferzy, yodinha2k        |
+|       63 |    519 | Saints               | olya, buhnny, sckrafft, katalyyst, Sinxysinxy   |
+|       64 |    515 | ENDGAME              | n4mie, luhflickzz, Vi, tata, Sofiaxyz           |
+|       65 |    513 | Reason               | walker, grape, JDubs, BeaKie, hyza              |
+|       66 |    511 | Davenport University | Danejoris, Austin, Pugg, corn, RiFT             |
+|       67 |    510 | LRV fe               | BunnyAzul, lulitenz, maru, valulu, Luulu4k      |
+|       68 |    509 | OMiT                 | Gabe, CoJoMo, xaler, mds, Sandman               |
+|       69 |    509 | Tsunami              | Magic, dAVE, dea, supa, Ethex                   |
+|       70 |    507 | FUSION               | KUN, peqexino, guidimon, naz, rzk               |
+|       71 |    506 | Starfish             | mchy, Tippy, yoshiloo, kichu, Shivanee          |
+|       72 |    505 | Take Flyte           | Nifty, Umar, xCAPE, nicx, corn                  |
+|       73 |    504 | Furious              | Andrew, KAISER, laser, ABM, fusco               |
+|       74 |    503 | Factor Ruby          | PippySippy, MamaAlien, Hailey, Reef, jaydee     |
+|       75 |    495 | AJF                  | DebornY, pigo, watts, mxa, urban0               |
+|       76 |    487 | FakeMythic           | fl0m, tweiss, hate, Pol0, Trucklover86          |
+|       77 |    481 | MIBR Academy         | bobz, card, brn$, nicks, diozera                |
+|       78 |    476 | Limitless            | Makzwell, kmrn, Grizz, corn, Locke              |
+|       79 |    471 | 7AM NA               | SolGoat, TiCx, Mellow, Izik, corn               |
+|       80 |    459 | Desorganizados       | nacho, abizz, Hezz, alexer, righi               |
+|       81 |    459 | River Plate          | minimal, guidimon, abizz, Hezz, naz             |
+|       82 |    457 | Cartel terraza       | k1Nky, pacmanN, KOT3, Marro, LegenD             |
+|       83 |    449 | 4ORMULA              | Nifty, Louie, JDubs, Drew, Pol0                 |
+|       84 |    445 | ex-Villainous        | Noxio, shutout, tENSKI, Alvin, BeaKie           |
+|       85 |    434 | Noxious              | VulcaN, K4mr0, cypress, FAME, N4hSi             |
+|       86 |    356 | Hype                 | MITHPUTTINI, hazart, mid1, spinnie, max         |
 
 _Event data for Regional Standings provided by HLTV.org_
