@@ -263,8 +263,12 @@ var regionMap = [
 ];
 
 function getCountryRegion( playerCountry ){
+    let record = regionMap.find( el => el.countrycode.toLowerCase() === playerCountry.toLowerCase() );
+    
+    if (!record) {
+        throw new Error( `Country region could not be found for ${playerCountry}` );
+    }
 
-    let record = regionMap.filter( el => el.countrycode.toLowerCase() === playerCountry.toLowerCase() )[0];
     let region = record.region;
 
     if ( region === 'EU' ){
