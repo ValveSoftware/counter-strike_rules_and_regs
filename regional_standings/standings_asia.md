@@ -41,7 +41,7 @@
 |       37 |    451 | Mindfreak              | tucks, Forleks, isa1ah, Word, chief          |
 |       38 |    446 | ParisDemons            | tanxiaomei, Roninbaby, Gin, BZA, zltan       |
 |       39 |    441 | Kintsugi               | Veccil, Efire, AccuracyTG, Wonderzce, Paine  |
-|       40 |    397 | KZG                    | Hassie, Samuukxs, Jombo, KZXL, pain          |
+|       40 |    397 | KZG                    | KZXL, Hassie, Samuukxs, MSK, pain          |
 |       41 |    396 | Invictus International | DavCost, facecrack, m1N1, meztal, MOREE      |
 
 _Event data for Regional Standings provided by HLTV.org_
