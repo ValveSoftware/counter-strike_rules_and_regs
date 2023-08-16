@@ -15,7 +15,8 @@ const SEED_MODIFIER_FACTORS = {
     bountyCollected: 1,
     bountyOffered: 1,
     opponentNetwork: 1,
-    //ownNetwork: 1,
+    ownNetwork: 0,
+    lanFactor: .5
 };
 const MIN_SEEDED_RANK = 400;
 const MAX_SEEDED_RANK = 1000;
@@ -55,7 +56,7 @@ function displayRankings( teams, regions = [0,1,2] ) {
     let sortedTeams = [...teams].sort((a, b) => b.rankValue - a.rankValue);
 
     table.addNumericColumn( 'Standing' );
-    table.addNumericColumn( 'Points' ).setPrecision(0)
+    table.addNumericColumn( 'Points' ).setPrecision(0);
     table.addColumn( 'Team Name' ).setMinWidth(12);
     table.addColumn( 'Roster' );
 

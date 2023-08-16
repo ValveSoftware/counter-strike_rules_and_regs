@@ -121,6 +121,7 @@ class Team {
             team.lastPlayed = Math.max( ...team.teamMatches.map( teamMatch => teamMatch.match.matchStartTime ) );
             team.distinctTeamsDefeated = 0;
             team.scaledPrizePool = 0;
+            team.lanWins = 0;
 
             // Calculate the most recent match against each opponent
             // We are going to use this to discount the prestige factor if you haven't defeated a team recently.
@@ -146,17 +147,24 @@ class Team {
                 team.scaledPrizePool += teamEvent.getTeamWinnings() * context.getTimestampModifier( teamEvent.event.lastMatchTime );
             } );
 
+            // Also calculate wins on LAN
+            team.wonMatches.forEach( wonMatch => {
+                let lan = wonMatch.team.eventMap.get( wonMatch.match.eventId ).event.lan;
+                team.lanWins += ( lan ? 1 : 0 ) * context.getTimestampModifier( wonMatch.match.matchStartTime );
+            })
         } );
 
         // Phase 2 relies on the data from *all* teams in phase 1 being calculated.
         // we want to know relative data -- such as whether this team's winnings are representative
         // of the top teams in the world, or if a team has beaten a typical number of opponents.
-        let referencePrizePool     = nthHighest( teams.map( t => t.scaledPrizePool ), context.getPrizePoolNth() );
-        let referenceOpponentCount = nthHighest( teams.map( t => t.distinctTeamsDefeated ), context.getDistinctOpponentNth() );
+        let referencePrizePool     = nthHighest( teams.map( t => t.scaledPrizePool ), context.getOutlierCount() );
+        let referenceOpponentCount = nthHighest( teams.map( t => t.distinctTeamsDefeated ), context.getOutlierCount() );
+        let referenceLanWins       = nthHighest( teams.map( t => t.lanWins ), context.getOutlierCount() );
 
         teams.forEach( team => {
             team.winnings = Math.min( team.scaledPrizePool / referencePrizePool, 1 );
             team.teamsDefeated = Math.min( team.distinctTeamsDefeated / referenceOpponentCount, 1 );
+            team.lanParticipation = Math.min( team.lanWins / referenceLanWins, 1 );
         } );
 
         // Phase 3 looks at each team's opponents and rates each team highly if it can regularly win against other prestigous teams.
@@ -193,6 +201,7 @@ class Team {
             team.modifiers.bountyOffered    = curveFunction( team.winnings );
             team.modifiers.opponentNetwork  = powerFunction( team.opponentVictories );
             team.modifiers.ownNetwork       = powerFunction( team.teamsDefeated );
+            team.modifiers.lanFactor        = powerFunction( team.lanParticipation );
         } );
     }
 }
