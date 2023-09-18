@@ -1,0 +1,24 @@
+{
+  "name": "valve-st",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf build && rimraf output",
+    "build": "npm run clean && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blastorg/valve-standings-tooling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blastorg/valve-standings-tooling/issues"
+  },
+  "homepage": "https://github.com/blastorg/valve-standings-tooling#readme",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.414.0",
+    "zod": "^3.22.2"
+  }
+}
