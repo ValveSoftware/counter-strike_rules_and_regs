@@ -1,7 +1,8 @@
 "use strict";
 
 const Ranking = require('./ranking');
-const RegionList = ['Europe', 'Americas', 'Asia'];
+const RegionList = ['Europe-Central', 'Europe-East' 'US-East', 'US-West', 'US-North', 'Asia-East','Asia-West'];
+
 
 function run()
 {
@@ -18,7 +19,8 @@ function run()
     // format date as YYYY-MM-DD
     let d = new Date( 0 );
     d.setUTCSeconds( mostRecentMatch );
-    let strDate = d.toLocaleString( 'fr-CA', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'America/Los_Angeles' } );
+    
+    let strDate = d.toLocaleString( 'fr-CA', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'UTC+2' } );
 
     // Get the region we are doing standings for
     let standings = 'Standings';
