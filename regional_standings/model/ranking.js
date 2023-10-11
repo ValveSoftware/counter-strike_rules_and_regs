@@ -62,7 +62,7 @@ function displayRankings( teams, regions = [0,1,2] ) {
 
     var dispRank = 0;
     sortedTeams.forEach((t, idx) => {
-		if (t.matchesPlayed >= 5 && regions.some(r => r === t.region) ) {
+		if (t.matchesPlayed >= 10 && regions.some(r => r === t.region) ) {
 
 			dispRank += 1;
             table.addElem( dispRank );
