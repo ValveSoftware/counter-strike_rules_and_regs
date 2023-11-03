@@ -188,10 +188,10 @@ class Team {
             } );
     
             bounties.sort( (a,b) => b - a );
-            team.opponentWinnings = bounties.slice(0,(bucketSize - 1)).reduce( (a,b) => a + b, 0 ) / bucketSize;
+            team.opponentWinnings = bounties.slice(0,bucketSize).reduce( (a,b) => a + b, 0 ) / bucketSize;
 
             network.sort( (a,b) => b - a );
-            team.opponentVictories = network.slice(0,(bucketSize - 1)).reduce( (a,b) => a + b, 0 ) / bucketSize;
+            team.opponentVictories = network.slice(0,bucketSize).reduce( (a,b) => a + b, 0 ) / bucketSize;
         } );
 
         // Finally, build modifiers from calculated values
