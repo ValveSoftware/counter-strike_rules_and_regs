@@ -16,10 +16,10 @@ const SEED_MODIFIER_FACTORS = {
     bountyOffered: 1,
     opponentNetwork: 1,
     ownNetwork: 0,
-    lanFactor: .5
+    lanFactor: 1
 };
 const MIN_SEEDED_RANK = 400;
-const MAX_SEEDED_RANK = 1000;
+const MAX_SEEDED_RANK = 2000;
 
 function generateRanking( versionTimestamp = -1)
 {
