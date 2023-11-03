@@ -40,12 +40,11 @@ Major invites are sent to the core lineup (not including a substitute) who earne
 A team cannot adjust their core lineup between the RMR and the Major. However, they can register a different coach or substitute player.
 
 The Major features 24 teams
-- 8 teams are invited as Legends, to enter the Major in the Legends Stage.
-- 8 teams are invited as Challengers, to enter the Major in the Challengers Stage.
-- 8 teams are invited as Contenders, to also enter the Major in the Challengers Stage.
+- 16 teams are invited to enter the Major in the Opening stage.
+- 8 teams receive Opening Stage byes and are invited directly to the Elimination stage.
 
 #### Invitations [RMR]
-RMR invites are sent to teams of three or more members of the core lineup who participated in the Legends Stage of the previous Major.
+RMR invites are sent to teams of three or more members of the core lineup who participated in the Elimination Stage of the previous Major.
 
 #### World Regions
 Separating world-wide competition into regions that allow players to compete with low latency is important to measure skill on a level playing field.
@@ -72,20 +71,20 @@ In the case of players that don't belong to one of the 3 regions (Europe, Asia, 
 If all players are from another region, then they can choose any region.
 
 #### Regional Representation
-The number of teams invited from each region depends on the performance of that region in the preceding Major. Legends and Challengers invitations are allocated according to the number of teams from the region that earned their respective position in the Major:
-- One Legends invitation is assigned to the region for every team of that region that reached the Champions stage of the previous Major.
-- One Challengers invitation is assigned to the region for every team of that region that reached the Legends stage of the previous Major.
+The number of teams invited from each region depends on the performance of that region in the preceding Major. Opening and Elimination Stage invitations are allocated according to the number of teams from the region that earned their respective position in the Major:
+- One Opening stage invitation is assigned to the region for every team of that region that reached the Elimination stage of the previous Major.
+- One Elimination stage invitation is assigned to the region for every team of that region that reached the Playoff stage of the previous Major.
 
 Teams that earn an invitation for their region (i.e., top 16 teams from the Major) are given a chance to defend their regional invitation at the following RMR. If a team is able to--and opts to--play in a different region, their previous region loses an invitation and their new region gains an invitation. In other words, teams that change regions take their invites with them.
 
-Additionally, 8 Contender invitations are distributed to regions.
+Additionally, 8 Opening stage invitations are distributed to regions.
 
-|     Region | Legends | Challengers | Contenders |
-|-----------:|:-------:|:-----------:|:----------:|
-|     Europe | --      | --          | 3          |
-|    America | --      | --          | 3          |
-|       Asia | --      | --          | 2          |
-| **Totals** | **8**   | **8**       | **8**      |
+|     Region | Additional Opening Stage Invitations |
+|-----------:|:----------:|
+|     Europe | 3          |
+|    America | 3          |
+|       Asia | 2          |
+| **Totals** | **8**      |
 
 Note that for the purposes of RMR, regions represented by more than 8 teams will be subdivided into groups of 8 or less, so that each group can be resolved with one of the available [RMR formats](#format_rmr).
 
@@ -172,19 +171,18 @@ Individuals (including coaches) that are prohibited from participation in the ev
 *Rules, procedures, and definitions that pertain to the format and structure of the competition.*
 
 <a id="Structure"></a>
+
 ### Format [Major]
 
-1. Challengers Stage
+1. Opening Stage
     - Swiss bracket 
     - 16 Teams
-    - All Contenders and Challengers
-1. Legends Stage
+1. Elimination Stage
     - Swiss bracket 
     - 16 Teams
-    - Top 8 from the Challengers Stage and all 8 Legends.
-1. Champions Stage
+1. Playoffs Stage
     - Single elimination bracket
-    - Top 8 from the Legends Stage
+    - Top 8 from the Elimination Stage
 
 <a id="format_rmr"></a>
 ### Format [RMR]
@@ -198,7 +196,7 @@ The RMR format for a region is determined by the number of slots for that region
 	
 	Best of 3: Decider matches (e.g., matches where a team reaches their third win or third loss).
 	
-	At times, it will be necessary to identify Legends and/or Contenders among a group of teams with identical records. In that case the following process should be used to separate them:
+	At times, it will be necessary to determine Opening or Elimination Stage invitations among a group of teams with identical records. In that case the following process should be used to separate them:
 	
 		1 team: one of the two 3-0 teams.
 		- The two 3-0 teams play a best of 3 and the loser is eliminated.
@@ -270,21 +268,20 @@ The resulting groups are:
 | Avg. Strength = 8.5 | Avg. Strength = 8.5 |
 
 #### Step 2: Assign Qualifying Teams to Groups
-Within each RMR, the highest-ranked invited teams are paired with the lowest-ranked qualifying teams. 
-    
+All Invited and Qualified Teams are first sorted by [Regional Standing](#Regional-Standing), and then assigned to their corresponding RMR (e.g., the highest-ranked EUR team is assigned to slot 1 in the EUR 1 RMR). Within each RMR, the highest-ranked teams are paired with the lowest-ranked teams.     
 
-E.g., In opening matches, the top-ranked EUR1 team would be paired with the lowest-ranked qualifying opponent. 
+E.g., With two 16-team RMRs, the EUR regional teams would be assigned as follows: 
 
-|     Eur 1 |     Eur 2 |
+|     EUR 1 |     EUR 2 |
 |----------:|----------:|
-| 1  vs. 32 | 2  vs. 31 |
-| 3  vs. 30 | 4  vs. 29 |
-| 5  vs. 28 | 6  vs. 27 |
-| 7  vs. 26 | 8  vs. 25 |
-| 10 vs. 24 | 9  vs. 23 |
-| 12 vs. 22 | 11 vs. 21 |
-| 14 vs. 20 | 13 vs. 19 |
-| 16 vs. 18 | 15 vs. 17 |
+| 1  and 32 | 2  and 31 |
+| 3  and 30 | 4  and 29 |
+| 5  and 28 | 6  and 27 |
+| 7  and 26 | 8  and 25 |
+| 10 and 24 | 9  and 23 |
+| 12 and 22 | 11 and 21 |
+| 14 and 20 | 13 and 19 |
+| 16 and 18 | 15 and 17 |
 
 ##### Swiss Bracket
 - Teams play against opponents of identical W-L record.
@@ -292,7 +289,7 @@ E.g., In opening matches, the top-ranked EUR1 team would be paired with the lowe
 - All elimination and advancement matches are to be best of three.
 - All other matches are to be best of one.
 - Teams are not to play the same opponent twice in the same stage, if possible.
-- Matchups shall be determined by [seed](#seeding). In round 3, the highest seeded team faces the lowest seeded team available that does not result in a rematch within the stage. In other rounds, refer to the following table and select the top-most row that does not result in a rematch:
+- Matchups shall be determined by [seed](#seeding). The first round follows the [Initial Matchups](#Initial-Matchups). In round 2 and 3, the highest seeded team faces the lowest seeded team available that does not result in a rematch within the stage. In other rounds, refer to the following table and select the top-most row that does not result in a rematch:
 
 | Priority |  |  |  |
 |:--------:|--------:|--------:|--------:|
@@ -311,6 +308,20 @@ E.g., In opening matches, the top-ranked EUR1 team would be paired with the lowe
 |13        | 1v2    |3v6    |4v5    |
 |14        | 1v2    |3v5    |4v6    |
 |15        | 1v2    |3v4    |5v6    |
+
+<a id="Initial-Matchups"></a>
+##### Initial Swiss Matchups
+Matchups for the first round of the Swiss format are as follows:
+|   Swiss Round 1 |
+|----------:|
+| 1  vs. 9  |
+| 2  vs. 10 |
+| 3  vs. 11 |
+| 4  vs. 12 |
+| 5 vs. 13  |
+| 6 vs. 14  |
+| 7 vs. 15  |
+| 8 vs. 16  |
 
 ##### Double Elimination Bracket
 - Opening Matches
@@ -355,7 +366,7 @@ All Major and RMR events are to use the following map pick-ban process for deter
 
 <a id="format_closed"></a>
 ### Format [Closed Qualifier]
-All teams not invited to an RMR due to their position from the prior Major (i.e., Legends) will qualify via closed qualifier. The closed qualifier requirements are as follows:
+All teams not invited to an RMR due to their position from the prior Major (i.e., the top 16 teams at that event) will qualify via closed qualifier. The closed qualifier requirements are as follows:
 - Each region will hold one closed qualifier
   - The closed qualifier may be held online.
   - If a region must be subdivided to accommodate ping of participating teams (e.g., AMER -> NA and SA), RMR invitations will be split evenly among the regions. If invitations cannot be evenly split, the remaining invitation(s) will be granted to the subdivided qualifier featuring the team with the highest Regional Standing.
@@ -365,24 +376,25 @@ All teams not invited to an RMR due to their position from the prior Major (i.e.
 ### Regional Standing
 Teams in each Major Region are sorted via an official Regional Standing.
 
-
+<a id="seeding"></a>
 ### Seeding
+<a id="Pre-event-Seeding"></a>
 #### Pre-event Seeding
-Coming into the event, all 24 teams are seeded based on the [Next Major Slot](#Final-Rankings-Major) from the prior Major.
+Coming into the event, all 24 teams are sorted based on their current [Regional Standing](#Regional-Standing), and assigned to a slot corresponding to the [Next Major Slot](#Final-Rankings-Major).
 
 #### Stage Seeding
-* Challengers Stage: 
+* Opening Stage: 
 	* All teams will use their [pre-event seed](#Pre-event-Seeding).
 
-* Legends Stage: 
+* Elimination Stage: 
 	* The top 8 teams will use their [pre-event seed](#Pre-event-Seeding).
-	* The bottom 8 teams will use their final seed from the Challengers stage (see [Mid-stage Seed Calculation](#Mid-Stage-Seed-Calculation)).
+	* The bottom 8 teams will use their final seed from the Opening stage (see [Mid-stage Seed Calculation](#Mid-Stage-Seed-Calculation)).
 
-* Champions Stage:
-	* All teams will use their final seed from the Legends stage (see [Mid-stage Seed Calculation](#Mid-stage-Seed-Calculation)).
+* Playoff Stage:
+	* All teams will use their final seed from the Elimination stage (see [Mid-stage Seed Calculation](#Mid-stage-Seed-Calculation)).
 
 ##### Mid-stage Seed Calculation
-For all Swiss matchups (e.g., the Challengers and Legends stage, and Swiss RMR formats), after the initial matches, seed is determined (in order) by:
+For all Swiss matchups (e.g., the Opening and Elimination stage, and Swiss RMR formats), after the initial matches, seed is determined (in order) by:
 1. Current W-L record in the stage
 1. [Difficulty Score](#Difficulty-score) in the current stage
 1. Initial seeding of the current stage
@@ -490,10 +502,6 @@ All server convars are to be set to competitive defaults (cfg/gamemode_competiti
 
 - The following convars are to be set as such:
 ```
-sv_minupdaterate                                       128
-sv_maxupdaterate                                       128
-tv_snapshotrate                                        128
-tv_snapshotrate1                                       128
 tv_enable                                              1
 tv_enable1                                             1
 tv_dispatchmode                                        0
@@ -734,48 +742,49 @@ Return to the Control Room and click the `SAVE FINAL SCORE` button. This will cl
 
 Final Major Rankings are determined by (in order) 
 1. Position in Champions Stage
-1. Legends Stage W-L record 
-1. Legends Stage Difficulty
-1. Challengers Stage W-L record
-1. Challengers Stage Difficulty
+1. Elimination Stage W-L record 
+1. Elimination Stage Difficulty
+1. Opening Stage W-L record
+1. Opening Stage Difficulty
 1. Initial Seeding
 
 #### Example: 2022 Rio
 |  # | Team              | Position         | W/L<sub>L</sub> | D<sub>L</sub> | W/L<sub>C</sub> | D<sub>C</sub> | Initial Seeding | Next Major Slot                   |
 |---:|:------------------|:----------------:|:---------------:|:-------------:|:---------------:|:-------------:|:---------------:|:---------------------------------:|
-|  1 | Outsiders         | Major Champion   |                 |               |                 |               |                 | EUR1 #1 <br><sub>Legend</sub>     |
-|  2 | Heroic            | Grand-finalist   |                 |               |                 |               |                 | EUR2 #1 <br><sub>Legend</sub>     |
-|  3 | FURIA Esports     | Semi-finalist    | 3-0             |               |                 |               |                 | AMER #1 <br><sub>Legend</sub>     |
-|  4 | MOUZ              | Semi-finalist    | 3-2             |               |                 |               |                 | EUR1 #2 <br><sub>Legend</sub>     |
-|  5 | Cloud9            | Quarter-finalist | 3-0             |               |                 |               |                 | EUR2 #2 <br><sub>Legend</sub>     |
-|  6 | Fnatic            | Quarter-finalist | 3-1             |               |                 |               |                 | EUR1 #3 <br><sub>Legend</sub>     |
-|  7 | Team Spirit       | Quarter-finalist | 3-2             | 0             |                 |               |                 | EUR2 #3 <br><sub>Legend</sub>     |
-|  8 | Natus Vincere     | Quarter-finalist | 3-2             | -3            |                 |               |                 | EUR1 #4 <br><sub>Legend</sub>     |
-|  9 | BIG               | -                | 2-3             | 5             |                 |               |                 | EUR2 #4 <br><sub>Challenger</sub> |
-| 10 | Team Liquid       | -                | 2-3             | 3             |                 |               |                 | AMER #2 <br><sub>Challenger</sub> |
-| 11 | ENCE              | -                | 2-3             | 2             |                 |               |                 | EUR2 #5 <br><sub>Challenger</sub> |
-| 12 | Bad News Eagles   | -                | 1-3             | -2            | 3-0             |               |                 | EUR1 #5 <br><sub>Challenger</sub> |
-| 13 | Team Vitality     | -                | 1-3             | -2            | 3-2             |               |                 | EUR2 #6 <br><sub>Challenger</sub> |
-| 14 | Sprout            | -                | 1-3             | -4            |                 |               |                 | EUR1 #6 <br><sub>Challenger</sub> |
-| 15 | Ninjas in Pyjamas | -                | 0-3             | 2             |                 |               |                 | EUR2 #7 <br><sub>Challenger</sub> |
-| 16 | FaZe Clan         | -                | 0-3             | -1            |                 |               |                 | EUR1 #7 <br><sub>Challenger</sub> |
-| 17 | Team GamerLegion  | -                | -               | -             | 2-3             | 6             |                 | EUR2 #8 <br><sub>Contender</sub>  |
-| 18 | OG                | -                | -               | -             | 2-3             | 0             |                 | EUR1 #8 <br><sub>Contender</sub>  |
-| 19 | 9z Team           | -                | -               | -             | 2-3             | -3            |                 | AMER #3 <br><sub>Contender</sub>  |
-| 20 | Grayhound Gaming  | -                | -               | -             | 1-3             | 3             |                 | ASIA #1 <br><sub>Contender</sub>  |
-| 21 | Evil Geniuses     | -                | -               | -             | 1-3             | 1             |                 | AMER #4 <br><sub>Contender</sub>  |
-| 22 | IHC Esports       | -                | -               | -             | 1-3             | -4            |                 | ASIA #2 <br><sub>Contender</sub>  |
-| 23 | 00 Nation         | -                | -               | -             | 0-3             | 3             |                 | AMER #5 <br><sub>Contender</sub>  |
-| 24 | Imperial Esports  | -                | -               | -             | 0-3             | 1             |                 | EURO #9 <br><sub>Contender</sub>  |
+|  1 | Team Vitality     | Major Champion   |                 |               |                 |               |                 | EUR #1  <br><sub>Elimination Stage</sub>     |
+|  2 | GamerLegion       | Grand-finalist   |                 |               |                 |               |                 | EUR #2  <br><sub>Elimination Stage</sub>     |
+|  3 | Heroic     		 | Semi-finalist    | 3-0             |               |                 |               |                 | EUR #3  <br><sub>Elimination Stage</sub>     |
+|  4 | Apeks             | Semi-finalist    | 3-2             |               |                 |               |                 | EUR #4  <br><sub>Elimination Stage</sub>     |
+|  5 | Team Liquid       | Quarter-finalist | 3-1             | 0             |                 |               |                 | AMER #1  <br><sub>Elimination Stage</sub>     |
+|  6 | Monte             | Quarter-finalist | 3-1             | -2            |                 |               |                 | EUR #5  <br><sub>Elimination Stage</sub>     |
+|  7 | Into The Breach   | Quarter-finalist | 3-2             | 1             |                 |               |                 | EUR #6  <br><sub>Elimination Stage</sub>     |
+|  8 | FaZe Clan         | Quarter-finalist | 3-2             | -2            |                 |               |                 | EUR #7  <br><sub>Elimination Stage</sub>     |
+|  9 | Natus Vincere     | -                | 2-3             | 6             |                 |               |                 | EUR #8  <br><sub>Opening Stage</sub> |
+| 10 | Fnatic       	 | -                | 2-3             | 2             |                 |               |                 | EUR #9 <br><sub>Opening Stage</sub> |
+| 11 | Ninjas In Pyjamas | -                | 2-3             | -6            |                 |               |                 | EUR #10 <br><sub>Opening Stage</sub> |
+| 12 | ENCE   			 | -                | 1-3             | 1             | 3-0             |               |                 | EUR #11 <br><sub>Opening Stage</sub> |
+| 13 | Bad News Eagles   | -                | 1-3             | -2            | 3-2             |               |                 | EUR #12 <br><sub>Opening Stage</sub> |
+| 14 | G2 Esports        | -                | 1-3             | -3            |                 |               |                 | EUR #13 <br><sub>Opening Stage</sub> |
+| 15 | 9INE 			 | -                | 0-3             | 5             |                 |               |                 | EUR #14 <br><sub>Opening Stage</sub> |
+| 16 | FURIA Esports     | -                | 0-3             | -1            |                 |               |                 | AMER #2 <br><sub>Opening Stage</sub> |
+| 17 | FORZE Esports  	 | -                | -               | -             | 2-3             | 4             |                 | EUR #15 <br><sub>Opening Stage</sub>  |
+| 18 | Grayhound Gaming  | -                | -               | -             | 2-3             | 2             |                 | ASIA #1 <br><sub>Opening Stage</sub>  |
+| 19 | paiN Gaming       | -                | -               | -             | 2-3             | 0             |                 | AMER #3 <br><sub>Opening Stage</sub>  |
+| 20 | Complexity Gaming | -                | -               | -             | 1-3             | 4             | 21              | AMER #4 <br><sub>Opening Stage</sub>  |
+| 21 | The MongolZ       | -                | -               | -             | 1-3             | 4             | 22              | ASIA #2 <br><sub>Opening Stage</sub>  |
+| 22 | OG       		 | -                | -               | -             | 1-3             | 3             |                 | EUR #16 <br><sub>Opening Stage</sub>  |
+| 23 | MOUZ         	 | -                | -               | -             | 0-3             | 1             | 18              | EUR #17 <br><sub>Opening Stage</sub>  |
+| 24 | Fluxo   			 | -                | -               | -             | 0-3             | 1             | 23              | AMER #5 <br><sub>Opening Stage</sub>  |
 
-##### Major Invites for Spring 2023
-|     Region | Legends | Challengers | Contenders  |
-|-----------:|:-------:|:-----------:|:-----------:|
-|   Europe 1 | 4       | 3           | 1 (+0.5)    |
-|   Europe 2 | 3       | 4           | 1 (+0.5)    |
-|    America | 1       | 1           | 3           |
-|       Asia | -       | -           | 2           |
-| **Totals** | **8**   | **8**       | **8**       |
+<a id="Regional-Major-Invites"></a>
+##### Major Invites for Spring 2024
+|     Region | Elimination Stage | Opening Stage  |
+|-----------:|:-------:|:-----------:|
+|   Europe 1 | 4       | 4 (+0.5)    |
+|   Europe 2 | 3       | 5 (+0.5)    |
+|    America | 1       | 4           |
+|       Asia | -       | 2           |
+| **Totals** | **8**   | **16**      |
 
 <a id="Final-Ranking-RMR"></a>
 ### Final Rankings [RMR]
