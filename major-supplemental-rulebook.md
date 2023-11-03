@@ -748,7 +748,7 @@ Final Major Rankings are determined by (in order)
 1. Opening Stage Difficulty
 1. Initial Seeding
 
-#### Example: 2022 Rio
+#### Example: 2023 Paris
 |  # | Team              | Position         | W/L<sub>L</sub> | D<sub>L</sub> | W/L<sub>C</sub> | D<sub>C</sub> | Initial Seeding | Next Major Slot                   |
 |---:|:------------------|:----------------:|:---------------:|:-------------:|:---------------:|:-------------:|:---------------:|:---------------------------------:|
 |  1 | Team Vitality     | Major Champion   |                 |               |                 |               |                 | EUR #1  <br><sub>Elimination Stage</sub>     |
