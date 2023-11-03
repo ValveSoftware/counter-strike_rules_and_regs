@@ -1,25 +1,24 @@
-### Regional Standings for Asia as of 2023-10-11
+### Regional Standings for Asia as of 2023-11-03
 
 | Standing | Points | Team Name        | Roster                                      |
 | -: | -: | :- | :- |
-|        1 |    718 | Lynn Vision      | Westmelon, z4kr, Starry, Jee, EmiliaQAQ     |
-|        2 |    684 | 5yclone          | advent, kaze, JamYoung, Mercury, Moseyuh    |
-|        3 |    661 | VERTEX           | malta, BRACE, hazr, pz, ADDICT              |
-|        4 |    616 | Looking For Org  | Hatz, sterling, apocdud, Liki, SaVage       |
-|        5 |    614 | Bravado          | SloWye, march, wilj, Doru, Triton           |
-|        6 |    609 | TheMongolz       | hasteka, bLitz, Techno, mzinho, 910         |
-|        7 |    600 | Grayhound        | Sico, Liazz, aliStair, INS, Vexite          |
-|        8 |    584 | Nixuh            | Fadey, flexeeee, bLazE, FROZ3N, RustyYG     |
-|        9 |    580 | ATOX             | dobu, kabal, yAmi, cool4st, MiQ             |
-|       10 |    560 | Wings Up         | Marek, gas, lan, flying, ChildKing          |
-|       11 |    555 | TRAFFIC Tashkent | fr0k, wetfy, icyvl0ne, kanshineF, Hitori    |
-|       12 |    554 | Rooster          | chelleos, ADK, nettik, asap, TjP            |
-|       13 |    534 | sunday school    | SkulL, rekonz, damyo, viridian, BaN4na      |
-|       14 |    532 | Mindfreak        | tucks, dangeR, versa, supar, Forleks        |
-|       15 |    515 | Newhappy         | SPine, Tiger, AhaNg, 2x2x, tutu             |
-|       16 |    500 | Stirlzs Angels   | ObZen, toM, callum_murray, Drox, dpr        |
-|       17 |    499 | NKT              | BnTeT, XigN, Gratisfaction, erkaSt, xerolte |
-|       18 |    492 | Vantage          | N1ghtraid, Mingovi, Kobe, KRAXYT, Omichella |
-|       19 |    448 | Antic            | James, RaZ, Noisia, jokes, kyson            |
+|        1 |   1080 | Lynn Vision      | Westmelon, z4kr, Starry, Jee, EmiliaQAQ     |
+|        2 |   1058 | TYLOO            | advent, kaze, JamYoung, Mercury, Moseyuh    |
+|        3 |    853 | TheMongolz       | bLitz, Techno, Senzu, mzinho, 910           |
+|        4 |    848 | Grayhound        | Sico, Liazz, aliStair, INS, Vexite          |
+|        5 |    847 | VERTEX           | BRACE, hazr, Valiance, pz, ADDICT           |
+|        6 |    838 | ATOX             | dobu, kabal, yAmi, cool4st, MiQ             |
+|        7 |    828 | TRAFFIC Tashkent | fr0k, wetfy, icyvl0ne, kanshineF, Hitori    |
+|        8 |    801 | Rooster          | chelleos, Rackem, nettik, asap, TjP         |
+|        9 |    778 | Looking For Org  | Hatz, sterling, apocdud, Liki, SaVage       |
+|       10 |    712 | Steel Helmet     | captainMo, DD, xiaosaGe, AE, 18yM           |
+|       11 |    709 | Wings Up         | kreaz, gas, Blogg1s, lan, flying            |
+|       12 |    700 | NKT              | BnTeT, XigN, Gratisfaction, erkaSt, xerolte |
+|       13 |    697 | Stirlzs Angels   | toM, callum_murray, Drox, dpr, vision       |
+|       14 |    693 | sunday school    | SkulL, rekonz, mizzy, damyo, viridian       |
+|       15 |    669 | Vantage          | N1ghtraid, Mingovi, Kobe, KRAXYT, Omichella |
+|       16 |    655 | Newhappy         | SPine, Tiger, AhaNg, 2x2x, tutu             |
+|       17 |    633 | Mindfreak        | tucks, dangeR, cl0ver, supar, Forleks       |
+|       18 |    560 | Antic            | James, RaZ, Noisia, jokes, kyson            |
 
 _Event data for Regional Standings provided by HLTV.org_
