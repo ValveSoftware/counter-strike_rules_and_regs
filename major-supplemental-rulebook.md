@@ -209,7 +209,7 @@ The RMR format for a region is determined by the number of slots for that region
 		- The remaining two teams play a best of 3 and the loser is eliminated.
 
 		4 teams: both 3-0 teams and two of the three 3-1 teams.
-		- The three 3-2 teams are first sorted by difficulty score. 
+		- The three 3-1 teams are first sorted by difficulty score. 
 		- The lower two teams play a best of 3 and the loser is eliminated. 	
 		
 		5 teams: both 3-0 teams and all three 3-1 teams.
@@ -575,7 +575,6 @@ occlusion_test_async
 spec_replay_enable
 sv_allow_votes
 sv_allow_wait_command
-sv_clockcorrection_msecs
 sv_dc_friends_reqd
 sv_forcepreload
 sv_hibernate_postgame_delay
@@ -599,7 +598,6 @@ sv_server_graphic2
 sv_steamgroup
 sv_steamgroup_exclusive
 sv_voiceenable
-sv_vote_issue_pause_match_spec_only
 sv_vote_quorum_ratio
 sv_vote_timer_duration
 tv_advertise_watchable
@@ -748,7 +746,7 @@ Final Major Rankings are determined by (in order)
 1. Opening Stage Difficulty
 1. Initial Seeding
 
-#### Example: 2022 Rio
+#### Example: 2023 Paris
 |  # | Team              | Position         | W/L<sub>L</sub> | D<sub>L</sub> | W/L<sub>C</sub> | D<sub>C</sub> | Initial Seeding | Next Major Slot                   |
 |---:|:------------------|:----------------:|:---------------:|:-------------:|:---------------:|:-------------:|:---------------:|:---------------------------------:|
 |  1 | Team Vitality     | Major Champion   |                 |               |                 |               |                 | EUR #1  <br><sub>Elimination Stage</sub>     |
