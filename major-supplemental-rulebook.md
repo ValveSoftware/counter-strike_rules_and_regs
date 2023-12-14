@@ -51,7 +51,7 @@ Separating world-wide competition into regions that allow players to compete wit
 
 Regional Major Ranking events (RMRs) sort teams within their region, and the top teams from each region receive Major invitations.
 
-RMR regions roughly correspond to their geographic equivalent. On the edges, countries should be assigned to the region that provides teams the lowest latency in qualifiers.
+RMR regions roughly correspond to their geographic equivalent. On the edges, countries should be assigned to the region that provides teams with the lowest latency in qualifiers.
 
 The 3 RMR regions are
 - Europe
@@ -161,8 +161,8 @@ The TO is to collect any Disclosures of Conflicts of Interest that result from [
 
 ### Eligibility
 #### VAC
-The TO will not qualify, nor allow in any qualifying event, any player who has been "Valve Anti-Cheat" banned ("VAC Banned") in CS. Any player who is VAC Banned on any of their accounts must be approved in writing by Valve in order to be eligible to participate in the event. Any team on which a banned player has played during the period starting with the first qualifier and ending with the end of the event, will be banned ("Banned Team"). Valve also reserves the right to disqualify any player, team, broadcaster, commentator, or producer in its sole discretion. The TO will immediately disqualify such person or team upon notice from Valve. 
-Any event winnings by such player or such Banned Team will be forfeit. No player from a Banned Team will be eligible to compete in the event with any other team. 
+The TO will not qualify, nor allow in any qualifying event, any player who has been "Valve Anti-Cheat" banned ("VAC Banned") in CS. Any player who is VAC Banned on any of their accounts must be approved in writing by Valve in order to be eligible to participate in the event. Any team on which a banned player has played during the period starting with the first qualifier and ending with the end of the event, will be banned ("Banned Team"). Valve also reserves the right to disqualify any player, team, broadcaster, commentator, or producer in its sole discretion. The TO will immediately disqualify such a person or team upon notice from Valve. 
+Any event winnings by such player or such Banned Team will be forfeited. No player from a Banned Team will be eligible to compete in the event with any other team. 
 
 #### Staffing
 Individuals (including coaches) that are prohibited from participation in the event are not to be employed or partnered with the TO for the event (including streaming partners). Nor are they to have access to team/staff-only areas.
@@ -214,7 +214,7 @@ The RMR format for a region is determined by the number of slots for that region
 		
 		5 teams: both 3-0 teams and all three 3-1 teams.
 		
-		6 teams: both 3-0 teams, all three 3-1 teams, and one of the three 3-2 team. 
+		6 teams: both 3-0 teams, all three 3-1 teams, and one of the three 3-2 teams. 
 		- The three 3-2 teams are first sorted by difficulty score. 
 		- The lower two teams play a best of 3 and the loser is eliminated. 
 		- The remaining two teams play a best of 3 and the loser is eliminated.
@@ -421,12 +421,12 @@ The TO is to use the up-to-date in-game versions of the maps in the Active Duty 
 Players can have workshop maps on their competition machines provided that
 1. The workshop map was downloaded directly from the workshop by an event admin.
 1. The workshop map has a minimum of 100k (one hundred thousand) subscribers.
-1. The game is restarted in the presence of an admin before the competition match begin.
+1. The game is restarted in the presence of an admin before the competition match begins.
  
 #### Modifications/Restrictions
 - Game art and sound are not to be modified on player or observer clients.
 - Augmented reality (AR) elements are not to be designed to pretend to be a part of the game world.
-- Augmented reality (AR) elements are to only ever present useful information (e.g. player statistics).
+- Augmented reality (AR) elements are to only ever present useful information (e.g., player statistics).
 - Any sponsorship in AR attached to the above needs written approval by Valve. 
 - Players' access to their inventory should not be modified or augmented.
 
@@ -458,13 +458,13 @@ Competition PCs are to be secured and managed by event staff and restricted down
 	- Enable the deny rules for all of the entries except for Custom Classes.
 - Setup disk auditing so you can see all changes made to the disk by the player 
 - Setup AppLocker
-	1. Application Identity Service (AppIDSvc) must be started for AppLocker to work properly. Recommend setting it to automatic.
+	1. Application Identity Service (AppIDSvc) must be started for AppLocker to work properly. We recommend setting it to “automatic“.
 	1. Go to Applocker and create default rules then delete the allow program files rule.
-	1. Set allow rules for the following (can be set for the everyone group or the Windows user players will be using):
+	1. Set allow rules for the following (can be set for the everyone group, or the Windows user players will be using):
 		- Steam.exe
 		- csgo.exe
 		- any other applications players will need access to such as VOIP (note that these applications may be blocked from making config file changes on the limited Windows user account so prepare the configs ahead of time from the admin account)
-	1. Set Deny rules for the following (can be set for the everyone group or the Windows user players will be using):
+	1. Set Deny rules for the following (can be set for the everyone group, or the Windows user players will be using):
 		- powershell.exe
 		- cmd.exe
 		- cscript.exe
@@ -495,7 +495,7 @@ cl_invites_only_friends 1
 - For any other server mod, the TO will obtain approval in writing from Valve.
 
 #### Demos
-- Confirm that server is recording demos. Demos are to be [delivered to Valve.](#Deliverables)
+- Confirm that the server is recording demos. Demos are to be [delivered to Valve.](#Deliverables)
 
 #### Convars
 All server convars are to be set to competitive defaults (cfg/gamemode_competitive.cfg) except for the following exceptions.
@@ -623,7 +623,7 @@ tv_transmitall
 ```
 
 #### Match Log Setup [Major]
-Servers must be configured to submit logs in order for the match results to present in the client to all users. 
+Servers must be configured to submit logs in order for the match results to be presented in the client to all users. 
 
 1. Provide Valve the Steam ID of the account ("Admin") that will be setting and submitting the match logs in order to enable the Control Room.
 1. Provide Valve a Web API key for the Admin account. If you don't have one, create one [here.](https://steamcommunity.com/dev)
@@ -707,7 +707,7 @@ Coaches are not to communicate with (i.e., be seen, heard, or felt by) the playe
 
 Coaches that wish to call a timeout are to do so by notifying an admin.
 
-In the case of any matches where event admins are not physically present (e.g. online matches), no team staff, including the coach, may be physically or virtually present or communicate with the players at any time during the match.
+In the case of any matches where event admins are not physically present (e.g., online matches), no team staff, including the coach, may be physically or virtually present or communicate with the players at any time during the match.
 
 <a id="Match-Log-Submissions"></a>
 ### Match Log Submissions [Major]
@@ -719,7 +719,7 @@ Servers must be configured to submit logs and data is to be entered for each mat
 
 #### Before Each Match
 1. Launch CS from the Admin account, click on Watch, and then click on Control Room button. 
-1. Fill out the stage, teams and map for the match about to be played. We suggest formatting the match password as follows: ```teamname1-vs-teamname2-stage-1-of-3-map```
+1. Fill out the stage, teams, and map for the match about to be played. We suggest formatting the match password as follows: ```teamname1-vs-teamname2-stage-1-of-3-map```
 1. On the server the match is to be played on, set the following convars.
 ```
 log on
