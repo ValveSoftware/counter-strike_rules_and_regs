@@ -505,14 +505,11 @@ All server convars are to be set to competitive defaults (cfg/gamemode_competiti
 tv_enable                                              1
 tv_enable1                                             1
 tv_dispatchmode                                        0
-sv_maxusrcmdprocessticks                               3    
-sv_max_dropped_packets_to_process                      3
                    
 mp_freezetime                                          20
 tv_broadcast                                           1
 tv_allow_autorecording_index                           0
                    
-sv_steamauth_enforce                                   1
 mp_autokick                                            0
 sv_matchend_drops_enabled                              0
 sv_damage_print_enable                                 0
@@ -541,10 +538,6 @@ sv_vote_creation_timer                                 25
 sv_vote_failure_timer                                  25
 sv_vote_command_delay                                  0
            
-sv_occlude_players                                     0
-sv_force_transmit_players                              1
-sv_force_transmit_ents                                 1
-           
 mp_team_timeout_time                                   30
 mp_team_timeout_max                                    4
                    
@@ -567,16 +560,11 @@ tv_allow_camera_man_steamid                            <STEAM_ID_OF_OBSERVER>
 - The following convars can have any value:
 ```
 mp_disconnect_kills_players
-mp_do_warmup_period
 mp_halftime_pausetimer
 mp_overtime_halftime_pausetimer
 mp_win_panel_display_time
-occlusion_test_async
 spec_replay_enable
 sv_allow_votes
-sv_allow_wait_command
-sv_dc_friends_reqd
-sv_forcepreload
 sv_hibernate_postgame_delay
 sv_hibernate_when_empty
 sv_kick_ban_duration
@@ -584,11 +572,9 @@ sv_kick_players_with_cooldown
 sv_lan
 sv_load_forced_client_names_file
 sv_max_queries_sec
-sv_maxcmdrate
 sv_maxrate
 sv_maxuptimelimit
 sv_memlimit
-sv_mincmdrate
 sv_minrate
 sv_pausable
 sv_pure_kick_clients
@@ -616,7 +602,6 @@ tv_maxclients
 tv_maxrate
 tv_name
 tv_overridemaster
-tv_relay_whitelist_cidr
 tv_timeout
 tv_title
 tv_transmitall
