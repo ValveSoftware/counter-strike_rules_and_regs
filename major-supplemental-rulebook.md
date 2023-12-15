@@ -523,7 +523,6 @@ mp_logdetail                                           3
 mp_logdetail_items                                     1
 mp_logmoney                                            2
 
-sv_clockcorrection_msecs                               0
 sv_damage_print_enable                                 0
 sv_gameinstructor_disable                              1
 sv_holiday_mode                                        0
@@ -534,13 +533,12 @@ sv_matchpause_auto_5v5                                 1
 sv_reliableavatardata                                  2
 sv_spec_hear                                           4
 
-sv_vote_allow_spectators                               1
+sv_vote_allow_spectators                               true
 sv_vote_command_delay                                  0
 sv_vote_creation_timer                                 25
 sv_vote_failure_timer                                  25
-sv_vote_issue_loadbackup_spec_authoritative            1
-sv_vote_issue_loadbackup_spec_only                     1
-sv_vote_issue_pause_match_spec_only                    1
+sv_vote_issue_loadbackup_spec_authoritative            true
+sv_vote_issue_loadbackup_spec_only                     true
 
 tv_allow_autorecording_index                           0
 tv_allow_camera_man_steamid                            <STEAM_ID_OF_OBSERVER>
