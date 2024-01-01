@@ -181,9 +181,7 @@ class DataLoader
         
         // initialize event list
         let events = {};
-        matchData.events.forEach(eventJson => {
-            events[eventJson.eventId] = new Event( cloneEvent(eventJson) )
-        });
+        matchData.events.forEach(eventJson => events[eventJson.eventId] = new Event( cloneEvent(eventJson) ));
 
         // Let each event know what matches were part of it
         matches.forEach( match => {
