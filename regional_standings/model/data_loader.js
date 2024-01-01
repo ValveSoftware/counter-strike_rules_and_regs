@@ -211,7 +211,7 @@ class DataLoader
         // most recent match for a particular roster as the 'base' roster for that team.
         sortMatches( matches, SortOrderEnum.DESC );
 
-        let teams = initTeams( matches, events, this.rankingContext );
+        const teams = initTeams( matches, events, this.rankingContext );
 
         // For processing the games and calculating ratings, we will go in forward order in time.  This
         // also has the effect of making sure that recent data is considered the most strongly, and also
