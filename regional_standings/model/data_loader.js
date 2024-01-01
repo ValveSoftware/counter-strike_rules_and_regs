@@ -1,7 +1,5 @@
 "use strict";
 
-const fs = require('fs');
-const Region = require('./util/region');
 const Team = require('./team');
 const matchData = require('../data/matchdata.json');
 const {SortOrderEnum} = require("./enums/sort_order");
