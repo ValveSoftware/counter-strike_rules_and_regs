@@ -170,11 +170,9 @@ class DataLoader
 
     loadData( versionTimestamp = -1 )
     {
-        const dataJson = matchData
-
         // Filter matches to only the data we are interested in.
         this.setTimeFilter( versionTimestamp );
-        let matches = filterIncompleteMatches( dataJson.matches );
+        let matches = filterIncompleteMatches( matchData.matches );
         const [startTime,endTime] = findTimeWindow( matches, this.filterEndTime, this.filterWindow );
         let graceperiod = 30 * 24 * 3600; // 1 month
         this.rankingContext.setTimeWindow( startTime, endTime - graceperiod );
@@ -183,7 +181,7 @@ class DataLoader
         
         // initialize event list
         let events = {};
-        dataJson.events.forEach(eventJson => {
+        matchData.events.forEach(eventJson => {
             events[eventJson.eventId] = new Event( cloneEvent(eventJson) )
         });
 
