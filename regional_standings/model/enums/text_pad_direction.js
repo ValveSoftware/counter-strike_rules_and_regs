@@ -1,3 +1,5 @@
+"use strict";
+
 const TextPadDirection = Object.freeze({
     LEFT: -1,
     RIGHT: 1,
