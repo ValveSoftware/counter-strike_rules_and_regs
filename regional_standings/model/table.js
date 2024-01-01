@@ -18,6 +18,11 @@ function stringWithLength( s, n, padDirection = TextPadDirection.LEFT )
 		return s.padStart(n, ' ');
 	else if( padDirection === TextPadDirection.RIGHT )
 		return s.padEnd(n, ' ');
+
+	// else center
+	const extra = n - s.length;
+	const left = Math.floor( extra / 2 );
+	const right = extra - left;
 	return [ ' '.repeat( left ), s, ' '.repeat( right) ].join('');
 }
 
