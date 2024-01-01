@@ -3,9 +3,7 @@
 const fs = require('fs');
 const Region = require('./util/region');
 const Team = require('./team');
-const remapValueClamped = require('./util/remap_value_clamped');
-
-const __highValueEvents = [6372,6711,6712,6713,6714,6586,6588]; //explicitly include RMR events, Majors
+const {SortOrderEnum} = require("./enums/sort_order");
 
 function parsePrizePool( prizePool ) {
     if ( prizePool === undefined )
@@ -18,8 +16,8 @@ function parsePrizePool( prizePool ) {
     return 0; 
 }
 
-function sortMatches( matches, order = 'desc' ) {
-    if ( order === 'asc' )
+function sortMatches( matches, order = SortOrderEnum.DESC ) {
+    if ( order === SortOrderEnum.ASC )
         matches.sort( (a, b) => a.matchStartTime - b.matchStartTime );
     else 
         matches.sort( (a, b) => b.matchStartTime - a.matchStartTime );
@@ -195,14 +193,14 @@ class DataLoader
 
         // When initializing the teams, sort matches by reverse start time so we always see the
         // most recent match for a particular roster as the 'base' roster for that team.
-        sortMatches( matches, 'desc' );
+        sortMatches( matches, SortOrderEnum.DESC );
 
         let teams = initTeams( matches, events, this.rankingContext );
 
         // For processing the games and calculating ratings, we will go in forward order in time.  This
         // also has the effect of making sure that recent data is considered the most strongly, and also
         // with as much context as possible given past results.
-        sortMatches( matches, 'asc' );
+        sortMatches( matches, SortOrderEnum.ASC );
 
         this.matches = matches;
         this.teams = teams;
