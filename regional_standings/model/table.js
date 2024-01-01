@@ -15,7 +15,9 @@ function stringWithLength( s, n, padDirection = TextPadDirection.LEFT )
 
 	// otherwise we need to pad.
 	if( padDirection === TextPadDirection.LEFT )
+		return s.padStart(n, ' ');
 	else if( padDirection === TextPadDirection.RIGHT )
+		return s.padEnd(n, ' ');
 	return [ ' '.repeat( left ), s, ' '.repeat( right) ].join('');
 }
 
