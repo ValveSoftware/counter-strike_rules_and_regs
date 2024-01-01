@@ -168,7 +168,6 @@ class Team {
         } );
 
         // Phase 3 looks at each team's opponents and rates each team highly if it can regularly win against other prestigous teams.
-
         teams.forEach( team => {
             // Bounties (and your opponents' networks) are 'buckets' that fill up as you win matches.
             // Bounties/Networks are scaled by the stakes (i.e., prize pool) of the event where they occur and the age of the result
@@ -195,7 +194,6 @@ class Team {
         } );
 
         // Finally, build modifiers from calculated values
-        
         teams.forEach( team => {
             team.modifiers.bountyCollected  = curveFunction( team.opponentWinnings );
             team.modifiers.bountyOffered    = curveFunction( team.winnings );
