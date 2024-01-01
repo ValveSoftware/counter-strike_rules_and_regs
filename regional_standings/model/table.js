@@ -1,7 +1,9 @@
 "use strict";
 
+const { TextPadDirection } = require("./enums/text_pad_direction");
+
 // Pad/truncate a string to a given length
-function stringWithLength( s, n, padDirection = -1 )
+function stringWithLength( s, n, padDirection = TextPadDirection.LEFT )
 {
 	s = String( s );
 
@@ -12,15 +14,8 @@ function stringWithLength( s, n, padDirection = -1 )
 		return s;
 
 	// otherwise we need to pad.
-	const extra = n - s.length;
-	if( padDirection < 0 )
-		return ' '.repeat( extra ) + s;
-	else if( padDirection > 0 )
-		return s + ' '.repeat( extra );
-
-	// else center
-	const left = Math.floor( extra / 2 );
-	const right = extra - left;
+	if( padDirection === TextPadDirection.LEFT )
+	else if( padDirection === TextPadDirection.RIGHT )
 	return [ ' '.repeat( left ), s, ' '.repeat( right) ].join('');
 }
 
@@ -38,7 +33,7 @@ class Column
 		this.minWidth = null;
 		this.maxWidth = null;
 		this.sortOrder = 1;
-		this.padDirection = 1;	// left-justify
+		this.padDirection = TextPadDirection.RIGHT;
 
 		this.width = null;
 	}
@@ -63,19 +58,19 @@ class Column
 
 	setAlignLeft()
 	{
-		this.padDirection = 1;
+		this.padDirection = TextPadDirection.RIGHT;
 		return this;
 	}
 
 	setAlignCenter()
 	{
-		this.padDirection = 0;
+		this.padDirection = TextPadDirection.CENTER;
 		return this;
 	}
 
 	setAlignRight()
 	{
-		this.padDirection = -1;
+		this.padDirection = TextPadDirection.LEFT;
 		return this;
 	}
 
