@@ -10,7 +10,7 @@ function stringWithLength( s, n, padDirection = TextPadDirection.LEFT )
 	// check for strings that are short enough
 	if( n < s.length )
 		return s.substring( 0, n );
-	else if( n == s.length )
+	else if( n === s.length )
 		return s;
 
 	// otherwise we need to pad.
