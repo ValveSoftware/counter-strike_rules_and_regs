@@ -138,7 +138,7 @@ class Team {
                 }
             });
 
-            opponentMap.forEach( ( lastWinTime, opp ) => {
+            opponentMap.forEach( ( lastWinTime ) => {
                 team.distinctTeamsDefeated += context.getTimestampModifier( lastWinTime );
             } );
     
