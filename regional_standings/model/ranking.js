@@ -85,8 +85,9 @@ function seedTeams( glicko, teams ) {
     } );
 
 	// remap teams from current range to minRankValue..maxRankValue
-    let minSeedValue = Math.min( ...teams.map(t => t.seedValue ) );
-    let maxSeedValue = Math.max( ...teams.map(t => t.seedValue ) );
+    const teamsSeedValue = teams.map(t => t.seedValue )
+    let minSeedValue = Math.min( ...teamsSeedValue );
+    let maxSeedValue = Math.max( ...teamsSeedValue );
     
     teams.forEach( team => {
         team.rankValue = remapValueClamped( team.seedValue, minSeedValue, maxSeedValue, MIN_SEEDED_RANK, MAX_SEEDED_RANK );
