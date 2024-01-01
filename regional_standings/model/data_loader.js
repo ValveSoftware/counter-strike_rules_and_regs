@@ -3,6 +3,7 @@
 const fs = require('fs');
 const Region = require('./util/region');
 const Team = require('./team');
+const matchData = require('../data/matchdata.json');
 const {SortOrderEnum} = require("./enums/sort_order");
 
 function parsePrizePool( prizePool ) {
@@ -21,6 +22,22 @@ function sortMatches( matches, order = SortOrderEnum.DESC ) {
         matches.sort( (a, b) => a.matchStartTime - b.matchStartTime );
     else 
         matches.sort( (a, b) => b.matchStartTime - a.matchStartTime );
+}
+
+function cloneEvent(event) {
+    return {
+        ...event,
+        prizeDistribution: event.prizeDistribution.map(team => ({...team}))
+    }
+}
+
+function cloneMatch(match) {
+    return {
+        ...match,
+        team1Players: match.team1Players.map(player => ({...player})),
+        team2Players: match.team2Players.map(player => ({...player})),
+        maps: match.maps.map(map => ({...map}))
+    }
 }
 
 function filterIncompleteMatches( matches ) {
@@ -155,23 +172,22 @@ class DataLoader
 
     loadData( versionTimestamp = -1 )
     {
-        const data = fs.readFileSync( '../data/matchdata.json' );
-        const dataJson = JSON.parse( data );
-
-        // initialize match list
-        let matches = dataJson.matches;
+        const dataJson = matchData
 
         // Filter matches to only the data we are interested in.
         this.setTimeFilter( versionTimestamp );
-        matches = filterIncompleteMatches( matches );
+        let matches = filterIncompleteMatches( dataJson.matches );
         const [startTime,endTime] = findTimeWindow( matches, this.filterEndTime, this.filterWindow );
         let graceperiod = 30 * 24 * 3600; // 1 month
         this.rankingContext.setTimeWindow( startTime, endTime - graceperiod );
         matches = filterMatchesByTime( matches, startTime, endTime );
+        matches = matches.map(match => cloneMatch(match));
         
         // initialize event list
         let events = {};
-        dataJson.events.forEach( eventJson => events[eventJson.eventId] = new Event( eventJson ) );
+        dataJson.events.forEach(eventJson => {
+            events[eventJson.eventId] = new Event( cloneEvent(eventJson) )
+        });
 
         // Let each event know what matches were part of it
         matches.forEach( match => {
