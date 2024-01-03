@@ -227,7 +227,7 @@ The RMR format for a region is determined by the number of slots for that region
 
 - 9 to 16 invites: subdivide teams by [Final Ranking](#Final-Rankings-Major), placing teams into two groups. The resulting groups are to use the format appropriate for that number of invites, per the above.
 
-- 17 to 19 invites: subdivide teams by [Final Ranking](#Final-Rankings-Major), placing teams into two groups. The groups each play a 16 team [Swiss bracket](#Swiss-Bracket) with 8 teams advancing. Teams with a 2-3 record play in a last-chance single-elimination Bo3 bracket, with teams from group 1 playing initial matchups against teams from group 2 following the Swiss matchup rules. After initial matchups, the subsequent format depends on the number of invites:
+- 17 to 21 invites: subdivide teams by [Final Ranking](#Final-Rankings-Major), placing teams into two groups. The groups each play a 16 team [Swiss bracket](#Swiss-Bracket) with 8 teams advancing. Teams with a 2-3 record play in a last-chance single-elimination Bo3 bracket, with teams from group 1 playing initial matchups against teams from group 2 following the Swiss matchup rules. After initial matchups, the subsequent format depends on the number of invites:
 
 		17 teams:
 		- The three remaining 3-3 teams are first sorted by difficulty score. 
@@ -239,6 +239,17 @@ The RMR format for a region is determined by the number of slots for that region
 		- The lower two teams play a best of 3 and the loser is eliminated. 	
 		
 		19 teams: all three remaining 3-3 teams.
+
+		20 teams:
+		- The three 3-3 teams advance.
+		- The three remaining 2-4 teams are first sorted by difficulty score.
+		- The upper two teams play a best of 3 and the winner advances.
+
+		21 teams:
+		- The three 3-3 teams advance.
+		- The three remaining 2-4 teams are first sorted by difficulty score.
+		- The upper two teams play a best of 3 and the winner advances.
+		- The remaining two teams play a best of 3 and the winner advances.
     
 
 #### Step 1: Assign Slots to Groups
