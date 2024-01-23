@@ -20,17 +20,18 @@ Items must follow the guidelines below, or they may be rejected. If your item is
 The team logo should look exactly as it does in official channels. If your logo does not look like the one represented commonly in media (e.g., on an HLTV or Liquipedia match page), we will likely reject your submission.
 
 #### Player Items:
-We want autograph items that look like what you get when you sign a fan’s mousepad. Take a blank sheet of paper, a black marker, and sign your autograph. Take a picture and submit it to us. Easy! 
+We want autograph items that look like what you get when you sign a fan’s mousepad. Take a blank sheet of paper, a black marker, and sign your autograph. Take a picture and submit it to us. Easy!
+
 Feel free to practice a few times. You can send us the best one but remember: what you send us should not take you more than 5-10 seconds to write. Your design is up to you--it can be very simple, or funny, or include a few small personal details. But it should not be a very highly designed, complicated, or ornate image. 
 
 Your autograph should follow these rules, otherwise it will likely be rejected or altered before it is shipped:
-•	The autograph should look the same as when you are signing a fan’s mousepad. It should not take more than 5-10 seconds for you to produce the autograph. If it takes you longer than that, it is too complicated.
-•	It should be written by YOU, and not by someone else. It is ok if your autograph doesn’t look amazing, as long as it is yours! If someone else has produced your autograph on your behalf, we may reject it.
-•	These elements in an autograph may cause your submission to be rejected:
--	Computer-generated art
--	Fonts
--	Overly-complicated lettering or drawings (by hand or computer)
--	Anything that could not reasonably be reproduced by hand in 5-10 seconds.
+* The autograph should look the same as when you are signing a fan’s mousepad. It should not take more than 5-10 seconds for you to produce the autograph. If it takes you longer than that, it is too complicated.
+* It should be written by YOU, and not by someone else. It is ok if your autograph doesn’t look amazing, as long as it is yours! If someone else has produced your autograph on your behalf, we may reject it.
+* These elements in an autograph may cause your submission to be rejected:
+    -	Computer-generated art
+    -	Fonts
+    -	Overly-complicated lettering or drawings (by hand or computer)
+    -	Anything that could not reasonably be reproduced by hand in 5-10 seconds.
 
 ## FAQ
 
