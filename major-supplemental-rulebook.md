@@ -509,7 +509,7 @@ cl_invites_only_friends 1
 - Confirm that server is recording demos. Demos are to be [delivered to Valve.](#Deliverables)
 
 #### Convars
-All server convars are to be set to competitive defaults (cfg/gamemode_competitive.cfg) except for the following exceptions.
+All server convars are to be set to Premier defaults (by first loading cfg/gamemode_competitive.cfg and then loading cfg/gamemode_competitive_tmm.cfg) except for the following exceptions.
 
 - The following convars are to be set as such:
 ```
@@ -519,7 +519,6 @@ tv_dispatchmode                                        0
 sv_maxusrcmdprocessticks                               3    
 sv_max_dropped_packets_to_process                      3
                    
-mp_freezetime                                          20
 tv_broadcast                                           1
 tv_allow_autorecording_index                           0
                    
@@ -534,7 +533,7 @@ sv_invites_only_mainmenu                               1
 mp_spectators_max                                      10
 sv_matchpause_auto_5v5                                 1
 sv_clockcorrection_msecs                               0
-mp_overtime_enable                                     1
+mp_overtime_limit                                      0
 mp_warmup_pausetimer                                   1
 mp_warmuptime                                          60
 mp_halftime_pausematch                                 1
@@ -550,14 +549,10 @@ sv_vote_issue_loadbackup_spec_authoritative            1
 sv_vote_issue_pause_match_spec_only                    1
 sv_vote_creation_timer                                 25
 sv_vote_failure_timer                                  25
-sv_vote_command_delay                                  0
            
 sv_occlude_players                                     0
 sv_force_transmit_players                              1
 sv_force_transmit_ents                                 1
-           
-mp_team_timeout_time                                   30
-mp_team_timeout_max                                    4
                    
 sv_holiday_mode                                        0
            
