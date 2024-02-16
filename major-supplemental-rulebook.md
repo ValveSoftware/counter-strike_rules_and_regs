@@ -784,8 +784,7 @@ Final Major Rankings are determined by (in order)
 ##### Major Invites for Spring 2024
 |     Region | Elimination Stage | Opening Stage  |
 |-----------:|:-------:|:-----------:|
-|   Europe 1 | 4       | 4 (+0.5)    |
-|   Europe 2 | 3       | 5 (+0.5)    |
+|   Europe   | 7       | 10    	     |
 |    America | 1       | 4           |
 |       Asia | -       | 2           |
 | **Totals** | **8**   | **16**      |
