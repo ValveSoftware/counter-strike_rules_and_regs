@@ -5,11 +5,8 @@ module.exports = {
     outputEWRBins: outputEWRBins
 }
 
-const { match } = require('assert');
 const Glicko = require('./glicko');
 const Ranking = require('./ranking');
-const fs = require('fs');
-const { time } = require('console');
 
 const defaultGlickoParams = {
     rd : 75,

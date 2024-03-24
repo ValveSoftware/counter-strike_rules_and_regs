@@ -1,11 +1,8 @@
 "use strict";
 
-const fs = require('fs');
-const Region = require('./util/region');
 const Team = require('./team');
-const remapValueClamped = require('./util/remap_value_clamped');
-
-const __highValueEvents = [6372,6711,6712,6713,6714,6586,6588]; //explicitly include RMR events, Majors
+const matchData = require('../data/matchdata.json');
+const {SortOrderEnum} = require("./enums/sort_order");
 
 function parsePrizePool( prizePool ) {
     if ( prizePool === undefined )
@@ -18,11 +15,27 @@ function parsePrizePool( prizePool ) {
     return 0; 
 }
 
-function sortMatches( matches, order = 'desc' ) {
-    if ( order === 'asc' )
+function sortMatches( matches, order = SortOrderEnum.DESC ) {
+    if ( order === SortOrderEnum.ASC )
         matches.sort( (a, b) => a.matchStartTime - b.matchStartTime );
     else 
         matches.sort( (a, b) => b.matchStartTime - a.matchStartTime );
+}
+
+function cloneEvent(event) {
+    return {
+        ...event,
+        prizeDistribution: event.prizeDistribution.map(team => ({...team}))
+    }
+}
+
+function cloneMatch(match) {
+    return {
+        ...match,
+        team1Players: match.team1Players.map(player => ({...player})),
+        team2Players: match.team2Players.map(player => ({...player})),
+        maps: match.maps.map(map => ({...map}))
+    }
 }
 
 function filterIncompleteMatches( matches ) {
@@ -157,23 +170,18 @@ class DataLoader
 
     loadData( versionTimestamp = -1 )
     {
-        const data = fs.readFileSync( '../data/matchdata.json' );
-        const dataJson = JSON.parse( data );
-
-        // initialize match list
-        let matches = dataJson.matches;
-
         // Filter matches to only the data we are interested in.
         this.setTimeFilter( versionTimestamp );
-        matches = filterIncompleteMatches( matches );
+        let matches = filterIncompleteMatches( matchData.matches );
         const [startTime,endTime] = findTimeWindow( matches, this.filterEndTime, this.filterWindow );
         let graceperiod = 30 * 24 * 3600; // 1 month
         this.rankingContext.setTimeWindow( startTime, endTime - graceperiod );
         matches = filterMatchesByTime( matches, startTime, endTime );
+        matches = matches.map(match => cloneMatch(match));
         
         // initialize event list
         let events = {};
-        dataJson.events.forEach( eventJson => events[eventJson.eventId] = new Event( eventJson ) );
+        matchData.events.forEach(eventJson => events[eventJson.eventId] = new Event( cloneEvent(eventJson) ));
 
         // Let each event know what matches were part of it
         matches.forEach( match => {
@@ -195,14 +203,14 @@ class DataLoader
 
         // When initializing the teams, sort matches by reverse start time so we always see the
         // most recent match for a particular roster as the 'base' roster for that team.
-        sortMatches( matches, 'desc' );
+        sortMatches( matches, SortOrderEnum.DESC );
 
-        let teams = initTeams( matches, events, this.rankingContext );
+        const teams = initTeams( matches, events, this.rankingContext );
 
         // For processing the games and calculating ratings, we will go in forward order in time.  This
         // also has the effect of making sure that recent data is considered the most strongly, and also
         // with as much context as possible given past results.
-        sortMatches( matches, 'asc' );
+        sortMatches( matches, SortOrderEnum.ASC );
 
         this.matches = matches;
         this.teams = teams;
