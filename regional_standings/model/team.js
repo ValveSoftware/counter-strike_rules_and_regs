@@ -109,6 +109,10 @@ class Team {
     {
         function curveFunction( x ) { return Math.pow( 1 / ( 1 + Math.abs(Math.log10(x)) ), 1 ); }
         function powerFunction( x ) { return Math.pow( x, 1 ) };
+        function getPrizePool( x ) { return Math.max(1, x.team.eventMap.get( x.match.eventId ).event.prizePool ) };
+        function getLAN( x ) { return x.team.eventMap.get( x.match.eventId ).event.lan ? 1 : 0 };
+
+        let bucketSize = 10; // used for all factors that track your top N results
 
         // no work to do
         if( teams.length === 0 )
@@ -120,15 +124,15 @@ class Team {
             team.matchesPlayed = team.teamMatches.length;
             team.lastPlayed = Math.max( ...team.teamMatches.map( teamMatch => teamMatch.match.matchStartTime ) );
             team.distinctTeamsDefeated = 0;
-            team.scaledPrizePool = 0;
-            team.lanWins = 0;
+            team.scaledWinnings = 0;
 
-            // Calculate the most recent match against each opponent
-            // We are going to use this to discount the prestige factor if you haven't defeated a team recently.
-            // (It's still better to have defeated them than not, for seeding purposes, just not as good as
-            // if they were defeated recently)
+            let winnings = [];
             let opponentMap = new Map();
+            let lanWins = [];
+
+            // Calculate the most recent match against each opponent, and also the most recent LAN wins.
             team.wonMatches.forEach( wonMatch => {
+                // Network
                 let opp = wonMatch.opponent;
                 let matchTime = wonMatch.match.matchStartTime;
                 let prevBestMatchTime = opponentMap.get( opp );
@@ -136,35 +140,52 @@ class Team {
                 {
                     opponentMap.set( opp, matchTime );
                 }
+
+                // LAN
+                let id = wonMatch.match.umid;
+                let timestampModifier = context.getTimestampModifier( matchTime );
+                let lan = getLAN( wonMatch );
+                let matchContext = timestampModifier;
+                let scaledLan = lan * matchContext;
+                lanWins.push( { id: id, context: matchContext, base: lan, val: scaledLan } );  
             });
 
+            // A team's own 'network' is the sum of distinct opponents they defeated, scaled by how long it's been since they defeated them.
             opponentMap.forEach( ( lastWinTime, opp ) => {
                 team.distinctTeamsDefeated += context.getTimestampModifier( lastWinTime );
             } );
-    
-            // Also calculate winnings
-            team.eventMap.forEach( teamEvent => {
-                team.scaledPrizePool += teamEvent.getTeamWinnings() * context.getTimestampModifier( teamEvent.event.lastMatchTime );
-            } );
 
-            // Also calculate wins on LAN
-            team.wonMatches.forEach( wonMatch => {
-                let lan = wonMatch.team.eventMap.get( wonMatch.match.eventId ).event.lan;
-                team.lanWins += ( lan ? 1 : 0 ) * context.getTimestampModifier( wonMatch.match.matchStartTime );
-            })
+            // The 'LAN' factor is similar to 'network,' the total number of wins on LAN (up to 'bucketSize'), scaled by how long ago the event took place. 
+            lanWins.sort( (a,b) => b.val - a.val );
+            team.lanWins = lanWins.slice(0,bucketSize);
+            team.scaledLanWins = team.lanWins.map( el => el.val).reduce( (a,b) => a + b, 0 ) / bucketSize; //a team's scaled LAN participation is the proportion of matches that were of maximum LAN context (maximum prizepool, LAN, occurred recently)
+
+            // Also calculate top N winnings. Like 'network' and 'LAN,' Winnings are scaled by the age of the result.
+            team.eventMap.forEach( teamEvent => {
+                let id = teamEvent.event.eventId;
+                let timestampModifier = context.getTimestampModifier( teamEvent.event.lastMatchTime );
+                let baseWinnings = teamEvent.getTeamWinnings();                
+                let scaledWinnings =  baseWinnings * timestampModifier;
+                
+                if ( baseWinnings > 0 )
+                    winnings.push( { id: id, eventTime: teamEvent.event.lastMatchTime, age: timestampModifier, base: baseWinnings, val: scaledWinnings } );
+            } );
+            winnings.sort( (a,b) => b.val - a.val );
+            team.winnings = winnings.slice(0,bucketSize);
+            team.scaledWinnings = team.winnings.map( el => el.val ).reduce( (a,b) => a + b, 0 );
         } );
 
         // Phase 2 relies on the data from *all* teams in phase 1 being calculated.
         // we want to know relative data -- such as whether this team's winnings are representative
         // of the top teams in the world, or if a team has beaten a typical number of opponents.
-        let referencePrizePool     = nthHighest( teams.map( t => t.scaledPrizePool ), context.getOutlierCount() );
+        let referenceWinnings     = nthHighest( teams.map( t => t.scaledWinnings ), context.getOutlierCount() );
         let referenceOpponentCount = nthHighest( teams.map( t => t.distinctTeamsDefeated ), context.getOutlierCount() );
-        let referenceLanWins       = nthHighest( teams.map( t => t.lanWins ), context.getOutlierCount() );
+        let referenceLanWins       = nthHighest( teams.map( t => t.scaledLanWins ), context.getOutlierCount() );
 
         teams.forEach( team => {
-            team.winnings = Math.min( team.scaledPrizePool / referencePrizePool, 1 );
-            team.teamsDefeated = Math.min( team.distinctTeamsDefeated / referenceOpponentCount, 1 );
-            team.lanParticipation = Math.min( team.lanWins / referenceLanWins, 1 );
+            team.bountyOffered = Math.min( team.scaledWinnings / referenceWinnings, 1 );
+            team.ownNetwork = Math.min( team.distinctTeamsDefeated / referenceOpponentCount, 1 );
+            team.lanParticipation = Math.min( team.scaledLanWins / referenceLanWins, 1 );
         } );
 
         // Phase 3 looks at each team's opponents and rates each team highly if it can regularly win against other prestigous teams.
@@ -173,36 +194,41 @@ class Team {
             // Bounties (and your opponents' networks) are 'buckets' that fill up as you win matches.
             // Bounties/Networks are scaled by the stakes (i.e., prize pool) of the event where they occur and the age of the result
             // We only consider the top N best outcomes, post-scaling. So there's never any harm in playing in a low-stakes match.
-            let bucketSize = 10;
             let bounties = [];
             let network = [];
 
             team.wonMatches.forEach( teamMatch => {
+                let id = teamMatch.match.umid;
                 let timestampModifier = context.getTimestampModifier( teamMatch.match.matchStartTime );
-                let prizepool = Math.max(1, teamMatch.team.eventMap.get( teamMatch.match.eventId ).event.prizePool);
-                let stakesModifier = curveFunction( Math.min( prizepool / 1000000, 1 ) ); //prizepool of the event is curved the same as a bounty.
-                let matchModifier = timestampModifier * stakesModifier;
+                let prizepool = getPrizePool( teamMatch );
+                let stakesModifier = curveFunction( Math.min( prizepool / 1000000, 1 ) ); //prizepool of the event is curved the same as a bounty, and is limited to $1,000,000.
+                let matchContext = timestampModifier * stakesModifier;
 
-                bounties.push( teamMatch.opponent.winnings * matchModifier );
-                network.push( teamMatch.opponent.teamsDefeated * matchModifier );
+                let scaledBounty = teamMatch.opponent.bountyOffered * matchContext;
+                let scaledNetwork = teamMatch.opponent.ownNetwork * matchContext;
+
+                bounties.push( { id: id, context: stakesModifier, base: teamMatch.opponent.bountyOffered, val: scaledBounty } );
+                network.push(  { id: id, context: stakesModifier, base: teamMatch.opponent.ownNetwork   , val: scaledNetwork } );
             } );
     
-            bounties.sort( (a,b) => b - a );
-            team.opponentWinnings = bounties.slice(0,bucketSize).reduce( (a,b) => a + b, 0 ) / bucketSize;
+            bounties.sort( (a,b) => b.val - a.val );
+            team.bounties = bounties.slice(0,bucketSize);
+            team.opponentBounties = team.bounties.map( el => el.val ).reduce( (a,b) => a + b, 0 ) / bucketSize;
 
-            network.sort( (a,b) => b - a );
-            team.opponentVictories = network.slice(0,bucketSize).reduce( (a,b) => a + b, 0 ) / bucketSize;
+            network.sort( (a,b) => b.val - a.val );
+            team.network = network.slice(0,bucketSize);
+            team.opponentNetwork = team.network.map( el => el.val ).reduce( (a,b) => a + b, 0 ) / bucketSize;
         } );
 
         // Finally, build modifiers from calculated values
         
         teams.forEach( team => {
-            team.modifiers.bountyCollected  = curveFunction( team.opponentWinnings );
-            team.modifiers.bountyOffered    = curveFunction( team.winnings );
-            team.modifiers.opponentNetwork  = powerFunction( team.opponentVictories );
-            team.modifiers.ownNetwork       = powerFunction( team.teamsDefeated );
+            team.modifiers.bountyCollected  = curveFunction( team.opponentBounties );
+            team.modifiers.bountyOffered    = curveFunction( team.bountyOffered );
+            team.modifiers.opponentNetwork  = powerFunction( team.opponentNetwork );
+            team.modifiers.ownNetwork       = powerFunction( team.ownNetwork );
             team.modifiers.lanFactor        = powerFunction( team.lanParticipation );
-        } );
+        } );        
     }
 }
 

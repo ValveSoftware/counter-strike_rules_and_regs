@@ -1,6 +1,7 @@
 "use strict";
 
 const Ranking = require('./ranking');
+const Report = require('./report');
 const RegionList = ['Europe', 'Americas', 'Asia'];
 
 function run()
@@ -28,11 +29,7 @@ function run()
     }
 
     // Print markdown table for results
-    console.log( `### ${standings} as of ${strDate}` );
-    console.log( '' );
-    Ranking.displayRankings( teams, regions );
-    console.log( '' );
-    console.log( '_Event data for Regional Standings provided by HLTV.org_' );
+    Report.generateOutput( teams, regions, strDate );
 }
 
 run();
