@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                  |
+| Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          11 |     200 | 2024-04-17 | NKT         | L   | 1.000      | -            | -                | -                | -         |         -24.13 | AceX, Haski4, Sange, Soundwave, ZinGY |
-|          10 |     599 | 2024-04-03 | TheMongolz  | L   | 1.000      | -            | -                | -                | -         |          -1.21 | AceX, Haski4, Sange, Soundwave, ZinGY |
-|           9 |     626 | 2024-04-02 | Lynn Vision | L   | 1.000      | -            | -                | -                | -         |          -2.74 | AceX, Haski4, Sange, Soundwave, ZinGY |
-|           8 |     631 | 2024-04-02 | TheMongolz  | W   | 1.000      | 0.143        | 0.247 (0.035)    | 0.587 (0.084)    | 0 (0.000) |          30.46 | AceX, Haski4, Sange, Soundwave, ZinGY |
-|           7 |     991 | 2024-03-13 | TYLOO       | W   | 0.932      | 0.143        | 0.055 (0.007)    | 0.490 (0.065)    | 0 (0.000) |          22.35 | AceX, Haski4, Sange, Soundwave, ZinGY |
-|           6 |     996 | 2024-03-13 | The Huns    | W   | 0.931      | 0.143        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           8.83 | AceX, Haski4, Sange, Soundwave, ZinGY |
-|           5 |    1574 | 2024-02-16 | VexX        | L   | 0.763      | -            | -                | -                | -         |         -12.02 | AceX, Haski4, Sange, Soundwave, ZinGY |
-|           4 |    2014 | 2024-01-24 | Wings Up    | L   | 0.605      | -            | -                | -                | -         |         -10.50 | AceX, Haski4, Sange, Soundwave, ZinGY |
-|           3 |    2898 | 2023-12-06 | TheMongolz  | L   | 0.278      | -            | -                | -                | -         |          -0.24 | 910, bLitz, mzinho, Senzu, Techno     |
-|           2 |    2928 | 2023-12-05 | Clutch      | W   | 0.272      | 0.416        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           2.41 | clouden, flame, hasteka, IMAGINE, IZR |
-|           1 |    3285 | 2023-11-16 | Newhappy    | L   | 0.144      | -            | -                | -                | -         |          -2.21 | AceX, Haski4, Sange, Soundwave, zeins |
+|           11 |      200 | 2024-04-17 | NKT         | L   | 1.000      | -            | -                | -                | -         |   -24.13 | AceX, Haski4, Sange, Soundwave, ZinGY |
+|           10 |      599 | 2024-04-03 | TheMongolz  | L   | 1.000      | -            | -                | -                | -         |    -1.21 | AceX, Haski4, Sange, Soundwave, ZinGY |
+|            9 |      626 | 2024-04-02 | Lynn Vision | L   | 1.000      | -            | -                | -                | -         |    -2.74 | AceX, Haski4, Sange, Soundwave, ZinGY |
+|            8 |      631 | 2024-04-02 | TheMongolz  | W   | 1.000      | 0.143        | 0.247 (0.035)    | 0.587 (0.084)    | 0 (0.000) |    30.46 | AceX, Haski4, Sange, Soundwave, ZinGY |
+|            7 |      991 | 2024-03-13 | TYLOO       | W   | 0.932      | 0.143        | 0.055 (0.007)    | 0.490 (0.065)    | 0 (0.000) |    22.35 | AceX, Haski4, Sange, Soundwave, ZinGY |
+|            6 |      996 | 2024-03-13 | The Huns    | W   | 0.931      | 0.143        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.83 | AceX, Haski4, Sange, Soundwave, ZinGY |
+|            5 |     1574 | 2024-02-16 | VexX        | L   | 0.763      | -            | -                | -                | -         |   -12.02 | AceX, Haski4, Sange, Soundwave, ZinGY |
+|            4 |     2014 | 2024-01-24 | Wings Up    | L   | 0.605      | -            | -                | -                | -         |   -10.50 | AceX, Haski4, Sange, Soundwave, ZinGY |
+|            3 |     2898 | 2023-12-06 | TheMongolz  | L   | 0.278      | -            | -                | -                | -         |    -0.24 | 910, bLitz, mzinho, Senzu, Techno     |
+|            2 |     2928 | 2023-12-05 | Clutch      | W   | 0.272      | 0.416        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.41 | clouden, flame, hasteka, IMAGINE, IZR |
+|            1 |     3285 | 2023-11-16 | Newhappy    | L   | 0.144      | -            | -                | -                | -         |    -2.21 | AceX, Haski4, Sange, Soundwave, zeins |
 
 <br />
 <span id="table2"></span><br />

@@ -34,30 +34,30 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                         |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          22 |    1573 | 2024-02-16 | FlyQuest          | L   | 0.763      | -            | -                | -                | -         |          -1.63 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|          21 |    1598 | 2024-02-16 | MAG               | L   | 0.759      | -            | -                | -                | -         |         -15.31 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|          20 |    1603 | 2024-02-16 | Newhappy          | L   | 0.758      | -            | -                | -                | -         |         -11.26 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|          19 |    1625 | 2024-02-15 | The Huns          | W   | 0.751      | 0.143        | 0.000 (0.000)    | 0.232 (0.025)    | 0 (0.000) |           9.59 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|          18 |    1668 | 2024-02-14 | ZEUS              | W   | 0.745      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           4.19 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|          17 |    1859 | 2024-02-02 | Rare Atom         | L   | 0.665      | -            | -                | -                | -         |          -8.01 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2   |
-|          16 |    1866 | 2024-02-02 | ATOX              | W   | 0.664      | 0.143        | 0.007 (0.001)    | 0.329 (0.031)    | 0 (0.000) |          13.98 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2   |
-|          15 |    1890 | 2024-02-01 | Newhappy          | W   | 0.658      | 0.143        | 0.005 (0.000)    | 0.238 (0.022)    | 0 (0.000) |          11.73 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2   |
-|          14 |    1892 | 2024-02-01 | Steel Helmet      | W   | 0.658      | 0.143        | 0.021 (0.002)    | 0.131 (0.012)    | 0 (0.000) |          11.26 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2   |
-|          13 |    1896 | 2024-02-01 | TYLOO             | L   | 0.657      | -            | -                | -                | -         |          -3.38 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2   |
-|          12 |    2000 | 2024-01-25 | Wings Up          | L   | 0.611      | -            | -                | -                | -         |          -9.26 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|          11 |    2011 | 2024-01-24 | -72c              | W   | 0.605      | 0.143        | 0.003 (0.000)    | 0.069 (0.006)    | 0 (0.000) |           9.32 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|          10 |    2063 | 2024-01-22 | Steel Helmet      | L   | 0.592      | -            | -                | -                | -         |          -8.32 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|           9 |    2130 | 2024-01-20 | The Huns          | L   | 0.579      | -            | -                | -                | -         |         -11.96 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|           8 |    2191 | 2024-01-19 | ATOX              | L   | 0.571      | -            | -                | -                | -         |          -6.30 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|           7 |    2196 | 2024-01-19 | Eruption          | W   | 0.571      | 0.143        | 0.000 (0.000)    | 0.091 (0.007)    | 0 (0.000) |           7.25 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|           6 |    2377 | 2024-01-15 | Fort Arena        | W   | 0.545      | 0.143        | 0.000 (0.000)    | 0.025 (0.002)    | 0 (0.000) |           3.27 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|           5 |    2381 | 2024-01-15 | MungYu            | L   | 0.545      | -            | -                | -                | -         |         -12.32 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|           4 |    2383 | 2024-01-15 | Chinggis Warriors | W   | 0.545      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           3.09 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|           3 |    2867 | 2023-12-07 | TheMongolz        | L   | 0.285      | -            | -                | -                | -         |          -0.22 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|           2 |    2897 | 2023-12-06 | Lynn Vision       | L   | 0.279      | -            | -                | -                | -         |          -0.45 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
-|           1 |    2927 | 2023-12-05 | ATOX              | W   | 0.272      | 0.416        | 0.007 (0.001)    | 0.329 (0.037)    | 0 (0.000) |           5.68 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|           22 |     1573 | 2024-02-16 | FlyQuest          | L   | 0.763      | -            | -                | -                | -         |    -1.63 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|           21 |     1598 | 2024-02-16 | MAG               | L   | 0.759      | -            | -                | -                | -         |   -15.31 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|           20 |     1603 | 2024-02-16 | Newhappy          | L   | 0.758      | -            | -                | -                | -         |   -11.26 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|           19 |     1625 | 2024-02-15 | The Huns          | W   | 0.751      | 0.143        | 0.000 (0.000)    | 0.232 (0.025)    | 0 (0.000) |     9.59 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|           18 |     1668 | 2024-02-14 | ZEUS              | W   | 0.745      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.19 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|           17 |     1859 | 2024-02-02 | Rare Atom         | L   | 0.665      | -            | -                | -                | -         |    -8.01 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2   |
+|           16 |     1866 | 2024-02-02 | ATOX              | W   | 0.664      | 0.143        | 0.007 (0.001)    | 0.329 (0.031)    | 0 (0.000) |    13.98 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2   |
+|           15 |     1890 | 2024-02-01 | Newhappy          | W   | 0.658      | 0.143        | 0.005 (0.000)    | 0.238 (0.022)    | 0 (0.000) |    11.73 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2   |
+|           14 |     1892 | 2024-02-01 | Steel Helmet      | W   | 0.658      | 0.143        | 0.021 (0.002)    | 0.131 (0.012)    | 0 (0.000) |    11.26 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2   |
+|           13 |     1896 | 2024-02-01 | TYLOO             | L   | 0.657      | -            | -                | -                | -         |    -3.38 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2   |
+|           12 |     2000 | 2024-01-25 | Wings Up          | L   | 0.611      | -            | -                | -                | -         |    -9.26 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|           11 |     2011 | 2024-01-24 | -72c              | W   | 0.605      | 0.143        | 0.003 (0.000)    | 0.069 (0.006)    | 0 (0.000) |     9.32 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|           10 |     2063 | 2024-01-22 | Steel Helmet      | L   | 0.592      | -            | -                | -                | -         |    -8.32 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|            9 |     2130 | 2024-01-20 | The Huns          | L   | 0.579      | -            | -                | -                | -         |   -11.96 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|            8 |     2191 | 2024-01-19 | ATOX              | L   | 0.571      | -            | -                | -                | -         |    -6.30 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|            7 |     2196 | 2024-01-19 | Eruption          | W   | 0.571      | 0.143        | 0.000 (0.000)    | 0.091 (0.007)    | 0 (0.000) |     7.25 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|            6 |     2377 | 2024-01-15 | Fort Arena        | W   | 0.545      | 0.143        | 0.000 (0.000)    | 0.025 (0.002)    | 0 (0.000) |     3.27 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|            5 |     2381 | 2024-01-15 | MungYu            | L   | 0.545      | -            | -                | -                | -         |   -12.32 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|            4 |     2383 | 2024-01-15 | Chinggis Warriors | W   | 0.545      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.09 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|            3 |     2867 | 2023-12-07 | TheMongolz        | L   | 0.285      | -            | -                | -                | -         |    -0.22 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|            2 |     2897 | 2023-12-06 | Lynn Vision       | L   | 0.279      | -            | -                | -                | -         |    -0.45 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
+|            1 |     2927 | 2023-12-05 | ATOX              | W   | 0.272      | 0.416        | 0.007 (0.001)    | 0.329 (0.037)    | 0 (0.000) |     5.68 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2 |
 
 <br />
 <span id="table2"></span><br />

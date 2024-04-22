@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster            |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          12 |      19 | 2024-04-21 | Fearless Cheetahs | W   | 1.000      | 0.331        | 0.033 (0.011)    | 0.214 (0.071)    | 0 (0.000) |          19.29 | Ann4, D7, KiTKaT, Nea, pullox   |
-|          11 |      49 | 2024-04-20 | Let Her Cook      | L   | 1.000      | -            | -                | -                | -         |         -15.98 | Ann4, D7, KiTKaT, Nea, pullox   |
-|          10 |      92 | 2024-04-19 | Pigeons           | L   | 1.000      | -            | -                | -                | -         |          -7.17 | Ann4, D7, KiTKaT, Nea, pullox   |
-|           9 |     349 | 2024-04-10 | NIP Impact        | W   | 1.000      | 0.331        | 0.008 (0.003)    | 0.278 (0.092)    | 0 (0.000) |          18.50 | Ann4, D7, KiTKaT, Nea, pullox   |
-|           8 |     487 | 2024-04-06 | NIP Impact        | L   | 1.000      | -            | -                | -                | -         |         -14.01 | Ann4, D7, KiTKaT, Nea, pullox   |
-|           7 |     672 | 2024-03-28 | BIG EQUIPA        | W   | 1.000      | 0.331        | 0.007 (0.002)    | 0.376 (0.124)    | 0 (0.000) |          17.24 | Ann4, D7, KiTKaT, Nea, pullox   |
-|           6 |     798 | 2024-03-21 | Astralis W        | W   | 0.987      | 0.331        | 0.005 (0.001)    | 0.082 (0.027)    | 0 (0.000) |          13.10 | Ann4, D7, KiTKaT, Nea, pullox   |
-|           5 |     979 | 2024-03-13 | ENCE Athena       | L   | 0.934      | -            | -                | -                | -         |         -14.55 | Ann4, D7, KiTKaT, Nea, pullox   |
-|           4 |    1409 | 2024-02-24 | BIG EQUIPA        | L   | 0.812      | -            | -                | -                | -         |         -11.97 | Ann4, D7, KiTKaT, Nea, pullox   |
-|           3 |    1647 | 2024-02-14 | Spirit fe         | W   | 0.748      | 0.143        | 0.008 (0.001)    | 0.123 (0.013)    | 0 (0.000) |          10.68 | Ann4, D7, KiTKaT, Nea, pullox   |
-|           2 |    2085 | 2024-01-21 | Nemesis fe        | L   | 0.586      | -            | -                | -                | -         |         -10.87 | Ann4, D7, KiTKaT, kr4sy, pullox |
-|           1 |    3849 | 2023-10-25 | G2 Oya            | L   | 0.000      | -            | -                | -                | -         |          -0.00 | Ann4, KiKi, KiTKaT, Nea, pullox |
+|           12 |       19 | 2024-04-21 | Fearless Cheetahs | W   | 1.000      | 0.331        | 0.033 (0.011)    | 0.214 (0.071)    | 0 (0.000) |    19.29 | Ann4, D7, KiTKaT, Nea, pullox   |
+|           11 |       49 | 2024-04-20 | Let Her Cook      | L   | 1.000      | -            | -                | -                | -         |   -15.98 | Ann4, D7, KiTKaT, Nea, pullox   |
+|           10 |       92 | 2024-04-19 | Pigeons           | L   | 1.000      | -            | -                | -                | -         |    -7.17 | Ann4, D7, KiTKaT, Nea, pullox   |
+|            9 |      349 | 2024-04-10 | NIP Impact        | W   | 1.000      | 0.331        | 0.008 (0.003)    | 0.278 (0.092)    | 0 (0.000) |    18.50 | Ann4, D7, KiTKaT, Nea, pullox   |
+|            8 |      487 | 2024-04-06 | NIP Impact        | L   | 1.000      | -            | -                | -                | -         |   -14.01 | Ann4, D7, KiTKaT, Nea, pullox   |
+|            7 |      672 | 2024-03-28 | BIG EQUIPA        | W   | 1.000      | 0.331        | 0.007 (0.002)    | 0.376 (0.124)    | 0 (0.000) |    17.24 | Ann4, D7, KiTKaT, Nea, pullox   |
+|            6 |      798 | 2024-03-21 | Astralis W        | W   | 0.987      | 0.331        | 0.005 (0.001)    | 0.082 (0.027)    | 0 (0.000) |    13.10 | Ann4, D7, KiTKaT, Nea, pullox   |
+|            5 |      979 | 2024-03-13 | ENCE Athena       | L   | 0.934      | -            | -                | -                | -         |   -14.55 | Ann4, D7, KiTKaT, Nea, pullox   |
+|            4 |     1409 | 2024-02-24 | BIG EQUIPA        | L   | 0.812      | -            | -                | -                | -         |   -11.97 | Ann4, D7, KiTKaT, Nea, pullox   |
+|            3 |     1647 | 2024-02-14 | Spirit fe         | W   | 0.748      | 0.143        | 0.008 (0.001)    | 0.123 (0.013)    | 0 (0.000) |    10.68 | Ann4, D7, KiTKaT, Nea, pullox   |
+|            2 |     2085 | 2024-01-21 | Nemesis fe        | L   | 0.586      | -            | -                | -                | -         |   -10.87 | Ann4, D7, KiTKaT, kr4sy, pullox |
+|            1 |     3849 | 2023-10-25 | G2 Oya            | L   | 0.000      | -            | -                | -                | -         |    -0.00 | Ann4, KiKi, KiTKaT, Nea, pullox |
 
 <br />
 <span id="table2"></span><br />

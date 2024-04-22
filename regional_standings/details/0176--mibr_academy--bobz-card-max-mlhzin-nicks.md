@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster               |
+| Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          11 |     896 | 2024-03-16 | Case         | L   | 0.954      | -            | -                | -                | -         |          -7.34 | bobz, card, max, mlhzin, nicks     |
-|          10 |     914 | 2024-03-15 | ODDIK        | L   | 0.947      | -            | -                | -                | -         |          -5.40 | bobz, card, max, mlhzin, nicks     |
-|           9 |     946 | 2024-03-14 | Flamengo     | W   | 0.941      | 0.303        | 0.000 (0.000)    | 0.114 (0.032)    | 0 (0.000) |          10.46 | bobz, card, max, mlhzin, nicks     |
-|           8 |     974 | 2024-03-13 | Corinthians  | W   | 0.934      | 0.303        | 0.001 (0.000)    | 0.150 (0.042)    | 0 (0.000) |          14.00 | bobz, card, max, mlhzin, nicks     |
-|           7 |    1025 | 2024-03-11 | Flamengo     | L   | 0.921      | -            | -                | -                | -         |         -18.58 | bobz, card, max, mlhzin, nicks     |
-|           6 |    1436 | 2024-02-22 | Galorys      | L   | 0.801      | -            | -                | -                | -         |          -6.93 | bobz, card, max, mlhzin, nicks     |
-|           5 |    1608 | 2024-02-15 | inSanitY     | W   | 0.754      | 0.271        | 0.000 (0.000)    | 0.024 (0.005)    | 0 (0.000) |           5.08 | bobz, card, max, mlhzin, nicks     |
-|           4 |    1648 | 2024-02-14 | paiN Academy | W   | 0.748      | 0.271        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           5.08 | bobz, card, max, mlhzin, nicks     |
-|           3 |    3663 | 2023-10-30 | Legacy       | L   | 0.034      | -            | -                | -                | -         |          -0.08 | bobz, brn$, card, diozera, nicks   |
-|           2 |    3810 | 2023-10-26 | ODDIK        | L   | 0.007      | -            | -                | -                | -         |          -0.04 | bobz, card, diozera, mlhzin, nicks |
-|           1 |    3844 | 2023-10-25 | RED Canids   | L   | 0.000      | -            | -                | -                | -         |          -0.00 | bobz, card, diozera, mlhzin, nicks |
+|           11 |      896 | 2024-03-16 | Case         | L   | 0.954      | -            | -                | -                | -         |    -7.34 | bobz, card, max, mlhzin, nicks     |
+|           10 |      914 | 2024-03-15 | ODDIK        | L   | 0.947      | -            | -                | -                | -         |    -5.40 | bobz, card, max, mlhzin, nicks     |
+|            9 |      946 | 2024-03-14 | Flamengo     | W   | 0.941      | 0.303        | 0.000 (0.000)    | 0.114 (0.032)    | 0 (0.000) |    10.46 | bobz, card, max, mlhzin, nicks     |
+|            8 |      974 | 2024-03-13 | Corinthians  | W   | 0.934      | 0.303        | 0.001 (0.000)    | 0.150 (0.042)    | 0 (0.000) |    14.00 | bobz, card, max, mlhzin, nicks     |
+|            7 |     1025 | 2024-03-11 | Flamengo     | L   | 0.921      | -            | -                | -                | -         |   -18.58 | bobz, card, max, mlhzin, nicks     |
+|            6 |     1436 | 2024-02-22 | Galorys      | L   | 0.801      | -            | -                | -                | -         |    -6.93 | bobz, card, max, mlhzin, nicks     |
+|            5 |     1608 | 2024-02-15 | inSanitY     | W   | 0.754      | 0.271        | 0.000 (0.000)    | 0.024 (0.005)    | 0 (0.000) |     5.08 | bobz, card, max, mlhzin, nicks     |
+|            4 |     1648 | 2024-02-14 | paiN Academy | W   | 0.748      | 0.271        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.08 | bobz, card, max, mlhzin, nicks     |
+|            3 |     3663 | 2023-10-30 | Legacy       | L   | 0.034      | -            | -                | -                | -         |    -0.08 | bobz, brn$, card, diozera, nicks   |
+|            2 |     3810 | 2023-10-26 | ODDIK        | L   | 0.007      | -            | -                | -                | -         |    -0.04 | bobz, card, diozera, mlhzin, nicks |
+|            1 |     3844 | 2023-10-25 | RED Canids   | L   | 0.000      | -            | -                | -                | -         |    -0.00 | bobz, card, diozera, mlhzin, nicks |
 
 <br />
 <span id="table2"></span><br />

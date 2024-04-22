@@ -34,24 +34,24 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                           |
+| Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          16 |      71 | 2024-04-19 | Nouns fe         | W   | 1.000      | 0.322        | 0.007 (0.002)    | 0.134 (0.043)    | 0 (0.000) |           8.22 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
-|          15 |     248 | 2024-04-14 | Shimmer          | W   | 1.000      | 0.250        | 0.020 (0.005)    | 0.316 (0.079)    | 0 (0.000) |          11.45 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
-|          14 |     330 | 2024-04-10 | cleanup crew fe  | W   | 1.000      | 0.322        | 0.006 (0.002)    | 0.089 (0.029)    | 0 (0.000) |           7.76 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
-|          13 |     518 | 2024-04-04 | COVEN            | W   | 1.000      | -            | -                | -                | 0 (0.000) |           4.47 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
-|          12 |     668 | 2024-03-28 | WG Bandits       | W   | 1.000      | -            | -                | -                | 0 (0.000) |           7.89 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
-|          11 |     817 | 2024-03-20 | Limitless Angels | W   | 0.982      | 0.322        | 0.010 (0.003)    | 0.180 (0.057)    | 0 (0.000) |          10.87 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
-|          10 |     963 | 2024-03-13 | Karma            | W   | 0.935      | 0.322        | 0.009 (0.003)    | 0.229 (0.069)    | 0 (0.000) |          10.52 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
-|           9 |    1138 | 2024-03-06 | Shimmer          | W   | 0.889      | 0.322        | 0.020 (0.006)    | 0.316 (0.091)    | 0 (0.000) |           9.81 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
-|           8 |    1226 | 2024-03-03 | Shimmer          | W   | 0.868      | 0.250        | 0.020 (0.004)    | 0.316 (0.069)    | 0 (0.000) |          10.29 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
-|           7 |    1368 | 2024-02-25 | Shimmer          | W   | 0.821      | 0.250        | 0.020 (0.004)    | 0.316 (0.065)    | 0 (0.000) |          10.47 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
-|           6 |    1783 | 2024-02-04 | Shimmer          | W   | 0.681      | 0.250        | 0.020 (0.003)    | 0.316 (0.054)    | -         |           9.30 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
-|           5 |    1938 | 2024-01-28 | Shimmer          | W   | 0.635      | 0.250        | 0.020 (0.003)    | 0.316 (0.050)    | -         |           9.19 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
-|           4 |    2823 | 2023-12-09 | HSG fe           | L   | 0.298      | -            | -                | -                | -         |          -5.45 | BiBiAhn, GooseBreeder, Kaoday, madss, uhKelsie |
-|           3 |    2842 | 2023-12-08 | Fluxo Demons     | L   | 0.291      | -            | -                | -                | -         |          -4.28 | BiBiAhn, GooseBreeder, Kaoday, madss, uhKelsie |
-|           2 |    3691 | 2023-10-29 | Cherry Bombs     | W   | 0.028      | -            | -                | -                | -         |           0.17 | BiBiAhn, GooseBreeder, Kaoday, madss, uhKelsie |
-|           1 |    3736 | 2023-10-28 | Shimmer          | W   | 0.022      | -            | -                | -                | -         |           0.31 | BiBiAhn, GooseBreeder, Kaoday, madss, uhKelsie |
+|           16 |       71 | 2024-04-19 | Nouns fe         | W   | 1.000      | 0.322        | 0.007 (0.002)    | 0.134 (0.043)    | 0 (0.000) |     8.22 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
+|           15 |      248 | 2024-04-14 | Shimmer          | W   | 1.000      | 0.250        | 0.020 (0.005)    | 0.316 (0.079)    | 0 (0.000) |    11.45 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
+|           14 |      330 | 2024-04-10 | cleanup crew fe  | W   | 1.000      | 0.322        | 0.006 (0.002)    | 0.089 (0.029)    | 0 (0.000) |     7.76 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
+|           13 |      518 | 2024-04-04 | COVEN            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.47 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
+|           12 |      668 | 2024-03-28 | WG Bandits       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.89 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
+|           11 |      817 | 2024-03-20 | Limitless Angels | W   | 0.982      | 0.322        | 0.010 (0.003)    | 0.180 (0.057)    | 0 (0.000) |    10.87 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
+|           10 |      963 | 2024-03-13 | Karma            | W   | 0.935      | 0.322        | 0.009 (0.003)    | 0.229 (0.069)    | 0 (0.000) |    10.52 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
+|            9 |     1138 | 2024-03-06 | Shimmer          | W   | 0.889      | 0.322        | 0.020 (0.006)    | 0.316 (0.091)    | 0 (0.000) |     9.81 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
+|            8 |     1226 | 2024-03-03 | Shimmer          | W   | 0.868      | 0.250        | 0.020 (0.004)    | 0.316 (0.069)    | 0 (0.000) |    10.29 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
+|            7 |     1368 | 2024-02-25 | Shimmer          | W   | 0.821      | 0.250        | 0.020 (0.004)    | 0.316 (0.065)    | 0 (0.000) |    10.47 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
+|            6 |     1783 | 2024-02-04 | Shimmer          | W   | 0.681      | 0.250        | 0.020 (0.003)    | 0.316 (0.054)    | -         |     9.30 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
+|            5 |     1938 | 2024-01-28 | Shimmer          | W   | 0.635      | 0.250        | 0.020 (0.003)    | 0.316 (0.050)    | -         |     9.19 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa    |
+|            4 |     2823 | 2023-12-09 | HSG fe           | L   | 0.298      | -            | -                | -                | -         |    -5.45 | BiBiAhn, GooseBreeder, Kaoday, madss, uhKelsie |
+|            3 |     2842 | 2023-12-08 | Fluxo Demons     | L   | 0.291      | -            | -                | -                | -         |    -4.28 | BiBiAhn, GooseBreeder, Kaoday, madss, uhKelsie |
+|            2 |     3691 | 2023-10-29 | Cherry Bombs     | W   | 0.028      | -            | -                | -                | -         |     0.17 | BiBiAhn, GooseBreeder, Kaoday, madss, uhKelsie |
+|            1 |     3736 | 2023-10-28 | Shimmer          | W   | 0.022      | -            | -                | -                | -         |     0.31 | BiBiAhn, GooseBreeder, Kaoday, madss, uhKelsie |
 
 <br />
 <span id="table2"></span><br />

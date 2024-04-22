@@ -34,35 +34,35 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                  |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          27 |    1912 | 2024-01-31 | TSM               | L   | 0.651      | -            | -                | -                | -         |         -10.72 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          26 |    1932 | 2024-01-30 | 500               | W   | 0.645      | 0.143        | -                | 0.622 (0.057)    | 0 (0.000) |           6.26 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          25 |    1961 | 2024-01-27 | SINNERS           | L   | 0.625      | -            | -                | -                | -         |          -3.88 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          24 |    2037 | 2024-01-23 | TSM               | W   | 0.598      | 0.371        | 0.016 (0.004)    | 0.299 (0.066)    | 0 (0.000) |           8.84 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          23 |    2538 | 2024-01-10 | IKLA              | L   | 0.514      | -            | -                | -                | -         |         -12.00 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          22 |    2780 | 2023-12-11 | Preasy            | L   | 0.311      | -            | -                | -                | -         |          -2.12 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          21 |    2793 | 2023-12-10 | ALTERNATE aTTaX   | L   | 0.305      | -            | -                | -                | -         |          -4.94 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          20 |    2843 | 2023-12-08 | Preasy            | W   | 0.291      | 0.371        | 0.205 (0.022)    | 0.723 (0.078)    | 0 (0.000) |           7.20 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          19 |    2916 | 2023-12-05 | ex-Anonymo        | L   | 0.273      | -            | -                | -                | -         |          -4.80 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          18 |    2925 | 2023-12-05 | TSM               | W   | 0.272      | 0.371        | 0.012 (0.001)    | 0.120 (0.012)    | 0 (0.000) |           3.31 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          17 |    2945 | 2023-12-03 | EYEBALLERS        | L   | 0.260      | -            | -                | -                | -         |          -3.16 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          16 |    2967 | 2023-12-02 | Ninjas in Pyjamas | W   | 0.254      | 0.427        | 0.058 (0.006)    | 0.069 (0.008)    | 1 (0.254) |           4.65 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          15 |    2991 | 2023-12-01 | Metizport         | W   | 0.246      | 0.427        | 0.008 (0.001)    | 0.041 (0.004)    | 1 (0.246) |           2.84 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          14 |    3012 | 2023-11-30 | Endpoint          | W   | 0.238      | 0.371        | 0.025 (0.002)    | 0.488 (0.043)    | 0 (0.000) |           4.01 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          13 |    3032 | 2023-11-28 | The Witchers      | W   | 0.226      | 0.371        | 0.038 (0.003)    | 0.172 (0.014)    | 0 (0.000) |           3.29 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          12 |    3034 | 2023-11-28 | FORZE             | L   | 0.225      | -            | -                | -                | -         |          -3.77 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          11 |    3055 | 2023-11-26 | Apeks Rebels      | W   | 0.211      | 0.348        | 0.008 (0.001)    | -                | 1 (0.211) |           1.83 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|          10 |    3124 | 2023-11-22 | Guild Eagles      | L   | 0.186      | -            | -                | -                | -         |          -1.37 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|           9 |    3141 | 2023-11-21 | PERA              | L   | 0.179      | -            | -                | -                | -         |          -2.97 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|           8 |    3240 | 2023-11-17 | Alliance          | W   | 0.151      | 0.384        | 0.020 (0.001)    | 0.855 (0.050)    | 0 (0.000) |           3.13 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|           7 |    3282 | 2023-11-16 | GenOne            | W   | 0.144      | -            | -                | -                | -         |           1.13 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|           6 |    3503 | 2023-11-06 | 00NATION          | L   | 0.078      | -            | -                | -                | -         |          -1.67 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|           5 |    3558 | 2023-11-03 | The Witchers      | W   | 0.060      | 0.371        | 0.038 (0.001)    | -                | -         |           0.86 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|           4 |    3583 | 2023-11-02 | EYEBALLERS        | W   | 0.052      | -            | -                | -                | -         |           1.03 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|           3 |    3613 | 2023-11-01 | ex-Anonymo        | W   | 0.045      | 0.371        | -                | 0.276 (0.005)    | -         |           0.65 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|           2 |    3642 | 2023-10-31 | HAVU              | W   | 0.039      | -            | -                | -                | -         |           0.66 | bobeksde, eraa, Golden, Plopski, Ro1f |
-|           1 |    3794 | 2023-10-27 | Pompa             | W   | 0.012      | -            | -                | -                | -         |           0.07 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           27 |     1912 | 2024-01-31 | TSM               | L   | 0.651      | -            | -                | -                | -         |   -10.72 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           26 |     1932 | 2024-01-30 | 500               | W   | 0.645      | 0.143        | -                | 0.622 (0.057)    | 0 (0.000) |     6.26 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           25 |     1961 | 2024-01-27 | SINNERS           | L   | 0.625      | -            | -                | -                | -         |    -3.88 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           24 |     2037 | 2024-01-23 | TSM               | W   | 0.598      | 0.371        | 0.016 (0.004)    | 0.299 (0.066)    | 0 (0.000) |     8.84 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           23 |     2538 | 2024-01-10 | IKLA              | L   | 0.514      | -            | -                | -                | -         |   -12.00 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           22 |     2780 | 2023-12-11 | Preasy            | L   | 0.311      | -            | -                | -                | -         |    -2.12 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           21 |     2793 | 2023-12-10 | ALTERNATE aTTaX   | L   | 0.305      | -            | -                | -                | -         |    -4.94 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           20 |     2843 | 2023-12-08 | Preasy            | W   | 0.291      | 0.371        | 0.205 (0.022)    | 0.723 (0.078)    | 0 (0.000) |     7.20 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           19 |     2916 | 2023-12-05 | ex-Anonymo        | L   | 0.273      | -            | -                | -                | -         |    -4.80 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           18 |     2925 | 2023-12-05 | TSM               | W   | 0.272      | 0.371        | 0.012 (0.001)    | 0.120 (0.012)    | 0 (0.000) |     3.31 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           17 |     2945 | 2023-12-03 | EYEBALLERS        | L   | 0.260      | -            | -                | -                | -         |    -3.16 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           16 |     2967 | 2023-12-02 | Ninjas in Pyjamas | W   | 0.254      | 0.427        | 0.058 (0.006)    | 0.069 (0.008)    | 1 (0.254) |     4.65 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           15 |     2991 | 2023-12-01 | Metizport         | W   | 0.246      | 0.427        | 0.008 (0.001)    | 0.041 (0.004)    | 1 (0.246) |     2.84 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           14 |     3012 | 2023-11-30 | Endpoint          | W   | 0.238      | 0.371        | 0.025 (0.002)    | 0.488 (0.043)    | 0 (0.000) |     4.01 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           13 |     3032 | 2023-11-28 | The Witchers      | W   | 0.226      | 0.371        | 0.038 (0.003)    | 0.172 (0.014)    | 0 (0.000) |     3.29 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           12 |     3034 | 2023-11-28 | FORZE             | L   | 0.225      | -            | -                | -                | -         |    -3.77 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           11 |     3055 | 2023-11-26 | Apeks Rebels      | W   | 0.211      | 0.348        | 0.008 (0.001)    | -                | 1 (0.211) |     1.83 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|           10 |     3124 | 2023-11-22 | Guild Eagles      | L   | 0.186      | -            | -                | -                | -         |    -1.37 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|            9 |     3141 | 2023-11-21 | PERA              | L   | 0.179      | -            | -                | -                | -         |    -2.97 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|            8 |     3240 | 2023-11-17 | Alliance          | W   | 0.151      | 0.384        | 0.020 (0.001)    | 0.855 (0.050)    | 0 (0.000) |     3.13 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|            7 |     3282 | 2023-11-16 | GenOne            | W   | 0.144      | -            | -                | -                | -         |     1.13 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|            6 |     3503 | 2023-11-06 | 00NATION          | L   | 0.078      | -            | -                | -                | -         |    -1.67 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|            5 |     3558 | 2023-11-03 | The Witchers      | W   | 0.060      | 0.371        | 0.038 (0.001)    | -                | -         |     0.86 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|            4 |     3583 | 2023-11-02 | EYEBALLERS        | W   | 0.052      | -            | -                | -                | -         |     1.03 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|            3 |     3613 | 2023-11-01 | ex-Anonymo        | W   | 0.045      | 0.371        | -                | 0.276 (0.005)    | -         |     0.65 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|            2 |     3642 | 2023-10-31 | HAVU              | W   | 0.039      | -            | -                | -                | -         |     0.66 | bobeksde, eraa, Golden, Plopski, Ro1f |
+|            1 |     3794 | 2023-10-27 | Pompa             | W   | 0.012      | -            | -                | -                | -         |     0.07 | bobeksde, eraa, Golden, Plopski, Ro1f |
 
 <br />
 <span id="table2"></span><br />

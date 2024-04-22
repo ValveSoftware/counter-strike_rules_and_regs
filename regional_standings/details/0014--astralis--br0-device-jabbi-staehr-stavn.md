@@ -34,32 +34,32 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                 |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          24 |     272 | 2024-04-13 | FaZe              | L   | 1.000      | -            | -                | -                | -         |          -1.91 | br0, device, jabbi, Staehr, stavn    |
-|          23 |     369 | 2024-04-10 | Virtus.pro        | W   | 1.000      | 0.624        | 0.530 (0.331)    | 0.605 (0.378)    | 1 (1.000) |          24.89 | br0, device, jabbi, Staehr, stavn    |
-|          22 |     421 | 2024-04-09 | FaZe              | W   | 1.000      | 0.624        | 1.000 (0.624)    | 0.737 (0.460)    | 1 (1.000) |          30.02 | br0, device, jabbi, Staehr, stavn    |
-|          21 |     453 | 2024-04-08 | Steel Helmet      | W   | 1.000      | 0.624        | 0.021 (0.013)    | 0.131 (0.082)    | 1 (1.000) |           0.63 | br0, device, jabbi, Staehr, stavn    |
-|          20 |    1423 | 2024-02-23 | 9 Pandas          | L   | 0.805      | -            | -                | -                | -         |         -20.91 | blameF, device, jabbi, Staehr, stavn |
-|          19 |    1442 | 2024-02-22 | ENCE              | L   | 0.798      | -            | -                | -                | -         |         -12.65 | blameF, device, jabbi, Staehr, stavn |
-|          18 |    1469 | 2024-02-21 | Monte             | W   | 0.792      | 0.143        | 0.236 (0.027)    | 0.598 (0.068)    | 1 (0.792) |           7.25 | blameF, device, jabbi, Staehr, stavn |
-|          17 |    1497 | 2024-02-20 | HEROIC            | L   | 0.785      | -            | -                | -                | -         |          -6.60 | blameF, device, jabbi, Staehr, stavn |
-|          16 |    1510 | 2024-02-19 | Spirit            | L   | 0.780      | -            | -                | -                | -         |          -1.32 | blameF, device, jabbi, Staehr, stavn |
-|          15 |    1520 | 2024-02-19 | Nexus             | W   | 0.778      | 0.143        | 0.023 (0.003)    | 0.544 (0.060)    | 1 (0.778) |           1.10 | blameF, device, jabbi, Staehr, stavn |
-|          14 |    1878 | 2024-02-01 | ENCE              | L   | 0.660      | -            | -                | -                | -         |         -12.57 | blameF, device, jabbi, Staehr, stavn |
-|          13 |    1907 | 2024-01-31 | HEROIC            | L   | 0.652      | -            | -                | -                | -         |          -6.45 | blameF, device, jabbi, Staehr, stavn |
-|          12 |    1944 | 2024-01-28 | BIG               | W   | 0.633      | 0.581        | 0.471 (0.173)    | 0.529 (0.194)    | 1 (0.633) |           5.57 | blameF, device, jabbi, Staehr, stavn |
-|          11 |    1960 | 2024-01-27 | Vitality          | L   | 0.625      | -            | -                | -                | -         |          -1.77 | blameF, device, jabbi, Staehr, stavn |
-|          10 |    2026 | 2024-01-23 | Vitality          | W   | 0.600      | 0.581        | 1.000 (0.349)    | 0.420 (0.147)    | 1 (0.600) |          17.38 | blameF, device, jabbi, Staehr, stavn |
-|           9 |    2053 | 2024-01-22 | Falcons           | W   | 0.593      | 0.581        | 0.389 (0.134)    | 0.201 (0.069)    | 1 (0.593) |           6.85 | blameF, device, jabbi, Staehr, stavn |
-|           8 |    2123 | 2024-01-20 | PERA              | W   | 0.579      | -            | -                | -                | -         |           0.76 | blameF, device, jabbi, Staehr, stavn |
-|           7 |    2173 | 2024-01-19 | AMKAL             | L   | 0.573      | -            | -                | -                | -         |         -15.96 | blameF, device, jabbi, Staehr, stavn |
-|           6 |    2238 | 2024-01-18 | Preasy            | W   | 0.566      | 0.143        | 0.205 (0.017)    | 0.723 (0.058)    | -         |           2.16 | blameF, device, jabbi, Staehr, stavn |
-|           5 |    2241 | 2024-01-18 | Enterprise        | W   | 0.566      | 0.143        | -                | 0.452 (0.037)    | -         |           1.26 | blameF, device, jabbi, Staehr, stavn |
-|           4 |    2410 | 2024-01-14 | Ninjas in Pyjamas | W   | 0.539      | 0.143        | 0.058 (0.005)    | -                | 1 (0.539) |           0.83 | blameF, device, jabbi, Staehr, stavn |
-|           3 |    2446 | 2024-01-13 | ALTERNATE aTTaX   | W   | 0.532      | -            | -                | -                | 1 (0.532) |           0.60 | blameF, device, jabbi, Staehr, stavn |
-|           2 |    2861 | 2023-12-07 | FURIA             | L   | 0.287      | -            | -                | -                | -         |          -3.93 | blameF, device, jabbi, Staehr, stavn |
-|           1 |    2902 | 2023-12-06 | Virtus.pro        | L   | 0.278      | -            | -                | -                | -         |          -1.89 | blameF, device, jabbi, Staehr, stavn |
+|           24 |      272 | 2024-04-13 | FaZe              | L   | 1.000      | -            | -                | -                | -         |    -1.91 | br0, device, jabbi, Staehr, stavn    |
+|           23 |      369 | 2024-04-10 | Virtus.pro        | W   | 1.000      | 0.624        | 0.530 (0.331)    | 0.605 (0.378)    | 1 (1.000) |    24.89 | br0, device, jabbi, Staehr, stavn    |
+|           22 |      421 | 2024-04-09 | FaZe              | W   | 1.000      | 0.624        | 1.000 (0.624)    | 0.737 (0.460)    | 1 (1.000) |    30.02 | br0, device, jabbi, Staehr, stavn    |
+|           21 |      453 | 2024-04-08 | Steel Helmet      | W   | 1.000      | 0.624        | 0.021 (0.013)    | 0.131 (0.082)    | 1 (1.000) |     0.63 | br0, device, jabbi, Staehr, stavn    |
+|           20 |     1423 | 2024-02-23 | 9 Pandas          | L   | 0.805      | -            | -                | -                | -         |   -20.91 | blameF, device, jabbi, Staehr, stavn |
+|           19 |     1442 | 2024-02-22 | ENCE              | L   | 0.798      | -            | -                | -                | -         |   -12.65 | blameF, device, jabbi, Staehr, stavn |
+|           18 |     1469 | 2024-02-21 | Monte             | W   | 0.792      | 0.143        | 0.236 (0.027)    | 0.598 (0.068)    | 1 (0.792) |     7.25 | blameF, device, jabbi, Staehr, stavn |
+|           17 |     1497 | 2024-02-20 | HEROIC            | L   | 0.785      | -            | -                | -                | -         |    -6.60 | blameF, device, jabbi, Staehr, stavn |
+|           16 |     1510 | 2024-02-19 | Spirit            | L   | 0.780      | -            | -                | -                | -         |    -1.32 | blameF, device, jabbi, Staehr, stavn |
+|           15 |     1520 | 2024-02-19 | Nexus             | W   | 0.778      | 0.143        | 0.023 (0.003)    | 0.544 (0.060)    | 1 (0.778) |     1.10 | blameF, device, jabbi, Staehr, stavn |
+|           14 |     1878 | 2024-02-01 | ENCE              | L   | 0.660      | -            | -                | -                | -         |   -12.57 | blameF, device, jabbi, Staehr, stavn |
+|           13 |     1907 | 2024-01-31 | HEROIC            | L   | 0.652      | -            | -                | -                | -         |    -6.45 | blameF, device, jabbi, Staehr, stavn |
+|           12 |     1944 | 2024-01-28 | BIG               | W   | 0.633      | 0.581        | 0.471 (0.173)    | 0.529 (0.194)    | 1 (0.633) |     5.57 | blameF, device, jabbi, Staehr, stavn |
+|           11 |     1960 | 2024-01-27 | Vitality          | L   | 0.625      | -            | -                | -                | -         |    -1.77 | blameF, device, jabbi, Staehr, stavn |
+|           10 |     2026 | 2024-01-23 | Vitality          | W   | 0.600      | 0.581        | 1.000 (0.349)    | 0.420 (0.147)    | 1 (0.600) |    17.38 | blameF, device, jabbi, Staehr, stavn |
+|            9 |     2053 | 2024-01-22 | Falcons           | W   | 0.593      | 0.581        | 0.389 (0.134)    | 0.201 (0.069)    | 1 (0.593) |     6.85 | blameF, device, jabbi, Staehr, stavn |
+|            8 |     2123 | 2024-01-20 | PERA              | W   | 0.579      | -            | -                | -                | -         |     0.76 | blameF, device, jabbi, Staehr, stavn |
+|            7 |     2173 | 2024-01-19 | AMKAL             | L   | 0.573      | -            | -                | -                | -         |   -15.96 | blameF, device, jabbi, Staehr, stavn |
+|            6 |     2238 | 2024-01-18 | Preasy            | W   | 0.566      | 0.143        | 0.205 (0.017)    | 0.723 (0.058)    | -         |     2.16 | blameF, device, jabbi, Staehr, stavn |
+|            5 |     2241 | 2024-01-18 | Enterprise        | W   | 0.566      | 0.143        | -                | 0.452 (0.037)    | -         |     1.26 | blameF, device, jabbi, Staehr, stavn |
+|            4 |     2410 | 2024-01-14 | Ninjas in Pyjamas | W   | 0.539      | 0.143        | 0.058 (0.005)    | -                | 1 (0.539) |     0.83 | blameF, device, jabbi, Staehr, stavn |
+|            3 |     2446 | 2024-01-13 | ALTERNATE aTTaX   | W   | 0.532      | -            | -                | -                | 1 (0.532) |     0.60 | blameF, device, jabbi, Staehr, stavn |
+|            2 |     2861 | 2023-12-07 | FURIA             | L   | 0.287      | -            | -                | -                | -         |    -3.93 | blameF, device, jabbi, Staehr, stavn |
+|            1 |     2902 | 2023-12-06 | Virtus.pro        | L   | 0.278      | -            | -                | -                | -         |    -1.89 | blameF, device, jabbi, Staehr, stavn |
 
 <br />
 <span id="table2"></span><br />

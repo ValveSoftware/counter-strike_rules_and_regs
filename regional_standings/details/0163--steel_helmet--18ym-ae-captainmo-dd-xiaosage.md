@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                    |
+| Match Played | Match ID | Date       | Opponent  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          14 |     423 | 2024-04-09 | Nemiga    | L   | 1.000      | -            | -                | -                | -         |          -4.55 | 18yM, AE, captainMo, DD, xiaosaGe       |
-|          13 |     453 | 2024-04-08 | Astralis  | L   | 1.000      | -            | -                | -                | -         |          -0.63 | 18yM, AE, captainMo, DD, xiaosaGe       |
-|          12 |    1892 | 2024-02-01 | GR        | L   | 0.658      | -            | -                | -                | -         |         -11.26 | 18yM, AE, captainMo, DD, xiaosaGe       |
-|          11 |    1895 | 2024-02-01 | Newhappy  | L   | 0.657      | -            | -                | -                | -         |          -9.80 | 18yM, AE, captainMo, DD, xiaosaGe       |
-|          10 |    2036 | 2024-01-23 | The Huns  | L   | 0.598      | -            | -                | -                | -         |         -12.18 | 18yM, Attacker, captainMo, DD, xiaosaGe |
-|           9 |    2040 | 2024-01-23 | Eruption  | W   | 0.598      | 0.143        | 0.000 (0.000)    | 0.091 (0.008)    | 0 (0.000) |           6.99 | 18yM, Attacker, captainMo, DD, xiaosaGe |
-|           8 |    2063 | 2024-01-22 | GR        | W   | 0.592      | 0.143        | 0.005 (0.000)    | 0.267 (0.023)    | 0 (0.000) |           8.32 | 18yM, Attacker, captainMo, DD, xiaosaGe |
-|           7 |    2146 | 2024-01-20 | Newhappy  | L   | 0.577      | -            | -                | -                | -         |          -8.28 | 18yM, AE, captainMo, DD, xiaosaGe       |
-|           6 |    2150 | 2024-01-19 | Nirvana   | W   | 0.576      | 0.143        | 0.000 (0.000)    | 0.024 (0.002)    | 0 (0.000) |           2.91 | 18yM, AE, captainMo, DD, xiaosaGe       |
-|           5 |    2209 | 2024-01-18 | Wings Up  | L   | 0.570      | -            | -                | -                | -         |          -9.82 | 18yM, AE, captainMo, DD, xiaosaGe       |
-|           4 |    2486 | 2024-01-12 | Rare Atom | W   | 0.525      | 0.143        | 0.024 (0.002)    | 0.233 (0.017)    | 0 (0.000) |           8.97 | 18yM, AE, captainMo, DD, xiaosaGe       |
-|           3 |    2488 | 2024-01-12 | Nirvana   | W   | 0.524      | 0.143        | 0.000 (0.000)    | 0.024 (0.002)    | 0 (0.000) |           2.82 | 18yM, AE, captainMo, DD, xiaosaGe       |
-|           2 |    2491 | 2024-01-12 | WDNMD     | W   | 0.524      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           2.75 | 18yM, AE, captainMo, DD, xiaosaGe       |
-|           1 |    3568 | 2023-11-03 | TYLOO     | L   | 0.057      | -            | -                | -                | -         |          -0.43 | 18yM, AE, captainMo, DD, xiaosaGe       |
+|           14 |      423 | 2024-04-09 | Nemiga    | L   | 1.000      | -            | -                | -                | -         |    -4.55 | 18yM, AE, captainMo, DD, xiaosaGe       |
+|           13 |      453 | 2024-04-08 | Astralis  | L   | 1.000      | -            | -                | -                | -         |    -0.63 | 18yM, AE, captainMo, DD, xiaosaGe       |
+|           12 |     1892 | 2024-02-01 | GR        | L   | 0.658      | -            | -                | -                | -         |   -11.26 | 18yM, AE, captainMo, DD, xiaosaGe       |
+|           11 |     1895 | 2024-02-01 | Newhappy  | L   | 0.657      | -            | -                | -                | -         |    -9.80 | 18yM, AE, captainMo, DD, xiaosaGe       |
+|           10 |     2036 | 2024-01-23 | The Huns  | L   | 0.598      | -            | -                | -                | -         |   -12.18 | 18yM, Attacker, captainMo, DD, xiaosaGe |
+|            9 |     2040 | 2024-01-23 | Eruption  | W   | 0.598      | 0.143        | 0.000 (0.000)    | 0.091 (0.008)    | 0 (0.000) |     6.99 | 18yM, Attacker, captainMo, DD, xiaosaGe |
+|            8 |     2063 | 2024-01-22 | GR        | W   | 0.592      | 0.143        | 0.005 (0.000)    | 0.267 (0.023)    | 0 (0.000) |     8.32 | 18yM, Attacker, captainMo, DD, xiaosaGe |
+|            7 |     2146 | 2024-01-20 | Newhappy  | L   | 0.577      | -            | -                | -                | -         |    -8.28 | 18yM, AE, captainMo, DD, xiaosaGe       |
+|            6 |     2150 | 2024-01-19 | Nirvana   | W   | 0.576      | 0.143        | 0.000 (0.000)    | 0.024 (0.002)    | 0 (0.000) |     2.91 | 18yM, AE, captainMo, DD, xiaosaGe       |
+|            5 |     2209 | 2024-01-18 | Wings Up  | L   | 0.570      | -            | -                | -                | -         |    -9.82 | 18yM, AE, captainMo, DD, xiaosaGe       |
+|            4 |     2486 | 2024-01-12 | Rare Atom | W   | 0.525      | 0.143        | 0.024 (0.002)    | 0.233 (0.017)    | 0 (0.000) |     8.97 | 18yM, AE, captainMo, DD, xiaosaGe       |
+|            3 |     2488 | 2024-01-12 | Nirvana   | W   | 0.524      | 0.143        | 0.000 (0.000)    | 0.024 (0.002)    | 0 (0.000) |     2.82 | 18yM, AE, captainMo, DD, xiaosaGe       |
+|            2 |     2491 | 2024-01-12 | WDNMD     | W   | 0.524      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.75 | 18yM, AE, captainMo, DD, xiaosaGe       |
+|            1 |     3568 | 2023-11-03 | TYLOO     | L   | 0.057      | -            | -                | -                | -         |    -0.43 | 18yM, AE, captainMo, DD, xiaosaGe       |
 
 <br />
 <span id="table2"></span><br />

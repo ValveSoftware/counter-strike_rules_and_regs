@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster             |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          11 |      85 | 2024-04-19 | Astralis W      | W   | 1.000      | 0.331        | 0.005 (0.002)    | 0.082 (0.027)    | 0 (0.000) |          13.72 | Aida, Emmsan, miLo, Waldee, xia  |
-|          10 |     465 | 2024-04-07 | ex-FORZE Ladies | L   | 1.000      | -            | -                | -                | -         |         -15.87 | Aida, Emmsan, miLo, Waldee, xia  |
-|           9 |     489 | 2024-04-06 | Pigeons         | L   | 1.000      | -            | -                | -                | -         |          -7.02 | Aida, Emmsan, miLo, Waldee, xia  |
-|           8 |     538 | 2024-04-04 | BIG EQUIPA      | L   | 1.000      | -            | -                | -                | -         |         -13.00 | Aida, Emmsan, miLo, Waldee, xia  |
-|           7 |     710 | 2024-03-27 | Pigeons         | L   | 1.000      | -            | -                | -                | -         |          -7.91 | Aida, Emmsan, miLo, Waldee, xia  |
-|           6 |     827 | 2024-03-20 | NIP Impact      | L   | 0.980      | -            | -                | -                | -         |         -14.34 | Aida, Emmsan, miLo, Waldee, xia  |
-|           5 |     979 | 2024-03-13 | GUILD fe        | W   | 0.934      | 0.331        | 0.009 (0.003)    | 0.220 (0.068)    | 0 (0.000) |          14.55 | Aida, Emmsan, miLo, Waldee, xia  |
-|           4 |    1377 | 2024-02-25 | NAVI Javelins   | L   | 0.818      | -            | -                | -                | -         |          -7.10 | Aida, Emmsan, miLo, Waldee, xia  |
-|           3 |    1407 | 2024-02-24 | Spirit fe       | W   | 0.812      | 0.238        | 0.008 (0.002)    | 0.123 (0.024)    | 0 (0.000) |          12.13 | Aida, Emmsan, miLo, Waldee, xia  |
-|           2 |    1649 | 2024-02-14 | more whiskey    | W   | 0.747      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           4.14 | Aida, Emmsan, miLo, Waldee, xia  |
-|           1 |    3845 | 2023-10-25 | VP.Angels       | W   | 0.000      | 0.329        | 0.006 (0.000)    | 0.082 (0.000)    | 0 (0.000) |           0.00 | manka, miLo, oxycet, Waldee, xia |
+|           11 |       85 | 2024-04-19 | Astralis W      | W   | 1.000      | 0.331        | 0.005 (0.002)    | 0.082 (0.027)    | 0 (0.000) |    13.72 | Aida, Emmsan, miLo, Waldee, xia  |
+|           10 |      465 | 2024-04-07 | ex-FORZE Ladies | L   | 1.000      | -            | -                | -                | -         |   -15.87 | Aida, Emmsan, miLo, Waldee, xia  |
+|            9 |      489 | 2024-04-06 | Pigeons         | L   | 1.000      | -            | -                | -                | -         |    -7.02 | Aida, Emmsan, miLo, Waldee, xia  |
+|            8 |      538 | 2024-04-04 | BIG EQUIPA      | L   | 1.000      | -            | -                | -                | -         |   -13.00 | Aida, Emmsan, miLo, Waldee, xia  |
+|            7 |      710 | 2024-03-27 | Pigeons         | L   | 1.000      | -            | -                | -                | -         |    -7.91 | Aida, Emmsan, miLo, Waldee, xia  |
+|            6 |      827 | 2024-03-20 | NIP Impact      | L   | 0.980      | -            | -                | -                | -         |   -14.34 | Aida, Emmsan, miLo, Waldee, xia  |
+|            5 |      979 | 2024-03-13 | GUILD fe        | W   | 0.934      | 0.331        | 0.009 (0.003)    | 0.220 (0.068)    | 0 (0.000) |    14.55 | Aida, Emmsan, miLo, Waldee, xia  |
+|            4 |     1377 | 2024-02-25 | NAVI Javelins   | L   | 0.818      | -            | -                | -                | -         |    -7.10 | Aida, Emmsan, miLo, Waldee, xia  |
+|            3 |     1407 | 2024-02-24 | Spirit fe       | W   | 0.812      | 0.238        | 0.008 (0.002)    | 0.123 (0.024)    | 0 (0.000) |    12.13 | Aida, Emmsan, miLo, Waldee, xia  |
+|            2 |     1649 | 2024-02-14 | more whiskey    | W   | 0.747      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.14 | Aida, Emmsan, miLo, Waldee, xia  |
+|            1 |     3845 | 2023-10-25 | VP.Angels       | W   | 0.000      | 0.329        | 0.006 (0.000)    | 0.082 (0.000)    | 0 (0.000) |     0.00 | manka, miLo, oxycet, Waldee, xia |
 
 <br />
 <span id="table2"></span><br />

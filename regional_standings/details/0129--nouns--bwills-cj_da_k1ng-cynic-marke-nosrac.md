@@ -34,27 +34,27 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                     |
+| Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          19 |    2666 | 2023-12-17 | FPL Friends      | L   | 0.356      | -            | -                | -                | -         |          -6.66 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|          18 |    2670 | 2023-12-17 | Carpe Diem       | W   | 0.355      | 0.294        | 0.011 (0.001)    | 0.315 (0.033)    | 0 (0.000) |           5.85 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|          17 |    2703 | 2023-12-16 | DNA              | W   | 0.349      | 0.294        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           1.39 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|          16 |    2755 | 2023-12-13 | M80              | L   | 0.329      | -            | -                | -                | -         |          -2.08 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|          15 |    2765 | 2023-12-12 | NRG              | W   | 0.322      | 0.303        | 0.007 (0.001)    | 0.633 (0.062)    | 0 (0.000) |           5.82 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|          14 |    2775 | 2023-12-11 | Akimbo           | W   | 0.315      | 0.303        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           1.28 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|          13 |    2827 | 2023-12-08 | Party Astronauts | L   | 0.295      | -            | -                | -                | -         |          -3.75 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|          12 |    2848 | 2023-12-07 | Carpe Diem       | W   | 0.289      | 0.500        | 0.011 (0.002)    | 0.315 (0.046)    | 0 (0.000) |           4.77 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|          11 |    2874 | 2023-12-06 | BOSS             | L   | 0.282      | -            | -                | -                | -         |          -2.78 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|          10 |    2905 | 2023-12-05 | Evil Geniuses    | W   | 0.275      | 0.500        | 0.007 (0.001)    | 0.013 (0.002)    | 0 (0.000) |           3.50 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|           9 |    3076 | 2023-11-25 | Eternal Fire     | L   | 0.206      | -            | -                | -                | -         |          -0.05 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|           8 |    3095 | 2023-11-24 | Monte            | L   | 0.199      | -            | -                | -                | -         |          -0.45 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|           7 |    3101 | 2023-11-24 | Eternal Fire     | W   | 0.198      | 0.500        | 0.338 (0.033)    | 0.587 (0.058)    | 1 (0.198) |           6.18 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|           6 |    3221 | 2023-11-17 | ARCRED           | L   | 0.154      | -            | -                | -                | -         |          -2.68 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|           5 |    3276 | 2023-11-16 | paiN             | L   | 0.145      | -            | -                | -                | -         |          -0.01 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|           4 |    3421 | 2023-11-10 | Elevate          | L   | 0.108      | -            | -                | -                | -         |          -1.12 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|           3 |    3449 | 2023-11-08 | Rocket           | L   | 0.095      | -            | -                | -                | -         |          -1.78 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|           2 |    3652 | 2023-10-31 | FURIA            | L   | 0.037      | -            | -                | -                | -         |          -0.02 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
-|           1 |    3682 | 2023-10-30 | HEROIC           | L   | 0.031      | -            | -                | -                | -         |          -0.47 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|           19 |     2666 | 2023-12-17 | FPL Friends      | L   | 0.356      | -            | -                | -                | -         |    -6.66 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|           18 |     2670 | 2023-12-17 | Carpe Diem       | W   | 0.355      | 0.294        | 0.011 (0.001)    | 0.315 (0.033)    | 0 (0.000) |     5.85 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|           17 |     2703 | 2023-12-16 | DNA              | W   | 0.349      | 0.294        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.39 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|           16 |     2755 | 2023-12-13 | M80              | L   | 0.329      | -            | -                | -                | -         |    -2.08 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|           15 |     2765 | 2023-12-12 | NRG              | W   | 0.322      | 0.303        | 0.007 (0.001)    | 0.633 (0.062)    | 0 (0.000) |     5.82 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|           14 |     2775 | 2023-12-11 | Akimbo           | W   | 0.315      | 0.303        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.28 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|           13 |     2827 | 2023-12-08 | Party Astronauts | L   | 0.295      | -            | -                | -                | -         |    -3.75 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|           12 |     2848 | 2023-12-07 | Carpe Diem       | W   | 0.289      | 0.500        | 0.011 (0.002)    | 0.315 (0.046)    | 0 (0.000) |     4.77 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|           11 |     2874 | 2023-12-06 | BOSS             | L   | 0.282      | -            | -                | -                | -         |    -2.78 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|           10 |     2905 | 2023-12-05 | Evil Geniuses    | W   | 0.275      | 0.500        | 0.007 (0.001)    | 0.013 (0.002)    | 0 (0.000) |     3.50 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|            9 |     3076 | 2023-11-25 | Eternal Fire     | L   | 0.206      | -            | -                | -                | -         |    -0.05 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|            8 |     3095 | 2023-11-24 | Monte            | L   | 0.199      | -            | -                | -                | -         |    -0.45 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|            7 |     3101 | 2023-11-24 | Eternal Fire     | W   | 0.198      | 0.500        | 0.338 (0.033)    | 0.587 (0.058)    | 1 (0.198) |     6.18 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|            6 |     3221 | 2023-11-17 | ARCRED           | L   | 0.154      | -            | -                | -                | -         |    -2.68 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|            5 |     3276 | 2023-11-16 | paiN             | L   | 0.145      | -            | -                | -                | -         |    -0.01 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|            4 |     3421 | 2023-11-10 | Elevate          | L   | 0.108      | -            | -                | -                | -         |    -1.12 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|            3 |     3449 | 2023-11-08 | Rocket           | L   | 0.095      | -            | -                | -                | -         |    -1.78 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|            2 |     3652 | 2023-10-31 | FURIA            | L   | 0.037      | -            | -                | -                | -         |    -0.02 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
+|            1 |     3682 | 2023-10-30 | HEROIC           | L   | 0.031      | -            | -                | -                | -         |    -0.47 | Bwills, cJ dA K1nG, cynic, MarKE, nosraC |
 
 <br />
 <span id="table2"></span><br />

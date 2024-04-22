@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                  |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          14 |      84 | 2024-04-19 | BIG EQUIPA        | L   | 1.000      | -            | -                | -                | -         |         -15.83 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|          13 |     238 | 2024-04-15 | NAVI Javelins     | L   | 1.000      | -            | -                | -                | -         |         -11.63 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|          12 |     251 | 2024-04-14 | Pigeons           | L   | 1.000      | -            | -                | -                | -         |          -9.00 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|          11 |     265 | 2024-04-13 | Astralis W        | W   | 1.000      | 0.303        | 0.005 (0.001)    | 0.082 (0.025)    | 0 (0.000) |           9.27 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|          10 |     307 | 2024-04-11 | Let Her Cook      | W   | 1.000      | 0.303        | 0.001 (0.000)    | 0.228 (0.069)    | 0 (0.000) |          12.05 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|           9 |     349 | 2024-04-10 | GUILD fe          | L   | 1.000      | -            | -                | -                | -         |         -18.50 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|           8 |     411 | 2024-04-09 | NAVI Javelins     | W   | 1.000      | 0.303        | 0.064 (0.019)    | 0.467 (0.141)    | 0 (0.000) |          19.92 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|           7 |     469 | 2024-04-07 | Pigeons           | L   | 1.000      | -            | -                | -                | -         |          -9.91 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|           6 |     474 | 2024-04-07 | Fearless Cheetahs | W   | 1.000      | 0.262        | 0.033 (0.009)    | 0.214 (0.056)    | 0 (0.000) |          17.65 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|           5 |     487 | 2024-04-06 | GUILD fe          | W   | 1.000      | 0.262        | 0.009 (0.002)    | 0.220 (0.058)    | 0 (0.000) |          14.01 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|           4 |     578 | 2024-04-03 | Astralis W        | W   | 1.000      | 0.331        | 0.005 (0.002)    | 0.082 (0.027)    | 0 (0.000) |          10.93 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|           3 |     827 | 2024-03-20 | ENCE Athena       | W   | 0.980      | 0.331        | 0.007 (0.002)    | 0.162 (0.053)    | 0 (0.000) |          14.34 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|           2 |    1125 | 2024-03-07 | Pigeons           | L   | 0.894      | -            | -                | -                | -         |          -8.77 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
-|           1 |    3846 | 2023-10-25 | BIG EQUIPA        | L   | 0.000      | -            | -                | -                | -         |          -0.00 | aiM, ASTRA, jenkon, Nayomy, Qiyarah   |
+|           14 |       84 | 2024-04-19 | BIG EQUIPA        | L   | 1.000      | -            | -                | -                | -         |   -15.83 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|           13 |      238 | 2024-04-15 | NAVI Javelins     | L   | 1.000      | -            | -                | -                | -         |   -11.63 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|           12 |      251 | 2024-04-14 | Pigeons           | L   | 1.000      | -            | -                | -                | -         |    -9.00 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|           11 |      265 | 2024-04-13 | Astralis W        | W   | 1.000      | 0.303        | 0.005 (0.001)    | 0.082 (0.025)    | 0 (0.000) |     9.27 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|           10 |      307 | 2024-04-11 | Let Her Cook      | W   | 1.000      | 0.303        | 0.001 (0.000)    | 0.228 (0.069)    | 0 (0.000) |    12.05 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|            9 |      349 | 2024-04-10 | GUILD fe          | L   | 1.000      | -            | -                | -                | -         |   -18.50 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|            8 |      411 | 2024-04-09 | NAVI Javelins     | W   | 1.000      | 0.303        | 0.064 (0.019)    | 0.467 (0.141)    | 0 (0.000) |    19.92 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|            7 |      469 | 2024-04-07 | Pigeons           | L   | 1.000      | -            | -                | -                | -         |    -9.91 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|            6 |      474 | 2024-04-07 | Fearless Cheetahs | W   | 1.000      | 0.262        | 0.033 (0.009)    | 0.214 (0.056)    | 0 (0.000) |    17.65 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|            5 |      487 | 2024-04-06 | GUILD fe          | W   | 1.000      | 0.262        | 0.009 (0.002)    | 0.220 (0.058)    | 0 (0.000) |    14.01 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|            4 |      578 | 2024-04-03 | Astralis W        | W   | 1.000      | 0.331        | 0.005 (0.002)    | 0.082 (0.027)    | 0 (0.000) |    10.93 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|            3 |      827 | 2024-03-20 | ENCE Athena       | W   | 0.980      | 0.331        | 0.007 (0.002)    | 0.162 (0.053)    | 0 (0.000) |    14.34 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|            2 |     1125 | 2024-03-07 | Pigeons           | L   | 0.894      | -            | -                | -                | -         |    -8.77 | aiM, jenkon, Nayomy, Qiyarah, ramziiN |
+|            1 |     3846 | 2023-10-25 | BIG EQUIPA        | L   | 0.000      | -            | -                | -                | -         |    -0.00 | aiM, ASTRA, jenkon, Nayomy, Qiyarah   |
 
 <br />
 <span id="table2"></span><br />

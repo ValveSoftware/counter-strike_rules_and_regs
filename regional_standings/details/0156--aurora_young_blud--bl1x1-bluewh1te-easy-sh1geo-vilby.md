@@ -34,29 +34,29 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                       |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          21 |     224 | 2024-04-16 | ALTERNATE aTTaX   | L   | 1.000      | -            | -                | -                | -         |          -9.57 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
-|          20 |     239 | 2024-04-15 | Sangal            | L   | 1.000      | -            | -                | -                | -         |         -13.21 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
-|          19 |     548 | 2024-04-04 | ENCE              | L   | 1.000      | -            | -                | -                | -         |          -0.85 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
-|          18 |    2193 | 2024-01-19 | Permitta          | L   | 0.571      | -            | -                | -                | -         |          -5.41 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
-|          17 |    2259 | 2024-01-18 | Zero Tenacity     | W   | 0.564      | 0.333        | 0.008 (0.001)    | 0.805 (0.151)    | 0 (0.000) |          11.20 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
-|          16 |    2301 | 2024-01-17 | MOUZ NXT          | L   | 0.558      | -            | -                | -                | -         |          -4.56 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
-|          15 |    2321 | 2024-01-16 | JANO              | L   | 0.555      | -            | -                | -                | -         |          -9.83 | Aerial, allu, doto, Jelo, Sm1llee          |
-|          14 |    2337 | 2024-01-16 | esmagaB           | W   | 0.554      | 0.143        | 0.015 (0.001)    | 0.342 (0.027)    | 0 (0.000) |          10.23 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
-|          13 |    2351 | 2024-01-16 | Lemondogs         | W   | 0.553      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           2.76 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
-|          12 |    2379 | 2024-01-15 | Spirit Academy    | W   | 0.545      | 0.333        | 0.020 (0.004)    | 0.245 (0.044)    | 0 (0.000) |          10.20 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
-|          11 |    2618 | 2023-12-29 | Metizport         | L   | 0.433      | -            | -                | -                | -         |          -2.47 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
-|          10 |    2621 | 2023-12-28 | The Witchers      | L   | 0.426      | -            | -                | -                | -         |          -5.62 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
-|           9 |    2625 | 2023-12-27 | Metizport         | W   | 0.419      | 0.371        | 0.136 (0.021)    | 1.000 (0.155)    | 0 (0.000) |          10.89 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
-|           8 |    3344 | 2023-11-13 | Gaimin Gladiators | L   | 0.127      | -            | -                | -                | -         |          -0.10 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
-|           7 |    3365 | 2023-11-12 | Entropiq          | L   | 0.120      | -            | -                | -                | -         |          -1.54 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
-|           6 |    3373 | 2023-11-12 | VP.Prodigy        | L   | 0.119      | -            | -                | -                | -         |          -1.97 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
-|           5 |    3396 | 2023-11-11 | ARCRED            | W   | 0.114      | 0.320        | 0.008 (0.000)    | 0.164 (0.006)    | 0 (0.000) |           1.85 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
-|           4 |    3409 | 2023-11-11 | ex-Anonymo        | W   | 0.112      | 0.435        | 0.027 (0.001)    | 0.276 (0.013)    | 0 (0.000) |           2.16 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
-|           3 |    3443 | 2023-11-09 | Spirit Academy    | W   | 0.097      | 0.435        | 0.020 (0.001)    | 0.245 (0.010)    | 0 (0.000) |           1.82 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
-|           2 |    3484 | 2023-11-07 | Sampi             | L   | 0.087      | -            | -                | -                | -         |          -0.42 | bl1x1, bluewh1te, lattykk, malinov, sh1geo |
-|           1 |    3497 | 2023-11-06 | FORZE             | L   | 0.080      | -            | -                | -                | -         |          -1.01 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
+|           21 |      224 | 2024-04-16 | ALTERNATE aTTaX   | L   | 1.000      | -            | -                | -                | -         |    -9.57 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
+|           20 |      239 | 2024-04-15 | Sangal            | L   | 1.000      | -            | -                | -                | -         |   -13.21 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
+|           19 |      548 | 2024-04-04 | ENCE              | L   | 1.000      | -            | -                | -                | -         |    -0.85 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
+|           18 |     2193 | 2024-01-19 | Permitta          | L   | 0.571      | -            | -                | -                | -         |    -5.41 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
+|           17 |     2259 | 2024-01-18 | Zero Tenacity     | W   | 0.564      | 0.333        | 0.008 (0.001)    | 0.805 (0.151)    | 0 (0.000) |    11.20 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
+|           16 |     2301 | 2024-01-17 | MOUZ NXT          | L   | 0.558      | -            | -                | -                | -         |    -4.56 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
+|           15 |     2321 | 2024-01-16 | JANO              | L   | 0.555      | -            | -                | -                | -         |    -9.83 | Aerial, allu, doto, Jelo, Sm1llee          |
+|           14 |     2337 | 2024-01-16 | esmagaB           | W   | 0.554      | 0.143        | 0.015 (0.001)    | 0.342 (0.027)    | 0 (0.000) |    10.23 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
+|           13 |     2351 | 2024-01-16 | Lemondogs         | W   | 0.553      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.76 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
+|           12 |     2379 | 2024-01-15 | Spirit Academy    | W   | 0.545      | 0.333        | 0.020 (0.004)    | 0.245 (0.044)    | 0 (0.000) |    10.20 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
+|           11 |     2618 | 2023-12-29 | Metizport         | L   | 0.433      | -            | -                | -                | -         |    -2.47 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
+|           10 |     2621 | 2023-12-28 | The Witchers      | L   | 0.426      | -            | -                | -                | -         |    -5.62 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
+|            9 |     2625 | 2023-12-27 | Metizport         | W   | 0.419      | 0.371        | 0.136 (0.021)    | 1.000 (0.155)    | 0 (0.000) |    10.89 | bl1x1, bluewh1te, easy, sh1geo, VILBy      |
+|            8 |     3344 | 2023-11-13 | Gaimin Gladiators | L   | 0.127      | -            | -                | -                | -         |    -0.10 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
+|            7 |     3365 | 2023-11-12 | Entropiq          | L   | 0.120      | -            | -                | -                | -         |    -1.54 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
+|            6 |     3373 | 2023-11-12 | VP.Prodigy        | L   | 0.119      | -            | -                | -                | -         |    -1.97 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
+|            5 |     3396 | 2023-11-11 | ARCRED            | W   | 0.114      | 0.320        | 0.008 (0.000)    | 0.164 (0.006)    | 0 (0.000) |     1.85 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
+|            4 |     3409 | 2023-11-11 | ex-Anonymo        | W   | 0.112      | 0.435        | 0.027 (0.001)    | 0.276 (0.013)    | 0 (0.000) |     2.16 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
+|            3 |     3443 | 2023-11-09 | Spirit Academy    | W   | 0.097      | 0.435        | 0.020 (0.001)    | 0.245 (0.010)    | 0 (0.000) |     1.82 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
+|            2 |     3484 | 2023-11-07 | Sampi             | L   | 0.087      | -            | -                | -                | -         |    -0.42 | bl1x1, bluewh1te, lattykk, malinov, sh1geo |
+|            1 |     3497 | 2023-11-06 | FORZE             | L   | 0.080      | -            | -                | -                | -         |    -1.01 | bl1x1, bluewh1te, easy, malinov, sh1geo    |
 
 <br />
 <span id="table2"></span><br />

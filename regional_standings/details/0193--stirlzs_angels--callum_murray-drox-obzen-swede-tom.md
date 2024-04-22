@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                     |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          10 |    3243 | 2023-11-17 | sunday school      | L   | 0.151      | -            | -                | -                | -         |          -2.04 | callum_murray, Drox, ObZen, swede, toM   |
-|           9 |    3337 | 2023-11-14 | Bad News Kangaroos | L   | 0.130      | -            | -                | -                | -         |          -0.48 | callum_murray, Drox, kyson, ObZen, toM   |
-|           8 |    3389 | 2023-11-11 | Cobro's Cobros     | W   | 0.116      | 0.313        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           1.01 | callum_murray, Drox, ObZen, swede, toM   |
-|           7 |    3415 | 2023-11-11 | Mindfreak          | L   | 0.110      | -            | -                | -                | -         |          -1.50 | callum_murray, Drox, ObZen, swede, toM   |
-|           6 |    3506 | 2023-11-06 | sunday school      | W   | 0.078      | 0.301        | 0.001 (0.000)    | 0.006 (0.000)    | 0 (0.000) |           1.28 | callum_murray, dpr, Drox, ObZen, vision  |
-|           5 |    3554 | 2023-11-03 | Vantage            | L   | 0.063      | -            | -                | -                | -         |          -0.88 | callum_murray, dpr, Drox, ObZen, toM     |
-|           4 |    3566 | 2023-11-03 | sunday school      | W   | 0.058      | 0.312        | 0.001 (0.000)    | 0.006 (0.000)    | 0 (0.000) |           0.96 | callum_murray, dpr, Drox, toM, vision    |
-|           3 |    3653 | 2023-10-31 | Antic              | W   | 0.037      | 0.301        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           0.32 | callum_murray, dpr, Drox, ObZen, toM     |
-|           2 |    3731 | 2023-10-29 | Bad News Kangaroos | L   | 0.024      | -            | -                | -                | -         |          -0.09 | callum_murray, dpr, Drox, toM, vision    |
-|           1 |    3771 | 2023-10-28 | Mindfreak          | W   | 0.017      | 0.312        | 0.000 (0.000)    | 0.273 (0.001)    | 0 (0.000) |           0.31 | callum_murray, dpr, Drox, toM, vision    |
+|           10 |     3243 | 2023-11-17 | sunday school      | L   | 0.151      | -            | -                | -                | -         |    -2.04 | callum_murray, Drox, ObZen, swede, toM   |
+|            9 |     3337 | 2023-11-14 | Bad News Kangaroos | L   | 0.130      | -            | -                | -                | -         |    -0.48 | callum_murray, Drox, kyson, ObZen, toM   |
+|            8 |     3389 | 2023-11-11 | Cobro's Cobros     | W   | 0.116      | 0.313        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.01 | callum_murray, Drox, ObZen, swede, toM   |
+|            7 |     3415 | 2023-11-11 | Mindfreak          | L   | 0.110      | -            | -                | -                | -         |    -1.50 | callum_murray, Drox, ObZen, swede, toM   |
+|            6 |     3506 | 2023-11-06 | sunday school      | W   | 0.078      | 0.301        | 0.001 (0.000)    | 0.006 (0.000)    | 0 (0.000) |     1.28 | callum_murray, dpr, Drox, ObZen, vision  |
+|            5 |     3554 | 2023-11-03 | Vantage            | L   | 0.063      | -            | -                | -                | -         |    -0.88 | callum_murray, dpr, Drox, ObZen, toM     |
+|            4 |     3566 | 2023-11-03 | sunday school      | W   | 0.058      | 0.312        | 0.001 (0.000)    | 0.006 (0.000)    | 0 (0.000) |     0.96 | callum_murray, dpr, Drox, toM, vision    |
+|            3 |     3653 | 2023-10-31 | Antic              | W   | 0.037      | 0.301        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.32 | callum_murray, dpr, Drox, ObZen, toM     |
+|            2 |     3731 | 2023-10-29 | Bad News Kangaroos | L   | 0.024      | -            | -                | -                | -         |    -0.09 | callum_murray, dpr, Drox, toM, vision    |
+|            1 |     3771 | 2023-10-28 | Mindfreak          | W   | 0.017      | 0.312        | 0.000 (0.000)    | 0.273 (0.001)    | 0 (0.000) |     0.31 | callum_murray, dpr, Drox, toM, vision    |
 
 <br />
 <span id="table2"></span><br />

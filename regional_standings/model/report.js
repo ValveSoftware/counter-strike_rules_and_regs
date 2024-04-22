@@ -162,8 +162,8 @@ function displayTeamRankingSummary( team, teams ){
     output += formatLine( '<span id="table1"></span>' );
 
     var table = new Table();
-    table.addNumericColumn( 'MatchPlayed' );
-    table.addNumericColumn( 'MatchID' );
+    table.addNumericColumn( 'Match Played' );
+    table.addNumericColumn( 'Match ID' );
     table.addColumn( 'Date' );
     table.addColumn( 'Opponent' );
     table.addColumn( 'W/L' );
@@ -172,8 +172,8 @@ function displayTeamRankingSummary( team, teams ){
     table.addColumn( 'Bounty Collected' );
     table.addColumn( 'Opponent Network' );
     table.addColumn( 'LAN Wins' );
-    table.addNumericColumn( 'H2H Adjustment' ).setPrecision(2);
-    table.addColumn( 'Participating Roster' );
+    table.addNumericColumn( 'H2H Adj.' ).setPrecision(2);
+    table.addColumn( 'Roster' );
     
     var totalMatches = team.matchesPlayed;
     team.teamMatches.forEach( (tm, idx) => {

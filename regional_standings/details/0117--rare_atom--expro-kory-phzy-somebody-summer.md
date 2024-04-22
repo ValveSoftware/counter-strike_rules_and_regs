@@ -34,29 +34,29 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          21 |    1163 | 2024-03-06 | Cloud9             | L   | 0.886      | -            | -                | -                | -         |          -0.20 | expro, kory, phzy, somebody, Summer |
-|          20 |    1859 | 2024-02-02 | GR                 | W   | 0.665      | 0.143        | 0.005 (0.000)    | 0.267 (0.025)    | 0 (0.000) |           8.01 | expro, kory, phzy, somebody, Summer |
-|          19 |    1864 | 2024-02-02 | TYLOO              | W   | 0.665      | 0.143        | 0.055 (0.005)    | 0.490 (0.047)    | 0 (0.000) |          15.53 | expro, kory, phzy, somebody, Summer |
-|          18 |    1908 | 2024-01-31 | NKT                | W   | 0.652      | 0.143        | 0.013 (0.001)    | 0.110 (0.010)    | 0 (0.000) |          10.88 | expro, kory, phzy, somebody, Summer |
-|          17 |    1911 | 2024-01-31 | Lynn Vision        | W   | 0.651      | 0.143        | 0.136 (0.013)    | 0.458 (0.043)    | 0 (0.000) |          18.94 | expro, kory, phzy, somebody, Summer |
-|          16 |    1914 | 2024-01-31 | ATOX               | L   | 0.651      | -            | -                | -                | -         |          -8.42 | expro, kory, phzy, somebody, Summer |
-|          15 |    1995 | 2024-01-25 | Wings Up           | L   | 0.612      | -            | -                | -                | -         |         -11.11 | expro, kory, phzy, somebody, Summer |
-|          14 |    1999 | 2024-01-25 | Newhappy           | W   | 0.611      | 0.143        | 0.005 (0.000)    | 0.238 (0.021)    | 0 (0.000) |           9.14 | expro, kory, phzy, somebody, Summer |
-|          13 |    2013 | 2024-01-24 | Eruption           | W   | 0.605      | 0.143        | 0.000 (0.000)    | 0.091 (0.008)    | 0 (0.000) |           6.36 | expro, kory, phzy, somebody, Summer |
-|          12 |    2065 | 2024-01-22 | ATOX               | L   | 0.592      | -            | -                | -                | -         |          -7.59 | expro, kory, phzy, somebody, Summer |
-|          11 |    2092 | 2024-01-21 | TYLOO              | L   | 0.585      | -            | -                | -                | -         |          -4.97 | expro, kory, phzy, somebody, Summer |
-|          10 |    2098 | 2024-01-21 | Newhappy           | W   | 0.584      | 0.143        | 0.005 (0.000)    | 0.238 (0.020)    | 0 (0.000) |           9.30 | expro, kory, phzy, somebody, Summer |
-|           9 |    2140 | 2024-01-20 | Wings Up           | W   | 0.578      | 0.143        | 0.005 (0.000)    | 0.111 (0.009)    | 0 (0.000) |           7.92 | expro, kory, phzy, somebody, Summer |
-|           8 |    2149 | 2024-01-19 | SHPL               | W   | 0.576      | 0.143        | 0.000 (0.000)    | 0.049 (0.004)    | 0 (0.000) |           2.88 | expro, kory, phzy, somebody, Summer |
-|           7 |    2208 | 2024-01-18 | Newhappy           | L   | 0.570      | -            | -                | -                | -         |          -8.87 | expro, kory, phzy, somebody, Summer |
-|           6 |    2486 | 2024-01-12 | Steel Helmet       | L   | 0.525      | -            | -                | -                | -         |          -8.97 | expro, kory, phzy, somebody, Summer |
-|           5 |    2489 | 2024-01-12 | SHPL               | W   | 0.524      | 0.143        | 0.000 (0.000)    | 0.049 (0.004)    | 0 (0.000) |           2.39 | expro, kory, phzy, somebody, Summer |
-|           4 |    3730 | 2023-10-29 | TheMongolz         | L   | 0.024      | -            | -                | -                | -         |          -0.02 | expro, kory, phzy, somebody, Summer |
-|           3 |    3761 | 2023-10-28 | Wings Up           | W   | 0.018      | -            | -                | -                | -         |           0.08 | expro, kory, phzy, somebody, Summer |
-|           2 |    3769 | 2023-10-28 | TheMongolz         | L   | 0.017      | -            | -                | -                | -         |          -0.02 | expro, kory, phzy, somebody, Summer |
-|           1 |    3828 | 2023-10-26 | Noobs But Diligent | L   | 0.005      | -            | -                | -                | -         |          -0.12 | expro, kory, phzy, somebody, Summer |
+|           21 |     1163 | 2024-03-06 | Cloud9             | L   | 0.886      | -            | -                | -                | -         |    -0.20 | expro, kory, phzy, somebody, Summer |
+|           20 |     1859 | 2024-02-02 | GR                 | W   | 0.665      | 0.143        | 0.005 (0.000)    | 0.267 (0.025)    | 0 (0.000) |     8.01 | expro, kory, phzy, somebody, Summer |
+|           19 |     1864 | 2024-02-02 | TYLOO              | W   | 0.665      | 0.143        | 0.055 (0.005)    | 0.490 (0.047)    | 0 (0.000) |    15.53 | expro, kory, phzy, somebody, Summer |
+|           18 |     1908 | 2024-01-31 | NKT                | W   | 0.652      | 0.143        | 0.013 (0.001)    | 0.110 (0.010)    | 0 (0.000) |    10.88 | expro, kory, phzy, somebody, Summer |
+|           17 |     1911 | 2024-01-31 | Lynn Vision        | W   | 0.651      | 0.143        | 0.136 (0.013)    | 0.458 (0.043)    | 0 (0.000) |    18.94 | expro, kory, phzy, somebody, Summer |
+|           16 |     1914 | 2024-01-31 | ATOX               | L   | 0.651      | -            | -                | -                | -         |    -8.42 | expro, kory, phzy, somebody, Summer |
+|           15 |     1995 | 2024-01-25 | Wings Up           | L   | 0.612      | -            | -                | -                | -         |   -11.11 | expro, kory, phzy, somebody, Summer |
+|           14 |     1999 | 2024-01-25 | Newhappy           | W   | 0.611      | 0.143        | 0.005 (0.000)    | 0.238 (0.021)    | 0 (0.000) |     9.14 | expro, kory, phzy, somebody, Summer |
+|           13 |     2013 | 2024-01-24 | Eruption           | W   | 0.605      | 0.143        | 0.000 (0.000)    | 0.091 (0.008)    | 0 (0.000) |     6.36 | expro, kory, phzy, somebody, Summer |
+|           12 |     2065 | 2024-01-22 | ATOX               | L   | 0.592      | -            | -                | -                | -         |    -7.59 | expro, kory, phzy, somebody, Summer |
+|           11 |     2092 | 2024-01-21 | TYLOO              | L   | 0.585      | -            | -                | -                | -         |    -4.97 | expro, kory, phzy, somebody, Summer |
+|           10 |     2098 | 2024-01-21 | Newhappy           | W   | 0.584      | 0.143        | 0.005 (0.000)    | 0.238 (0.020)    | 0 (0.000) |     9.30 | expro, kory, phzy, somebody, Summer |
+|            9 |     2140 | 2024-01-20 | Wings Up           | W   | 0.578      | 0.143        | 0.005 (0.000)    | 0.111 (0.009)    | 0 (0.000) |     7.92 | expro, kory, phzy, somebody, Summer |
+|            8 |     2149 | 2024-01-19 | SHPL               | W   | 0.576      | 0.143        | 0.000 (0.000)    | 0.049 (0.004)    | 0 (0.000) |     2.88 | expro, kory, phzy, somebody, Summer |
+|            7 |     2208 | 2024-01-18 | Newhappy           | L   | 0.570      | -            | -                | -                | -         |    -8.87 | expro, kory, phzy, somebody, Summer |
+|            6 |     2486 | 2024-01-12 | Steel Helmet       | L   | 0.525      | -            | -                | -                | -         |    -8.97 | expro, kory, phzy, somebody, Summer |
+|            5 |     2489 | 2024-01-12 | SHPL               | W   | 0.524      | 0.143        | 0.000 (0.000)    | 0.049 (0.004)    | 0 (0.000) |     2.39 | expro, kory, phzy, somebody, Summer |
+|            4 |     3730 | 2023-10-29 | TheMongolz         | L   | 0.024      | -            | -                | -                | -         |    -0.02 | expro, kory, phzy, somebody, Summer |
+|            3 |     3761 | 2023-10-28 | Wings Up           | W   | 0.018      | -            | -                | -                | -         |     0.08 | expro, kory, phzy, somebody, Summer |
+|            2 |     3769 | 2023-10-28 | TheMongolz         | L   | 0.017      | -            | -                | -                | -         |    -0.02 | expro, kory, phzy, somebody, Summer |
+|            1 |     3828 | 2023-10-26 | Noobs But Diligent | L   | 0.005      | -            | -                | -                | -         |    -0.12 | expro, kory, phzy, somebody, Summer |
 
 <br />
 <span id="table2"></span><br />

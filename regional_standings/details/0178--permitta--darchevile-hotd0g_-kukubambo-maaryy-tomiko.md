@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                            |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          12 |    2695 | 2023-12-17 | Astralis Talent | L   | 0.351      | -            | -                | -                | -         |          -2.47 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
-|          11 |    3487 | 2023-11-07 | 9 Pandas        | L   | 0.086      | -            | -                | -                | -         |          -0.19 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
-|          10 |    3525 | 2023-11-05 | ex-Anonymo      | L   | 0.071      | -            | -                | -                | -         |          -0.70 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
-|           9 |    3536 | 2023-11-04 | ex-Anonymo      | L   | 0.067      | -            | -                | -                | -         |          -0.66 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
-|           8 |    3561 | 2023-11-03 | PACT            | W   | 0.059      | 0.360        | 0.003 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           0.71 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
-|           7 |    3577 | 2023-11-02 | EYEBALLERS      | W   | 0.054      | 0.435        | 0.052 (0.001)    | 0.406 (0.010)    | 0 (0.000) |           1.38 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
-|           6 |    3651 | 2023-10-31 | SINNERS         | W   | 0.038      | 0.435        | 0.043 (0.001)    | 0.779 (0.013)    | 0 (0.000) |           1.10 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
-|           5 |    3672 | 2023-10-30 | Project G       | L   | 0.033      | -            | -                | -                | -         |          -0.66 | darchevile, hotd0g , maaryy, tomiko, xKacpersky |
-|           4 |    3683 | 2023-10-30 | JANO            | W   | 0.031      | 0.143        | 0.001 (0.000)    | 0.220 (0.001)    | 0 (0.000) |           0.52 | darchevile, hotd0g , maaryy, tomiko, xKacpersky |
-|           3 |    3719 | 2023-10-29 | ENCE Academy    | W   | 0.025      | 0.435        | 0.016 (0.000)    | 0.265 (0.003)    | 0 (0.000) |           0.62 | Enzo, EXUS, hotd0g , maaryy, tomiko             |
-|           2 |    3725 | 2023-10-29 | Project G       | L   | 0.025      | -            | -                | -                | -         |          -0.49 | Enzo, EXUS, hotd0g , maaryy, tomiko             |
-|           1 |    3765 | 2023-10-28 | Passion UA      | L   | 0.018      | -            | -                | -                | -         |          -0.09 | Enzo, EXUS, hotd0g , maaryy, tomiko             |
+|           12 |     2695 | 2023-12-17 | Astralis Talent | L   | 0.351      | -            | -                | -                | -         |    -2.47 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
+|           11 |     3487 | 2023-11-07 | 9 Pandas        | L   | 0.086      | -            | -                | -                | -         |    -0.19 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
+|           10 |     3525 | 2023-11-05 | ex-Anonymo      | L   | 0.071      | -            | -                | -                | -         |    -0.70 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
+|            9 |     3536 | 2023-11-04 | ex-Anonymo      | L   | 0.067      | -            | -                | -                | -         |    -0.66 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
+|            8 |     3561 | 2023-11-03 | PACT            | W   | 0.059      | 0.360        | 0.003 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.71 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
+|            7 |     3577 | 2023-11-02 | EYEBALLERS      | W   | 0.054      | 0.435        | 0.052 (0.001)    | 0.406 (0.010)    | 0 (0.000) |     1.38 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
+|            6 |     3651 | 2023-10-31 | SINNERS         | W   | 0.038      | 0.435        | 0.043 (0.001)    | 0.779 (0.013)    | 0 (0.000) |     1.10 | darchevile, hotd0g , KukuBambo, maaryy, tomiko  |
+|            5 |     3672 | 2023-10-30 | Project G       | L   | 0.033      | -            | -                | -                | -         |    -0.66 | darchevile, hotd0g , maaryy, tomiko, xKacpersky |
+|            4 |     3683 | 2023-10-30 | JANO            | W   | 0.031      | 0.143        | 0.001 (0.000)    | 0.220 (0.001)    | 0 (0.000) |     0.52 | darchevile, hotd0g , maaryy, tomiko, xKacpersky |
+|            3 |     3719 | 2023-10-29 | ENCE Academy    | W   | 0.025      | 0.435        | 0.016 (0.000)    | 0.265 (0.003)    | 0 (0.000) |     0.62 | Enzo, EXUS, hotd0g , maaryy, tomiko             |
+|            2 |     3725 | 2023-10-29 | Project G       | L   | 0.025      | -            | -                | -                | -         |    -0.49 | Enzo, EXUS, hotd0g , maaryy, tomiko             |
+|            1 |     3765 | 2023-10-28 | Passion UA      | L   | 0.018      | -            | -                | -                | -         |    -0.09 | Enzo, EXUS, hotd0g , maaryy, tomiko             |
 
 <br />
 <span id="table2"></span><br />

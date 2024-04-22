@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                  |
+| Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          13 |     311 | 2024-04-11 | Case        | L   | 1.000      | -            | -                | -                | -         |          -6.06 | cerolzin, GYZER, kye, mello, zmb      |
-|          12 |     466 | 2024-04-07 | Imperial    | L   | 1.000      | -            | -                | -                | -         |          -0.11 | Bruninho, cerolzin, GYZER, kye, mello |
-|          11 |     951 | 2024-03-14 | Case        | L   | 0.940      | -            | -                | -                | -         |          -5.66 | Bruninho, cerolzin, GYZER, kye, mello |
-|          10 |    1011 | 2024-03-12 | Solid       | W   | 0.927      | 0.303        | 0.126 (0.035)    | 0.584 (0.164)    | 0 (0.000) |          24.31 | Bruninho, cerolzin, GYZER, kye, mello |
-|           9 |    1024 | 2024-03-11 | BESTIA      | L   | 0.921      | -            | -                | -                | -         |          -4.31 | Bruninho, cerolzin, GYZER, kye, mello |
-|           8 |    1049 | 2024-03-10 | Case        | L   | 0.914      | -            | -                | -                | -         |          -4.37 | Bruninho, cerolzin, GYZER, kye, mello |
-|           7 |    1051 | 2024-03-10 | Flamengo    | W   | 0.914      | 0.435        | 0.000 (0.000)    | 0.114 (0.045)    | 0 (0.000) |          12.99 | Bruninho, cerolzin, GYZER, kye, mello |
-|           6 |    1095 | 2024-03-08 | BESTIA      | L   | 0.901      | -            | -                | -                | -         |          -3.90 | Bruninho, cerolzin, GYZER, kye, mello |
-|           5 |    1537 | 2024-02-18 | BESTIA      | L   | 0.773      | -            | -                | -                | -         |          -3.51 | Bruninho, cerolzin, GYZER, kye, mello |
-|           4 |    1588 | 2024-02-16 | Dusty Roots | W   | 0.760      | 0.435        | 0.000 (0.000)    | 0.024 (0.008)    | 0 (0.000) |           7.31 | Bruninho, cerolzin, GYZER, kye, mello |
-|           3 |    1699 | 2024-02-12 | BESTIA      | L   | 0.735      | -            | -                | -                | -         |          -3.15 | Bruninho, cerolzin, GYZER, kye, mello |
-|           2 |    3298 | 2023-11-15 | W7M         | L   | 0.140      | -            | -                | -                | -         |          -0.74 | Bruninho, GYZER, kye, lub, mello      |
-|           1 |    3340 | 2023-11-13 | Solid       | L   | 0.127      | -            | -                | -                | -         |          -0.41 | Bruninho, GYZER, kye, lub, mello      |
+|           13 |      311 | 2024-04-11 | Case        | L   | 1.000      | -            | -                | -                | -         |    -6.06 | cerolzin, GYZER, kye, mello, zmb      |
+|           12 |      466 | 2024-04-07 | Imperial    | L   | 1.000      | -            | -                | -                | -         |    -0.11 | Bruninho, cerolzin, GYZER, kye, mello |
+|           11 |      951 | 2024-03-14 | Case        | L   | 0.940      | -            | -                | -                | -         |    -5.66 | Bruninho, cerolzin, GYZER, kye, mello |
+|           10 |     1011 | 2024-03-12 | Solid       | W   | 0.927      | 0.303        | 0.126 (0.035)    | 0.584 (0.164)    | 0 (0.000) |    24.31 | Bruninho, cerolzin, GYZER, kye, mello |
+|            9 |     1024 | 2024-03-11 | BESTIA      | L   | 0.921      | -            | -                | -                | -         |    -4.31 | Bruninho, cerolzin, GYZER, kye, mello |
+|            8 |     1049 | 2024-03-10 | Case        | L   | 0.914      | -            | -                | -                | -         |    -4.37 | Bruninho, cerolzin, GYZER, kye, mello |
+|            7 |     1051 | 2024-03-10 | Flamengo    | W   | 0.914      | 0.435        | 0.000 (0.000)    | 0.114 (0.045)    | 0 (0.000) |    12.99 | Bruninho, cerolzin, GYZER, kye, mello |
+|            6 |     1095 | 2024-03-08 | BESTIA      | L   | 0.901      | -            | -                | -                | -         |    -3.90 | Bruninho, cerolzin, GYZER, kye, mello |
+|            5 |     1537 | 2024-02-18 | BESTIA      | L   | 0.773      | -            | -                | -                | -         |    -3.51 | Bruninho, cerolzin, GYZER, kye, mello |
+|            4 |     1588 | 2024-02-16 | Dusty Roots | W   | 0.760      | 0.435        | 0.000 (0.000)    | 0.024 (0.008)    | 0 (0.000) |     7.31 | Bruninho, cerolzin, GYZER, kye, mello |
+|            3 |     1699 | 2024-02-12 | BESTIA      | L   | 0.735      | -            | -                | -                | -         |    -3.15 | Bruninho, cerolzin, GYZER, kye, mello |
+|            2 |     3298 | 2023-11-15 | W7M         | L   | 0.140      | -            | -                | -                | -         |    -0.74 | Bruninho, GYZER, kye, lub, mello      |
+|            1 |     3340 | 2023-11-13 | Solid       | L   | 0.127      | -            | -                | -                | -         |    -0.41 | Bruninho, GYZER, kye, lub, mello      |
 
 <br />
 <span id="table2"></span><br />

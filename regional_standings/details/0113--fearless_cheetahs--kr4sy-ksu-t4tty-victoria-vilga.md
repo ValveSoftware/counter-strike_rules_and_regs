@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                       |
+| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          15 |      19 | 2024-04-21 | GUILD fe      | L   | 1.000      | -            | -                | -                | -         |         -19.29 | kr4sy, Ksu, t4tty, Victoria, vilga         |
-|          14 |      38 | 2024-04-20 | BIG EQUIPA    | L   | 1.000      | -            | -                | -                | -         |         -17.26 | kr4sy, Ksu, t4tty, Victoria, vilga         |
-|          13 |      83 | 2024-04-19 | 1WIN Gang     | W   | 1.000      | 0.331        | 0.006 (0.002)    | 0.046 (0.015)    | 0 (0.000) |           8.07 | kr4sy, Ksu, t4tty, Victoria, vilga         |
-|          12 |     302 | 2024-04-11 | VP.Angels     | W   | 1.000      | 0.331        | 0.006 (0.002)    | 0.082 (0.027)    | 0 (0.000) |           8.49 | kr4sy, Ksu, t4tty, Victoria, vilga         |
-|          11 |     474 | 2024-04-07 | NIP Impact    | L   | 1.000      | -            | -                | -                | -         |         -17.65 | kr4sy, Ksu, t4tty, Victoria, vilga         |
-|          10 |     491 | 2024-04-06 | Let Her Cook  | W   | 1.000      | 0.262        | 0.001 (0.000)    | 0.228 (0.060)    | 0 (0.000) |          11.12 | kr4sy, Ksu, t4tty, Victoria, vilga         |
-|           9 |     712 | 2024-03-27 | Spirit fe     | W   | 1.000      | 0.331        | 0.008 (0.003)    | 0.123 (0.041)    | 0 (0.000) |          10.88 | kr4sy, Ksu, t4tty, Victoria, vilga         |
-|           8 |     794 | 2024-03-21 | Let Her Cook  | W   | 0.987      | 0.331        | 0.001 (0.000)    | 0.228 (0.075)    | 0 (0.000) |          11.39 | kr4sy, Ksu, t4tty, Victoria, vilga         |
-|           7 |    1152 | 2024-03-06 | NAVI Javelins | L   | 0.887      | -            | -                | -                | -         |         -10.32 | kr4sy, Ksu, t4tty, Victoria, vilga         |
-|           6 |    1371 | 2024-02-25 | 1WIN Gang     | W   | 0.820      | 0.250        | 0.006 (0.001)    | 0.046 (0.010)    | 0 (0.000) |           7.90 | kr4sy, Ksu, t4tty, Victoria, vilga         |
-|           5 |    2797 | 2023-12-10 | Pigeons       | L   | 0.304      | -            | -                | -                | -         |          -3.40 | ANa, Kat, tory, twenty3, vilga             |
-|           4 |    2833 | 2023-12-08 | NAVI Javelins | W   | 0.293      | 0.524        | 0.064 (0.010)    | 0.467 (0.072)    | 1 (0.293) |           5.53 | Angelka, Hanka, LETi, Liina, vicu          |
-|           3 |    2839 | 2023-12-08 | FURIA fe      | W   | 0.292      | 0.524        | 0.030 (0.005)    | 0.293 (0.045)    | 1 (0.292) |           4.44 | Elizabeth, f6tal, Ksu, t4tty, Victoria     |
-|           2 |    3172 | 2023-11-19 | Let Her Cook  | L   | 0.166      | -            | -                | -                | -         |          -3.34 | Joanana, kezziwow, meli, Moraltis, RacheLL |
-|           1 |    3746 | 2023-10-28 | BIG EQUIPA    | W   | 0.020      | 0.329        | 0.007 (0.000)    | 0.376 (0.002)    | 0 (0.000) |           0.26 | Elizabeth, f6tal, Ksu, t4tty, Victoria     |
+|           15 |       19 | 2024-04-21 | GUILD fe      | L   | 1.000      | -            | -                | -                | -         |   -19.29 | kr4sy, Ksu, t4tty, Victoria, vilga         |
+|           14 |       38 | 2024-04-20 | BIG EQUIPA    | L   | 1.000      | -            | -                | -                | -         |   -17.26 | kr4sy, Ksu, t4tty, Victoria, vilga         |
+|           13 |       83 | 2024-04-19 | 1WIN Gang     | W   | 1.000      | 0.331        | 0.006 (0.002)    | 0.046 (0.015)    | 0 (0.000) |     8.07 | kr4sy, Ksu, t4tty, Victoria, vilga         |
+|           12 |      302 | 2024-04-11 | VP.Angels     | W   | 1.000      | 0.331        | 0.006 (0.002)    | 0.082 (0.027)    | 0 (0.000) |     8.49 | kr4sy, Ksu, t4tty, Victoria, vilga         |
+|           11 |      474 | 2024-04-07 | NIP Impact    | L   | 1.000      | -            | -                | -                | -         |   -17.65 | kr4sy, Ksu, t4tty, Victoria, vilga         |
+|           10 |      491 | 2024-04-06 | Let Her Cook  | W   | 1.000      | 0.262        | 0.001 (0.000)    | 0.228 (0.060)    | 0 (0.000) |    11.12 | kr4sy, Ksu, t4tty, Victoria, vilga         |
+|            9 |      712 | 2024-03-27 | Spirit fe     | W   | 1.000      | 0.331        | 0.008 (0.003)    | 0.123 (0.041)    | 0 (0.000) |    10.88 | kr4sy, Ksu, t4tty, Victoria, vilga         |
+|            8 |      794 | 2024-03-21 | Let Her Cook  | W   | 0.987      | 0.331        | 0.001 (0.000)    | 0.228 (0.075)    | 0 (0.000) |    11.39 | kr4sy, Ksu, t4tty, Victoria, vilga         |
+|            7 |     1152 | 2024-03-06 | NAVI Javelins | L   | 0.887      | -            | -                | -                | -         |   -10.32 | kr4sy, Ksu, t4tty, Victoria, vilga         |
+|            6 |     1371 | 2024-02-25 | 1WIN Gang     | W   | 0.820      | 0.250        | 0.006 (0.001)    | 0.046 (0.010)    | 0 (0.000) |     7.90 | kr4sy, Ksu, t4tty, Victoria, vilga         |
+|            5 |     2797 | 2023-12-10 | Pigeons       | L   | 0.304      | -            | -                | -                | -         |    -3.40 | ANa, Kat, tory, twenty3, vilga             |
+|            4 |     2833 | 2023-12-08 | NAVI Javelins | W   | 0.293      | 0.524        | 0.064 (0.010)    | 0.467 (0.072)    | 1 (0.293) |     5.53 | Angelka, Hanka, LETi, Liina, vicu          |
+|            3 |     2839 | 2023-12-08 | FURIA fe      | W   | 0.292      | 0.524        | 0.030 (0.005)    | 0.293 (0.045)    | 1 (0.292) |     4.44 | Elizabeth, f6tal, Ksu, t4tty, Victoria     |
+|            2 |     3172 | 2023-11-19 | Let Her Cook  | L   | 0.166      | -            | -                | -                | -         |    -3.34 | Joanana, kezziwow, meli, Moraltis, RacheLL |
+|            1 |     3746 | 2023-10-28 | BIG EQUIPA    | W   | 0.020      | 0.329        | 0.007 (0.000)    | 0.376 (0.002)    | 0 (0.000) |     0.26 | Elizabeth, f6tal, Ksu, t4tty, Victoria     |
 
 <br />
 <span id="table2"></span><br />

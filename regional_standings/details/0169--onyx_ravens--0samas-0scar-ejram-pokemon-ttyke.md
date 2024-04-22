@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                     |
+| Match Played | Match ID | Date       | Opponent   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          11 |      93 | 2024-04-19 | JiJieHao   | L   | 1.000      | -            | -                | -                | -         |         -18.33 | 0SAMAS, 0scar, Ejram, PokemoN, Ttyke     |
-|          10 |     130 | 2024-04-18 | JiJieHao   | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.161 (0.023)    | 0 (0.000) |          12.57 | 0SAMAS, 0scar, Ejram, PokemoN, Ttyke     |
-|           9 |     154 | 2024-04-18 | NoChance   | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           6.27 | 0SAMAS, 0scar, Ejram, PokemoN, Ttyke     |
-|           8 |    1939 | 2024-01-28 | JiJieHao   | L   | 0.634      | -            | -                | -                | -         |         -12.25 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
-|           7 |    1945 | 2024-01-28 | 15 Average | L   | 0.632      | -            | -                | -                | -         |         -13.87 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
-|           6 |    1971 | 2024-01-26 | JiJieHao   | W   | 0.620      | 0.143        | 0.000 (0.000)    | 0.161 (0.014)    | 0 (0.000) |           6.85 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
-|           5 |    1976 | 2024-01-26 | Nixuh      | W   | 0.619      | 0.143        | 0.000 (0.000)    | 0.023 (0.002)    | 0 (0.000) |           3.68 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
-|           4 |    2611 | 2024-01-09 | 4Point5    | W   | 0.506      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           3.06 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
-|           3 |    2735 | 2023-12-15 | HeizerS    | L   | 0.341      | -            | -                | -                | -         |          -5.37 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
-|           2 |    2743 | 2023-12-15 | Endpoint   | L   | 0.340      | -            | -                | -                | -         |          -3.14 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
-|           1 |    2785 | 2023-12-10 | Shush      | W   | 0.308      | 0.298        | 0.003 (0.000)    | 0.053 (0.005)    | 1 (0.308) |           3.21 | Aly67, ba6oooy, HopeDaBeast, Lacore, tr1 |
+|           11 |       93 | 2024-04-19 | JiJieHao   | L   | 1.000      | -            | -                | -                | -         |   -18.33 | 0SAMAS, 0scar, Ejram, PokemoN, Ttyke     |
+|           10 |      130 | 2024-04-18 | JiJieHao   | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.161 (0.023)    | 0 (0.000) |    12.57 | 0SAMAS, 0scar, Ejram, PokemoN, Ttyke     |
+|            9 |      154 | 2024-04-18 | NoChance   | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.27 | 0SAMAS, 0scar, Ejram, PokemoN, Ttyke     |
+|            8 |     1939 | 2024-01-28 | JiJieHao   | L   | 0.634      | -            | -                | -                | -         |   -12.25 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
+|            7 |     1945 | 2024-01-28 | 15 Average | L   | 0.632      | -            | -                | -                | -         |   -13.87 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
+|            6 |     1971 | 2024-01-26 | JiJieHao   | W   | 0.620      | 0.143        | 0.000 (0.000)    | 0.161 (0.014)    | 0 (0.000) |     6.85 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
+|            5 |     1976 | 2024-01-26 | Nixuh      | W   | 0.619      | 0.143        | 0.000 (0.000)    | 0.023 (0.002)    | 0 (0.000) |     3.68 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
+|            4 |     2611 | 2024-01-09 | 4Point5    | W   | 0.506      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.06 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
+|            3 |     2735 | 2023-12-15 | HeizerS    | L   | 0.341      | -            | -                | -                | -         |    -5.37 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
+|            2 |     2743 | 2023-12-15 | Endpoint   | L   | 0.340      | -            | -                | -                | -         |    -3.14 | 0SAMAS, Ejram, PokemoN, Ttyke, tudsoN    |
+|            1 |     2785 | 2023-12-10 | Shush      | W   | 0.308      | 0.298        | 0.003 (0.000)    | 0.053 (0.005)    | 1 (0.308) |     3.21 | Aly67, ba6oooy, HopeDaBeast, Lacore, tr1 |
 
 <br />
 <span id="table2"></span><br />

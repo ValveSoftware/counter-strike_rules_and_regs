@@ -34,26 +34,26 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster              |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          18 |       9 | 2024-04-22 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |         -17.89 | HENU, myltsi, podi, S1rva, teme   |
-|          17 |      56 | 2024-04-20 | SINNERS         | W   | 1.000      | 0.371        | 0.043 (0.016)    | 0.779 (0.289)    | 0 (0.000) |          23.18 | HENU, myltsi, podi, S1rva, teme   |
-|          16 |     111 | 2024-04-19 | Viperio         | L   | 1.000      | -            | -                | -                | -         |         -23.66 | HENU, myltsi, podi, S1rva, teme   |
-|          15 |     159 | 2024-04-18 | MOUZ NXT        | L   | 1.000      | -            | -                | -                | -         |         -12.75 | HENU, myltsi, podi, S1rva, teme   |
-|          14 |     221 | 2024-04-16 | 1WIN            | L   | 1.000      | -            | -                | -                | -         |         -24.31 | HENU, myltsi, podi, S1rva, teme   |
-|          13 |     240 | 2024-04-15 | Sampi           | W   | 1.000      | 0.371        | 0.084 (0.031)    | 0.698 (0.259)    | 0 (0.000) |          17.84 | HENU, myltsi, podi, S1rva, teme   |
-|          12 |     243 | 2024-04-15 | Viperio         | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.093 (0.013)    | 0 (0.000) |           6.99 | HENU, myltsi, podi, S1rva, teme   |
-|          11 |     316 | 2024-04-11 | Secret          | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.210 (0.078)    | 0 (0.000) |           6.34 | HENU, myltsi, podi, S1rva, teme   |
-|          10 |    1390 | 2024-02-24 | HAVU            | W   | 0.815      | 0.306        | 0.027 (0.007)    | 0.154 (0.038)    | 1 (0.815) |          12.10 | HENU, myltsi, podi, S1rva, teme   |
-|           9 |    1412 | 2024-02-24 | ex-sYnck        | W   | 0.812      | 0.306        | 0.006 (0.002)    | 0.292 (0.072)    | 1 (0.812) |           9.29 | HENU, myltsi, podi, S1rva, teme   |
-|           8 |    3518 | 2023-11-05 | Enterprise      | L   | 0.072      | -            | -                | -                | -         |          -0.94 | HENU, juissi, myltsi, podi, S1rva |
-|           7 |    3559 | 2023-11-03 | Sampi           | W   | 0.059      | 0.435        | 0.084 (0.002)    | 0.698 (0.018)    | 0 (0.000) |           1.30 | HENU, juissi, myltsi, podi, S1rva |
-|           6 |    3584 | 2023-11-02 | SINNERS         | L   | 0.052      | -            | -                | -                | -         |          -0.36 | HENU, juissi, myltsi, podi, S1rva |
-|           5 |    3612 | 2023-11-01 | Zero Tenacity   | L   | 0.046      | -            | -                | -                | -         |          -0.81 | HENU, juissi, myltsi, podi, S1rva |
-|           4 |    3635 | 2023-10-31 | Spirit Academy  | L   | 0.040      | -            | -                | -                | -         |          -0.79 | HENU, juissi, myltsi, podi, S1rva |
-|           3 |    3641 | 2023-10-31 | Zero Tenacity   | W   | 0.039      | 0.143        | 0.008 (0.000)    | 0.805 (0.004)    | 0 (0.000) |           0.54 | HENU, juissi, myltsi, podi, S1rva |
-|           2 |    3684 | 2023-10-30 | ALTERNATE aTTaX | W   | 0.031      | 0.435        | 0.026 (0.000)    | 0.327 (0.004)    | 0 (0.000) |           0.42 | HENU, juissi, myltsi, podi, S1rva |
-|           1 |    3719 | 2023-10-29 | Permitta        | L   | 0.025      | -            | -                | -                | -         |          -0.62 | HENU, juissi, myltsi, podi, S1rva |
+|           18 |        9 | 2024-04-22 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -17.89 | HENU, myltsi, podi, S1rva, teme   |
+|           17 |       56 | 2024-04-20 | SINNERS         | W   | 1.000      | 0.371        | 0.043 (0.016)    | 0.779 (0.289)    | 0 (0.000) |    23.18 | HENU, myltsi, podi, S1rva, teme   |
+|           16 |      111 | 2024-04-19 | Viperio         | L   | 1.000      | -            | -                | -                | -         |   -23.66 | HENU, myltsi, podi, S1rva, teme   |
+|           15 |      159 | 2024-04-18 | MOUZ NXT        | L   | 1.000      | -            | -                | -                | -         |   -12.75 | HENU, myltsi, podi, S1rva, teme   |
+|           14 |      221 | 2024-04-16 | 1WIN            | L   | 1.000      | -            | -                | -                | -         |   -24.31 | HENU, myltsi, podi, S1rva, teme   |
+|           13 |      240 | 2024-04-15 | Sampi           | W   | 1.000      | 0.371        | 0.084 (0.031)    | 0.698 (0.259)    | 0 (0.000) |    17.84 | HENU, myltsi, podi, S1rva, teme   |
+|           12 |      243 | 2024-04-15 | Viperio         | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.093 (0.013)    | 0 (0.000) |     6.99 | HENU, myltsi, podi, S1rva, teme   |
+|           11 |      316 | 2024-04-11 | Secret          | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.210 (0.078)    | 0 (0.000) |     6.34 | HENU, myltsi, podi, S1rva, teme   |
+|           10 |     1390 | 2024-02-24 | HAVU            | W   | 0.815      | 0.306        | 0.027 (0.007)    | 0.154 (0.038)    | 1 (0.815) |    12.10 | HENU, myltsi, podi, S1rva, teme   |
+|            9 |     1412 | 2024-02-24 | ex-sYnck        | W   | 0.812      | 0.306        | 0.006 (0.002)    | 0.292 (0.072)    | 1 (0.812) |     9.29 | HENU, myltsi, podi, S1rva, teme   |
+|            8 |     3518 | 2023-11-05 | Enterprise      | L   | 0.072      | -            | -                | -                | -         |    -0.94 | HENU, juissi, myltsi, podi, S1rva |
+|            7 |     3559 | 2023-11-03 | Sampi           | W   | 0.059      | 0.435        | 0.084 (0.002)    | 0.698 (0.018)    | 0 (0.000) |     1.30 | HENU, juissi, myltsi, podi, S1rva |
+|            6 |     3584 | 2023-11-02 | SINNERS         | L   | 0.052      | -            | -                | -                | -         |    -0.36 | HENU, juissi, myltsi, podi, S1rva |
+|            5 |     3612 | 2023-11-01 | Zero Tenacity   | L   | 0.046      | -            | -                | -                | -         |    -0.81 | HENU, juissi, myltsi, podi, S1rva |
+|            4 |     3635 | 2023-10-31 | Spirit Academy  | L   | 0.040      | -            | -                | -                | -         |    -0.79 | HENU, juissi, myltsi, podi, S1rva |
+|            3 |     3641 | 2023-10-31 | Zero Tenacity   | W   | 0.039      | 0.143        | 0.008 (0.000)    | 0.805 (0.004)    | 0 (0.000) |     0.54 | HENU, juissi, myltsi, podi, S1rva |
+|            2 |     3684 | 2023-10-30 | ALTERNATE aTTaX | W   | 0.031      | 0.435        | 0.026 (0.000)    | 0.327 (0.004)    | 0 (0.000) |     0.42 | HENU, juissi, myltsi, podi, S1rva |
+|            1 |     3719 | 2023-10-29 | Permitta        | L   | 0.025      | -            | -                | -                | -         |    -0.62 | HENU, juissi, myltsi, podi, S1rva |
 
 <br />
 <span id="table2"></span><br />

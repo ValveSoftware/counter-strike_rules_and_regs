@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                     |
+| Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          10 |      77 | 2024-04-19 | W7M fe       | L   | 1.000      | -            | -                | -                | -         |         -15.57 | armk4m, Brendinha, chjna, n4mie, ujliana |
-|           9 |     299 | 2024-04-11 | Atrix        | L   | 1.000      | -            | -                | -                | -         |         -14.52 | armk4m, Brendinha, chjna, n4mie, ujliana |
-|           8 |     568 | 2024-04-03 | FURIA fe     | L   | 1.000      | -            | -                | -                | -         |          -9.64 | armk4m, Brendinha, chjna, n4mie, ujliana |
-|           7 |     705 | 2024-03-27 | Fluxo Demons | L   | 1.000      | -            | -                | -                | -         |          -9.75 | armk4m, Brendinha, chjna, n4mie, ujliana |
-|           6 |     823 | 2024-03-20 | GENKID4M4    | W   | 0.981      | 0.332        | 0.007 (0.002)    | 0.077 (0.025)    | 0 (0.000) |          14.10 | armk4m, Brendinha, chjna, n4mie, ujliana |
-|           5 |     968 | 2024-03-13 | KG fe        | W   | 0.934      | 0.332        | 0.005 (0.002)    | 0.036 (0.011)    | 0 (0.000) |          12.17 | armk4m, Brendinha, chjna, n4mie, ujliana |
-|           4 |    1117 | 2024-03-07 | MIBR fe      | L   | 0.894      | -            | -                | -                | -         |         -11.88 | armk4m, Brendinha, chjna, n4mie, ujliana |
-|           3 |    1687 | 2024-02-13 | KG fe        | W   | 0.741      | 0.143        | 0.005 (0.001)    | 0.036 (0.004)    | 0 (0.000) |          10.16 | armk4m, Brendinha, chjna, n4mie, ujliana |
-|           2 |    1951 | 2024-01-27 | MIBR fe      | L   | 0.628      | -            | -                | -                | -         |          -8.68 | Babs, Dani, ferzy, khizha, REGIANE       |
-|           1 |    3531 | 2023-11-04 | MEGAZORD fe  | L   | 0.068      | -            | -                | -                | -         |          -1.30 | Babs, chjna, josi, REGIANE, yungher      |
+|           10 |       77 | 2024-04-19 | W7M fe       | L   | 1.000      | -            | -                | -                | -         |   -15.57 | armk4m, Brendinha, chjna, n4mie, ujliana |
+|            9 |      299 | 2024-04-11 | Atrix        | L   | 1.000      | -            | -                | -                | -         |   -14.52 | armk4m, Brendinha, chjna, n4mie, ujliana |
+|            8 |      568 | 2024-04-03 | FURIA fe     | L   | 1.000      | -            | -                | -                | -         |    -9.64 | armk4m, Brendinha, chjna, n4mie, ujliana |
+|            7 |      705 | 2024-03-27 | Fluxo Demons | L   | 1.000      | -            | -                | -                | -         |    -9.75 | armk4m, Brendinha, chjna, n4mie, ujliana |
+|            6 |      823 | 2024-03-20 | GENKID4M4    | W   | 0.981      | 0.332        | 0.007 (0.002)    | 0.077 (0.025)    | 0 (0.000) |    14.10 | armk4m, Brendinha, chjna, n4mie, ujliana |
+|            5 |      968 | 2024-03-13 | KG fe        | W   | 0.934      | 0.332        | 0.005 (0.002)    | 0.036 (0.011)    | 0 (0.000) |    12.17 | armk4m, Brendinha, chjna, n4mie, ujliana |
+|            4 |     1117 | 2024-03-07 | MIBR fe      | L   | 0.894      | -            | -                | -                | -         |   -11.88 | armk4m, Brendinha, chjna, n4mie, ujliana |
+|            3 |     1687 | 2024-02-13 | KG fe        | W   | 0.741      | 0.143        | 0.005 (0.001)    | 0.036 (0.004)    | 0 (0.000) |    10.16 | armk4m, Brendinha, chjna, n4mie, ujliana |
+|            2 |     1951 | 2024-01-27 | MIBR fe      | L   | 0.628      | -            | -                | -                | -         |    -8.68 | Babs, Dani, ferzy, khizha, REGIANE       |
+|            1 |     3531 | 2023-11-04 | MEGAZORD fe  | L   | 0.068      | -            | -                | -                | -         |    -1.30 | Babs, chjna, josi, REGIANE, yungher      |
 
 <br />
 <span id="table2"></span><br />

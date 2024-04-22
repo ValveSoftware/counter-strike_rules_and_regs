@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                      |
+| Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          15 |    1349 | 2024-02-26 | ATOX           | L   | 0.829      | -            | -                | -                | -         |          -5.86 | ariucle, Derek, lan, Tugu, WasteOfAmmo    |
-|          14 |    1365 | 2024-02-25 | TheMongolz     | L   | 0.822      | -            | -                | -                | -         |          -0.34 | ariucle, Derek, lan, Tugu, WasteOfAmmo    |
-|          13 |    1572 | 2024-02-17 | Newhappy       | L   | 0.764      | -            | -                | -                | -         |          -7.61 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
-|          12 |    1598 | 2024-02-16 | GR             | W   | 0.759      | 0.143        | 0.005 (0.001)    | 0.267 (0.029)    | 0 (0.000) |          15.31 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
-|          11 |    1604 | 2024-02-16 | Lynn Vision    | L   | 0.757      | -            | -                | -                | -         |          -0.84 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
-|          10 |    1629 | 2024-02-15 | SEAW           | W   | 0.751      | 0.143        | 0.000 (0.000)    | 0.035 (0.004)    | 0 (0.000) |           7.28 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
-|           9 |    1665 | 2024-02-14 | -72c           | W   | 0.745      | 0.143        | 0.003 (0.000)    | 0.069 (0.007)    | 0 (0.000) |          14.47 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
-|           8 |    2086 | 2024-01-21 | Trouble makers | L   | 0.586      | -            | -                | -                | -         |          -9.89 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
-|           7 |    2102 | 2024-01-20 | Gods Reign     | W   | 0.583      | 0.143        | 0.010 (0.001)    | 0.180 (0.015)    | 0 (0.000) |          13.63 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
-|           6 |    2188 | 2024-01-19 | Dewa United    | W   | 0.571      | 0.143        | 0.000 (0.000)    | 0.105 (0.009)    | 0 (0.000) |           6.59 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
-|           5 |    2203 | 2024-01-19 | Drippy Lab     | W   | 0.570      | 0.143        | 0.000 (0.000)    | 0.052 (0.004)    | 0 (0.000) |           6.18 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
-|           4 |    2289 | 2024-01-17 | Gods Reign     | L   | 0.559      | -            | -                | -                | -         |          -4.37 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
-|           3 |    2297 | 2024-01-17 | Dewa United    | W   | 0.558      | 0.143        | 0.000 (0.000)    | 0.105 (0.008)    | 0 (0.000) |           6.33 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
-|           2 |    2299 | 2024-01-17 | RESILIENCE     | W   | 0.558      | 0.143        | 0.000 (0.000)    | 0.026 (0.002)    | 0 (0.000) |           6.24 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
-|           1 |    2304 | 2024-01-17 | Enigma         | W   | 0.558      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           6.17 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|           15 |     1349 | 2024-02-26 | ATOX           | L   | 0.829      | -            | -                | -                | -         |    -5.86 | ariucle, Derek, lan, Tugu, WasteOfAmmo    |
+|           14 |     1365 | 2024-02-25 | TheMongolz     | L   | 0.822      | -            | -                | -                | -         |    -0.34 | ariucle, Derek, lan, Tugu, WasteOfAmmo    |
+|           13 |     1572 | 2024-02-17 | Newhappy       | L   | 0.764      | -            | -                | -                | -         |    -7.61 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|           12 |     1598 | 2024-02-16 | GR             | W   | 0.759      | 0.143        | 0.005 (0.001)    | 0.267 (0.029)    | 0 (0.000) |    15.31 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|           11 |     1604 | 2024-02-16 | Lynn Vision    | L   | 0.757      | -            | -                | -                | -         |    -0.84 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|           10 |     1629 | 2024-02-15 | SEAW           | W   | 0.751      | 0.143        | 0.000 (0.000)    | 0.035 (0.004)    | 0 (0.000) |     7.28 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|            9 |     1665 | 2024-02-14 | -72c           | W   | 0.745      | 0.143        | 0.003 (0.000)    | 0.069 (0.007)    | 0 (0.000) |    14.47 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|            8 |     2086 | 2024-01-21 | Trouble makers | L   | 0.586      | -            | -                | -                | -         |    -9.89 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|            7 |     2102 | 2024-01-20 | Gods Reign     | W   | 0.583      | 0.143        | 0.010 (0.001)    | 0.180 (0.015)    | 0 (0.000) |    13.63 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|            6 |     2188 | 2024-01-19 | Dewa United    | W   | 0.571      | 0.143        | 0.000 (0.000)    | 0.105 (0.009)    | 0 (0.000) |     6.59 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|            5 |     2203 | 2024-01-19 | Drippy Lab     | W   | 0.570      | 0.143        | 0.000 (0.000)    | 0.052 (0.004)    | 0 (0.000) |     6.18 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|            4 |     2289 | 2024-01-17 | Gods Reign     | L   | 0.559      | -            | -                | -                | -         |    -4.37 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|            3 |     2297 | 2024-01-17 | Dewa United    | W   | 0.558      | 0.143        | 0.000 (0.000)    | 0.105 (0.008)    | 0 (0.000) |     6.33 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|            2 |     2299 | 2024-01-17 | RESILIENCE     | W   | 0.558      | 0.143        | 0.000 (0.000)    | 0.026 (0.002)    | 0 (0.000) |     6.24 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
+|            1 |     2304 | 2024-01-17 | Enigma         | W   | 0.558      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.17 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo |
 
 <br />
 <span id="table2"></span><br />

@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                  |
+| Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          15 |     657 | 2024-03-29 | The Neighbours | L   | 1.000      | -            | -                | -                | -         |         -11.17 | Kisynergy, Rezst, shyyne, Tree60, yz0 |
-|          14 |     840 | 2024-03-19 | RAPTORS EC     | W   | 0.974      | 0.143        | 0.000 (0.000)    | 0.044 (0.006)    | 0 (0.000) |           5.11 | Kisynergy, Rezst, shyyne, Tree60, yz0 |
-|          13 |    1081 | 2024-03-09 | Insilio        | L   | 0.906      | -            | -                | -                | -         |         -13.88 | Rezst, shyyne, SLY, Tree60, yz0       |
-|          12 |    1094 | 2024-03-09 | Preasy         | L   | 0.904      | -            | -                | -                | -         |          -4.78 | Rezst, shyyne, SLY, Tree60, yz0       |
-|          11 |    1104 | 2024-03-08 | MOUZ NXT       | L   | 0.899      | -            | -                | -                | -         |          -9.08 | Rezst, shyyne, SLY, Tree60, yz0       |
-|          10 |    1166 | 2024-03-06 | Passion UA     | L   | 0.885      | -            | -                | -                | -         |         -10.43 | Rezst, shyyne, SLY, Tree60, yz0       |
-|           9 |    1218 | 2024-03-04 | Secret         | W   | 0.872      | 0.371        | 0.000 (0.000)    | 0.210 (0.068)    | 0 (0.000) |           6.85 | Rezst, shyyne, SLY, Tree60, yz0       |
-|           8 |    1374 | 2024-02-25 | The Neighbours | L   | 0.819      | -            | -                | -                | -         |         -11.57 | Rezst, shyyne, SLY, Tree60, yz0       |
-|           7 |    1402 | 2024-02-24 | The Neighbours | W   | 0.813      | 0.307        | 0.030 (0.007)    | 0.166 (0.041)    | 1 (0.813) |          14.11 | Rezst, shyyne, SLY, Tree60, yz0       |
-|           6 |    2581 | 2024-01-09 | KOI            | L   | 0.507      | -            | -                | -                | -         |          -3.40 | dox, Rezst, shyyne, Tree60, yz0       |
-|           5 |    2596 | 2024-01-09 | Nexus          | W   | 0.506      | 0.143        | 0.023 (0.002)    | 0.544 (0.039)    | 0 (0.000) |           8.65 | dox, Rezst, shyyne, Tree60, yz0       |
-|           4 |    2786 | 2023-12-10 | Verdant        | W   | 0.307      | 0.302        | 0.021 (0.002)    | 0.074 (0.007)    | 1 (0.307) |           4.67 | dox, Rezst, shyyne, Tree60, yz0       |
-|           3 |    2789 | 2023-12-10 | Coalesce       | W   | 0.306      | 0.302        | 0.004 (0.000)    | 0.052 (0.005)    | 1 (0.306) |           3.55 | dox, Rezst, shyyne, Tree60, yz0       |
-|           2 |    2795 | 2023-12-10 | Verdant        | L   | 0.305      | -            | -                | -                | -         |          -5.01 | dox, Rezst, shyyne, Tree60, yz0       |
-|           1 |    2816 | 2023-12-09 | Viperio        | W   | 0.299      | 0.302        | 0.000 (0.000)    | 0.056 (0.005)    | 1 (0.299) |           1.70 | dox, Rezst, shyyne, Tree60, yz0       |
+|           15 |      657 | 2024-03-29 | The Neighbours | L   | 1.000      | -            | -                | -                | -         |   -11.17 | Kisynergy, Rezst, shyyne, Tree60, yz0 |
+|           14 |      840 | 2024-03-19 | RAPTORS EC     | W   | 0.974      | 0.143        | 0.000 (0.000)    | 0.044 (0.006)    | 0 (0.000) |     5.11 | Kisynergy, Rezst, shyyne, Tree60, yz0 |
+|           13 |     1081 | 2024-03-09 | Insilio        | L   | 0.906      | -            | -                | -                | -         |   -13.88 | Rezst, shyyne, SLY, Tree60, yz0       |
+|           12 |     1094 | 2024-03-09 | Preasy         | L   | 0.904      | -            | -                | -                | -         |    -4.78 | Rezst, shyyne, SLY, Tree60, yz0       |
+|           11 |     1104 | 2024-03-08 | MOUZ NXT       | L   | 0.899      | -            | -                | -                | -         |    -9.08 | Rezst, shyyne, SLY, Tree60, yz0       |
+|           10 |     1166 | 2024-03-06 | Passion UA     | L   | 0.885      | -            | -                | -                | -         |   -10.43 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            9 |     1218 | 2024-03-04 | Secret         | W   | 0.872      | 0.371        | 0.000 (0.000)    | 0.210 (0.068)    | 0 (0.000) |     6.85 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            8 |     1374 | 2024-02-25 | The Neighbours | L   | 0.819      | -            | -                | -                | -         |   -11.57 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            7 |     1402 | 2024-02-24 | The Neighbours | W   | 0.813      | 0.307        | 0.030 (0.007)    | 0.166 (0.041)    | 1 (0.813) |    14.11 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            6 |     2581 | 2024-01-09 | KOI            | L   | 0.507      | -            | -                | -                | -         |    -3.40 | dox, Rezst, shyyne, Tree60, yz0       |
+|            5 |     2596 | 2024-01-09 | Nexus          | W   | 0.506      | 0.143        | 0.023 (0.002)    | 0.544 (0.039)    | 0 (0.000) |     8.65 | dox, Rezst, shyyne, Tree60, yz0       |
+|            4 |     2786 | 2023-12-10 | Verdant        | W   | 0.307      | 0.302        | 0.021 (0.002)    | 0.074 (0.007)    | 1 (0.307) |     4.67 | dox, Rezst, shyyne, Tree60, yz0       |
+|            3 |     2789 | 2023-12-10 | Coalesce       | W   | 0.306      | 0.302        | 0.004 (0.000)    | 0.052 (0.005)    | 1 (0.306) |     3.55 | dox, Rezst, shyyne, Tree60, yz0       |
+|            2 |     2795 | 2023-12-10 | Verdant        | L   | 0.305      | -            | -                | -                | -         |    -5.01 | dox, Rezst, shyyne, Tree60, yz0       |
+|            1 |     2816 | 2023-12-09 | Viperio        | W   | 0.299      | 0.302        | 0.000 (0.000)    | 0.056 (0.005)    | 1 (0.299) |     1.70 | dox, Rezst, shyyne, Tree60, yz0       |
 
 <br />
 <span id="table2"></span><br />

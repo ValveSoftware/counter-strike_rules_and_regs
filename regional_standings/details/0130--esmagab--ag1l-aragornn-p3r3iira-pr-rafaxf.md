@@ -34,30 +34,30 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                          |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          22 |      48 | 2024-04-20 | 1WIN              | L   | 1.000      | -            | -                | -                | -         |         -18.52 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
-|          21 |      82 | 2024-04-19 | Secret            | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.210 (0.030)    | 0 (0.000) |          10.21 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
-|          20 |     125 | 2024-04-18 | Illuminar         | L   | 1.000      | -            | -                | -                | -         |         -24.74 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
-|          19 |     182 | 2024-04-17 | 500               | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.622 (0.089)    | 0 (0.000) |          17.15 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
-|          18 |    1237 | 2024-03-03 | Rhyno             | W   | 0.866      | 0.314        | 0.019 (0.005)    | 0.171 (0.046)    | 1 (0.866) |          15.24 | DDias, krazy, renatoohaxx, snapy, TMKj        |
-|          17 |    1271 | 2024-03-02 | OVERFRAG          | W   | 0.859      | 0.314        | 0.004 (0.001)    | 0.000 (0.000)    | 1 (0.859) |           6.18 | devineez, HS, Lr0z1n, P3R3IIRA, seabraez      |
-|          16 |    1404 | 2024-02-24 | 500               | L   | 0.813      | -            | -                | -                | -         |         -15.40 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|          15 |    1542 | 2024-02-18 | Alliance          | L   | 0.772      | -            | -                | -                | -         |          -9.37 | avid, b0denmaster, PlesseN, robiin, twist     |
-|          14 |    1710 | 2024-02-11 | Young Ninjas      | L   | 0.726      | -            | -                | -                | -         |          -6.59 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
-|          13 |    1800 | 2024-02-04 | ARCRED            | W   | 0.679      | 0.358        | 0.008 (0.002)    | 0.164 (0.040)    | 0 (0.000) |           8.66 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
-|          12 |    1817 | 2024-02-03 | Rhyno             | L   | 0.673      | -            | -                | -                | -         |         -10.09 | DDias, krazy, renatoohaxx, snapy, TMKj        |
-|          11 |    1883 | 2024-02-01 | AL QATRAO         | W   | 0.659      | 0.143        | 0.004 (0.000)    | 0.031 (0.003)    | 0 (0.000) |           8.25 | Drext, frozzen, hdstr, nesto, Shr             |
-|          10 |    1888 | 2024-02-01 | Agency            | W   | 0.659      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           4.25 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
-|           9 |    2277 | 2024-01-17 | Insilio           | L   | 0.561      | -            | -                | -                | -         |          -9.14 | faydett, FpSSS, Pipw, Polt, sugaR             |
-|           8 |    2287 | 2024-01-17 | NAVI Junior       | W   | 0.560      | 0.143        | 0.019 (0.002)    | 0.195 (0.016)    | 0 (0.000) |           8.12 | dem0n, fnl, Krabeni, Magic, makazze           |
-|           7 |    2337 | 2024-01-16 | Aurora Young Blud | L   | 0.554      | -            | -                | -                | -         |         -10.23 | bl1x1, bluewh1te, easy, sh1geo, VILBy         |
-|           6 |    2356 | 2024-01-16 | m1xx              | W   | 0.553      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           1.98 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
-|           5 |    2442 | 2024-01-13 | Betera            | L   | 0.532      | -            | -                | -                | -         |          -8.79 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
-|           4 |    2471 | 2024-01-12 | Walkover          | W   | 0.528      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           1.82 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
-|           3 |    2545 | 2024-01-10 | PERA              | L   | 0.514      | -            | -                | -                | -         |          -7.58 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
-|           2 |    2619 | 2023-12-29 | Metizport         | L   | 0.432      | -            | -                | -                | -         |          -3.77 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
-|           1 |    2624 | 2023-12-27 | The Witchers      | L   | 0.420      | -            | -                | -                | -         |          -7.45 | Dragon, fear, Sdaim, smooya, synyx            |
+|           22 |       48 | 2024-04-20 | 1WIN              | L   | 1.000      | -            | -                | -                | -         |   -18.52 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           21 |       82 | 2024-04-19 | Secret            | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.210 (0.030)    | 0 (0.000) |    10.21 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           20 |      125 | 2024-04-18 | Illuminar         | L   | 1.000      | -            | -                | -                | -         |   -24.74 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           19 |      182 | 2024-04-17 | 500               | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.622 (0.089)    | 0 (0.000) |    17.15 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           18 |     1237 | 2024-03-03 | Rhyno             | W   | 0.866      | 0.314        | 0.019 (0.005)    | 0.171 (0.046)    | 1 (0.866) |    15.24 | DDias, krazy, renatoohaxx, snapy, TMKj        |
+|           17 |     1271 | 2024-03-02 | OVERFRAG          | W   | 0.859      | 0.314        | 0.004 (0.001)    | 0.000 (0.000)    | 1 (0.859) |     6.18 | devineez, HS, Lr0z1n, P3R3IIRA, seabraez      |
+|           16 |     1404 | 2024-02-24 | 500               | L   | 0.813      | -            | -                | -                | -         |   -15.40 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           15 |     1542 | 2024-02-18 | Alliance          | L   | 0.772      | -            | -                | -                | -         |    -9.37 | avid, b0denmaster, PlesseN, robiin, twist     |
+|           14 |     1710 | 2024-02-11 | Young Ninjas      | L   | 0.726      | -            | -                | -                | -         |    -6.59 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
+|           13 |     1800 | 2024-02-04 | ARCRED            | W   | 0.679      | 0.358        | 0.008 (0.002)    | 0.164 (0.040)    | 0 (0.000) |     8.66 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
+|           12 |     1817 | 2024-02-03 | Rhyno             | L   | 0.673      | -            | -                | -                | -         |   -10.09 | DDias, krazy, renatoohaxx, snapy, TMKj        |
+|           11 |     1883 | 2024-02-01 | AL QATRAO         | W   | 0.659      | 0.143        | 0.004 (0.000)    | 0.031 (0.003)    | 0 (0.000) |     8.25 | Drext, frozzen, hdstr, nesto, Shr             |
+|           10 |     1888 | 2024-02-01 | Agency            | W   | 0.659      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.25 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
+|            9 |     2277 | 2024-01-17 | Insilio           | L   | 0.561      | -            | -                | -                | -         |    -9.14 | faydett, FpSSS, Pipw, Polt, sugaR             |
+|            8 |     2287 | 2024-01-17 | NAVI Junior       | W   | 0.560      | 0.143        | 0.019 (0.002)    | 0.195 (0.016)    | 0 (0.000) |     8.12 | dem0n, fnl, Krabeni, Magic, makazze           |
+|            7 |     2337 | 2024-01-16 | Aurora Young Blud | L   | 0.554      | -            | -                | -                | -         |   -10.23 | bl1x1, bluewh1te, easy, sh1geo, VILBy         |
+|            6 |     2356 | 2024-01-16 | m1xx              | W   | 0.553      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.98 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
+|            5 |     2442 | 2024-01-13 | Betera            | L   | 0.532      | -            | -                | -                | -         |    -8.79 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
+|            4 |     2471 | 2024-01-12 | Walkover          | W   | 0.528      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.82 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
+|            3 |     2545 | 2024-01-10 | PERA              | L   | 0.514      | -            | -                | -                | -         |    -7.58 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
+|            2 |     2619 | 2023-12-29 | Metizport         | L   | 0.432      | -            | -                | -                | -         |    -3.77 | Ag1l, aragornN, NOPEEJ, pr, rafaxF            |
+|            1 |     2624 | 2023-12-27 | The Witchers      | L   | 0.420      | -            | -                | -                | -         |    -7.45 | Dragon, fear, Sdaim, smooya, synyx            |
 
 <br />
 <span id="table2"></span><br />

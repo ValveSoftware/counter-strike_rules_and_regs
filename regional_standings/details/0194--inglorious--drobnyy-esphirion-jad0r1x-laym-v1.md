@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                  |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          10 |     986 | 2024-03-13 | Insilio         | L   | 0.933      | -            | -                | -                | -         |          -6.17 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
-|           9 |    1074 | 2024-03-09 | Nexus           | L   | 0.906      | -            | -                | -                | -         |          -5.40 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
-|           8 |    1109 | 2024-03-08 | JANO            | L   | 0.898      | -            | -                | -                | -         |         -11.88 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
-|           7 |    1120 | 2024-03-07 | MOUZ NXT        | W   | 0.894      | 0.372        | 0.054 (0.018)    | 0.970 (0.323)    | 0 (0.000) |          24.91 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
-|           6 |    1159 | 2024-03-06 | Enterprise      | W   | 0.886      | 0.372        | 0.026 (0.009)    | 0.452 (0.149)    | 0 (0.000) |          25.30 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
-|           5 |    1273 | 2024-03-02 | ex-sYnck        | L   | 0.858      | -            | -                | -                | -         |          -6.78 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
-|           4 |    1320 | 2024-02-28 | Metizport       | L   | 0.838      | -            | -                | -                | -         |          -1.97 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
-|           3 |    1336 | 2024-02-27 | ECF             | L   | 0.833      | -            | -                | -                | -         |         -11.67 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
-|           2 |    3296 | 2023-11-15 | FTW             | L   | 0.140      | -            | -                | -                | -         |          -1.57 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
-|           1 |    3306 | 2023-11-15 | Into the Breach | W   | 0.140      | 0.143        | 0.037 (0.001)    | 0.225 (0.004)    | 0 (0.000) |           3.56 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
+|           10 |      986 | 2024-03-13 | Insilio         | L   | 0.933      | -            | -                | -                | -         |    -6.17 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
+|            9 |     1074 | 2024-03-09 | Nexus           | L   | 0.906      | -            | -                | -                | -         |    -5.40 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
+|            8 |     1109 | 2024-03-08 | JANO            | L   | 0.898      | -            | -                | -                | -         |   -11.88 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
+|            7 |     1120 | 2024-03-07 | MOUZ NXT        | W   | 0.894      | 0.372        | 0.054 (0.018)    | 0.970 (0.323)    | 0 (0.000) |    24.91 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
+|            6 |     1159 | 2024-03-06 | Enterprise      | W   | 0.886      | 0.372        | 0.026 (0.009)    | 0.452 (0.149)    | 0 (0.000) |    25.30 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
+|            5 |     1273 | 2024-03-02 | ex-sYnck        | L   | 0.858      | -            | -                | -                | -         |    -6.78 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
+|            4 |     1320 | 2024-02-28 | Metizport       | L   | 0.838      | -            | -                | -                | -         |    -1.97 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
+|            3 |     1336 | 2024-02-27 | ECF             | L   | 0.833      | -            | -                | -                | -         |   -11.67 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
+|            2 |     3296 | 2023-11-15 | FTW             | L   | 0.140      | -            | -                | -                | -         |    -1.57 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
+|            1 |     3306 | 2023-11-15 | Into the Breach | W   | 0.140      | 0.143        | 0.037 (0.001)    | 0.225 (0.004)    | 0 (0.000) |     3.56 | Drobnyy, Esphirion, Jad0R1x, LAYM, V1 |
 
 <br />
 <span id="table2"></span><br />

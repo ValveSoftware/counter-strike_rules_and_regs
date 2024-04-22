@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                 |
+| Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          11 |    2013 | 2024-01-24 | Rare Atom    | L   | 0.605      | -            | -                | -                | -         |          -6.36 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
-|          10 |    2040 | 2024-01-23 | Steel Helmet | L   | 0.598      | -            | -                | -                | -         |          -6.99 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
-|           9 |    2064 | 2024-01-22 | Newhappy     | W   | 0.592      | 0.143        | 0.005 (0.000)    | 0.238 (0.020)    | 0 (0.000) |          12.37 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
-|           8 |    2093 | 2024-01-21 | The Huns     | L   | 0.584      | -            | -                | -                | -         |         -10.28 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
-|           7 |    2135 | 2024-01-20 | MungYu       | W   | 0.578      | 0.143        | 0.000 (0.000)    | 0.077 (0.006)    | 0 (0.000) |           7.36 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
-|           6 |    2144 | 2024-01-20 | Fort Arena   | W   | 0.577      | 0.143        | 0.000 (0.000)    | 0.025 (0.002)    | 0 (0.000) |           4.57 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
-|           5 |    2196 | 2024-01-19 | GR           | L   | 0.571      | -            | -                | -                | -         |          -7.25 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
-|           4 |    3278 | 2023-11-16 | ATOX         | L   | 0.145      | -            | -                | -                | -         |          -1.17 | ariucle, fury5k, MagnumZ, NEUZ, ROUX |
-|           3 |    3283 | 2023-11-16 | MIRAI        | W   | 0.144      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           1.13 | ariucle, fury5k, MagnumZ, NEUZ, ROUX |
-|           2 |    3569 | 2023-11-03 | ATOX         | L   | 0.057      | -            | -                | -                | -         |          -0.46 | ariucle, fury5k, MagnumZ, NEUZ, ROUX |
-|           1 |    3572 | 2023-11-03 | The Huns     | W   | 0.057      | 0.307        | 0.002 (0.000)    | 0.000 (0.000)    | 1 (0.057) |           0.73 | ariucle, fury5k, MagnumZ, NEUZ, ROUX |
+|           11 |     2013 | 2024-01-24 | Rare Atom    | L   | 0.605      | -            | -                | -                | -         |    -6.36 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
+|           10 |     2040 | 2024-01-23 | Steel Helmet | L   | 0.598      | -            | -                | -                | -         |    -6.99 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
+|            9 |     2064 | 2024-01-22 | Newhappy     | W   | 0.592      | 0.143        | 0.005 (0.000)    | 0.238 (0.020)    | 0 (0.000) |    12.37 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
+|            8 |     2093 | 2024-01-21 | The Huns     | L   | 0.584      | -            | -                | -                | -         |   -10.28 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
+|            7 |     2135 | 2024-01-20 | MungYu       | W   | 0.578      | 0.143        | 0.000 (0.000)    | 0.077 (0.006)    | 0 (0.000) |     7.36 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
+|            6 |     2144 | 2024-01-20 | Fort Arena   | W   | 0.577      | 0.143        | 0.000 (0.000)    | 0.025 (0.002)    | 0 (0.000) |     4.57 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
+|            5 |     2196 | 2024-01-19 | GR           | L   | 0.571      | -            | -                | -                | -         |    -7.25 | fury5k, MagnumZ, NEUZ, ROUX, tamir   |
+|            4 |     3278 | 2023-11-16 | ATOX         | L   | 0.145      | -            | -                | -                | -         |    -1.17 | ariucle, fury5k, MagnumZ, NEUZ, ROUX |
+|            3 |     3283 | 2023-11-16 | MIRAI        | W   | 0.144      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.13 | ariucle, fury5k, MagnumZ, NEUZ, ROUX |
+|            2 |     3569 | 2023-11-03 | ATOX         | L   | 0.057      | -            | -                | -                | -         |    -0.46 | ariucle, fury5k, MagnumZ, NEUZ, ROUX |
+|            1 |     3572 | 2023-11-03 | The Huns     | W   | 0.057      | 0.307        | 0.002 (0.000)    | 0.000 (0.000)    | 1 (0.057) |     0.73 | ariucle, fury5k, MagnumZ, NEUZ, ROUX |
 
 <br />
 <span id="table2"></span><br />

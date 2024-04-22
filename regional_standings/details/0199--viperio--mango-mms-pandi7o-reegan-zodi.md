@@ -34,24 +34,24 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                     |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          16 |    1210 | 2024-03-05 | Alliance        | L   | 0.877      | -            | -                | -                | -         |          -3.98 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
-|          15 |    1292 | 2024-03-01 | ECLOT           | L   | 0.851      | -            | -                | -                | -         |          -1.42 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
-|          14 |    1528 | 2024-02-19 | NAVI Junior     | L   | 0.777      | -            | -                | -                | -         |          -6.46 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
-|          13 |    2005 | 2024-01-24 | PERA            | L   | 0.607      | -            | -                | -                | -         |          -2.76 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
-|          12 |    2029 | 2024-01-23 | Rebels          | W   | 0.600      | 0.143        | 0.050 (0.004)    | 0.360 (0.031)    | 0 (0.000) |          16.78 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
-|          11 |    2032 | 2024-01-23 | Sampi           | W   | 0.599      | 0.143        | 0.084 (0.007)    | 0.698 (0.060)    | 0 (0.000) |          17.54 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
-|          10 |    2051 | 2024-01-22 | ALTERNATE aTTaX | L   | 0.593      | -            | -                | -                | -         |          -3.02 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
-|           9 |    2054 | 2024-01-22 | Guild Eagles    | L   | 0.593      | -            | -                | -                | -         |          -0.86 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
-|           8 |    2060 | 2024-01-22 | PERA            | L   | 0.592      | -            | -                | -                | -         |          -2.73 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
-|           7 |    2546 | 2024-01-10 | 00NATION        | L   | 0.514      | -            | -                | -                | -         |          -4.91 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
-|           6 |    2811 | 2023-12-09 | Coalesce        | L   | 0.300      | -            | -                | -                | -         |          -2.63 | JAUSTERE, MMS, papp, ReegaN, zodi        |
-|           5 |    2816 | 2023-12-09 | K10             | L   | 0.299      | -            | -                | -                | -         |          -1.70 | JAUSTERE, MMS, papp, ReegaN, zodi        |
-|           4 |    3145 | 2023-11-21 | JANO            | L   | 0.178      | -            | -                | -                | -         |          -1.91 | allu, doto, Jelo, Jerppa, Sm1llee        |
-|           3 |    3158 | 2023-11-20 | Lazer Cats      | L   | 0.172      | -            | -                | -                | -         |          -2.69 | Adam9130, AwaykeN, MMS, ReegaN, zodi     |
-|           2 |    3619 | 2023-11-01 | Zero Tenacity   | L   | 0.044      | -            | -                | -                | -         |          -0.25 | aVN, brutmonster, Cjoffo, nEMANHA, simke |
-|           1 |    3647 | 2023-10-31 | Spirit Academy  | L   | 0.038      | -            | -                | -                | -         |          -0.27 | alpha, baz, keegaN, Magnojez, notineki   |
+|           16 |     1210 | 2024-03-05 | Alliance        | L   | 0.877      | -            | -                | -                | -         |    -3.98 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
+|           15 |     1292 | 2024-03-01 | ECLOT           | L   | 0.851      | -            | -                | -                | -         |    -1.42 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
+|           14 |     1528 | 2024-02-19 | NAVI Junior     | L   | 0.777      | -            | -                | -                | -         |    -6.46 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
+|           13 |     2005 | 2024-01-24 | PERA            | L   | 0.607      | -            | -                | -                | -         |    -2.76 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
+|           12 |     2029 | 2024-01-23 | Rebels          | W   | 0.600      | 0.143        | 0.050 (0.004)    | 0.360 (0.031)    | 0 (0.000) |    16.78 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
+|           11 |     2032 | 2024-01-23 | Sampi           | W   | 0.599      | 0.143        | 0.084 (0.007)    | 0.698 (0.060)    | 0 (0.000) |    17.54 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
+|           10 |     2051 | 2024-01-22 | ALTERNATE aTTaX | L   | 0.593      | -            | -                | -                | -         |    -3.02 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
+|            9 |     2054 | 2024-01-22 | Guild Eagles    | L   | 0.593      | -            | -                | -                | -         |    -0.86 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
+|            8 |     2060 | 2024-01-22 | PERA            | L   | 0.592      | -            | -                | -                | -         |    -2.73 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
+|            7 |     2546 | 2024-01-10 | 00NATION        | L   | 0.514      | -            | -                | -                | -         |    -4.91 | mAnGo, MMS, pandi7o, ReegaN, zodi        |
+|            6 |     2811 | 2023-12-09 | Coalesce        | L   | 0.300      | -            | -                | -                | -         |    -2.63 | JAUSTERE, MMS, papp, ReegaN, zodi        |
+|            5 |     2816 | 2023-12-09 | K10             | L   | 0.299      | -            | -                | -                | -         |    -1.70 | JAUSTERE, MMS, papp, ReegaN, zodi        |
+|            4 |     3145 | 2023-11-21 | JANO            | L   | 0.178      | -            | -                | -                | -         |    -1.91 | allu, doto, Jelo, Jerppa, Sm1llee        |
+|            3 |     3158 | 2023-11-20 | Lazer Cats      | L   | 0.172      | -            | -                | -                | -         |    -2.69 | Adam9130, AwaykeN, MMS, ReegaN, zodi     |
+|            2 |     3619 | 2023-11-01 | Zero Tenacity   | L   | 0.044      | -            | -                | -                | -         |    -0.25 | aVN, brutmonster, Cjoffo, nEMANHA, simke |
+|            1 |     3647 | 2023-10-31 | Spirit Academy  | L   | 0.038      | -            | -                | -                | -         |    -0.27 | alpha, baz, keegaN, Magnojez, notineki   |
 
 <br />
 <span id="table2"></span><br />

@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                     |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          15 |      76 | 2024-04-19 | FURIA fe        | W   | 1.000      | 0.332        | 0.030 (0.010)    | 0.293 (0.097)    | 0 (0.000) |          14.48 | annaEX, goddess, julih, poppins, yungher |
-|          14 |     339 | 2024-04-10 | GENKID4M4       | W   | 1.000      | 0.332        | 0.007 (0.002)    | 0.077 (0.026)    | 0 (0.000) |           7.40 | annaEX, goddess, julih, poppins, yungher |
-|          13 |     531 | 2024-04-04 | KG fe           | W   | 1.000      | 0.332        | 0.005 (0.002)    | 0.036 (0.012)    | 0 (0.000) |           5.92 | annaEX, goddess, julih, poppins, yungher |
-|          12 |     705 | 2024-03-27 | Divina fe       | W   | 1.000      | 0.332        | 0.007 (0.002)    | 0.089 (0.030)    | 0 (0.000) |           9.75 | annaEX, goddess, julih, poppins, yungher |
-|          11 |     822 | 2024-03-20 | MIBR fe         | W   | 0.981      | 0.332        | 0.014 (0.005)    | 0.188 (0.061)    | 0 (0.000) |          11.13 | annaEX, goddess, julih, poppins, yungher |
-|          10 |     941 | 2024-03-14 | W7M fe          | W   | 0.941      | 0.332        | 0.008 (0.002)    | 0.127 (0.040)    | 0 (0.000) |           9.14 | annaEX, goddess, julih, poppins, yungher |
-|           9 |    1145 | 2024-03-06 | Atrix           | W   | 0.888      | 0.332        | 0.008 (0.002)    | 0.185 (0.055)    | 0 (0.000) |           9.73 | annaEX, goddess, julih, poppins, yungher |
-|           8 |    1807 | 2024-02-03 | Brasil Storm fe | W   | 0.675      | 0.250        | 0.001 (0.000)    | -                | 0 (0.000) |           3.94 | annaEX, goddess, josi, julih, yungher    |
-|           7 |    2794 | 2023-12-10 | NAVI Javelins   | L   | 0.305      | -            | -                | -                | -         |          -3.97 | goddess, julih, nani, poppins, yungher   |
-|           6 |    2834 | 2023-12-08 | Pigeons         | W   | 0.293      | 0.524        | 0.095 (0.015)    | 0.353 (0.054)    | 1 (0.293) |           5.98 | goddess, julih, nani, poppins, yungher   |
-|           5 |    2842 | 2023-12-08 | FlyQuest RED    | W   | 0.291      | 0.524        | 0.022 (0.003)    | 0.323 (0.049)    | 1 (0.291) |           4.28 | goddess, julih, nani, poppins, yungher   |
-|           4 |    3186 | 2023-11-18 | MIBR fe         | L   | 0.161      | -            | -                | -                | -         |          -3.05 | goddess, julih, nani, poppins, yungher   |
-|           3 |    3248 | 2023-11-16 | FURIA fe        | L   | 0.149      | -            | -                | -                | -         |          -2.50 | goddess, julih, nani, poppins, yungher   |
-|           2 |    3692 | 2023-10-29 | MIBR fe         | W   | 0.027      | 0.328        | -                | 0.188 (0.002)    | -         |           0.34 | goddess, julih, nani, poppins, yungher   |
-|           1 |    3841 | 2023-10-25 | Kidisgraça      | W   | 0.001      | -            | -                | -                | -         |           0.00 | goddess, julih, nani, poppins, yungher   |
+|           15 |       76 | 2024-04-19 | FURIA fe        | W   | 1.000      | 0.332        | 0.030 (0.010)    | 0.293 (0.097)    | 0 (0.000) |    14.48 | annaEX, goddess, julih, poppins, yungher |
+|           14 |      339 | 2024-04-10 | GENKID4M4       | W   | 1.000      | 0.332        | 0.007 (0.002)    | 0.077 (0.026)    | 0 (0.000) |     7.40 | annaEX, goddess, julih, poppins, yungher |
+|           13 |      531 | 2024-04-04 | KG fe           | W   | 1.000      | 0.332        | 0.005 (0.002)    | 0.036 (0.012)    | 0 (0.000) |     5.92 | annaEX, goddess, julih, poppins, yungher |
+|           12 |      705 | 2024-03-27 | Divina fe       | W   | 1.000      | 0.332        | 0.007 (0.002)    | 0.089 (0.030)    | 0 (0.000) |     9.75 | annaEX, goddess, julih, poppins, yungher |
+|           11 |      822 | 2024-03-20 | MIBR fe         | W   | 0.981      | 0.332        | 0.014 (0.005)    | 0.188 (0.061)    | 0 (0.000) |    11.13 | annaEX, goddess, julih, poppins, yungher |
+|           10 |      941 | 2024-03-14 | W7M fe          | W   | 0.941      | 0.332        | 0.008 (0.002)    | 0.127 (0.040)    | 0 (0.000) |     9.14 | annaEX, goddess, julih, poppins, yungher |
+|            9 |     1145 | 2024-03-06 | Atrix           | W   | 0.888      | 0.332        | 0.008 (0.002)    | 0.185 (0.055)    | 0 (0.000) |     9.73 | annaEX, goddess, julih, poppins, yungher |
+|            8 |     1807 | 2024-02-03 | Brasil Storm fe | W   | 0.675      | 0.250        | 0.001 (0.000)    | -                | 0 (0.000) |     3.94 | annaEX, goddess, josi, julih, yungher    |
+|            7 |     2794 | 2023-12-10 | NAVI Javelins   | L   | 0.305      | -            | -                | -                | -         |    -3.97 | goddess, julih, nani, poppins, yungher   |
+|            6 |     2834 | 2023-12-08 | Pigeons         | W   | 0.293      | 0.524        | 0.095 (0.015)    | 0.353 (0.054)    | 1 (0.293) |     5.98 | goddess, julih, nani, poppins, yungher   |
+|            5 |     2842 | 2023-12-08 | FlyQuest RED    | W   | 0.291      | 0.524        | 0.022 (0.003)    | 0.323 (0.049)    | 1 (0.291) |     4.28 | goddess, julih, nani, poppins, yungher   |
+|            4 |     3186 | 2023-11-18 | MIBR fe         | L   | 0.161      | -            | -                | -                | -         |    -3.05 | goddess, julih, nani, poppins, yungher   |
+|            3 |     3248 | 2023-11-16 | FURIA fe        | L   | 0.149      | -            | -                | -                | -         |    -2.50 | goddess, julih, nani, poppins, yungher   |
+|            2 |     3692 | 2023-10-29 | MIBR fe         | W   | 0.027      | 0.328        | -                | 0.188 (0.002)    | -         |     0.34 | goddess, julih, nani, poppins, yungher   |
+|            1 |     3841 | 2023-10-25 | Kidisgraça      | W   | 0.001      | -            | -                | -                | -         |     0.00 | goddess, julih, nani, poppins, yungher   |
 
 <br />
 <span id="table2"></span><br />

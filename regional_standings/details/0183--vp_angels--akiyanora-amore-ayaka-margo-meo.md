@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          10 |      90 | 2024-04-19 | NAVI Javelins     | L   | 1.000      | -            | -                | -                | -         |          -5.54 | akiyanora, amore, ayaka, Margo, meo |
-|           9 |     302 | 2024-04-11 | Fearless Cheetahs | L   | 1.000      | -            | -                | -                | -         |          -8.49 | akiyanora, amore, ayaka, Margo, meo |
-|           8 |     356 | 2024-04-10 | Permitta W        | L   | 1.000      | -            | -                | -                | -         |         -21.23 | akiyanora, amore, ayaka, Margo, meo |
-|           7 |     439 | 2024-04-08 | Pigeons           | L   | 1.000      | -            | -                | -                | -         |          -5.91 | akiyanora, amore, ayaka, Margo, meo |
-|           6 |     673 | 2024-03-28 | 1WIN Gang         | W   | 1.000      | 0.331        | 0.006 (0.002)    | 0.046 (0.015)    | 0 (0.000) |          14.14 | akiyanora, amore, ayaka, Margo, meo |
-|           5 |     826 | 2024-03-20 | Spirit fe         | L   | 0.980      | -            | -                | -                | -         |         -13.95 | akiyanora, amore, ayaka, Margo, meo |
-|           4 |     977 | 2024-03-13 | Let Her Cook      | L   | 0.934      | -            | -                | -                | -         |         -13.65 | akiyanora, amore, ayaka, Margo, meo |
-|           3 |    1411 | 2024-02-24 | NAVI Javelins     | L   | 0.812      | -            | -                | -                | -         |          -6.66 | akiyanora, amore, ayaka, Margo, meo |
-|           2 |    1539 | 2024-02-18 | ex-FORZE Ladies   | W   | 0.773      | 0.143        | 0.009 (0.001)    | 0.093 (0.010)    | 0 (0.000) |          12.37 | akiyanora, amore, ayaka, Margo, meo |
-|           1 |    3845 | 2023-10-25 | ENCE Athena       | L   | 0.000      | -            | -                | -                | -         |          -0.00 | amore, ayaka, Katherine, Margo, meo |
+|           10 |       90 | 2024-04-19 | NAVI Javelins     | L   | 1.000      | -            | -                | -                | -         |    -5.54 | akiyanora, amore, ayaka, Margo, meo |
+|            9 |      302 | 2024-04-11 | Fearless Cheetahs | L   | 1.000      | -            | -                | -                | -         |    -8.49 | akiyanora, amore, ayaka, Margo, meo |
+|            8 |      356 | 2024-04-10 | Permitta W        | L   | 1.000      | -            | -                | -                | -         |   -21.23 | akiyanora, amore, ayaka, Margo, meo |
+|            7 |      439 | 2024-04-08 | Pigeons           | L   | 1.000      | -            | -                | -                | -         |    -5.91 | akiyanora, amore, ayaka, Margo, meo |
+|            6 |      673 | 2024-03-28 | 1WIN Gang         | W   | 1.000      | 0.331        | 0.006 (0.002)    | 0.046 (0.015)    | 0 (0.000) |    14.14 | akiyanora, amore, ayaka, Margo, meo |
+|            5 |      826 | 2024-03-20 | Spirit fe         | L   | 0.980      | -            | -                | -                | -         |   -13.95 | akiyanora, amore, ayaka, Margo, meo |
+|            4 |      977 | 2024-03-13 | Let Her Cook      | L   | 0.934      | -            | -                | -                | -         |   -13.65 | akiyanora, amore, ayaka, Margo, meo |
+|            3 |     1411 | 2024-02-24 | NAVI Javelins     | L   | 0.812      | -            | -                | -                | -         |    -6.66 | akiyanora, amore, ayaka, Margo, meo |
+|            2 |     1539 | 2024-02-18 | ex-FORZE Ladies   | W   | 0.773      | 0.143        | 0.009 (0.001)    | 0.093 (0.010)    | 0 (0.000) |    12.37 | akiyanora, amore, ayaka, Margo, meo |
+|            1 |     3845 | 2023-10-25 | ENCE Athena       | L   | 0.000      | -            | -                | -                | -         |    -0.00 | amore, ayaka, Katherine, Margo, meo |
 
 <br />
 <span id="table2"></span><br />

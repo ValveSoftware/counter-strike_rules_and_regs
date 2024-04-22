@@ -34,25 +34,25 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster          |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          17 |      25 | 2024-04-21 | MASONIC         | L   | 1.000      | -            | -                | -                | -         |         -11.95 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|          16 |      30 | 2024-04-21 | Preasy          | W   | 1.000      | 0.318        | 0.000 (0.000)    | 0.046 (0.015)    | 1 (1.000) |           6.57 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|          15 |      46 | 2024-04-20 | Kronjyllands    | W   | 1.000      | 0.318        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |           3.10 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|          14 |     246 | 2024-04-15 | ECLOT           | L   | 1.000      | -            | -                | -                | -         |          -8.52 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|          13 |     420 | 2024-04-09 | Alliance        | L   | 1.000      | -            | -                | -                | -         |         -15.21 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|          12 |     747 | 2024-03-25 | Sashi           | L   | 1.000      | -            | -                | -                | -         |         -18.78 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|          11 |     750 | 2024-03-25 | XI              | W   | 1.000      | 0.342        | 0.002 (0.001)    | 0.000 (0.000)    | 0 (0.000) |           4.76 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|          10 |    1086 | 2024-03-09 | NOM             | L   | 0.905      | -            | -                | -                | -         |         -23.93 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|           9 |    2096 | 2024-01-21 | MOUZ NXT        | L   | 0.584      | -            | -                | -                | -         |          -7.78 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|           8 |    2137 | 2024-01-20 | Permitta        | W   | 0.578      | 0.333        | 0.031 (0.006)    | 0.970 (0.187)    | 0 (0.000) |           9.27 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|           7 |    2187 | 2024-01-19 | MOUZ NXT        | L   | 0.572      | -            | -                | -                | -         |          -7.86 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|           6 |    2295 | 2024-01-17 | Permitta        | W   | 0.558      | 0.333        | 0.031 (0.006)    | 0.970 (0.180)    | 0 (0.000) |           9.14 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|           5 |    2412 | 2024-01-14 | Zero Tenacity   | W   | 0.538      | 0.333        | 0.008 (0.001)    | 0.805 (0.144)    | 0 (0.000) |           6.70 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|           4 |    2651 | 2023-12-19 | brazylijski luz | L   | 0.365      | -            | -                | -                | -         |          -6.55 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|           3 |    2661 | 2023-12-18 | Nexus           | W   | 0.358      | 0.303        | 0.023 (0.002)    | 0.544 (0.059)    | 0 (0.000) |           5.46 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|           2 |    2695 | 2023-12-17 | Permitta        | W   | 0.351      | 0.303        | 0.001 (0.000)    | 0.010 (0.001)    | 0 (0.000) |           2.47 | ANSG1, JBOEN, kiR, kroK, tOPZ |
-|           1 |    2975 | 2023-12-02 | Sashi           | L   | 0.252      | -            | -                | -                | -         |          -5.34 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|           17 |       25 | 2024-04-21 | MASONIC         | L   | 1.000      | -            | -                | -                | -         |   -11.95 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|           16 |       30 | 2024-04-21 | Preasy          | W   | 1.000      | 0.318        | 0.000 (0.000)    | 0.046 (0.015)    | 1 (1.000) |     6.57 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|           15 |       46 | 2024-04-20 | Kronjyllands    | W   | 1.000      | 0.318        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     3.10 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|           14 |      246 | 2024-04-15 | ECLOT           | L   | 1.000      | -            | -                | -                | -         |    -8.52 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|           13 |      420 | 2024-04-09 | Alliance        | L   | 1.000      | -            | -                | -                | -         |   -15.21 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|           12 |      747 | 2024-03-25 | Sashi           | L   | 1.000      | -            | -                | -                | -         |   -18.78 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|           11 |      750 | 2024-03-25 | XI              | W   | 1.000      | 0.342        | 0.002 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     4.76 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|           10 |     1086 | 2024-03-09 | NOM             | L   | 0.905      | -            | -                | -                | -         |   -23.93 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|            9 |     2096 | 2024-01-21 | MOUZ NXT        | L   | 0.584      | -            | -                | -                | -         |    -7.78 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|            8 |     2137 | 2024-01-20 | Permitta        | W   | 0.578      | 0.333        | 0.031 (0.006)    | 0.970 (0.187)    | 0 (0.000) |     9.27 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|            7 |     2187 | 2024-01-19 | MOUZ NXT        | L   | 0.572      | -            | -                | -                | -         |    -7.86 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|            6 |     2295 | 2024-01-17 | Permitta        | W   | 0.558      | 0.333        | 0.031 (0.006)    | 0.970 (0.180)    | 0 (0.000) |     9.14 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|            5 |     2412 | 2024-01-14 | Zero Tenacity   | W   | 0.538      | 0.333        | 0.008 (0.001)    | 0.805 (0.144)    | 0 (0.000) |     6.70 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|            4 |     2651 | 2023-12-19 | brazylijski luz | L   | 0.365      | -            | -                | -                | -         |    -6.55 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|            3 |     2661 | 2023-12-18 | Nexus           | W   | 0.358      | 0.303        | 0.023 (0.002)    | 0.544 (0.059)    | 0 (0.000) |     5.46 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|            2 |     2695 | 2023-12-17 | Permitta        | W   | 0.351      | 0.303        | 0.001 (0.000)    | 0.010 (0.001)    | 0 (0.000) |     2.47 | ANSG1, JBOEN, kiR, kroK, tOPZ |
+|            1 |     2975 | 2023-12-02 | Sashi           | L   | 0.252      | -            | -                | -                | -         |    -5.34 | ANSG1, JBOEN, kiR, kroK, tOPZ |
 
 <br />
 <span id="table2"></span><br />

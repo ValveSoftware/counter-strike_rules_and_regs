@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                  |
+| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          13 |     674 | 2024-03-28 | TSM           | L   | 1.000      | -            | -                | -                | -         |          -5.82 | KEi, KukuBambo, mynio, nawrot, tomiko |
-|          12 |    1151 | 2024-03-06 | EYEBALLERS    | L   | 0.887      | -            | -                | -                | -         |          -3.33 | KEi, KukuBambo, mynio, nawrot, tomiko |
-|          11 |    1207 | 2024-03-05 | ECLOT         | L   | 0.878      | -            | -                | -                | -         |          -1.39 | KEi, mynio, SaMey, Sobol, tomiko      |
-|          10 |    1245 | 2024-03-03 | ILIN          | L   | 0.866      | -            | -                | -                | -         |         -13.72 | KEi, mynio, snatchie, Sobol, tomiko   |
-|           9 |    1290 | 2024-03-01 | Alliance      | W   | 0.852      | 0.371        | 0.020 (0.006)    | 0.855 (0.270)    | 0 (0.000) |          23.07 | KEi, mynio, SaMey, Sobol, tomiko      |
-|           8 |    1324 | 2024-02-27 | Sangal        | L   | 0.834      | -            | -                | -                | -         |          -6.50 | KEi, KukuBambo, mynio, nawrot, tomiko |
-|           7 |    1354 | 2024-02-26 | Entropiq      | L   | 0.825      | -            | -                | -                | -         |          -6.26 | KEi, mynio, SaMey, Sobol, tomiko      |
-|           6 |    1771 | 2024-02-06 | Alliance      | L   | 0.691      | -            | -                | -                | -         |          -3.51 | KEi, KukuBambo, mhL, mynio, tomiko    |
-|           5 |    1910 | 2024-01-31 | BLEED         | L   | 0.651      | -            | -                | -                | -         |          -1.04 | KEi, KukuBambo, mhL, mynio, tomiko    |
-|           4 |    2343 | 2024-01-16 | JANO          | L   | 0.554      | -            | -                | -                | -         |          -6.42 | KEi, KukuBambo, mhL, mynio, tomiko    |
-|           3 |    2565 | 2024-01-09 | KOI           | L   | 0.507      | -            | -                | -                | -         |          -0.96 | KEi, KukuBambo, mhL, mynio, tomiko    |
-|           2 |    2587 | 2024-01-09 | Zero Tenacity | W   | 0.506      | 0.143        | 0.008 (0.001)    | 0.805 (0.058)    | 0 (0.000) |          12.79 | KEi, KukuBambo, mhL, mynio, tomiko    |
-|           1 |    2598 | 2024-01-09 | xGOD          | W   | 0.506      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           5.10 | KEi, KukuBambo, mhL, mynio, tomiko    |
+|           13 |      674 | 2024-03-28 | TSM           | L   | 1.000      | -            | -                | -                | -         |    -5.82 | KEi, KukuBambo, mynio, nawrot, tomiko |
+|           12 |     1151 | 2024-03-06 | EYEBALLERS    | L   | 0.887      | -            | -                | -                | -         |    -3.33 | KEi, KukuBambo, mynio, nawrot, tomiko |
+|           11 |     1207 | 2024-03-05 | ECLOT         | L   | 0.878      | -            | -                | -                | -         |    -1.39 | KEi, mynio, SaMey, Sobol, tomiko      |
+|           10 |     1245 | 2024-03-03 | ILIN          | L   | 0.866      | -            | -                | -                | -         |   -13.72 | KEi, mynio, snatchie, Sobol, tomiko   |
+|            9 |     1290 | 2024-03-01 | Alliance      | W   | 0.852      | 0.371        | 0.020 (0.006)    | 0.855 (0.270)    | 0 (0.000) |    23.07 | KEi, mynio, SaMey, Sobol, tomiko      |
+|            8 |     1324 | 2024-02-27 | Sangal        | L   | 0.834      | -            | -                | -                | -         |    -6.50 | KEi, KukuBambo, mynio, nawrot, tomiko |
+|            7 |     1354 | 2024-02-26 | Entropiq      | L   | 0.825      | -            | -                | -                | -         |    -6.26 | KEi, mynio, SaMey, Sobol, tomiko      |
+|            6 |     1771 | 2024-02-06 | Alliance      | L   | 0.691      | -            | -                | -                | -         |    -3.51 | KEi, KukuBambo, mhL, mynio, tomiko    |
+|            5 |     1910 | 2024-01-31 | BLEED         | L   | 0.651      | -            | -                | -                | -         |    -1.04 | KEi, KukuBambo, mhL, mynio, tomiko    |
+|            4 |     2343 | 2024-01-16 | JANO          | L   | 0.554      | -            | -                | -                | -         |    -6.42 | KEi, KukuBambo, mhL, mynio, tomiko    |
+|            3 |     2565 | 2024-01-09 | KOI           | L   | 0.507      | -            | -                | -                | -         |    -0.96 | KEi, KukuBambo, mhL, mynio, tomiko    |
+|            2 |     2587 | 2024-01-09 | Zero Tenacity | W   | 0.506      | 0.143        | 0.008 (0.001)    | 0.805 (0.058)    | 0 (0.000) |    12.79 | KEi, KukuBambo, mhL, mynio, tomiko    |
+|            1 |     2598 | 2024-01-09 | xGOD          | W   | 0.506      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.10 | KEi, KukuBambo, mhL, mynio, tomiko    |
 
 <br />
 <span id="table2"></span><br />

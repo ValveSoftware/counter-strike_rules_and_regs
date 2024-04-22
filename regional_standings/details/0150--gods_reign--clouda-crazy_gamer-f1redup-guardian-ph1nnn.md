@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                           |
+| Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          14 |    1742 | 2024-02-09 | Pak Boyz       | L   | 0.710      | -            | -                | -                | -         |          -8.67 | clouda, Crazy_Gamer, f1redup, GuardiaN, Ph1NNN |
-|          13 |    1754 | 2024-02-08 | True Rippers   | L   | 0.704      | -            | -                | -                | -         |          -6.64 | clouda, Crazy_Gamer, f1redup, GuardiaN, Ph1NNN |
-|          12 |    1757 | 2024-02-07 | WahWah         | W   | 0.703      | 0.435        | 0.019 (0.006)    | 0.033 (0.010)    | 1 (0.703) |          11.42 | clouda, Crazy_Gamer, f1redup, GuardiaN, Ph1NNN |
-|          11 |    2090 | 2024-01-21 | Trouble makers | L   | 0.585      | -            | -                | -                | -         |         -14.03 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
-|          10 |    2102 | 2024-01-20 | MAG            | L   | 0.583      | -            | -                | -                | -         |         -13.63 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
-|           9 |    2189 | 2024-01-19 | SR Nacague     | W   | 0.571      | 0.143        | 0.000 (0.000)    | 0.078 (0.006)    | 0 (0.000) |           2.69 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
-|           8 |    2204 | 2024-01-19 | RESILIENCE     | W   | 0.570      | 0.143        | 0.000 (0.000)    | 0.026 (0.002)    | 0 (0.000) |           2.33 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
-|           7 |    2289 | 2024-01-17 | MAG            | W   | 0.559      | 0.143        | 0.000 (0.000)    | 0.237 (0.019)    | 0 (0.000) |           4.37 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
-|           6 |    2292 | 2024-01-17 | SR Nacague     | W   | 0.559      | 0.143        | 0.000 (0.000)    | 0.078 (0.006)    | 0 (0.000) |           2.79 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
-|           5 |    2298 | 2024-01-17 | Drippy Lab     | W   | 0.558      | 0.143        | 0.000 (0.000)    | 0.052 (0.004)    | 0 (0.000) |           2.67 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
-|           4 |    2303 | 2024-01-17 | DarkSide       | W   | 0.558      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           2.59 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
-|           3 |    2693 | 2023-12-17 | Marcos         | L   | 0.351      | -            | -                | -                | -         |          -2.53 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
-|           2 |    2697 | 2023-12-16 | Ikari          | W   | 0.350      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           1.63 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
-|           1 |    3061 | 2023-11-26 | True Rippers   | L   | 0.210      | -            | -                | -                | -         |          -2.06 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
+|           14 |     1742 | 2024-02-09 | Pak Boyz       | L   | 0.710      | -            | -                | -                | -         |    -8.67 | clouda, Crazy_Gamer, f1redup, GuardiaN, Ph1NNN |
+|           13 |     1754 | 2024-02-08 | True Rippers   | L   | 0.704      | -            | -                | -                | -         |    -6.64 | clouda, Crazy_Gamer, f1redup, GuardiaN, Ph1NNN |
+|           12 |     1757 | 2024-02-07 | WahWah         | W   | 0.703      | 0.435        | 0.019 (0.006)    | 0.033 (0.010)    | 1 (0.703) |    11.42 | clouda, Crazy_Gamer, f1redup, GuardiaN, Ph1NNN |
+|           11 |     2090 | 2024-01-21 | Trouble makers | L   | 0.585      | -            | -                | -                | -         |   -14.03 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
+|           10 |     2102 | 2024-01-20 | MAG            | L   | 0.583      | -            | -                | -                | -         |   -13.63 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
+|            9 |     2189 | 2024-01-19 | SR Nacague     | W   | 0.571      | 0.143        | 0.000 (0.000)    | 0.078 (0.006)    | 0 (0.000) |     2.69 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
+|            8 |     2204 | 2024-01-19 | RESILIENCE     | W   | 0.570      | 0.143        | 0.000 (0.000)    | 0.026 (0.002)    | 0 (0.000) |     2.33 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
+|            7 |     2289 | 2024-01-17 | MAG            | W   | 0.559      | 0.143        | 0.000 (0.000)    | 0.237 (0.019)    | 0 (0.000) |     4.37 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
+|            6 |     2292 | 2024-01-17 | SR Nacague     | W   | 0.559      | 0.143        | 0.000 (0.000)    | 0.078 (0.006)    | 0 (0.000) |     2.79 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
+|            5 |     2298 | 2024-01-17 | Drippy Lab     | W   | 0.558      | 0.143        | 0.000 (0.000)    | 0.052 (0.004)    | 0 (0.000) |     2.67 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
+|            4 |     2303 | 2024-01-17 | DarkSide       | W   | 0.558      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.59 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
+|            3 |     2693 | 2023-12-17 | Marcos         | L   | 0.351      | -            | -                | -                | -         |    -2.53 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
+|            2 |     2697 | 2023-12-16 | Ikari          | W   | 0.350      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.63 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
+|            1 |     3061 | 2023-11-26 | True Rippers   | L   | 0.210      | -            | -                | -                | -         |    -2.06 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN |
 
 <br />
 <span id="table2"></span><br />

@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster           |
+| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          10 |    3310 | 2023-11-15 | SAW           | L   | 0.139      | -            | -                | -                | -         |          -0.07 | bnox, emi, h4rn, jedqr, morelz |
-|           9 |    3348 | 2023-11-13 | Sampi         | W   | 0.126      | 0.435        | 0.084 (0.005)    | 0.698 (0.038)    | 0 (0.000) |           3.70 | bnox, emi, h4rn, jedqr, morelz |
-|           8 |    3364 | 2023-11-12 | 9 Pandas      | L   | 0.120      | -            | -                | -                | -         |          -0.16 | bnox, emi, h4rn, morelz, SLY   |
-|           7 |    3371 | 2023-11-12 | B8            | L   | 0.119      | -            | -                | -                | -         |          -1.19 | bnox, emi, h4rn, morelz, SLY   |
-|           6 |    3381 | 2023-11-12 | ECLOT         | L   | 0.118      | -            | -                | -                | -         |          -0.95 | bnox, emi, h4rn, morelz, SLY   |
-|           5 |    3422 | 2023-11-10 | Project G     | L   | 0.107      | -            | -                | -                | -         |          -1.65 | bnox, emi, h4rn, morelz, SLY   |
-|           4 |    3464 | 2023-11-08 | FORZE         | W   | 0.092      | 0.435        | 0.019 (0.001)    | 0.135 (0.005)    | 0 (0.000) |           2.31 | bnox, emi, h4rn, morelz, SLY   |
-|           3 |    3501 | 2023-11-06 | Zero Tenacity | W   | 0.079      | 0.435        | 0.008 (0.000)    | 0.805 (0.028)    | 0 (0.000) |           2.05 | bnox, emi, h4rn, jedqr, morelz |
-|           2 |    3764 | 2023-10-28 | The Witchers  | L   | 0.018      | -            | -                | -                | -         |          -0.11 | bnox, emi, h4rn, morelz, SLY   |
-|           1 |    3794 | 2023-10-27 | GODSENT       | L   | 0.012      | -            | -                | -                | -         |          -0.07 | bnox, emi, h4rn, morelz, SLY   |
+|           10 |     3310 | 2023-11-15 | SAW           | L   | 0.139      | -            | -                | -                | -         |    -0.07 | bnox, emi, h4rn, jedqr, morelz |
+|            9 |     3348 | 2023-11-13 | Sampi         | W   | 0.126      | 0.435        | 0.084 (0.005)    | 0.698 (0.038)    | 0 (0.000) |     3.70 | bnox, emi, h4rn, jedqr, morelz |
+|            8 |     3364 | 2023-11-12 | 9 Pandas      | L   | 0.120      | -            | -                | -                | -         |    -0.16 | bnox, emi, h4rn, morelz, SLY   |
+|            7 |     3371 | 2023-11-12 | B8            | L   | 0.119      | -            | -                | -                | -         |    -1.19 | bnox, emi, h4rn, morelz, SLY   |
+|            6 |     3381 | 2023-11-12 | ECLOT         | L   | 0.118      | -            | -                | -                | -         |    -0.95 | bnox, emi, h4rn, morelz, SLY   |
+|            5 |     3422 | 2023-11-10 | Project G     | L   | 0.107      | -            | -                | -                | -         |    -1.65 | bnox, emi, h4rn, morelz, SLY   |
+|            4 |     3464 | 2023-11-08 | FORZE         | W   | 0.092      | 0.435        | 0.019 (0.001)    | 0.135 (0.005)    | 0 (0.000) |     2.31 | bnox, emi, h4rn, morelz, SLY   |
+|            3 |     3501 | 2023-11-06 | Zero Tenacity | W   | 0.079      | 0.435        | 0.008 (0.000)    | 0.805 (0.028)    | 0 (0.000) |     2.05 | bnox, emi, h4rn, jedqr, morelz |
+|            2 |     3764 | 2023-10-28 | The Witchers  | L   | 0.018      | -            | -                | -                | -         |    -0.11 | bnox, emi, h4rn, morelz, SLY   |
+|            1 |     3794 | 2023-10-27 | GODSENT       | L   | 0.012      | -            | -                | -                | -         |    -0.07 | bnox, emi, h4rn, morelz, SLY   |
 
 <br />
 <span id="table2"></span><br />

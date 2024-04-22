@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                         |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          12 |     768 | 2024-03-23 | FORZE             | L   | 0.999      | -            | -                | -                | -         |          -4.81 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|          11 |     785 | 2024-03-22 | Guild Eagles      | W   | 0.991      | 0.143        | 0.046 (0.006)    | 0.727 (0.103)    | 0 (0.000) |          26.45 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|          10 |     831 | 2024-03-20 | TSM               | W   | 0.978      | 0.143        | 0.016 (0.002)    | 0.299 (0.042)    | 0 (0.000) |          20.50 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           9 |    1058 | 2024-03-10 | 1WIN              | L   | 0.913      | -            | -                | -                | -         |         -18.08 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           8 |    1127 | 2024-03-07 | Permitta          | L   | 0.893      | -            | -                | -                | -         |          -5.92 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           7 |    1197 | 2024-03-05 | FORZE YNG         | W   | 0.880      | 0.372        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           4.55 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           6 |    2616 | 2023-12-30 | Metizport         | L   | 0.438      | -            | -                | -                | -         |          -2.47 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           5 |    2623 | 2023-12-28 | brazylijski luz   | W   | 0.425      | 0.371        | 0.019 (0.003)    | 0.356 (0.056)    | 0 (0.000) |           8.97 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           4 |    2627 | 2023-12-26 | Alliance          | W   | 0.412      | 0.371        | 0.020 (0.003)    | 0.855 (0.130)    | 0 (0.000) |          10.20 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           3 |    3359 | 2023-11-12 | GUN5              | L   | 0.121      | -            | -                | -                | -         |          -2.06 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           2 |    3373 | 2023-11-12 | Aurora Young Blud | W   | 0.119      | 0.320        | 0.002 (0.000)    | 0.133 (0.005)    | 0 (0.000) |           1.97 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           1 |    3403 | 2023-11-11 | Verdant           | W   | 0.113      | 0.320        | 0.021 (0.001)    | 0.074 (0.003)    | 0 (0.000) |           2.30 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           12 |      768 | 2024-03-23 | FORZE             | L   | 0.999      | -            | -                | -                | -         |    -4.81 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           11 |      785 | 2024-03-22 | Guild Eagles      | W   | 0.991      | 0.143        | 0.046 (0.006)    | 0.727 (0.103)    | 0 (0.000) |    26.45 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           10 |      831 | 2024-03-20 | TSM               | W   | 0.978      | 0.143        | 0.016 (0.002)    | 0.299 (0.042)    | 0 (0.000) |    20.50 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            9 |     1058 | 2024-03-10 | 1WIN              | L   | 0.913      | -            | -                | -                | -         |   -18.08 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            8 |     1127 | 2024-03-07 | Permitta          | L   | 0.893      | -            | -                | -                | -         |    -5.92 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            7 |     1197 | 2024-03-05 | FORZE YNG         | W   | 0.880      | 0.372        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.55 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            6 |     2616 | 2023-12-30 | Metizport         | L   | 0.438      | -            | -                | -                | -         |    -2.47 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            5 |     2623 | 2023-12-28 | brazylijski luz   | W   | 0.425      | 0.371        | 0.019 (0.003)    | 0.356 (0.056)    | 0 (0.000) |     8.97 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            4 |     2627 | 2023-12-26 | Alliance          | W   | 0.412      | 0.371        | 0.020 (0.003)    | 0.855 (0.130)    | 0 (0.000) |    10.20 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            3 |     3359 | 2023-11-12 | GUN5              | L   | 0.121      | -            | -                | -                | -         |    -2.06 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            2 |     3373 | 2023-11-12 | Aurora Young Blud | W   | 0.119      | 0.320        | 0.002 (0.000)    | 0.133 (0.005)    | 0 (0.000) |     1.97 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            1 |     3403 | 2023-11-11 | Verdant           | W   | 0.113      | 0.320        | 0.021 (0.001)    | 0.074 (0.003)    | 0 (0.000) |     2.30 | dwushka, KusMe, shady, Something, xdENiSZERA |
 
 <br />
 <span id="table2"></span><br />

@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                    |
+| Match Played | Match ID | Date       | Opponent   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          10 |    2750 | 2023-12-14 | MOUZ       | L   | 0.331      | -            | -                | -                | -         |          -0.02 | dupreeh, salazar, sjuush, TeSeS, Zyphon |
-|           9 |    2761 | 2023-12-13 | FaZe       | L   | 0.325      | -            | -                | -                | -         |          -0.01 | dupreeh, salazar, sjuush, TeSeS, Zyphon |
-|           8 |    3094 | 2023-11-24 | Cloud9     | L   | 0.199      | -            | -                | -                | -         |          -0.03 | cadiaN, dupreeh, sjuush, TeSeS, Zyphon  |
-|           7 |    3109 | 2023-11-23 | Astralis   | W   | 0.193      | 0.729        | 0.042 (0.006)    | 0.008 (0.001)    | 1 (0.193) |           3.06 | cadiaN, dupreeh, sjuush, TeSeS, Zyphon  |
-|           6 |    3125 | 2023-11-22 | Vitality   | L   | 0.186      | -            | -                | -                | -         |          -0.02 | cadiaN, dupreeh, sjuush, TeSeS, Zyphon  |
-|           5 |    3549 | 2023-11-04 | Virtus.pro | L   | 0.065      | -            | -                | -                | -         |          -0.01 | Chr1zN, dupreeh, sirah, sjuush, TeSeS   |
-|           4 |    3644 | 2023-10-31 | BIG        | W   | 0.039      | 0.769        | 0.471 (0.014)    | 0.529 (0.016)    | 0 (0.000) |           1.13 | Chr1zN, dupreeh, sirah, sjuush, TeSeS   |
-|           3 |    3682 | 2023-10-30 | Nouns      | W   | 0.031      | 0.769        | 0.019 (0.000)    | 0.084 (0.002)    | 0 (0.000) |           0.47 | Chr1zN, dupreeh, sirah, sjuush, TeSeS   |
-|           2 |    3710 | 2023-10-29 | Aurora     | L   | 0.026      | -            | -                | -                | -         |          -0.02 | Chr1zN, dupreeh, sirah, sjuush, TeSeS   |
-|           1 |    3793 | 2023-10-27 | FURIA      | L   | 0.012      | -            | -                | -                | -         |          -0.01 | Chr1zN, dupreeh, sirah, sjuush, TeSeS   |
+|           10 |     2750 | 2023-12-14 | MOUZ       | L   | 0.331      | -            | -                | -                | -         |    -0.02 | dupreeh, salazar, sjuush, TeSeS, Zyphon |
+|            9 |     2761 | 2023-12-13 | FaZe       | L   | 0.325      | -            | -                | -                | -         |    -0.01 | dupreeh, salazar, sjuush, TeSeS, Zyphon |
+|            8 |     3094 | 2023-11-24 | Cloud9     | L   | 0.199      | -            | -                | -                | -         |    -0.03 | cadiaN, dupreeh, sjuush, TeSeS, Zyphon  |
+|            7 |     3109 | 2023-11-23 | Astralis   | W   | 0.193      | 0.729        | 0.042 (0.006)    | 0.008 (0.001)    | 1 (0.193) |     3.06 | cadiaN, dupreeh, sjuush, TeSeS, Zyphon  |
+|            6 |     3125 | 2023-11-22 | Vitality   | L   | 0.186      | -            | -                | -                | -         |    -0.02 | cadiaN, dupreeh, sjuush, TeSeS, Zyphon  |
+|            5 |     3549 | 2023-11-04 | Virtus.pro | L   | 0.065      | -            | -                | -                | -         |    -0.01 | Chr1zN, dupreeh, sirah, sjuush, TeSeS   |
+|            4 |     3644 | 2023-10-31 | BIG        | W   | 0.039      | 0.769        | 0.471 (0.014)    | 0.529 (0.016)    | 0 (0.000) |     1.13 | Chr1zN, dupreeh, sirah, sjuush, TeSeS   |
+|            3 |     3682 | 2023-10-30 | Nouns      | W   | 0.031      | 0.769        | 0.019 (0.000)    | 0.084 (0.002)    | 0 (0.000) |     0.47 | Chr1zN, dupreeh, sirah, sjuush, TeSeS   |
+|            2 |     3710 | 2023-10-29 | Aurora     | L   | 0.026      | -            | -                | -                | -         |    -0.02 | Chr1zN, dupreeh, sirah, sjuush, TeSeS   |
+|            1 |     3793 | 2023-10-27 | FURIA      | L   | 0.012      | -            | -                | -                | -         |    -0.01 | Chr1zN, dupreeh, sirah, sjuush, TeSeS   |
 
 <br />
 <span id="table2"></span><br />

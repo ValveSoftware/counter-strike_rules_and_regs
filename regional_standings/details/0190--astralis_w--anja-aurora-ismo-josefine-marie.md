@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          13 |      85 | 2024-04-19 | ENCE Athena     | L   | 1.000      | -            | -                | -                | -         |         -13.72 | anja, aurora, Ismo, josefine, marie |
-|          12 |     256 | 2024-04-14 | NAVI Javelins   | L   | 1.000      | -            | -                | -                | -         |          -6.50 | anja, aurora, Ismo, josefine, marie |
-|          11 |     265 | 2024-04-13 | NIP Impact      | L   | 1.000      | -            | -                | -                | -         |          -9.27 | anja, aurora, Ismo, josefine, marie |
-|          10 |     284 | 2024-04-12 | Permitta W      | W   | 1.000      | 0.303        | 0.000 (0.000)    | 0.046 (0.014)    | 0 (0.000) |          11.10 | anja, aurora, Ismo, josefine, marie |
-|           9 |     305 | 2024-04-11 | Pigeons         | L   | 1.000      | -            | -                | -                | -         |          -4.84 | anja, aurora, Ismo, josefine, marie |
-|           8 |     352 | 2024-04-10 | Pigeons         | L   | 1.000      | -            | -                | -                | -         |          -5.08 | anja, aurora, Ismo, josefine, marie |
-|           7 |     432 | 2024-04-08 | Permitta W      | W   | 1.000      | 0.303        | 0.000 (0.000)    | 0.046 (0.014)    | 0 (0.000) |          10.73 | anja, aurora, Ismo, josefine, marie |
-|           6 |     578 | 2024-04-03 | NIP Impact      | L   | 1.000      | -            | -                | -                | -         |         -10.93 | anja, aurora, Ismo, josefine, marie |
-|           5 |     798 | 2024-03-21 | GUILD fe        | L   | 0.987      | -            | -                | -                | -         |         -13.10 | anja, aurora, Ismo, josefine, marie |
-|           4 |    1155 | 2024-03-06 | BIG EQUIPA      | L   | 0.887      | -            | -                | -                | -         |          -9.90 | anja, aurora, Ismo, josefine, marie |
-|           3 |    1534 | 2024-02-18 | ex-FORZE Ladies | W   | 0.774      | 0.143        | 0.009 (0.001)    | 0.093 (0.010)    | 0 (0.000) |          12.80 | anja, aurora, Ismo, josefine, marie |
-|           2 |    1538 | 2024-02-18 | Spirit fe       | L   | 0.773      | -            | -                | -                | -         |         -11.37 | anja, aurora, Ismo, josefine, marie |
-|           1 |    3523 | 2023-11-05 | BIG EQUIPA      | L   | 0.071      | -            | -                | -                | -         |          -0.91 | anja, aurora, Ismo, josefine, marie |
+|           13 |       85 | 2024-04-19 | ENCE Athena     | L   | 1.000      | -            | -                | -                | -         |   -13.72 | anja, aurora, Ismo, josefine, marie |
+|           12 |      256 | 2024-04-14 | NAVI Javelins   | L   | 1.000      | -            | -                | -                | -         |    -6.50 | anja, aurora, Ismo, josefine, marie |
+|           11 |      265 | 2024-04-13 | NIP Impact      | L   | 1.000      | -            | -                | -                | -         |    -9.27 | anja, aurora, Ismo, josefine, marie |
+|           10 |      284 | 2024-04-12 | Permitta W      | W   | 1.000      | 0.303        | 0.000 (0.000)    | 0.046 (0.014)    | 0 (0.000) |    11.10 | anja, aurora, Ismo, josefine, marie |
+|            9 |      305 | 2024-04-11 | Pigeons         | L   | 1.000      | -            | -                | -                | -         |    -4.84 | anja, aurora, Ismo, josefine, marie |
+|            8 |      352 | 2024-04-10 | Pigeons         | L   | 1.000      | -            | -                | -                | -         |    -5.08 | anja, aurora, Ismo, josefine, marie |
+|            7 |      432 | 2024-04-08 | Permitta W      | W   | 1.000      | 0.303        | 0.000 (0.000)    | 0.046 (0.014)    | 0 (0.000) |    10.73 | anja, aurora, Ismo, josefine, marie |
+|            6 |      578 | 2024-04-03 | NIP Impact      | L   | 1.000      | -            | -                | -                | -         |   -10.93 | anja, aurora, Ismo, josefine, marie |
+|            5 |      798 | 2024-03-21 | GUILD fe        | L   | 0.987      | -            | -                | -                | -         |   -13.10 | anja, aurora, Ismo, josefine, marie |
+|            4 |     1155 | 2024-03-06 | BIG EQUIPA      | L   | 0.887      | -            | -                | -                | -         |    -9.90 | anja, aurora, Ismo, josefine, marie |
+|            3 |     1534 | 2024-02-18 | ex-FORZE Ladies | W   | 0.774      | 0.143        | 0.009 (0.001)    | 0.093 (0.010)    | 0 (0.000) |    12.80 | anja, aurora, Ismo, josefine, marie |
+|            2 |     1538 | 2024-02-18 | Spirit fe       | L   | 0.773      | -            | -                | -                | -         |   -11.37 | anja, aurora, Ismo, josefine, marie |
+|            1 |     3523 | 2023-11-05 | BIG EQUIPA      | L   | 0.071      | -            | -                | -                | -         |    -0.91 | anja, aurora, Ismo, josefine, marie |
 
 <br />
 <span id="table2"></span><br />

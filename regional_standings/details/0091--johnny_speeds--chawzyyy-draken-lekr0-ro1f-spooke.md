@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                      |
+| Match Played | Match ID | Date       | Opponent   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          11 |     157 | 2024-04-18 | UNiTY      | W   | 1.000      | 0.333        | 0.047 (0.016)    | 0.261 (0.087)    | 0 (0.000) |          16.48 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|          10 |     222 | 2024-04-16 | Viperio    | W   | 1.000      | 0.333        | 0.005 (0.002)    | 0.093 (0.031)    | 0 (0.000) |           9.30 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           9 |     468 | 2024-04-07 | Alliance   | W   | 1.000      | 0.330        | 0.020 (0.007)    | 0.855 (0.282)    | 0 (0.000) |          17.01 | bobeksde, chawzyyy, draken, Lekr0, spooke |
-|           8 |     476 | 2024-04-07 | Metizport  | L   | 1.000      | -            | -                | -                | -         |          -6.83 | bobeksde, chawzyyy, draken, Lekr0, spooke |
-|           7 |     486 | 2024-04-06 | JANO       | W   | 1.000      | 0.330        | 0.001 (0.000)    | 0.220 (0.073)    | 0 (0.000) |           9.17 | bobeksde, chawzyyy, draken, Lekr0, spooke |
-|           6 |    1087 | 2024-03-09 | Alliance   | L   | 0.905      | -            | -                | -                | -         |         -11.53 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           5 |    1188 | 2024-03-05 | B8         | L   | 0.880      | -            | -                | -                | -         |         -12.56 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           4 |    1194 | 2024-03-05 | Insilio    | W   | 0.880      | 0.143        | 0.007 (0.001)    | 0.483 (0.061)    | 0 (0.000) |          13.53 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           3 |    1201 | 2024-03-05 | Sashi      | W   | 0.879      | 0.143        | 0.064 (0.008)    | 1.000 (0.126)    | 0 (0.000) |          16.83 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           2 |    2583 | 2024-01-09 | Enterprise | L   | 0.506      | -            | -                | -                | -         |          -5.32 | chawzyyy, draken, HugoXD, RuStY, spooke   |
-|           1 |    2605 | 2024-01-09 | UNiTY      | W   | 0.506      | 0.143        | 0.047 (0.003)    | 0.261 (0.019)    | 0 (0.000) |           9.76 | chawzyyy, draken, HugoXD, RuStY, spooke   |
+|           11 |      157 | 2024-04-18 | UNiTY      | W   | 1.000      | 0.333        | 0.047 (0.016)    | 0.261 (0.087)    | 0 (0.000) |    16.48 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           10 |      222 | 2024-04-16 | Viperio    | W   | 1.000      | 0.333        | 0.005 (0.002)    | 0.093 (0.031)    | 0 (0.000) |     9.30 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|            9 |      468 | 2024-04-07 | Alliance   | W   | 1.000      | 0.330        | 0.020 (0.007)    | 0.855 (0.282)    | 0 (0.000) |    17.01 | bobeksde, chawzyyy, draken, Lekr0, spooke |
+|            8 |      476 | 2024-04-07 | Metizport  | L   | 1.000      | -            | -                | -                | -         |    -6.83 | bobeksde, chawzyyy, draken, Lekr0, spooke |
+|            7 |      486 | 2024-04-06 | JANO       | W   | 1.000      | 0.330        | 0.001 (0.000)    | 0.220 (0.073)    | 0 (0.000) |     9.17 | bobeksde, chawzyyy, draken, Lekr0, spooke |
+|            6 |     1087 | 2024-03-09 | Alliance   | L   | 0.905      | -            | -                | -                | -         |   -11.53 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|            5 |     1188 | 2024-03-05 | B8         | L   | 0.880      | -            | -                | -                | -         |   -12.56 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|            4 |     1194 | 2024-03-05 | Insilio    | W   | 0.880      | 0.143        | 0.007 (0.001)    | 0.483 (0.061)    | 0 (0.000) |    13.53 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|            3 |     1201 | 2024-03-05 | Sashi      | W   | 0.879      | 0.143        | 0.064 (0.008)    | 1.000 (0.126)    | 0 (0.000) |    16.83 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|            2 |     2583 | 2024-01-09 | Enterprise | L   | 0.506      | -            | -                | -                | -         |    -5.32 | chawzyyy, draken, HugoXD, RuStY, spooke   |
+|            1 |     2605 | 2024-01-09 | UNiTY      | W   | 0.506      | 0.143        | 0.047 (0.003)    | 0.261 (0.019)    | 0 (0.000) |     9.76 | chawzyyy, draken, HugoXD, RuStY, spooke   |
 
 <br />
 <span id="table2"></span><br />

@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                  |
+| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          10 |    2272 | 2024-01-17 | Carpe Diem    | L   | 0.562      | -            | -                | -                | -         |          -2.47 | history, JOTA, leo_drk, short, t9rnay |
-|           9 |    2362 | 2024-01-15 | Liquid        | L   | 0.549      | -            | -                | -                | -         |          -0.18 | history, JOTA, leo_drk, short, t9rnay |
-|           8 |    2403 | 2024-01-14 | NRG           | L   | 0.541      | -            | -                | -                | -         |          -1.67 | history, JOTA, leo_drk, short, t9rnay |
-|           7 |    2415 | 2024-01-13 | FLUFFY AIMERS | W   | 0.536      | 0.143        | 0.000 (0.000)    | 0.094 (0.007)    | 0 (0.000) |          11.11 | history, JOTA, leo_drk, short, t9rnay |
-|           6 |    2456 | 2024-01-12 | Elevate       | L   | 0.530      | -            | -                | -                | -         |          -1.21 | history, JOTA, leo_drk, short, t9rnay |
-|           5 |    2466 | 2024-01-12 | Carpe Diem    | L   | 0.529      | -            | -                | -                | -         |          -2.00 | history, JOTA, leo_drk, short, t9rnay |
-|           4 |    2495 | 2024-01-11 | Rocket        | L   | 0.523      | -            | -                | -                | -         |          -3.01 | history, JOTA, leo_drk, short, t9rnay |
-|           3 |    2498 | 2024-01-11 | WICKED        | W   | 0.523      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           7.96 | history, JOTA, leo_drk, short, t9rnay |
-|           2 |    2554 | 2024-01-09 | Liquid        | L   | 0.509      | -            | -                | -                | -         |          -0.16 | history, JOTA, leo_drk, short, t9rnay |
-|           1 |    3031 | 2023-11-28 | BESTIA        | L   | 0.228      | -            | -                | -                | -         |          -0.57 | bt0, JOTA, short, steel, t9rnay       |
+|           10 |     2272 | 2024-01-17 | Carpe Diem    | L   | 0.562      | -            | -                | -                | -         |    -2.47 | history, JOTA, leo_drk, short, t9rnay |
+|            9 |     2362 | 2024-01-15 | Liquid        | L   | 0.549      | -            | -                | -                | -         |    -0.18 | history, JOTA, leo_drk, short, t9rnay |
+|            8 |     2403 | 2024-01-14 | NRG           | L   | 0.541      | -            | -                | -                | -         |    -1.67 | history, JOTA, leo_drk, short, t9rnay |
+|            7 |     2415 | 2024-01-13 | FLUFFY AIMERS | W   | 0.536      | 0.143        | 0.000 (0.000)    | 0.094 (0.007)    | 0 (0.000) |    11.11 | history, JOTA, leo_drk, short, t9rnay |
+|            6 |     2456 | 2024-01-12 | Elevate       | L   | 0.530      | -            | -                | -                | -         |    -1.21 | history, JOTA, leo_drk, short, t9rnay |
+|            5 |     2466 | 2024-01-12 | Carpe Diem    | L   | 0.529      | -            | -                | -                | -         |    -2.00 | history, JOTA, leo_drk, short, t9rnay |
+|            4 |     2495 | 2024-01-11 | Rocket        | L   | 0.523      | -            | -                | -                | -         |    -3.01 | history, JOTA, leo_drk, short, t9rnay |
+|            3 |     2498 | 2024-01-11 | WICKED        | W   | 0.523      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.96 | history, JOTA, leo_drk, short, t9rnay |
+|            2 |     2554 | 2024-01-09 | Liquid        | L   | 0.509      | -            | -                | -                | -         |    -0.16 | history, JOTA, leo_drk, short, t9rnay |
+|            1 |     3031 | 2023-11-28 | BESTIA        | L   | 0.228      | -            | -                | -                | -         |    -0.57 | bt0, JOTA, short, steel, t9rnay       |
 
 <br />
 <span id="table2"></span><br />

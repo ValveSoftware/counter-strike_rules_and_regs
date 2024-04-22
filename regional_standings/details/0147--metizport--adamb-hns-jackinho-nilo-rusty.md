@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster              |
+| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          13 |    2991 | 2023-12-01 | GODSENT       | L   | 0.246      | -            | -                | -                | -         |          -2.84 | adamb, hns, Jackinho, nilo, RuStY |
-|          12 |    3075 | 2023-11-25 | Gucci Academy | L   | 0.206      | -            | -                | -                | -         |          -2.70 | adamb, hns, Jackinho, nilo, RuStY |
-|          11 |    3177 | 2023-11-19 | Sprout        | W   | 0.165      | 0.358        | 0.010 (0.001)    | 0.221 (0.013)    | 0 (0.000) |           2.80 | adamb, hns, Jackinho, nilo, RuStY |
-|          10 |    3205 | 2023-11-18 | Sprout        | L   | 0.159      | -            | -                | -                | -         |          -2.33 | adamb, hns, Jackinho, nilo, RuStY |
-|           9 |    3242 | 2023-11-17 | SAW           | W   | 0.151      | 0.435        | 0.173 (0.011)    | 0.824 (0.054)    | 0 (0.000) |           4.54 | adamb, hns, Jackinho, nilo, RuStY |
-|           8 |    3317 | 2023-11-15 | ODDIK         | W   | 0.138      | 0.435        | 0.017 (0.001)    | 0.552 (0.033)    | 0 (0.000) |           3.35 | adamb, hns, Jackinho, nilo, RuStY |
-|           7 |    3367 | 2023-11-12 | ex-Anonymo    | W   | 0.120      | 0.358        | 0.027 (0.001)    | 0.276 (0.012)    | 0 (0.000) |           2.24 | adamb, hns, Jackinho, nilo, RuStY |
-|           6 |    3397 | 2023-11-11 | Lilmix        | L   | 0.114      | -            | -                | -                | -         |          -2.25 | adamb, hns, Jackinho, nilo, RuStY |
-|           5 |    3423 | 2023-11-10 | MOUZ NXT      | W   | 0.106      | 0.435        | 0.054 (0.003)    | 0.970 (0.045)    | 0 (0.000) |           2.59 | adamb, hns, Jackinho, nilo, RuStY |
-|           4 |    3461 | 2023-11-08 | Space         | W   | 0.093      | 0.435        | 0.008 (0.000)    | 0.190 (0.008)    | 0 (0.000) |           1.59 | adamb, hns, Jackinho, nilo, RuStY |
-|           3 |    3499 | 2023-11-06 | ECLOT         | L   | 0.079      | -            | -                | -                | -         |          -1.20 | adamb, hns, Jackinho, nilo, RuStY |
-|           2 |    3521 | 2023-11-05 | The Witchers  | W   | 0.071      | 0.435        | 0.038 (0.001)    | 0.172 (0.005)    | 0 (0.000) |           1.34 | adamb, hns, Jackinho, nilo, RuStY |
-|           1 |    3676 | 2023-10-30 | JANO          | W   | 0.032      | 0.143        | 0.001 (0.000)    | 0.220 (0.001)    | 0 (0.000) |           0.43 | adamb, hns, Jackinho, nilo, RuStY |
+|           13 |     2991 | 2023-12-01 | GODSENT       | L   | 0.246      | -            | -                | -                | -         |    -2.84 | adamb, hns, Jackinho, nilo, RuStY |
+|           12 |     3075 | 2023-11-25 | Gucci Academy | L   | 0.206      | -            | -                | -                | -         |    -2.70 | adamb, hns, Jackinho, nilo, RuStY |
+|           11 |     3177 | 2023-11-19 | Sprout        | W   | 0.165      | 0.358        | 0.010 (0.001)    | 0.221 (0.013)    | 0 (0.000) |     2.80 | adamb, hns, Jackinho, nilo, RuStY |
+|           10 |     3205 | 2023-11-18 | Sprout        | L   | 0.159      | -            | -                | -                | -         |    -2.33 | adamb, hns, Jackinho, nilo, RuStY |
+|            9 |     3242 | 2023-11-17 | SAW           | W   | 0.151      | 0.435        | 0.173 (0.011)    | 0.824 (0.054)    | 0 (0.000) |     4.54 | adamb, hns, Jackinho, nilo, RuStY |
+|            8 |     3317 | 2023-11-15 | ODDIK         | W   | 0.138      | 0.435        | 0.017 (0.001)    | 0.552 (0.033)    | 0 (0.000) |     3.35 | adamb, hns, Jackinho, nilo, RuStY |
+|            7 |     3367 | 2023-11-12 | ex-Anonymo    | W   | 0.120      | 0.358        | 0.027 (0.001)    | 0.276 (0.012)    | 0 (0.000) |     2.24 | adamb, hns, Jackinho, nilo, RuStY |
+|            6 |     3397 | 2023-11-11 | Lilmix        | L   | 0.114      | -            | -                | -                | -         |    -2.25 | adamb, hns, Jackinho, nilo, RuStY |
+|            5 |     3423 | 2023-11-10 | MOUZ NXT      | W   | 0.106      | 0.435        | 0.054 (0.003)    | 0.970 (0.045)    | 0 (0.000) |     2.59 | adamb, hns, Jackinho, nilo, RuStY |
+|            4 |     3461 | 2023-11-08 | Space         | W   | 0.093      | 0.435        | 0.008 (0.000)    | 0.190 (0.008)    | 0 (0.000) |     1.59 | adamb, hns, Jackinho, nilo, RuStY |
+|            3 |     3499 | 2023-11-06 | ECLOT         | L   | 0.079      | -            | -                | -                | -         |    -1.20 | adamb, hns, Jackinho, nilo, RuStY |
+|            2 |     3521 | 2023-11-05 | The Witchers  | W   | 0.071      | 0.435        | 0.038 (0.001)    | 0.172 (0.005)    | 0 (0.000) |     1.34 | adamb, hns, Jackinho, nilo, RuStY |
+|            1 |     3676 | 2023-10-30 | JANO          | W   | 0.032      | 0.143        | 0.001 (0.000)    | 0.220 (0.001)    | 0 (0.000) |     0.43 | adamb, hns, Jackinho, nilo, RuStY |
 
 <br />
 <span id="table2"></span><br />

@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                      |
+| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          10 |       1 | 2024-04-22 | Zero Tenacity | L   | 1.000      | -            | -                | -                | -         |         -15.68 | b0RUP, Kristou, niko, refrezh, TMB        |
-|           9 |      12 | 2024-04-22 | Permitta      | L   | 1.000      | -            | -                | -                | -         |         -12.92 | b0RUP, Kristou, niko, refrezh, TMB        |
-|           8 |     242 | 2024-04-15 | Sashi         | L   | 1.000      | -            | -                | -                | -         |         -11.70 | Altekz, Kristou, refrezh, roeJ, TMB       |
-|           7 |     270 | 2024-04-13 | 3DMAX         | L   | 1.000      | -            | -                | -                | -         |          -8.70 | Altekz, Kristou, refrezh, roeJ, TMB       |
-|           6 |     422 | 2024-04-09 | ECF           | W   | 1.000      | 0.384        | 0.000 (0.000)    | 0.304 (0.117)    | 0 (0.000) |           6.99 | Altekz, Kristou, refrezh, roeJ, TMB       |
-|           5 |     475 | 2024-04-07 | Zero Tenacity | W   | 1.000      | 0.358        | 0.008 (0.003)    | 0.805 (0.288)    | 0 (0.000) |          13.20 | Altekz, Kristou, refrezh, roeJ, TMB       |
-|           4 |     782 | 2024-03-22 | FORZE         | L   | 0.992      | -            | -                | -                | -         |          -9.30 | gokushima, r3salt, SELLTER, shalfey, tN1R |
-|           3 |     861 | 2024-03-18 | Sampi         | W   | 0.965      | 0.371        | 0.084 (0.030)    | 0.698 (0.249)    | 0 (0.000) |          18.73 | fino, manguss, sAvana1, The eLiVe, ZEDKO  |
-|           2 |     901 | 2024-03-16 | Passion UA    | W   | 0.952      | 0.371        | 0.031 (0.011)    | 0.625 (0.220)    | 0 (0.000) |          17.38 | fear, jackasmo, jambo, s-chilla, zeRRoFIX |
-|           1 |     957 | 2024-03-14 | Entropiq      | W   | 0.938      | 0.371        | 0.002 (0.001)    | 0.403 (0.140)    | 0 (0.000) |          12.54 | Altekz, Kristou, refrezh, roeJ, TMB       |
+|           10 |        1 | 2024-04-22 | Zero Tenacity | L   | 1.000      | -            | -                | -                | -         |   -15.68 | b0RUP, Kristou, niko, refrezh, TMB        |
+|            9 |       12 | 2024-04-22 | Permitta      | L   | 1.000      | -            | -                | -                | -         |   -12.92 | b0RUP, Kristou, niko, refrezh, TMB        |
+|            8 |      242 | 2024-04-15 | Sashi         | L   | 1.000      | -            | -                | -                | -         |   -11.70 | Altekz, Kristou, refrezh, roeJ, TMB       |
+|            7 |      270 | 2024-04-13 | 3DMAX         | L   | 1.000      | -            | -                | -                | -         |    -8.70 | Altekz, Kristou, refrezh, roeJ, TMB       |
+|            6 |      422 | 2024-04-09 | ECF           | W   | 1.000      | 0.384        | 0.000 (0.000)    | 0.304 (0.117)    | 0 (0.000) |     6.99 | Altekz, Kristou, refrezh, roeJ, TMB       |
+|            5 |      475 | 2024-04-07 | Zero Tenacity | W   | 1.000      | 0.358        | 0.008 (0.003)    | 0.805 (0.288)    | 0 (0.000) |    13.20 | Altekz, Kristou, refrezh, roeJ, TMB       |
+|            4 |      782 | 2024-03-22 | FORZE         | L   | 0.992      | -            | -                | -                | -         |    -9.30 | gokushima, r3salt, SELLTER, shalfey, tN1R |
+|            3 |      861 | 2024-03-18 | Sampi         | W   | 0.965      | 0.371        | 0.084 (0.030)    | 0.698 (0.249)    | 0 (0.000) |    18.73 | fino, manguss, sAvana1, The eLiVe, ZEDKO  |
+|            2 |      901 | 2024-03-16 | Passion UA    | W   | 0.952      | 0.371        | 0.031 (0.011)    | 0.625 (0.220)    | 0 (0.000) |    17.38 | fear, jackasmo, jambo, s-chilla, zeRRoFIX |
+|            1 |      957 | 2024-03-14 | Entropiq      | W   | 0.938      | 0.371        | 0.002 (0.001)    | 0.403 (0.140)    | 0 (0.000) |    12.54 | Altekz, Kristou, refrezh, roeJ, TMB       |
 
 <br />
 <span id="table2"></span><br />

@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                   |
+| Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          14 |     721 | 2024-03-27 | DXA         | W   | 1.000      | 0.333        | 0.009 (0.003)    | 0.277 (0.092)    | 0 (0.000) |          21.09 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
-|          13 |     726 | 2024-03-27 | DXA         | L   | 1.000      | -            | -                | -                | -         |         -10.00 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
-|          12 |     994 | 2024-03-13 | KZG         | W   | 0.931      | 0.333        | 0.005 (0.002)    | 0.251 (0.078)    | 0 (0.000) |          18.87 | alecc, Crunchy, Jynx, Poccket, TRIPLUS |
-|          11 |    1000 | 2024-03-13 | KZG         | L   | 0.931      | -            | -                | -                | -         |         -10.21 | alecc, Crunchy, Jynx, Poccket, TRIPLUS |
-|          10 |    1341 | 2024-02-27 | Vantage     | L   | 0.831      | -            | -                | -                | -         |         -11.66 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|           9 |    1344 | 2024-02-27 | Vantage     | W   | 0.831      | 0.333        | 0.000 (0.000)    | 0.383 (0.106)    | 0 (0.000) |          14.78 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|           8 |    1473 | 2024-02-21 | Canon Event | W   | 0.791      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           8.16 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|           7 |    1477 | 2024-02-21 | Canon Event | W   | 0.791      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           8.69 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|           6 |    1505 | 2024-02-20 | Mindfreak   | L   | 0.784      | -            | -                | -                | -         |          -9.52 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|           5 |    1697 | 2024-02-13 | KZG         | L   | 0.737      | -            | -                | -                | -         |          -6.25 | alecc, Bumb1e, Jynx, PixeL, TRIPLUS    |
-|           4 |    2148 | 2024-01-19 | DXA         | L   | 0.577      | -            | -                | -                | -         |         -12.15 | alecc, Crunchy, dingus, Jynx, TRIPLUS  |
-|           3 |    2212 | 2024-01-18 | FlyQuest    | L   | 0.569      | -            | -                | -                | -         |          -0.65 | alecc, Crunchy, dingus, Jynx, TRIPLUS  |
-|           2 |    2450 | 2024-01-13 | Mindfreak   | L   | 0.531      | -            | -                | -                | -         |          -6.21 | alecc, Crunchy, dingus, Jynx, TRIPLUS  |
-|           1 |    2451 | 2024-01-13 | DXA         | W   | 0.530      | 0.143        | 0.009 (0.001)    | 0.277 (0.021)    | 0 (0.000) |          12.43 | alecc, Crunchy, dingus, Jynx, TRIPLUS  |
+|           14 |      721 | 2024-03-27 | DXA         | W   | 1.000      | 0.333        | 0.009 (0.003)    | 0.277 (0.092)    | 0 (0.000) |    21.09 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
+|           13 |      726 | 2024-03-27 | DXA         | L   | 1.000      | -            | -                | -                | -         |   -10.00 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
+|           12 |      994 | 2024-03-13 | KZG         | W   | 0.931      | 0.333        | 0.005 (0.002)    | 0.251 (0.078)    | 0 (0.000) |    18.87 | alecc, Crunchy, Jynx, Poccket, TRIPLUS |
+|           11 |     1000 | 2024-03-13 | KZG         | L   | 0.931      | -            | -                | -                | -         |   -10.21 | alecc, Crunchy, Jynx, Poccket, TRIPLUS |
+|           10 |     1341 | 2024-02-27 | Vantage     | L   | 0.831      | -            | -                | -                | -         |   -11.66 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            9 |     1344 | 2024-02-27 | Vantage     | W   | 0.831      | 0.333        | 0.000 (0.000)    | 0.383 (0.106)    | 0 (0.000) |    14.78 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            8 |     1473 | 2024-02-21 | Canon Event | W   | 0.791      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.16 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            7 |     1477 | 2024-02-21 | Canon Event | W   | 0.791      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.69 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            6 |     1505 | 2024-02-20 | Mindfreak   | L   | 0.784      | -            | -                | -                | -         |    -9.52 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            5 |     1697 | 2024-02-13 | KZG         | L   | 0.737      | -            | -                | -                | -         |    -6.25 | alecc, Bumb1e, Jynx, PixeL, TRIPLUS    |
+|            4 |     2148 | 2024-01-19 | DXA         | L   | 0.577      | -            | -                | -                | -         |   -12.15 | alecc, Crunchy, dingus, Jynx, TRIPLUS  |
+|            3 |     2212 | 2024-01-18 | FlyQuest    | L   | 0.569      | -            | -                | -                | -         |    -0.65 | alecc, Crunchy, dingus, Jynx, TRIPLUS  |
+|            2 |     2450 | 2024-01-13 | Mindfreak   | L   | 0.531      | -            | -                | -                | -         |    -6.21 | alecc, Crunchy, dingus, Jynx, TRIPLUS  |
+|            1 |     2451 | 2024-01-13 | DXA         | W   | 0.530      | 0.143        | 0.009 (0.001)    | 0.277 (0.021)    | 0 (0.000) |    12.43 | alecc, Crunchy, dingus, Jynx, TRIPLUS  |
 
 <br />
 <span id="table2"></span><br />

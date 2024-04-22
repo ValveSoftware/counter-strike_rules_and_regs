@@ -34,26 +34,26 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                        |
+| Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          18 |     319 | 2024-04-10 | FLUFFY AIMERS    | W   | 1.000      | 0.477        | 0.023 (0.011)    | 0.225 (0.107)    | 0 (0.000) |          21.89 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|          17 |     324 | 2024-04-10 | FLUFFY AIMERS    | L   | 1.000      | -            | -                | -                | -         |          -9.16 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|          16 |     376 | 2024-04-09 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |          -6.74 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|          15 |     383 | 2024-04-09 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |          -7.16 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|          14 |     508 | 2024-04-04 | Limitless        | W   | 1.000      | 0.477        | 0.001 (0.001)    | 0.201 (0.096)    | 0 (0.000) |          14.69 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|          13 |     513 | 2024-04-04 | Limitless        | L   | 1.000      | -            | -                | -                | -         |         -16.91 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|          12 |     685 | 2024-03-27 | BOSS             | L   | 1.000      | -            | -                | -                | -         |         -11.69 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|          11 |     689 | 2024-03-27 | BOSS             | W   | 1.000      | 0.477        | 0.034 (0.016)    | 0.530 (0.253)    | 0 (0.000) |          20.16 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|          10 |     928 | 2024-03-14 | Mythic           | L   | 0.942      | -            | -                | -                | -         |         -12.60 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|           9 |     932 | 2024-03-14 | Mythic           | L   | 0.942      | -            | -                | -                | -         |         -13.68 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|           8 |    1177 | 2024-03-05 | LAG              | L   | 0.882      | -            | -                | -                | -         |          -6.87 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|           7 |    1179 | 2024-03-05 | LAG              | L   | 0.882      | -            | -                | -                | -         |          -7.29 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|           6 |    1434 | 2024-02-22 | Party Astronauts | L   | 0.801      | -            | -                | -                | -         |         -10.03 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|           5 |    1675 | 2024-02-13 | Take Flyte       | W   | 0.742      | 0.477        | 0.005 (0.002)    | 0.318 (0.113)    | 0 (0.000) |          11.41 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|           4 |    1678 | 2024-02-13 | Take Flyte       | L   | 0.742      | -            | -                | -                | -         |         -12.19 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|           3 |    2753 | 2023-12-13 | Revenge Nation   | W   | 0.329      | 0.367        | 0.044 (0.005)    | 0.133 (0.016)    | 0 (0.000) |           5.39 | HorizoN, NIGHT666LADE, Rulik, S0ph3R, TABEN |
-|           2 |    2826 | 2023-12-08 | Pantsu           | W   | 0.296      | 0.367        | 0.005 (0.001)    | 0.013 (0.001)    | 0 (0.000) |           3.74 | cbass, Grave, jchancE, serv0, z0mb1e        |
-|           1 |    2847 | 2023-12-07 | Villainous       | W   | 0.289      | 0.367        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           2.21 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|           18 |      319 | 2024-04-10 | FLUFFY AIMERS    | W   | 1.000      | 0.477        | 0.023 (0.011)    | 0.225 (0.107)    | 0 (0.000) |    21.89 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|           17 |      324 | 2024-04-10 | FLUFFY AIMERS    | L   | 1.000      | -            | -                | -                | -         |    -9.16 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|           16 |      376 | 2024-04-09 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |    -6.74 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|           15 |      383 | 2024-04-09 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |    -7.16 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|           14 |      508 | 2024-04-04 | Limitless        | W   | 1.000      | 0.477        | 0.001 (0.001)    | 0.201 (0.096)    | 0 (0.000) |    14.69 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|           13 |      513 | 2024-04-04 | Limitless        | L   | 1.000      | -            | -                | -                | -         |   -16.91 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|           12 |      685 | 2024-03-27 | BOSS             | L   | 1.000      | -            | -                | -                | -         |   -11.69 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|           11 |      689 | 2024-03-27 | BOSS             | W   | 1.000      | 0.477        | 0.034 (0.016)    | 0.530 (0.253)    | 0 (0.000) |    20.16 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|           10 |      928 | 2024-03-14 | Mythic           | L   | 0.942      | -            | -                | -                | -         |   -12.60 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|            9 |      932 | 2024-03-14 | Mythic           | L   | 0.942      | -            | -                | -                | -         |   -13.68 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|            8 |     1177 | 2024-03-05 | LAG              | L   | 0.882      | -            | -                | -                | -         |    -6.87 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|            7 |     1179 | 2024-03-05 | LAG              | L   | 0.882      | -            | -                | -                | -         |    -7.29 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|            6 |     1434 | 2024-02-22 | Party Astronauts | L   | 0.801      | -            | -                | -                | -         |   -10.03 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|            5 |     1675 | 2024-02-13 | Take Flyte       | W   | 0.742      | 0.477        | 0.005 (0.002)    | 0.318 (0.113)    | 0 (0.000) |    11.41 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|            4 |     1678 | 2024-02-13 | Take Flyte       | L   | 0.742      | -            | -                | -                | -         |   -12.19 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|            3 |     2753 | 2023-12-13 | Revenge Nation   | W   | 0.329      | 0.367        | 0.044 (0.005)    | 0.133 (0.016)    | 0 (0.000) |     5.39 | HorizoN, NIGHT666LADE, Rulik, S0ph3R, TABEN |
+|            2 |     2826 | 2023-12-08 | Pantsu           | W   | 0.296      | 0.367        | 0.005 (0.001)    | 0.013 (0.001)    | 0 (0.000) |     3.74 | cbass, Grave, jchancE, serv0, z0mb1e        |
+|            1 |     2847 | 2023-12-07 | Villainous       | W   | 0.289      | 0.367        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.21 | cbass, Grave, jchancE, serv0, z0mb1e        |
 
 <br />
 <span id="table2"></span><br />

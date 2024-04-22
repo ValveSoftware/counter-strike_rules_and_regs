@@ -34,25 +34,25 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                   |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          17 |    1237 | 2024-03-03 | esmagaB         | L   | 0.866      | -            | -                | -                | -         |         -15.24 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|          16 |    1264 | 2024-03-02 | AL QATRAO       | W   | 0.859      | 0.314        | 0.004 (0.001)    | 0.031 (0.008)    | 1 (0.859) |           9.37 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|          15 |    1795 | 2024-02-04 | SAW             | L   | 0.679      | -            | -                | -                | -         |          -1.61 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|          14 |    1817 | 2024-02-03 | esmagaB         | W   | 0.673      | 0.143        | 0.015 (0.001)    | 0.342 (0.033)    | 0 (0.000) |          10.09 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|          13 |    1848 | 2024-02-02 | ABT             | W   | 0.666      | 0.143        | 0.000 (0.000)    | 0.031 (0.003)    | 0 (0.000) |           3.64 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|          12 |    1855 | 2024-02-02 | KOI             | L   | 0.666      | -            | -                | -                | -         |          -3.71 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|          11 |    1857 | 2024-02-02 | OVERFRAG        | W   | 0.666      | 0.143        | 0.004 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           4.38 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|          10 |    2608 | 2024-01-09 | ECLOT           | L   | 0.506      | -            | -                | -                | -         |          -2.38 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|           9 |    2622 | 2023-12-28 | Alliance        | L   | 0.425      | -            | -                | -                | -         |          -4.59 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|           8 |    2626 | 2023-12-27 | brazylijski luz | L   | 0.418      | -            | -                | -                | -         |          -6.24 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|           7 |    2838 | 2023-12-08 | FALKE           | W   | 0.292      | 0.287        | 0.002 (0.000)    | 0.000 (0.000)    | 1 (0.292) |           1.74 | DDias, Icarus, krazy, snapy, TMKj      |
-|           6 |    3073 | 2023-11-25 | SAW             | L   | 0.206      | -            | -                | -                | -         |          -0.45 | DDias, Icarus, krazy, snapy, TMKj      |
-|           5 |    3098 | 2023-11-24 | FTW             | W   | 0.198      | 0.344        | 0.004 (0.000)    | 0.035 (0.002)    | 1 (0.198) |           2.20 | DDias, Icarus, krazy, snapy, TMKj      |
-|           4 |    3169 | 2023-11-19 | FTW             | W   | 0.166      | 0.337        | 0.004 (0.000)    | 0.035 (0.002)    | 1 (0.166) |           1.87 | DDias, Icarus, krazy, snapy, TMKj      |
-|           3 |    3180 | 2023-11-19 | Los Alpacas     | W   | 0.165      | 0.337        | 0.003 (0.000)    | 0.007 (0.000)    | 1 (0.165) |           1.50 | DDias, Icarus, krazy, snapy, TMKj      |
-|           2 |    3190 | 2023-11-18 | FTW             | L   | 0.160      | -            | -                | -                | -         |          -3.27 | DDias, Icarus, krazy, snapy, TMKj      |
-|           1 |    3209 | 2023-11-18 | Agency          | W   | 0.158      | 0.337        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (0.158) |           0.92 | DDias, Icarus, krazy, snapy, TMKj      |
+|           17 |     1237 | 2024-03-03 | esmagaB         | L   | 0.866      | -            | -                | -                | -         |   -15.24 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|           16 |     1264 | 2024-03-02 | AL QATRAO       | W   | 0.859      | 0.314        | 0.004 (0.001)    | 0.031 (0.008)    | 1 (0.859) |     9.37 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|           15 |     1795 | 2024-02-04 | SAW             | L   | 0.679      | -            | -                | -                | -         |    -1.61 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|           14 |     1817 | 2024-02-03 | esmagaB         | W   | 0.673      | 0.143        | 0.015 (0.001)    | 0.342 (0.033)    | 0 (0.000) |    10.09 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|           13 |     1848 | 2024-02-02 | ABT             | W   | 0.666      | 0.143        | 0.000 (0.000)    | 0.031 (0.003)    | 0 (0.000) |     3.64 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|           12 |     1855 | 2024-02-02 | KOI             | L   | 0.666      | -            | -                | -                | -         |    -3.71 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|           11 |     1857 | 2024-02-02 | OVERFRAG        | W   | 0.666      | 0.143        | 0.004 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.38 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|           10 |     2608 | 2024-01-09 | ECLOT           | L   | 0.506      | -            | -                | -                | -         |    -2.38 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|            9 |     2622 | 2023-12-28 | Alliance        | L   | 0.425      | -            | -                | -                | -         |    -4.59 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|            8 |     2626 | 2023-12-27 | brazylijski luz | L   | 0.418      | -            | -                | -                | -         |    -6.24 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|            7 |     2838 | 2023-12-08 | FALKE           | W   | 0.292      | 0.287        | 0.002 (0.000)    | 0.000 (0.000)    | 1 (0.292) |     1.74 | DDias, Icarus, krazy, snapy, TMKj      |
+|            6 |     3073 | 2023-11-25 | SAW             | L   | 0.206      | -            | -                | -                | -         |    -0.45 | DDias, Icarus, krazy, snapy, TMKj      |
+|            5 |     3098 | 2023-11-24 | FTW             | W   | 0.198      | 0.344        | 0.004 (0.000)    | 0.035 (0.002)    | 1 (0.198) |     2.20 | DDias, Icarus, krazy, snapy, TMKj      |
+|            4 |     3169 | 2023-11-19 | FTW             | W   | 0.166      | 0.337        | 0.004 (0.000)    | 0.035 (0.002)    | 1 (0.166) |     1.87 | DDias, Icarus, krazy, snapy, TMKj      |
+|            3 |     3180 | 2023-11-19 | Los Alpacas     | W   | 0.165      | 0.337        | 0.003 (0.000)    | 0.007 (0.000)    | 1 (0.165) |     1.50 | DDias, Icarus, krazy, snapy, TMKj      |
+|            2 |     3190 | 2023-11-18 | FTW             | L   | 0.160      | -            | -                | -                | -         |    -3.27 | DDias, Icarus, krazy, snapy, TMKj      |
+|            1 |     3209 | 2023-11-18 | Agency          | W   | 0.158      | 0.337        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (0.158) |     0.92 | DDias, Icarus, krazy, snapy, TMKj      |
 
 <br />
 <span id="table2"></span><br />

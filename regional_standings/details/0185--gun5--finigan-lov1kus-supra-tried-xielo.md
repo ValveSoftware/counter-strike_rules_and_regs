@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                      |
+| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          15 |     436 | 2024-04-08 | KOI           | L   | 1.000      | -            | -                | -                | -         |          -2.79 | FinigaN, lov1kus, supra, tried, xiELO     |
-|          14 |     445 | 2024-04-08 | Apeks         | L   | 1.000      | -            | -                | -                | -         |          -1.53 | FinigaN, lov1kus, supra, tried, xiELO     |
-|          13 |     640 | 2024-04-01 | GamerLegion   | L   | 1.000      | -            | -                | -                | -         |         -18.28 | FinigaN, lov1kus, supra, tried, xiELO     |
-|          12 |     846 | 2024-03-19 | 3DMAX         | L   | 0.972      | -            | -                | -                | -         |          -3.50 | FinigaN, lov1kus, supra, tried, xiELO     |
-|          11 |    1199 | 2024-03-05 | Nemiga        | L   | 0.880      | -            | -                | -                | -         |          -3.19 | FinigaN, lov1kus, supra, tried, xiELO     |
-|          10 |    1919 | 2024-01-30 | FORZE         | L   | 0.647      | -            | -                | -                | -         |          -2.79 | FinigaN, lov1kus, supra, tried, xiELO     |
-|           9 |    2284 | 2024-01-17 | Sprout        | L   | 0.561      | -            | -                | -                | -         |          -6.30 | FinigaN, lov1kus, supra, xiELO, znxxX     |
-|           8 |    2342 | 2024-01-16 | Endpoint      | L   | 0.554      | -            | -                | -                | -         |          -4.89 | FinigaN, lov1kus, supra, xiELO, znxxX     |
-|           7 |    2548 | 2024-01-10 | HEROIC        | L   | 0.514      | -            | -                | -                | -         |          -0.08 | FinigaN, lov1kus, supra, xiELO, znxxX     |
-|           6 |    2647 | 2023-12-19 | PERA          | L   | 0.366      | -            | -                | -                | -         |          -3.63 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
-|           5 |    2650 | 2023-12-19 | Metizport     | L   | 0.365      | -            | -                | -                | -         |          -1.66 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
-|           4 |    2652 | 2023-12-19 | Gucci Academy | W   | 0.364      | 0.333        | 0.013 (0.002)    | 0.093 (0.011)    | 0 (0.000) |           7.78 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
-|           3 |    3359 | 2023-11-12 | VP.Prodigy    | W   | 0.121      | 0.320        | 0.001 (0.000)    | 0.182 (0.007)    | 0 (0.000) |           2.06 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
-|           2 |    3380 | 2023-11-12 | Entropiq      | W   | 0.118      | 0.320        | 0.002 (0.000)    | 0.403 (0.015)    | 0 (0.000) |           2.44 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
-|           1 |    3411 | 2023-11-11 | GenOne        | W   | 0.112      | 0.320        | 0.001 (0.000)    | 0.008 (0.000)    | 0 (0.000) |           1.57 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
+|           15 |      436 | 2024-04-08 | KOI           | L   | 1.000      | -            | -                | -                | -         |    -2.79 | FinigaN, lov1kus, supra, tried, xiELO     |
+|           14 |      445 | 2024-04-08 | Apeks         | L   | 1.000      | -            | -                | -                | -         |    -1.53 | FinigaN, lov1kus, supra, tried, xiELO     |
+|           13 |      640 | 2024-04-01 | GamerLegion   | L   | 1.000      | -            | -                | -                | -         |   -18.28 | FinigaN, lov1kus, supra, tried, xiELO     |
+|           12 |      846 | 2024-03-19 | 3DMAX         | L   | 0.972      | -            | -                | -                | -         |    -3.50 | FinigaN, lov1kus, supra, tried, xiELO     |
+|           11 |     1199 | 2024-03-05 | Nemiga        | L   | 0.880      | -            | -                | -                | -         |    -3.19 | FinigaN, lov1kus, supra, tried, xiELO     |
+|           10 |     1919 | 2024-01-30 | FORZE         | L   | 0.647      | -            | -                | -                | -         |    -2.79 | FinigaN, lov1kus, supra, tried, xiELO     |
+|            9 |     2284 | 2024-01-17 | Sprout        | L   | 0.561      | -            | -                | -                | -         |    -6.30 | FinigaN, lov1kus, supra, xiELO, znxxX     |
+|            8 |     2342 | 2024-01-16 | Endpoint      | L   | 0.554      | -            | -                | -                | -         |    -4.89 | FinigaN, lov1kus, supra, xiELO, znxxX     |
+|            7 |     2548 | 2024-01-10 | HEROIC        | L   | 0.514      | -            | -                | -                | -         |    -0.08 | FinigaN, lov1kus, supra, xiELO, znxxX     |
+|            6 |     2647 | 2023-12-19 | PERA          | L   | 0.366      | -            | -                | -                | -         |    -3.63 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
+|            5 |     2650 | 2023-12-19 | Metizport     | L   | 0.365      | -            | -                | -                | -         |    -1.66 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
+|            4 |     2652 | 2023-12-19 | Gucci Academy | W   | 0.364      | 0.333        | 0.013 (0.002)    | 0.093 (0.011)    | 0 (0.000) |     7.78 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
+|            3 |     3359 | 2023-11-12 | VP.Prodigy    | W   | 0.121      | 0.320        | 0.001 (0.000)    | 0.182 (0.007)    | 0 (0.000) |     2.06 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
+|            2 |     3380 | 2023-11-12 | Entropiq      | W   | 0.118      | 0.320        | 0.002 (0.000)    | 0.403 (0.015)    | 0 (0.000) |     2.44 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
+|            1 |     3411 | 2023-11-11 | GenOne        | W   | 0.112      | 0.320        | 0.001 (0.000)    | 0.008 (0.000)    | 0 (0.000) |     1.57 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
 
 <br />
 <span id="table2"></span><br />

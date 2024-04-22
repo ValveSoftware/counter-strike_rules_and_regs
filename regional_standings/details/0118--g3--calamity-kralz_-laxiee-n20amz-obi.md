@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                      |
+| Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          10 |     170 | 2024-04-17 | Liquid           | L   | 1.000      | -            | -                | -                | -         |          -1.81 | calamity, kralz , Laxiee, N20AmZ, obi     |
-|           9 |     174 | 2024-04-17 | NRG              | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.633 (0.090)    | 0 (0.000) |          20.89 | calamity, kralz , Laxiee, N20AmZ, obi     |
-|           8 |     862 | 2024-03-17 | LAG              | L   | 0.963      | -            | -                | -                | -         |          -8.28 | arviast, C4LLM3SU3, calamity, N20AmZ, obi |
-|           7 |     863 | 2024-03-17 | Xiaoma           | W   | 0.962      | 0.333        | 0.005 (0.002)    | 0.045 (0.014)    | 1 (0.962) |           9.13 | arviast, C4LLM3SU3, calamity, N20AmZ, obi |
-|           6 |     870 | 2024-03-17 | Snakes Den       | W   | 0.960      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.960) |           3.78 | arviast, C4LLM3SU3, calamity, N20AmZ, obi |
-|           5 |    1396 | 2024-02-24 | Wildcard         | L   | 0.814      | -            | -                | -                | -         |          -8.24 | C4LLM3SU3, calamity, Laxiee, N20AmZ, obi  |
-|           4 |    1507 | 2024-02-19 | Mythic           | L   | 0.783      | -            | -                | -                | -         |         -11.70 | C4LLM3SU3, calamity, Laxiee, N20AmZ, obi  |
-|           3 |    1509 | 2024-02-19 | Party Astronauts | L   | 0.781      | -            | -                | -                | -         |         -11.57 | C4LLM3SU3, calamity, Laxiee, N20AmZ, obi  |
-|           2 |    1576 | 2024-02-16 | Rocket           | L   | 0.762      | -            | -                | -                | -         |         -14.25 | C4LLM3SU3, calamity, N20AmZ, obi, tmk     |
-|           1 |    1606 | 2024-02-15 | Limitless        | W   | 0.755      | 0.143        | 0.001 (0.000)    | 0.201 (0.022)    | 0 (0.000) |           8.46 | C4LLM3SU3, calamity, N20AmZ, obi, tmk     |
+|           10 |      170 | 2024-04-17 | Liquid           | L   | 1.000      | -            | -                | -                | -         |    -1.81 | calamity, kralz , Laxiee, N20AmZ, obi     |
+|            9 |      174 | 2024-04-17 | NRG              | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.633 (0.090)    | 0 (0.000) |    20.89 | calamity, kralz , Laxiee, N20AmZ, obi     |
+|            8 |      862 | 2024-03-17 | LAG              | L   | 0.963      | -            | -                | -                | -         |    -8.28 | arviast, C4LLM3SU3, calamity, N20AmZ, obi |
+|            7 |      863 | 2024-03-17 | Xiaoma           | W   | 0.962      | 0.333        | 0.005 (0.002)    | 0.045 (0.014)    | 1 (0.962) |     9.13 | arviast, C4LLM3SU3, calamity, N20AmZ, obi |
+|            6 |      870 | 2024-03-17 | Snakes Den       | W   | 0.960      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.960) |     3.78 | arviast, C4LLM3SU3, calamity, N20AmZ, obi |
+|            5 |     1396 | 2024-02-24 | Wildcard         | L   | 0.814      | -            | -                | -                | -         |    -8.24 | C4LLM3SU3, calamity, Laxiee, N20AmZ, obi  |
+|            4 |     1507 | 2024-02-19 | Mythic           | L   | 0.783      | -            | -                | -                | -         |   -11.70 | C4LLM3SU3, calamity, Laxiee, N20AmZ, obi  |
+|            3 |     1509 | 2024-02-19 | Party Astronauts | L   | 0.781      | -            | -                | -                | -         |   -11.57 | C4LLM3SU3, calamity, Laxiee, N20AmZ, obi  |
+|            2 |     1576 | 2024-02-16 | Rocket           | L   | 0.762      | -            | -                | -                | -         |   -14.25 | C4LLM3SU3, calamity, N20AmZ, obi, tmk     |
+|            1 |     1606 | 2024-02-15 | Limitless        | W   | 0.755      | 0.143        | 0.001 (0.000)    | 0.201 (0.022)    | 0 (0.000) |     8.46 | C4LLM3SU3, calamity, N20AmZ, obi, tmk     |
 
 <br />
 <span id="table2"></span><br />

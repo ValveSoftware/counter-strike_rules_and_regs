@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                  |
+| Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          10 |      27 | 2024-04-21 | Nemiga       | L   | 1.000      | -            | -                | -                | -         |          -4.93 | buster, Jyo, lattykk, neaLaN, Ryujin  |
-|           9 |      48 | 2024-04-20 | esmagaB      | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.342 (0.049)    | 0 (0.000) |          18.52 | buster, Jyo, lattykk, neaLaN, Ryujin  |
-|           8 |     221 | 2024-04-16 | ENCE Academy | W   | 1.000      | 0.143        | 0.016 (0.002)    | 0.265 (0.038)    | 0 (0.000) |          24.31 | buster, Jyo, lattykk, neaLaN, Ryujin  |
-|           7 |     247 | 2024-04-15 | Lazer Cats   | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           9.16 | buster, Jyo, lattykk, neaLaN, Ryujin  |
-|           6 |     412 | 2024-04-09 | Aurora       | L   | 1.000      | -            | -                | -                | -         |          -0.81 | buster, Jyo, lattykk, neaLaN, Ryujin  |
-|           5 |     433 | 2024-04-08 | 9 Pandas     | W   | 1.000      | 0.143        | 0.083 (0.012)    | 0.656 (0.094)    | 0 (0.000) |          29.14 | buster, Jyo, lattykk, neaLaN, Ryujin  |
-|           4 |     447 | 2024-04-08 | Aurora       | W   | 1.000      | 0.143        | 0.763 (0.109)    | 1.000 (0.143)    | 0 (0.000) |          30.82 | buster, Jyo, lattykk, neaLaN, Ryujin  |
-|           3 |    1037 | 2024-03-11 | Insilio      | L   | 0.919      | -            | -                | -                | -         |          -6.81 | buster, lattykk, neaLaN, oz1k, Ryujin |
-|           2 |    1058 | 2024-03-10 | VP.Prodigy   | W   | 0.913      | 0.372        | 0.001 (0.000)    | 0.182 (0.062)    | 0 (0.000) |          18.08 | buster, lattykk, neaLaN, oz1k, Ryujin |
-|           1 |    1186 | 2024-03-05 | ARCRED       | L   | 0.881      | -            | -                | -                | -         |         -10.30 | buster, lattykk, neaLaN, oz1k, Ryujin |
+|           10 |       27 | 2024-04-21 | Nemiga       | L   | 1.000      | -            | -                | -                | -         |    -4.93 | buster, Jyo, lattykk, neaLaN, Ryujin  |
+|            9 |       48 | 2024-04-20 | esmagaB      | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.342 (0.049)    | 0 (0.000) |    18.52 | buster, Jyo, lattykk, neaLaN, Ryujin  |
+|            8 |      221 | 2024-04-16 | ENCE Academy | W   | 1.000      | 0.143        | 0.016 (0.002)    | 0.265 (0.038)    | 0 (0.000) |    24.31 | buster, Jyo, lattykk, neaLaN, Ryujin  |
+|            7 |      247 | 2024-04-15 | Lazer Cats   | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     9.16 | buster, Jyo, lattykk, neaLaN, Ryujin  |
+|            6 |      412 | 2024-04-09 | Aurora       | L   | 1.000      | -            | -                | -                | -         |    -0.81 | buster, Jyo, lattykk, neaLaN, Ryujin  |
+|            5 |      433 | 2024-04-08 | 9 Pandas     | W   | 1.000      | 0.143        | 0.083 (0.012)    | 0.656 (0.094)    | 0 (0.000) |    29.14 | buster, Jyo, lattykk, neaLaN, Ryujin  |
+|            4 |      447 | 2024-04-08 | Aurora       | W   | 1.000      | 0.143        | 0.763 (0.109)    | 1.000 (0.143)    | 0 (0.000) |    30.82 | buster, Jyo, lattykk, neaLaN, Ryujin  |
+|            3 |     1037 | 2024-03-11 | Insilio      | L   | 0.919      | -            | -                | -                | -         |    -6.81 | buster, lattykk, neaLaN, oz1k, Ryujin |
+|            2 |     1058 | 2024-03-10 | VP.Prodigy   | W   | 0.913      | 0.372        | 0.001 (0.000)    | 0.182 (0.062)    | 0 (0.000) |    18.08 | buster, lattykk, neaLaN, oz1k, Ryujin |
+|            1 |     1186 | 2024-03-05 | ARCRED       | L   | 0.881      | -            | -                | -                | -         |   -10.30 | buster, lattykk, neaLaN, oz1k, Ryujin |
 
 <br />
 <span id="table2"></span><br />

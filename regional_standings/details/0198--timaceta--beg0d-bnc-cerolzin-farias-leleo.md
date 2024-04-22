@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                |
+| Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          11 |    2082 | 2024-01-21 | Flamengo    | L   | 0.587      | -            | -                | -                | -         |          -7.69 | beg0d, bnc, cerolzin, farias, leleo |
-|          10 |    2118 | 2024-01-20 | W7M         | L   | 0.580      | -            | -                | -                | -         |          -2.87 | beg0d, bnc, cerolzin, farias, leleo |
-|           9 |    2158 | 2024-01-19 | MIBR        | L   | 0.575      | -            | -                | -                | -         |          -0.16 | beg0d, bnc, cerolzin, farias, leleo |
-|           8 |    2163 | 2024-01-19 | Sharks      | W   | 0.574      | 0.143        | 0.040 (0.003)    | 0.532 (0.044)    | 0 (0.000) |          16.34 | beg0d, bnc, cerolzin, farias, leleo |
-|           7 |    2332 | 2024-01-16 | W7M         | L   | 0.554      | -            | -                | -                | -         |          -2.67 | beg0d, bnc, cerolzin, farias, leleo |
-|           6 |    2370 | 2024-01-15 | BESTIA      | W   | 0.548      | 0.143        | 0.029 (0.002)    | 0.455 (0.036)    | 0 (0.000) |          14.75 | beg0d, bnc, cerolzin, farias, leleo |
-|           5 |    2502 | 2024-01-11 | adalYamigos | L   | 0.521      | -            | -                | -                | -         |          -4.41 | beg0d, bnc, cerolzin, farias, leleo |
-|           4 |    2506 | 2024-01-11 | PUBG aim    | W   | 0.521      | 0.143        | 0.000 (0.000)    | 0.059 (0.004)    | 0 (0.000) |           8.52 | beg0d, bnc, cerolzin, farias, leleo |
-|           3 |    2519 | 2024-01-11 | NIGERIA 96  | W   | 0.520      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           5.63 | beg0d, bnc, cerolzin, farias, leleo |
-|           2 |    2576 | 2024-01-09 | Corinthians | L   | 0.507      | -            | -                | -                | -         |          -4.96 | beg0d, bnc, cerolzin, farias, leleo |
-|           1 |    3654 | 2023-10-30 | Fluxo       | L   | 0.035      | -            | -                | -                | -         |          -0.05 | beg0d, bnc, cerolzin, farias, leleo |
+|           11 |     2082 | 2024-01-21 | Flamengo    | L   | 0.587      | -            | -                | -                | -         |    -7.69 | beg0d, bnc, cerolzin, farias, leleo |
+|           10 |     2118 | 2024-01-20 | W7M         | L   | 0.580      | -            | -                | -                | -         |    -2.87 | beg0d, bnc, cerolzin, farias, leleo |
+|            9 |     2158 | 2024-01-19 | MIBR        | L   | 0.575      | -            | -                | -                | -         |    -0.16 | beg0d, bnc, cerolzin, farias, leleo |
+|            8 |     2163 | 2024-01-19 | Sharks      | W   | 0.574      | 0.143        | 0.040 (0.003)    | 0.532 (0.044)    | 0 (0.000) |    16.34 | beg0d, bnc, cerolzin, farias, leleo |
+|            7 |     2332 | 2024-01-16 | W7M         | L   | 0.554      | -            | -                | -                | -         |    -2.67 | beg0d, bnc, cerolzin, farias, leleo |
+|            6 |     2370 | 2024-01-15 | BESTIA      | W   | 0.548      | 0.143        | 0.029 (0.002)    | 0.455 (0.036)    | 0 (0.000) |    14.75 | beg0d, bnc, cerolzin, farias, leleo |
+|            5 |     2502 | 2024-01-11 | adalYamigos | L   | 0.521      | -            | -                | -                | -         |    -4.41 | beg0d, bnc, cerolzin, farias, leleo |
+|            4 |     2506 | 2024-01-11 | PUBG aim    | W   | 0.521      | 0.143        | 0.000 (0.000)    | 0.059 (0.004)    | 0 (0.000) |     8.52 | beg0d, bnc, cerolzin, farias, leleo |
+|            3 |     2519 | 2024-01-11 | NIGERIA 96  | W   | 0.520      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.63 | beg0d, bnc, cerolzin, farias, leleo |
+|            2 |     2576 | 2024-01-09 | Corinthians | L   | 0.507      | -            | -                | -                | -         |    -4.96 | beg0d, bnc, cerolzin, farias, leleo |
+|            1 |     3654 | 2023-10-30 | Fluxo       | L   | 0.035      | -            | -                | -                | -         |    -0.05 | beg0d, bnc, cerolzin, farias, leleo |
 
 <br />
 <span id="table2"></span><br />

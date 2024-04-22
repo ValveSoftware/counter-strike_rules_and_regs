@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                               |
+| Match Played | Match ID | Date       | Opponent   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          13 |     650 | 2024-03-31 | Gods Reign | L   | 1.000      | -            | -                | -                | -         |         -11.52 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
-|          12 |     656 | 2024-03-30 | Marcos     | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.046 (0.007)    | 0 (0.000) |           8.12 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
-|          11 |     664 | 2024-03-29 | Grayfox    | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.038 (0.005)    | 0 (0.000) |           6.50 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
-|          10 |     759 | 2024-03-24 | Marcos     | L   | 1.000      | -            | -                | -                | -         |         -23.30 | Anasasis, Crazy_Gamer, DEFAULTER, Mcg!LLzZz, Rossi |
-|           9 |    1713 | 2024-02-11 | Marcos     | L   | 0.724      | -            | -                | -                | -         |          -9.43 | DEFAULTER, Gh0sTTTT, kennyS, Mcg!LLzZz, Rossi      |
-|           8 |    1728 | 2024-02-09 | Marcos     | W   | 0.716      | 0.435        | 0.079 (0.025)    | 0.142 (0.044)    | 1 (0.716) |          13.33 | DEFAULTER, Gh0sTTTT, kennyS, Mcg!LLzZz, Rossi      |
-|           7 |    1754 | 2024-02-08 | Gods Reign | W   | 0.704      | 0.435        | 0.010 (0.003)    | 0.180 (0.055)    | 1 (0.704) |           6.64 | DEFAULTER, DiceDealer, Gh0sTTTT, kennyS, Mcg!LLzZz |
-|           6 |    2094 | 2024-01-21 | Grayfox    | W   | 0.584      | 0.262        | 0.004 (0.001)    | 0.038 (0.006)    | 0 (0.000) |           3.78 | DEFAULTER, DiceDealer, Gh0sTTTT, Mcg!LLzZz, Rossi  |
-|           5 |    2692 | 2023-12-17 | Pakistan   | W   | 0.351      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.351) |           0.80 | BulleT, Executor, insmutje, Jimpphat, SunPayus     |
-|           4 |    3057 | 2023-11-26 | Marcos     | L   | 0.211      | -            | -                | -                | -         |          -2.69 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn                |
-|           3 |    3061 | 2023-11-26 | Gods Reign | W   | 0.210      | 0.262        | 0.010 (0.001)    | 0.180 (0.010)    | 0 (0.000) |           2.06 | DEFAULTER, DiceDealer, Gh0sTTTT, Mcg!LLzZz, Rossi  |
-|           2 |    3520 | 2023-11-05 | Gods Reign | W   | 0.071      | 0.310        | 0.151 (0.003)    | 0.268 (0.006)    | 1 (0.071) |           1.32 | Bhavi, CycloneF, ELV1S, f1redup, R2B2              |
-|           1 |    3528 | 2023-11-05 | Carnival   | W   | 0.070      | 0.310        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.070) |           0.27 | Benzene, hattygOD, N1kace, Rider, SpawN            |
+|           13 |      650 | 2024-03-31 | Gods Reign | L   | 1.000      | -            | -                | -                | -         |   -11.52 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
+|           12 |      656 | 2024-03-30 | Marcos     | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.046 (0.007)    | 0 (0.000) |     8.12 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
+|           11 |      664 | 2024-03-29 | Grayfox    | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.038 (0.005)    | 0 (0.000) |     6.50 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
+|           10 |      759 | 2024-03-24 | Marcos     | L   | 1.000      | -            | -                | -                | -         |   -23.30 | Anasasis, Crazy_Gamer, DEFAULTER, Mcg!LLzZz, Rossi |
+|            9 |     1713 | 2024-02-11 | Marcos     | L   | 0.724      | -            | -                | -                | -         |    -9.43 | DEFAULTER, Gh0sTTTT, kennyS, Mcg!LLzZz, Rossi      |
+|            8 |     1728 | 2024-02-09 | Marcos     | W   | 0.716      | 0.435        | 0.079 (0.025)    | 0.142 (0.044)    | 1 (0.716) |    13.33 | DEFAULTER, Gh0sTTTT, kennyS, Mcg!LLzZz, Rossi      |
+|            7 |     1754 | 2024-02-08 | Gods Reign | W   | 0.704      | 0.435        | 0.010 (0.003)    | 0.180 (0.055)    | 1 (0.704) |     6.64 | DEFAULTER, DiceDealer, Gh0sTTTT, kennyS, Mcg!LLzZz |
+|            6 |     2094 | 2024-01-21 | Grayfox    | W   | 0.584      | 0.262        | 0.004 (0.001)    | 0.038 (0.006)    | 0 (0.000) |     3.78 | DEFAULTER, DiceDealer, Gh0sTTTT, Mcg!LLzZz, Rossi  |
+|            5 |     2692 | 2023-12-17 | Pakistan   | W   | 0.351      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.351) |     0.80 | BulleT, Executor, insmutje, Jimpphat, SunPayus     |
+|            4 |     3057 | 2023-11-26 | Marcos     | L   | 0.211      | -            | -                | -                | -         |    -2.69 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn                |
+|            3 |     3061 | 2023-11-26 | Gods Reign | W   | 0.210      | 0.262        | 0.010 (0.001)    | 0.180 (0.010)    | 0 (0.000) |     2.06 | DEFAULTER, DiceDealer, Gh0sTTTT, Mcg!LLzZz, Rossi  |
+|            2 |     3520 | 2023-11-05 | Gods Reign | W   | 0.071      | 0.310        | 0.151 (0.003)    | 0.268 (0.006)    | 1 (0.071) |     1.32 | Bhavi, CycloneF, ELV1S, f1redup, R2B2              |
+|            1 |     3528 | 2023-11-05 | Carnival   | W   | 0.070      | 0.310        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.070) |     0.27 | Benzene, hattygOD, N1kace, Rider, SpawN            |
 
 <br />
 <span id="table2"></span><br />

@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                 |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          11 |      70 | 2024-04-19 | Shimmer         | L   | 1.000      | -            | -                | -                | -         |         -13.16 | daria, Fawx, mira, PiggyKiki, rbn    |
-|          10 |     291 | 2024-04-11 | Nouns fe        | W   | 1.000      | 0.322        | 0.007 (0.002)    | 0.134 (0.043)    | 0 (0.000) |          15.55 | daria, Fawx, mira, PiggyKiki, rbn    |
-|           9 |     462 | 2024-04-07 | Shimmer         | L   | 1.000      | -            | -                | -                | -         |         -13.42 | daria, Fawx, mira, PiggyKiki, rbn    |
-|           8 |     559 | 2024-04-03 | Karma           | L   | 1.000      | -            | -                | -                | -         |         -15.68 | daria, Fawx, mira, PiggyKiki, rbn    |
-|           7 |     667 | 2024-03-28 | COVEN           | W   | 1.000      | 0.322        | 0.005 (0.002)    | 0.000 (0.000)    | 0 (0.000) |           8.13 | daria, Fawx, mira, PiggyKiki, rbn    |
-|           6 |     817 | 2024-03-20 | FlyQuest RED    | L   | 0.982      | -            | -                | -                | -         |         -10.87 | daria, Fawx, mira, PiggyKiki, rbn    |
-|           5 |     962 | 2024-03-13 | WG Bandits      | W   | 0.935      | 0.322        | 0.006 (0.002)    | 0.081 (0.024)    | 0 (0.000) |          12.67 | daria, Fawx, mira, PiggyKiki, rbn    |
-|           4 |    1113 | 2024-03-07 | cleanup crew fe | W   | 0.895      | 0.322        | 0.006 (0.002)    | 0.089 (0.026)    | 0 (0.000) |          12.49 | daria, Fawx, mira, PiggyKiki, rbn    |
-|           3 |    2669 | 2023-12-17 | Shimmer         | L   | 0.355      | -            | -                | -                | -         |          -5.05 | chigen, empathy, Lx, phoebe, vanessa |
-|           2 |    3690 | 2023-10-29 | Hyperion        | W   | 0.028      | 0.328        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           0.23 | chigen, daria, Fawx, Kate, mira      |
-|           1 |    3735 | 2023-10-28 | Karma           | W   | 0.022      | 0.328        | 0.009 (0.000)    | 0.229 (0.002)    | 0 (0.000) |           0.35 | Bungee, Ellie, EMUHLEET, olya, rain  |
+|           11 |       70 | 2024-04-19 | Shimmer         | L   | 1.000      | -            | -                | -                | -         |   -13.16 | daria, Fawx, mira, PiggyKiki, rbn    |
+|           10 |      291 | 2024-04-11 | Nouns fe        | W   | 1.000      | 0.322        | 0.007 (0.002)    | 0.134 (0.043)    | 0 (0.000) |    15.55 | daria, Fawx, mira, PiggyKiki, rbn    |
+|            9 |      462 | 2024-04-07 | Shimmer         | L   | 1.000      | -            | -                | -                | -         |   -13.42 | daria, Fawx, mira, PiggyKiki, rbn    |
+|            8 |      559 | 2024-04-03 | Karma           | L   | 1.000      | -            | -                | -                | -         |   -15.68 | daria, Fawx, mira, PiggyKiki, rbn    |
+|            7 |      667 | 2024-03-28 | COVEN           | W   | 1.000      | 0.322        | 0.005 (0.002)    | 0.000 (0.000)    | 0 (0.000) |     8.13 | daria, Fawx, mira, PiggyKiki, rbn    |
+|            6 |      817 | 2024-03-20 | FlyQuest RED    | L   | 0.982      | -            | -                | -                | -         |   -10.87 | daria, Fawx, mira, PiggyKiki, rbn    |
+|            5 |      962 | 2024-03-13 | WG Bandits      | W   | 0.935      | 0.322        | 0.006 (0.002)    | 0.081 (0.024)    | 0 (0.000) |    12.67 | daria, Fawx, mira, PiggyKiki, rbn    |
+|            4 |     1113 | 2024-03-07 | cleanup crew fe | W   | 0.895      | 0.322        | 0.006 (0.002)    | 0.089 (0.026)    | 0 (0.000) |    12.49 | daria, Fawx, mira, PiggyKiki, rbn    |
+|            3 |     2669 | 2023-12-17 | Shimmer         | L   | 0.355      | -            | -                | -                | -         |    -5.05 | chigen, empathy, Lx, phoebe, vanessa |
+|            2 |     3690 | 2023-10-29 | Hyperion        | W   | 0.028      | 0.328        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.23 | chigen, daria, Fawx, Kate, mira      |
+|            1 |     3735 | 2023-10-28 | Karma           | W   | 0.022      | 0.328        | 0.009 (0.000)    | 0.229 (0.002)    | 0 (0.000) |     0.35 | Bungee, Ellie, EMUHLEET, olya, rain  |
 
 <br />
 <span id="table2"></span><br />

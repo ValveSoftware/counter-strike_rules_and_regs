@@ -34,29 +34,29 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                   |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          21 |      92 | 2024-04-19 | GUILD fe          | W   | 1.000      | 0.331        | 0.009 (0.003)    | 0.220 (0.073)    | 0 (0.000) |           7.17 | ANa, Kat, tory, twenty3, zAAz          |
-|          20 |     217 | 2024-04-16 | NAVI Javelins     | L   | 1.000      | -            | -                | -                | -         |         -18.32 | ANa, Kat, tory, twenty3, zAAz          |
-|          19 |     251 | 2024-04-14 | NIP Impact        | W   | 1.000      | 0.303        | 0.008 (0.002)    | 0.278 (0.084)    | 0 (0.000) |           9.00 | ANa, Kat, tory, twenty3, zAAz          |
-|          18 |     269 | 2024-04-13 | NAVI Javelins     | W   | 1.000      | 0.303        | 0.064 (0.019)    | 0.467 (0.141)    | 0 (0.000) |          12.54 | ANa, Kat, tory, twenty3, zAAz          |
-|          17 |     305 | 2024-04-11 | Astralis W        | W   | 1.000      | -            | -                | -                | 0 (0.000) |           4.84 | ANa, Kat, tory, twenty3, zAAz          |
-|          16 |     352 | 2024-04-10 | Astralis W        | W   | 1.000      | -            | -                | -                | 0 (0.000) |           5.08 | ANa, Kat, tory, twenty3, zAAz          |
-|          15 |     439 | 2024-04-08 | VP.Angels         | W   | 1.000      | -            | -                | -                | 0 (0.000) |           5.91 | ANa, Kat, tory, twenty3, zAAz          |
-|          14 |     469 | 2024-04-07 | NIP Impact        | W   | 1.000      | 0.262        | 0.008 (0.002)    | 0.278 (0.073)    | -         |           9.91 | ANa, Kat, tory, twenty3, zAAz          |
-|          13 |     473 | 2024-04-07 | BIG EQUIPA        | W   | 1.000      | 0.262        | -                | 0.376 (0.098)    | -         |           9.69 | ANa, Kat, tory, twenty3, zAAz          |
-|          12 |     489 | 2024-04-06 | ENCE Athena       | W   | 1.000      | 0.262        | 0.007 (0.002)    | 0.162 (0.042)    | -         |           7.02 | ANa, Kat, tory, twenty3, zAAz          |
-|          11 |     710 | 2024-03-27 | ENCE Athena       | W   | 1.000      | 0.331        | 0.007 (0.002)    | 0.162 (0.054)    | -         |           7.91 | ANa, Kat, tory, twenty3, zAAz          |
-|          10 |     947 | 2024-03-14 | BIG EQUIPA        | W   | 0.940      | 0.331        | 0.007 (0.002)    | 0.376 (0.117)    | -         |          10.12 | ANa, Kat, tory, twenty3, zAAz          |
-|           9 |    1125 | 2024-03-07 | NIP Impact        | W   | 0.894      | 0.331        | 0.008 (0.002)    | 0.278 (0.082)    | -         |           8.77 | ANa, Kat, tory, twenty3, zAAz          |
-|           8 |    1356 | 2024-02-26 | 500               | L   | 0.825      | -            | -                | -                | -         |         -18.83 | ANa, Kat, tory, twenty3, zAAz          |
-|           7 |    1777 | 2024-02-05 | Sampi             | L   | 0.686      | -            | -                | -                | -         |          -8.46 | ANa, Kat, tory, twenty3, zAAz          |
-|           6 |    1936 | 2024-01-29 | ex-Sprout         | L   | 0.638      | -            | -                | -                | -         |         -16.74 | ANa, hyskeee, Kat, tory, twenty3       |
-|           5 |    2788 | 2023-12-10 | NAVI Javelins     | W   | 0.306      | 0.524        | 0.064 (0.010)    | 0.467 (0.075)    | 1 (0.306) |           4.27 | Angelka, Hanka, LETi, Liina, vicu      |
-|           4 |    2797 | 2023-12-10 | Fearless Cheetahs | W   | 0.304      | 0.524        | 0.033 (0.005)    | -                | 1 (0.304) |           3.40 | ANa, Kat, tory, twenty3, vilga         |
-|           3 |    2814 | 2023-12-09 | HSG fe            | W   | 0.300      | -            | -                | -                | 1 (0.300) |           2.40 | Argent, gfi, Hazel, Olga, XiaoWu       |
-|           2 |    2834 | 2023-12-08 | Fluxo Demons      | L   | 0.293      | -            | -                | -                | -         |          -5.98 | goddess, julih, nani, poppins, yungher |
-|           1 |    2844 | 2023-12-08 | HSG fe            | W   | 0.291      | -            | -                | -                | 1 (0.291) |           2.26 | Argent, gfi, Hazel, Olga, XiaoWu       |
+|           21 |       92 | 2024-04-19 | GUILD fe          | W   | 1.000      | 0.331        | 0.009 (0.003)    | 0.220 (0.073)    | 0 (0.000) |     7.17 | ANa, Kat, tory, twenty3, zAAz          |
+|           20 |      217 | 2024-04-16 | NAVI Javelins     | L   | 1.000      | -            | -                | -                | -         |   -18.32 | ANa, Kat, tory, twenty3, zAAz          |
+|           19 |      251 | 2024-04-14 | NIP Impact        | W   | 1.000      | 0.303        | 0.008 (0.002)    | 0.278 (0.084)    | 0 (0.000) |     9.00 | ANa, Kat, tory, twenty3, zAAz          |
+|           18 |      269 | 2024-04-13 | NAVI Javelins     | W   | 1.000      | 0.303        | 0.064 (0.019)    | 0.467 (0.141)    | 0 (0.000) |    12.54 | ANa, Kat, tory, twenty3, zAAz          |
+|           17 |      305 | 2024-04-11 | Astralis W        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.84 | ANa, Kat, tory, twenty3, zAAz          |
+|           16 |      352 | 2024-04-10 | Astralis W        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.08 | ANa, Kat, tory, twenty3, zAAz          |
+|           15 |      439 | 2024-04-08 | VP.Angels         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.91 | ANa, Kat, tory, twenty3, zAAz          |
+|           14 |      469 | 2024-04-07 | NIP Impact        | W   | 1.000      | 0.262        | 0.008 (0.002)    | 0.278 (0.073)    | -         |     9.91 | ANa, Kat, tory, twenty3, zAAz          |
+|           13 |      473 | 2024-04-07 | BIG EQUIPA        | W   | 1.000      | 0.262        | -                | 0.376 (0.098)    | -         |     9.69 | ANa, Kat, tory, twenty3, zAAz          |
+|           12 |      489 | 2024-04-06 | ENCE Athena       | W   | 1.000      | 0.262        | 0.007 (0.002)    | 0.162 (0.042)    | -         |     7.02 | ANa, Kat, tory, twenty3, zAAz          |
+|           11 |      710 | 2024-03-27 | ENCE Athena       | W   | 1.000      | 0.331        | 0.007 (0.002)    | 0.162 (0.054)    | -         |     7.91 | ANa, Kat, tory, twenty3, zAAz          |
+|           10 |      947 | 2024-03-14 | BIG EQUIPA        | W   | 0.940      | 0.331        | 0.007 (0.002)    | 0.376 (0.117)    | -         |    10.12 | ANa, Kat, tory, twenty3, zAAz          |
+|            9 |     1125 | 2024-03-07 | NIP Impact        | W   | 0.894      | 0.331        | 0.008 (0.002)    | 0.278 (0.082)    | -         |     8.77 | ANa, Kat, tory, twenty3, zAAz          |
+|            8 |     1356 | 2024-02-26 | 500               | L   | 0.825      | -            | -                | -                | -         |   -18.83 | ANa, Kat, tory, twenty3, zAAz          |
+|            7 |     1777 | 2024-02-05 | Sampi             | L   | 0.686      | -            | -                | -                | -         |    -8.46 | ANa, Kat, tory, twenty3, zAAz          |
+|            6 |     1936 | 2024-01-29 | ex-Sprout         | L   | 0.638      | -            | -                | -                | -         |   -16.74 | ANa, hyskeee, Kat, tory, twenty3       |
+|            5 |     2788 | 2023-12-10 | NAVI Javelins     | W   | 0.306      | 0.524        | 0.064 (0.010)    | 0.467 (0.075)    | 1 (0.306) |     4.27 | Angelka, Hanka, LETi, Liina, vicu      |
+|            4 |     2797 | 2023-12-10 | Fearless Cheetahs | W   | 0.304      | 0.524        | 0.033 (0.005)    | -                | 1 (0.304) |     3.40 | ANa, Kat, tory, twenty3, vilga         |
+|            3 |     2814 | 2023-12-09 | HSG fe            | W   | 0.300      | -            | -                | -                | 1 (0.300) |     2.40 | Argent, gfi, Hazel, Olga, XiaoWu       |
+|            2 |     2834 | 2023-12-08 | Fluxo Demons      | L   | 0.293      | -            | -                | -                | -         |    -5.98 | goddess, julih, nani, poppins, yungher |
+|            1 |     2844 | 2023-12-08 | HSG fe            | W   | 0.291      | -            | -                | -                | 1 (0.291) |     2.26 | Argent, gfi, Hazel, Olga, XiaoWu       |
 
 <br />
 <span id="table2"></span><br />

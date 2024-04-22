@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                   |
+| Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          12 |    1908 | 2024-01-31 | Rare Atom   | L   | 0.652      | -            | -                | -                | -         |         -10.88 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
-|          11 |    1913 | 2024-01-31 | ATOX        | L   | 0.651      | -            | -                | -                | -         |          -9.54 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
-|          10 |    1915 | 2024-01-31 | Lynn Vision | W   | 0.650      | 0.143        | 0.136 (0.013)    | 0.458 (0.043)    | 0 (0.000) |          18.74 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
-|           9 |    1949 | 2024-01-28 | TheMongolz  | L   | 0.631      | -            | -                | -                | -         |          -0.77 | cool4st, dobu, MiQ, xerolte, XigN      |
-|           8 |    1962 | 2024-01-27 | E9          | W   | 0.624      | 0.435        | 0.004 (0.001)    | 0.029 (0.008)    | 1 (0.624) |           7.74 | cool4st, dobu, MiQ, xerolte, XigN      |
-|           7 |    1982 | 2024-01-26 | Lynn Vision | L   | 0.618      | -            | -                | -                | -         |          -1.50 | cool4st, dobu, MiQ, xerolte, XigN      |
-|           6 |    1983 | 2024-01-26 | E9          | W   | 0.618      | 0.435        | 0.004 (0.001)    | 0.029 (0.008)    | 1 (0.618) |           7.86 | cool4st, dobu, MiQ, xerolte, XigN      |
-|           5 |    2138 | 2024-01-20 | The Huns    | L   | 0.578      | -            | -                | -                | -         |         -14.01 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
-|           4 |    2198 | 2024-01-19 | TheMongolz  | L   | 0.570      | -            | -                | -                | -         |          -0.65 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
-|           3 |    2375 | 2024-01-15 | Memo        | W   | 0.546      | 0.143        | 0.000 (0.000)    | 0.025 (0.002)    | 0 (0.000) |           2.13 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
-|           2 |    2382 | 2024-01-15 | Tseg Taslal | W   | 0.545      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           2.04 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
-|           1 |    2384 | 2024-01-15 | The Huns    | L   | 0.544      | -            | -                | -                | -         |         -13.38 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
+|           12 |     1908 | 2024-01-31 | Rare Atom   | L   | 0.652      | -            | -                | -                | -         |   -10.88 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
+|           11 |     1913 | 2024-01-31 | ATOX        | L   | 0.651      | -            | -                | -                | -         |    -9.54 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
+|           10 |     1915 | 2024-01-31 | Lynn Vision | W   | 0.650      | 0.143        | 0.136 (0.013)    | 0.458 (0.043)    | 0 (0.000) |    18.74 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
+|            9 |     1949 | 2024-01-28 | TheMongolz  | L   | 0.631      | -            | -                | -                | -         |    -0.77 | cool4st, dobu, MiQ, xerolte, XigN      |
+|            8 |     1962 | 2024-01-27 | E9          | W   | 0.624      | 0.435        | 0.004 (0.001)    | 0.029 (0.008)    | 1 (0.624) |     7.74 | cool4st, dobu, MiQ, xerolte, XigN      |
+|            7 |     1982 | 2024-01-26 | Lynn Vision | L   | 0.618      | -            | -                | -                | -         |    -1.50 | cool4st, dobu, MiQ, xerolte, XigN      |
+|            6 |     1983 | 2024-01-26 | E9          | W   | 0.618      | 0.435        | 0.004 (0.001)    | 0.029 (0.008)    | 1 (0.618) |     7.86 | cool4st, dobu, MiQ, xerolte, XigN      |
+|            5 |     2138 | 2024-01-20 | The Huns    | L   | 0.578      | -            | -                | -                | -         |   -14.01 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
+|            4 |     2198 | 2024-01-19 | TheMongolz  | L   | 0.570      | -            | -                | -                | -         |    -0.65 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
+|            3 |     2375 | 2024-01-15 | Memo        | W   | 0.546      | 0.143        | 0.000 (0.000)    | 0.025 (0.002)    | 0 (0.000) |     2.13 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
+|            2 |     2382 | 2024-01-15 | Tseg Taslal | W   | 0.545      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.04 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
+|            1 |     2384 | 2024-01-15 | The Huns    | L   | 0.544      | -            | -                | -                | -         |   -13.38 | cool4st, fr0k, icyvl0ne, xerolte, XigN |
 
 <br />
 <span id="table2"></span><br />

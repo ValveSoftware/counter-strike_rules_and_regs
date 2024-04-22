@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                       |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          13 |     139 | 2024-04-18 | brazylijski luz | L   | 1.000      | -            | -                | -                | -         |         -20.95 | alex, BluePho3nix, maxster, r1nkle, REZ    |
-|          12 |     283 | 2024-04-12 | OG              | L   | 1.000      | -            | -                | -                | -         |          -4.37 | alex, BluePho3nix, maxster, r1nkle, REZ    |
-|          11 |     309 | 2024-04-11 | BetBoom         | L   | 1.000      | -            | -                | -                | -         |          -6.92 | alex, BluePho3nix, maxster, r1nkle, REZ    |
-|          10 |     406 | 2024-04-09 | Gods Reign      | W   | 1.000      | 0.684        | 0.151 (0.104)    | 0.268 (0.184)    | 0 (0.000) |          15.12 | alex, BluePho3nix, maxster, r1nkle, REZ    |
-|           9 |     536 | 2024-04-04 | Aurora          | L   | 1.000      | -            | -                | -                | -         |          -4.25 | alex, BluePho3nix, maxster, r1nkle, REZ    |
-|           8 |     544 | 2024-04-04 | Metizport       | W   | 1.000      | 0.143        | 0.136 (0.019)    | 1.000 (0.143)    | 0 (0.000) |          18.70 | alex, BluePho3nix, maxster, r1nkle, REZ    |
-|           7 |     577 | 2024-04-03 | Aurora          | L   | 1.000      | -            | -                | -                | -         |          -4.04 | alex, BluePho3nix, maxster, r1nkle, REZ    |
-|           6 |     592 | 2024-04-03 | Sampi           | L   | 1.000      | -            | -                | -                | -         |         -17.48 | alex, BluePho3nix, maxster, r1nkle, REZ    |
-|           5 |     616 | 2024-04-02 | Blessed         | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.324 (0.046)    | 0 (0.000) |           8.27 | alex, BluePho3nix, maxster, r1nkle, REZ    |
-|           4 |     621 | 2024-04-02 | Monte           | W   | 1.000      | 0.143        | 0.236 (0.034)    | 0.598 (0.085)    | 0 (0.000) |          23.03 | alex, BluePho3nix, maxster, r1nkle, REZ    |
-|           3 |     711 | 2024-03-27 | 500             | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.622 (0.089)    | 0 (0.000) |           8.79 | alex, BluePho3nix, maxster, REZ, Silence   |
-|           2 |     717 | 2024-03-27 | Verdant         | W   | 1.000      | 0.143        | 0.021 (0.003)    | 0.074 (0.011)    | 0 (0.000) |           8.57 | alex, BluePho3nix, maxster, REZ, Silence   |
-|           1 |    1309 | 2024-02-28 | AMKAL           | W   | 0.839      | 0.500        | 0.051 (0.022)    | 0.703 (0.295)    | 0 (0.000) |          17.81 | BluePho3nix, maxster, MisteM, REZ, Silence |
+|           13 |      139 | 2024-04-18 | brazylijski luz | L   | 1.000      | -            | -                | -                | -         |   -20.95 | alex, BluePho3nix, maxster, r1nkle, REZ    |
+|           12 |      283 | 2024-04-12 | OG              | L   | 1.000      | -            | -                | -                | -         |    -4.37 | alex, BluePho3nix, maxster, r1nkle, REZ    |
+|           11 |      309 | 2024-04-11 | BetBoom         | L   | 1.000      | -            | -                | -                | -         |    -6.92 | alex, BluePho3nix, maxster, r1nkle, REZ    |
+|           10 |      406 | 2024-04-09 | Gods Reign      | W   | 1.000      | 0.684        | 0.151 (0.104)    | 0.268 (0.184)    | 0 (0.000) |    15.12 | alex, BluePho3nix, maxster, r1nkle, REZ    |
+|            9 |      536 | 2024-04-04 | Aurora          | L   | 1.000      | -            | -                | -                | -         |    -4.25 | alex, BluePho3nix, maxster, r1nkle, REZ    |
+|            8 |      544 | 2024-04-04 | Metizport       | W   | 1.000      | 0.143        | 0.136 (0.019)    | 1.000 (0.143)    | 0 (0.000) |    18.70 | alex, BluePho3nix, maxster, r1nkle, REZ    |
+|            7 |      577 | 2024-04-03 | Aurora          | L   | 1.000      | -            | -                | -                | -         |    -4.04 | alex, BluePho3nix, maxster, r1nkle, REZ    |
+|            6 |      592 | 2024-04-03 | Sampi           | L   | 1.000      | -            | -                | -                | -         |   -17.48 | alex, BluePho3nix, maxster, r1nkle, REZ    |
+|            5 |      616 | 2024-04-02 | Blessed         | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.324 (0.046)    | 0 (0.000) |     8.27 | alex, BluePho3nix, maxster, r1nkle, REZ    |
+|            4 |      621 | 2024-04-02 | Monte           | W   | 1.000      | 0.143        | 0.236 (0.034)    | 0.598 (0.085)    | 0 (0.000) |    23.03 | alex, BluePho3nix, maxster, r1nkle, REZ    |
+|            3 |      711 | 2024-03-27 | 500             | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.622 (0.089)    | 0 (0.000) |     8.79 | alex, BluePho3nix, maxster, REZ, Silence   |
+|            2 |      717 | 2024-03-27 | Verdant         | W   | 1.000      | 0.143        | 0.021 (0.003)    | 0.074 (0.011)    | 0 (0.000) |     8.57 | alex, BluePho3nix, maxster, REZ, Silence   |
+|            1 |     1309 | 2024-02-28 | AMKAL           | W   | 0.839      | 0.500        | 0.051 (0.022)    | 0.703 (0.295)    | 0 (0.000) |    17.81 | BluePho3nix, maxster, MisteM, REZ, Silence |
 
 <br />
 <span id="table2"></span><br />

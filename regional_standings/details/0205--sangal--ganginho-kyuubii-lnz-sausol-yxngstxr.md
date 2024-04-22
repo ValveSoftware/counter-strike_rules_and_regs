@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                     |
+| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          12 |    3135 | 2023-11-21 | B8            | W   | 0.180      | 0.500        | 0.001 (0.000)    | 0.081 (0.007)    | 0 (0.000) |           3.96 | Ganginho, kyuubii, LNZ, sausol, yxngstxr |
-|          11 |    3206 | 2023-11-18 | BetBoom       | L   | 0.159      | -            | -                | -                | -         |          -0.08 | Ganginho, kyuubii, LNZ, sausol, yxngstxr |
-|          10 |    3366 | 2023-11-12 | IKLA          | W   | 0.120      | 0.500        | 0.000 (0.000)    | 0.205 (0.012)    | 0 (0.000) |           2.29 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
-|           9 |    3372 | 2023-11-12 | Zero Tenacity | W   | 0.119      | 0.358        | 0.008 (0.000)    | 0.805 (0.034)    | 0 (0.000) |           3.15 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
-|           8 |    3547 | 2023-11-04 | ARCRED        | W   | 0.065      | 0.358        | 0.008 (0.000)    | 0.164 (0.004)    | 0 (0.000) |           1.53 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
-|           7 |    3585 | 2023-11-02 | Zero Tenacity | L   | 0.052      | -            | -                | -                | -         |          -0.26 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
-|           6 |    3628 | 2023-10-31 | Sprout        | L   | 0.040      | -            | -                | -                | -         |          -0.27 | kyuubii, LNZ, sausol, stikle-, yxngstxr  |
-|           5 |    3702 | 2023-10-29 | UNiTY         | W   | 0.027      | 0.143        | 0.047 (0.000)    | 0.261 (0.001)    | 0 (0.000) |           0.74 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
-|           4 |    3713 | 2023-10-29 | PARIVISION    | W   | 0.026      | 0.143        | 0.002 (0.000)    | 0.004 (0.000)    | 0 (0.000) |           0.58 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
-|           3 |    3759 | 2023-10-28 | Zero Tenacity | L   | 0.018      | -            | -                | -                | -         |          -0.09 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
-|           2 |    3800 | 2023-10-27 | Preasy        | L   | 0.011      | -            | -                | -                | -         |          -0.02 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
-|           1 |    3824 | 2023-10-26 | UNiTY         | W   | 0.005      | 0.143        | 0.047 (0.000)    | 0.261 (0.000)    | 0 (0.000) |           0.14 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
+|           12 |     3135 | 2023-11-21 | B8            | W   | 0.180      | 0.500        | 0.001 (0.000)    | 0.081 (0.007)    | 0 (0.000) |     3.96 | Ganginho, kyuubii, LNZ, sausol, yxngstxr |
+|           11 |     3206 | 2023-11-18 | BetBoom       | L   | 0.159      | -            | -                | -                | -         |    -0.08 | Ganginho, kyuubii, LNZ, sausol, yxngstxr |
+|           10 |     3366 | 2023-11-12 | IKLA          | W   | 0.120      | 0.500        | 0.000 (0.000)    | 0.205 (0.012)    | 0 (0.000) |     2.29 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
+|            9 |     3372 | 2023-11-12 | Zero Tenacity | W   | 0.119      | 0.358        | 0.008 (0.000)    | 0.805 (0.034)    | 0 (0.000) |     3.15 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
+|            8 |     3547 | 2023-11-04 | ARCRED        | W   | 0.065      | 0.358        | 0.008 (0.000)    | 0.164 (0.004)    | 0 (0.000) |     1.53 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
+|            7 |     3585 | 2023-11-02 | Zero Tenacity | L   | 0.052      | -            | -                | -                | -         |    -0.26 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
+|            6 |     3628 | 2023-10-31 | Sprout        | L   | 0.040      | -            | -                | -                | -         |    -0.27 | kyuubii, LNZ, sausol, stikle-, yxngstxr  |
+|            5 |     3702 | 2023-10-29 | UNiTY         | W   | 0.027      | 0.143        | 0.047 (0.000)    | 0.261 (0.001)    | 0 (0.000) |     0.74 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
+|            4 |     3713 | 2023-10-29 | PARIVISION    | W   | 0.026      | 0.143        | 0.002 (0.000)    | 0.004 (0.000)    | 0 (0.000) |     0.58 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
+|            3 |     3759 | 2023-10-28 | Zero Tenacity | L   | 0.018      | -            | -                | -                | -         |    -0.09 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
+|            2 |     3800 | 2023-10-27 | Preasy        | L   | 0.011      | -            | -                | -                | -         |    -0.02 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
+|            1 |     3824 | 2023-10-26 | UNiTY         | W   | 0.005      | 0.143        | 0.047 (0.000)    | 0.261 (0.000)    | 0 (0.000) |     0.14 | kyuubii, LNZ, PANIX, sausol, yxngstxr    |
 
 <br />
 <span id="table2"></span><br />

@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                   |
+| Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          10 |    2086 | 2024-01-21 | MAG          | W   | 0.586      | 0.143        | 0.000 (0.000)    | 0.237 (0.020)    | 0 (0.000) |           9.89 | aRon, arun, imyGDx, Northwest, nursSSS |
-|           9 |    2090 | 2024-01-21 | Gods Reign   | W   | 0.585      | 0.143        | 0.010 (0.001)    | 0.180 (0.015)    | 0 (0.000) |          14.03 | aRon, arun, imyGDx, Northwest, nursSSS |
-|           8 |    2097 | 2024-01-21 | Dewa United  | W   | 0.584      | 0.143        | 0.000 (0.000)    | 0.105 (0.009)    | 0 (0.000) |           7.58 | aRon, arun, imyGDx, Northwest, nursSSS |
-|           7 |    2128 | 2024-01-20 | SR Nacague   | W   | 0.579      | 0.143        | 0.000 (0.000)    | 0.078 (0.006)    | 0 (0.000) |           7.23 | aRon, arun, imyGDx, Northwest, nursSSS |
-|           6 |    2142 | 2024-01-20 | Drippy Lab   | W   | 0.577      | 0.143        | 0.000 (0.000)    | 0.052 (0.004)    | 0 (0.000) |           7.06 | aRon, arun, imyGDx, Northwest, nursSSS |
-|           5 |    2197 | 2024-01-19 | Dewa United  | L   | 0.571      | -            | -                | -                | -         |         -10.54 | aRon, arun, imyGDx, Northwest, nursSSS |
-|           4 |    2290 | 2024-01-17 | 2ez          | L   | 0.559      | -            | -                | -                | -         |         -10.85 | aRon, arun, imyGDx, Northwest, nursSSS |
-|           3 |    2293 | 2024-01-17 | Drippy Lab   | W   | 0.559      | 0.143        | 0.000 (0.000)    | 0.052 (0.004)    | 0 (0.000) |           6.60 | aRon, arun, imyGDx, Northwest, nursSSS |
-|           2 |    2296 | 2024-01-17 | SR Nacague   | L   | 0.558      | -            | -                | -                | -         |         -10.94 | aRon, arun, imyGDx, Northwest, nursSSS |
-|           1 |    2300 | 2024-01-17 | Mai Mee Tang | W   | 0.558      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           6.35 | aRon, arun, imyGDx, Northwest, nursSSS |
+|           10 |     2086 | 2024-01-21 | MAG          | W   | 0.586      | 0.143        | 0.000 (0.000)    | 0.237 (0.020)    | 0 (0.000) |     9.89 | aRon, arun, imyGDx, Northwest, nursSSS |
+|            9 |     2090 | 2024-01-21 | Gods Reign   | W   | 0.585      | 0.143        | 0.010 (0.001)    | 0.180 (0.015)    | 0 (0.000) |    14.03 | aRon, arun, imyGDx, Northwest, nursSSS |
+|            8 |     2097 | 2024-01-21 | Dewa United  | W   | 0.584      | 0.143        | 0.000 (0.000)    | 0.105 (0.009)    | 0 (0.000) |     7.58 | aRon, arun, imyGDx, Northwest, nursSSS |
+|            7 |     2128 | 2024-01-20 | SR Nacague   | W   | 0.579      | 0.143        | 0.000 (0.000)    | 0.078 (0.006)    | 0 (0.000) |     7.23 | aRon, arun, imyGDx, Northwest, nursSSS |
+|            6 |     2142 | 2024-01-20 | Drippy Lab   | W   | 0.577      | 0.143        | 0.000 (0.000)    | 0.052 (0.004)    | 0 (0.000) |     7.06 | aRon, arun, imyGDx, Northwest, nursSSS |
+|            5 |     2197 | 2024-01-19 | Dewa United  | L   | 0.571      | -            | -                | -                | -         |   -10.54 | aRon, arun, imyGDx, Northwest, nursSSS |
+|            4 |     2290 | 2024-01-17 | 2ez          | L   | 0.559      | -            | -                | -                | -         |   -10.85 | aRon, arun, imyGDx, Northwest, nursSSS |
+|            3 |     2293 | 2024-01-17 | Drippy Lab   | W   | 0.559      | 0.143        | 0.000 (0.000)    | 0.052 (0.004)    | 0 (0.000) |     6.60 | aRon, arun, imyGDx, Northwest, nursSSS |
+|            2 |     2296 | 2024-01-17 | SR Nacague   | L   | 0.558      | -            | -                | -                | -         |   -10.94 | aRon, arun, imyGDx, Northwest, nursSSS |
+|            1 |     2300 | 2024-01-17 | Mai Mee Tang | W   | 0.558      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.35 | aRon, arun, imyGDx, Northwest, nursSSS |
 
 <br />
 <span id="table2"></span><br />

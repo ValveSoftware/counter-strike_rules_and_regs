@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                        |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          12 |    2998 | 2023-12-01 | DXA                | W   | 0.244      | 0.143        | 0.009 (0.000)    | 0.277 (0.010)    | 0 (0.000) |           5.01 | gump, Kobe, KRAXYT, N1ghtraid, Omichella    |
-|          11 |    3159 | 2023-11-20 | Bad News Kangaroos | L   | 0.171      | -            | -                | -                | -         |          -0.79 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
-|          10 |    3336 | 2023-11-14 | DXA                | W   | 0.131      | 0.301        | 0.009 (0.000)    | 0.277 (0.011)    | 0 (0.000) |           2.72 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
-|           9 |    3386 | 2023-11-12 | KZG                | L   | 0.117      | -            | -                | -                | -         |          -2.53 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
-|           8 |    3416 | 2023-11-10 | sunday school      | L   | 0.110      | -            | -                | -                | -         |          -1.85 | Kobe, KRAXYT, Lexon, Mingovi, Omichella     |
-|           7 |    3508 | 2023-11-06 | Mindfreak          | W   | 0.077      | 0.301        | 0.000 (0.000)    | 0.273 (0.006)    | 0 (0.000) |           1.25 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
-|           6 |    3553 | 2023-11-04 | Bad News Kangaroos | L   | 0.064      | -            | -                | -                | -         |          -0.28 | Kobe, KRAXYT, Lexon, Mingovi, Omichella     |
-|           5 |    3554 | 2023-11-03 | Stirlzs Angels     | W   | 0.063      | 0.312        | 0.000 (0.000)    | 0.012 (0.000)    | 0 (0.000) |           0.88 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
-|           4 |    3570 | 2023-11-03 | Mindfreak          | W   | 0.057      | 0.312        | 0.000 (0.000)    | 0.273 (0.005)    | 0 (0.000) |           0.93 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
-|           3 |    3650 | 2023-10-31 | MANTRA             | W   | 0.038      | 0.301        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           0.28 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
-|           2 |    3733 | 2023-10-28 | Rooster            | L   | 0.023      | -            | -                | -                | -         |          -0.23 | Kobe, KRAXYT, Lexon, N1ghtraid, Omichella   |
-|           1 |    3773 | 2023-10-28 | Antic              | W   | 0.017      | 0.312        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           0.12 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
+|           12 |     2998 | 2023-12-01 | DXA                | W   | 0.244      | 0.143        | 0.009 (0.000)    | 0.277 (0.010)    | 0 (0.000) |     5.01 | gump, Kobe, KRAXYT, N1ghtraid, Omichella    |
+|           11 |     3159 | 2023-11-20 | Bad News Kangaroos | L   | 0.171      | -            | -                | -                | -         |    -0.79 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
+|           10 |     3336 | 2023-11-14 | DXA                | W   | 0.131      | 0.301        | 0.009 (0.000)    | 0.277 (0.011)    | 0 (0.000) |     2.72 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
+|            9 |     3386 | 2023-11-12 | KZG                | L   | 0.117      | -            | -                | -                | -         |    -2.53 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
+|            8 |     3416 | 2023-11-10 | sunday school      | L   | 0.110      | -            | -                | -                | -         |    -1.85 | Kobe, KRAXYT, Lexon, Mingovi, Omichella     |
+|            7 |     3508 | 2023-11-06 | Mindfreak          | W   | 0.077      | 0.301        | 0.000 (0.000)    | 0.273 (0.006)    | 0 (0.000) |     1.25 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
+|            6 |     3553 | 2023-11-04 | Bad News Kangaroos | L   | 0.064      | -            | -                | -                | -         |    -0.28 | Kobe, KRAXYT, Lexon, Mingovi, Omichella     |
+|            5 |     3554 | 2023-11-03 | Stirlzs Angels     | W   | 0.063      | 0.312        | 0.000 (0.000)    | 0.012 (0.000)    | 0 (0.000) |     0.88 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
+|            4 |     3570 | 2023-11-03 | Mindfreak          | W   | 0.057      | 0.312        | 0.000 (0.000)    | 0.273 (0.005)    | 0 (0.000) |     0.93 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
+|            3 |     3650 | 2023-10-31 | MANTRA             | W   | 0.038      | 0.301        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.28 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
+|            2 |     3733 | 2023-10-28 | Rooster            | L   | 0.023      | -            | -                | -                | -         |    -0.23 | Kobe, KRAXYT, Lexon, N1ghtraid, Omichella   |
+|            1 |     3773 | 2023-10-28 | Antic              | W   | 0.017      | 0.312        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.12 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
 
 <br />
 <span id="table2"></span><br />

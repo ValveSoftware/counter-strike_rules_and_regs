@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster              |
+| Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          10 |    3183 | 2023-11-18 | Limitless      | L   | 0.162      | -            | -                | -                | -         |          -2.19 | Andrew, DJF, nooz, PNDLM, shutout |
-|           9 |    3357 | 2023-11-12 | NRG            | L   | 0.122      | -            | -                | -                | -         |          -1.11 | Andrew, DJF, nooz, PNDLM, shutout |
-|           8 |    3392 | 2023-11-11 | Elevate        | L   | 0.115      | -            | -                | -                | -         |          -0.76 | Andrew, DJF, nooz, PNDLM, shutout |
-|           7 |    3429 | 2023-11-09 | Rocket         | W   | 0.102      | 0.500        | 0.002 (0.000)    | 0.276 (0.014)    | 0 (0.000) |           1.82 | Andrew, DJF, nooz, PNDLM, shutout |
-|           6 |    3448 | 2023-11-08 | BOSS           | L   | 0.095      | -            | -                | -                | -         |          -0.57 | Andrew, DJF, nooz, PNDLM, shutout |
-|           5 |    3451 | 2023-11-08 | Carpe Diem     | L   | 0.095      | -            | -                | -                | -         |          -0.96 | Andrew, DJF, nooz, PNDLM, shutout |
-|           4 |    3474 | 2023-11-07 | Bad News Bears | L   | 0.088      | -            | -                | -                | -         |          -1.43 | Andrew, DJF, nooz, PNDLM, shutout |
-|           3 |    3495 | 2023-11-06 | FLUFFY AIMERS  | W   | 0.082      | 0.500        | 0.005 (0.000)    | 0.028 (0.001)    | 0 (0.000) |           1.40 | Andrew, DJF, nooz, PNDLM, shutout |
-|           2 |    3591 | 2023-11-01 | Kari           | W   | 0.048      | 0.500        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           0.55 | Andrew, DJF, nooz, PNDLM, shutout |
-|           1 |    3804 | 2023-10-26 | Mythic         | L   | 0.008      | -            | -                | -                | -         |          -0.08 | Andrew, DJF, nooz, PNDLM, shutout |
+|           10 |     3183 | 2023-11-18 | Limitless      | L   | 0.162      | -            | -                | -                | -         |    -2.19 | Andrew, DJF, nooz, PNDLM, shutout |
+|            9 |     3357 | 2023-11-12 | NRG            | L   | 0.122      | -            | -                | -                | -         |    -1.11 | Andrew, DJF, nooz, PNDLM, shutout |
+|            8 |     3392 | 2023-11-11 | Elevate        | L   | 0.115      | -            | -                | -                | -         |    -0.76 | Andrew, DJF, nooz, PNDLM, shutout |
+|            7 |     3429 | 2023-11-09 | Rocket         | W   | 0.102      | 0.500        | 0.002 (0.000)    | 0.276 (0.014)    | 0 (0.000) |     1.82 | Andrew, DJF, nooz, PNDLM, shutout |
+|            6 |     3448 | 2023-11-08 | BOSS           | L   | 0.095      | -            | -                | -                | -         |    -0.57 | Andrew, DJF, nooz, PNDLM, shutout |
+|            5 |     3451 | 2023-11-08 | Carpe Diem     | L   | 0.095      | -            | -                | -                | -         |    -0.96 | Andrew, DJF, nooz, PNDLM, shutout |
+|            4 |     3474 | 2023-11-07 | Bad News Bears | L   | 0.088      | -            | -                | -                | -         |    -1.43 | Andrew, DJF, nooz, PNDLM, shutout |
+|            3 |     3495 | 2023-11-06 | FLUFFY AIMERS  | W   | 0.082      | 0.500        | 0.005 (0.000)    | 0.028 (0.001)    | 0 (0.000) |     1.40 | Andrew, DJF, nooz, PNDLM, shutout |
+|            2 |     3591 | 2023-11-01 | Kari           | W   | 0.048      | 0.500        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.55 | Andrew, DJF, nooz, PNDLM, shutout |
+|            1 |     3804 | 2023-10-26 | Mythic         | L   | 0.008      | -            | -                | -                | -         |    -0.08 | Andrew, DJF, nooz, PNDLM, shutout |
 
 <br />
 <span id="table2"></span><br />

@@ -34,27 +34,27 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                       |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          19 |     344 | 2024-04-10 | brazylijski luz | L   | 1.000      | -            | -                | -                | -         |         -13.30 | alex666, El1an, lollipop21k, MaSvAl, nifee |
-|          18 |     403 | 2024-04-09 | TSM             | L   | 1.000      | -            | -                | -                | -         |         -14.91 | alex666, El1an, lollipop21k, MaSvAl, nifee |
-|          17 |     539 | 2024-04-04 | SAW             | L   | 1.000      | -            | -                | -                | -         |          -1.60 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|          16 |     575 | 2024-04-03 | System5         | W   | 1.000      | 0.500        | 0.000 (0.000)    | 0.085 (0.042)    | 0 (0.000) |           6.59 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|          15 |     677 | 2024-03-28 | Monte           | W   | 1.000      | 0.500        | 0.236 (0.118)    | 0.598 (0.299)    | 0 (0.000) |          28.77 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|          14 |     915 | 2024-03-15 | PERA            | W   | 0.947      | 0.500        | 0.025 (0.012)    | 0.424 (0.201)    | 0 (0.000) |          18.51 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|          13 |     978 | 2024-03-13 | RUSH B          | L   | 0.934      | -            | -                | -                | -         |         -13.73 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|          12 |    1202 | 2024-03-05 | Insilio         | L   | 0.879      | -            | -                | -                | -         |         -12.25 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|          11 |    2434 | 2024-01-13 | ex-sYnck        | L   | 0.533      | -            | -                | -                | -         |          -8.26 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|          10 |    2442 | 2024-01-13 | esmagaB         | W   | 0.532      | 0.143        | 0.015 (0.001)    | 0.342 (0.026)    | 0 (0.000) |           8.79 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|           9 |    2481 | 2024-01-12 | PGE Turow       | W   | 0.527      | 0.143        | 0.014 (0.001)    | 0.108 (0.008)    | 0 (0.000) |           7.41 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|           8 |    2529 | 2024-01-11 | ex-Anonymo      | L   | 0.519      | -            | -                | -                | -         |          -7.66 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|           7 |    2532 | 2024-01-11 | Alliance        | W   | 0.519      | 0.143        | 0.020 (0.001)    | 0.855 (0.063)    | 0 (0.000) |          11.39 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|           6 |    2543 | 2024-01-10 | supresse        | W   | 0.514      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |           2.10 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|           5 |    2604 | 2024-01-09 | KOI             | L   | 0.506      | -            | -                | -                | -         |          -2.59 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|           4 |    3399 | 2023-11-11 | KOI             | L   | 0.114      | -            | -                | -                | -         |          -0.57 | Ganginho, lollipop21k, MaSvAl, nifee, sad  |
-|           3 |    3454 | 2023-11-08 | EYEBALLERS      | L   | 0.094      | -            | -                | -                | -         |          -0.91 | Ganginho, lollipop21k, MaSvAl, nifee, sad  |
-|           2 |    3480 | 2023-11-07 | PARIVISION      | W   | 0.087      | 0.500        | 0.002 (0.000)    | 0.004 (0.000)    | 0 (0.000) |           1.09 | Ganginho, lollipop21k, MaSvAl, nifee, sad  |
-|           1 |    3605 | 2023-11-01 | ORKS            | W   | 0.047      | 0.500        | 0.000 (0.000)    | 0.016 (0.000)    | 0 (0.000) |           0.28 | Ganginho, lollipop21k, MaSvAl, nifee, sad  |
+|           19 |      344 | 2024-04-10 | brazylijski luz | L   | 1.000      | -            | -                | -                | -         |   -13.30 | alex666, El1an, lollipop21k, MaSvAl, nifee |
+|           18 |      403 | 2024-04-09 | TSM             | L   | 1.000      | -            | -                | -                | -         |   -14.91 | alex666, El1an, lollipop21k, MaSvAl, nifee |
+|           17 |      539 | 2024-04-04 | SAW             | L   | 1.000      | -            | -                | -                | -         |    -1.60 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|           16 |      575 | 2024-04-03 | System5         | W   | 1.000      | 0.500        | 0.000 (0.000)    | 0.085 (0.042)    | 0 (0.000) |     6.59 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|           15 |      677 | 2024-03-28 | Monte           | W   | 1.000      | 0.500        | 0.236 (0.118)    | 0.598 (0.299)    | 0 (0.000) |    28.77 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|           14 |      915 | 2024-03-15 | PERA            | W   | 0.947      | 0.500        | 0.025 (0.012)    | 0.424 (0.201)    | 0 (0.000) |    18.51 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|           13 |      978 | 2024-03-13 | RUSH B          | L   | 0.934      | -            | -                | -                | -         |   -13.73 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|           12 |     1202 | 2024-03-05 | Insilio         | L   | 0.879      | -            | -                | -                | -         |   -12.25 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|           11 |     2434 | 2024-01-13 | ex-sYnck        | L   | 0.533      | -            | -                | -                | -         |    -8.26 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|           10 |     2442 | 2024-01-13 | esmagaB         | W   | 0.532      | 0.143        | 0.015 (0.001)    | 0.342 (0.026)    | 0 (0.000) |     8.79 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            9 |     2481 | 2024-01-12 | PGE Turow       | W   | 0.527      | 0.143        | 0.014 (0.001)    | 0.108 (0.008)    | 0 (0.000) |     7.41 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            8 |     2529 | 2024-01-11 | ex-Anonymo      | L   | 0.519      | -            | -                | -                | -         |    -7.66 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            7 |     2532 | 2024-01-11 | Alliance        | W   | 0.519      | 0.143        | 0.020 (0.001)    | 0.855 (0.063)    | 0 (0.000) |    11.39 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            6 |     2543 | 2024-01-10 | supresse        | W   | 0.514      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.10 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            5 |     2604 | 2024-01-09 | KOI             | L   | 0.506      | -            | -                | -                | -         |    -2.59 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            4 |     3399 | 2023-11-11 | KOI             | L   | 0.114      | -            | -                | -                | -         |    -0.57 | Ganginho, lollipop21k, MaSvAl, nifee, sad  |
+|            3 |     3454 | 2023-11-08 | EYEBALLERS      | L   | 0.094      | -            | -                | -                | -         |    -0.91 | Ganginho, lollipop21k, MaSvAl, nifee, sad  |
+|            2 |     3480 | 2023-11-07 | PARIVISION      | W   | 0.087      | 0.500        | 0.002 (0.000)    | 0.004 (0.000)    | 0 (0.000) |     1.09 | Ganginho, lollipop21k, MaSvAl, nifee, sad  |
+|            1 |     3605 | 2023-11-01 | ORKS            | W   | 0.047      | 0.500        | 0.000 (0.000)    | 0.016 (0.000)    | 0 (0.000) |     0.28 | Ganginho, lollipop21k, MaSvAl, nifee, sad  |
 
 <br />
 <span id="table2"></span><br />

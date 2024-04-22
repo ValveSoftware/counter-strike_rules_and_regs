@@ -34,61 +34,61 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| MatchPlayed | MatchID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adjustment | Participating Roster                   |
+| Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          53 |      68 | 2024-04-19 | Liquid           | W   | 1.000      | 0.143        | 0.111 (0.016)    | 0.728 (0.104)    | 0 (0.000) |          26.57 | malbsMd, reck, s1n, slaxz-, Swisher    |
-|          52 |      75 | 2024-04-19 | Legacy           | W   | 1.000      | 0.143        | 0.055 (0.008)    | 0.501 (0.072)    | 0 (0.000) |          22.73 | malbsMd, reck, s1n, slaxz-, Swisher    |
-|          51 |     118 | 2024-04-18 | Liquid           | L   | 1.000      | -            | -                | -                | -         |          -3.99 | malbsMd, reck, s1n, slaxz-, Swisher    |
-|          50 |     123 | 2024-04-18 | Elevate          | W   | 1.000      | 0.143        | 0.038 (0.005)    | -                | 0 (0.000) |          14.84 | malbsMd, reck, s1n, slaxz-, Swisher    |
-|          49 |     693 | 2024-03-27 | Take Flyte       | W   | 1.000      | 0.477        | -                | 0.318 (0.152)    | 0 (0.000) |           7.22 | malbsMd, reck, s1n, stamina, Swisher   |
-|          48 |     698 | 2024-03-27 | Take Flyte       | W   | 1.000      | 0.477        | -                | 0.318 (0.152)    | 0 (0.000) |           7.69 | malbsMd, reck, s1n, stamina, Swisher   |
-|          47 |     836 | 2024-03-19 | Mythic           | L   | 0.976      | -            | -                | -                | -         |         -20.46 | dephh, malbsMd, reck, stamina, Swisher |
-|          46 |     839 | 2024-03-19 | Mythic           | L   | 0.975      | -            | -                | -                | -         |         -22.02 | dephh, malbsMd, reck, stamina, Swisher |
-|          45 |     927 | 2024-03-14 | Nouns            | L   | 0.942      | -            | -                | -                | -         |         -21.31 | dephh, malbsMd, reck, stamina, Swisher |
-|          44 |     930 | 2024-03-14 | Nouns            | L   | 0.942      | -            | -                | -                | -         |         -22.71 | dephh, malbsMd, reck, stamina, Swisher |
-|          43 |     959 | 2024-03-13 | Wildcard         | L   | 0.936      | -            | -                | -                | -         |         -20.20 | dephh, malbsMd, reck, slaxz-, Swisher  |
-|          42 |     961 | 2024-03-13 | Wildcard         | W   | 0.935      | 0.477        | 0.021 (0.009)    | 0.503 (0.225)    | 0 (0.000) |           8.95 | dephh, malbsMd, reck, slaxz-, Swisher  |
-|          41 |    1214 | 2024-03-04 | Legacy           | L   | 0.874      | -            | -                | -                | -         |         -10.65 | dephh, malbsMd, reck, slaxz-, Swisher  |
-|          40 |    1240 | 2024-03-03 | Wildcard         | W   | 0.866      | 0.143        | -                | 0.503 (0.062)    | 1 (0.866) |           9.22 | dephh, malbsMd, reck, slaxz-, Swisher  |
-|          39 |    1265 | 2024-03-02 | Imperial         | L   | 0.859      | -            | -                | -                | -         |          -0.92 | dephh, malbsMd, reck, slaxz-, Swisher  |
-|          38 |    1284 | 2024-03-01 | ODDIK            | W   | 0.854      | 0.143        | -                | 0.552 (0.067)    | 1 (0.854) |          10.04 | dephh, malbsMd, reck, slaxz-, Swisher  |
-|          37 |    1846 | 2024-02-02 | Rebels           | L   | 0.667      | -            | -                | -                | -         |         -13.31 | dephh, malbsMd, reck, slaxz-, Swisher  |
-|          36 |    1882 | 2024-02-01 | Rooster          | W   | 0.659      | -            | -                | -                | 1 (0.659) |           4.19 | dephh, malbsMd, reck, slaxz-, Swisher  |
-|          35 |    1901 | 2024-01-31 | GamerLegion      | L   | 0.653      | -            | -                | -                | -         |          -2.80 | dephh, malbsMd, reck, slaxz-, Swisher  |
-|          34 |    2103 | 2024-01-20 | Liquid           | W   | 0.583      | 0.143        | 0.111 (0.009)    | -                | 0 (0.000) |          14.34 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          33 |    2108 | 2024-01-20 | Wildcard         | W   | 0.582      | -            | -                | -                | -         |           6.60 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          32 |    2151 | 2024-01-19 | BOSS             | W   | 0.576      | -            | -                | -                | -         |           6.51 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          31 |    2157 | 2024-01-19 | Wildcard         | L   | 0.575      | -            | -                | -                | -         |         -11.68 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          30 |    2396 | 2024-01-14 | Nouns            | W   | 0.542      | -            | -                | -                | -         |           2.74 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          29 |    2414 | 2024-01-13 | Wildcard         | L   | 0.536      | -            | -                | -                | -         |         -11.83 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          28 |    2462 | 2024-01-12 | Liquid           | W   | 0.529      | 0.143        | 0.111 (0.008)    | -                | -         |          13.13 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          27 |    2470 | 2024-01-12 | Rocket           | W   | 0.529      | -            | -                | -                | -         |           2.60 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          26 |    2716 | 2023-12-16 | BESTIA           | L   | 0.346      | -            | -                | -                | -         |          -9.14 | dephh, malbsMd, reck, slaxz-, Swisher  |
-|          25 |    2744 | 2023-12-15 | Virtus.pro       | L   | 0.339      | -            | -                | -                | -         |          -0.28 | dephh, malbsMd, reck, slaxz-, Swisher  |
-|          24 |    2755 | 2023-12-13 | Nouns            | W   | 0.329      | -            | -                | -                | -         |           2.08 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          23 |    2764 | 2023-12-12 | BOSS             | W   | 0.322      | 0.303        | 0.034 (0.003)    | -                | -         |           3.57 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          22 |    2773 | 2023-12-11 | Torqued          | W   | 0.316      | -            | -                | -                | -         |           0.35 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          21 |    2783 | 2023-12-10 | BOSS             | W   | 0.309      | 0.500        | 0.034 (0.005)    | 0.530 (0.082)    | -         |           3.46 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          20 |    2849 | 2023-12-07 | BOSS             | W   | 0.289      | 0.500        | 0.034 (0.005)    | 0.530 (0.076)    | -         |           3.32 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          19 |    2875 | 2023-12-06 | Party Astronauts | W   | 0.282      | 0.500        | -                | 0.554 (0.078)    | -         |           2.50 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          18 |    2940 | 2023-12-03 | Take Flyte       | W   | 0.262      | -            | -                | -                | -         |           1.63 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          17 |    2942 | 2023-12-03 | NRG              | W   | 0.262      | -            | -                | -                | -         |           2.17 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          16 |    2961 | 2023-12-02 | Wildcard         | W   | 0.255      | -            | -                | -                | -         |           2.66 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          15 |    3119 | 2023-11-22 | Rocket           | W   | 0.188      | -            | -                | -                | -         |           0.91 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          14 |    3162 | 2023-11-19 | BOSS             | W   | 0.169      | 0.500        | 0.034 (0.003)    | -                | -         |           2.03 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          13 |    3216 | 2023-11-17 | NRG              | W   | 0.155      | -            | -                | -                | -         |           1.32 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          12 |    3247 | 2023-11-16 | NRG              | W   | 0.149      | -            | -                | -                | -         |           1.28 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          11 |    3249 | 2023-11-16 | Party Astronauts | W   | 0.148      | -            | -                | -                | -         |           1.36 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|          10 |    3286 | 2023-11-15 | Wildcard         | W   | 0.142      | -            | -                | -                | -         |           1.54 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|           9 |    3289 | 2023-11-15 | Party Astronauts | L   | 0.141      | -            | -                | -                | -         |          -3.16 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|           8 |    3319 | 2023-11-14 | MIGHT            | W   | 0.135      | -            | -                | -                | -         |           0.85 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|           7 |    3323 | 2023-11-14 | 5Fyctimz         | W   | 0.134      | -            | -                | -                | -         |           0.17 | malbsMd, maNkz, reck, slaxz-, Swisher  |
-|           6 |    3391 | 2023-11-11 | FLUFFY AIMERS    | W   | 0.116      | -            | -                | -                | -         |           0.55 | malbsMd, maNkz, reck, Swisher, WolfY   |
-|           5 |    3393 | 2023-11-11 | Take Flyte       | W   | 0.115      | -            | -                | -                | -         |           0.77 | malbsMd, maNkz, reck, Swisher, WolfY   |
-|           4 |    3419 | 2023-11-10 | Elevate          | W   | 0.109      | -            | -                | -                | -         |           1.25 | malbsMd, maNkz, reck, Swisher, WolfY   |
-|           3 |    3446 | 2023-11-08 | Party Astronauts | W   | 0.095      | -            | -                | -                | -         |           0.52 | malbsMd, maNkz, reck, Swisher, WolfY   |
-|           2 |    3679 | 2023-10-30 | Complexity       | L   | 0.032      | -            | -                | -                | -         |          -0.08 | malbsMd, maNkz, reck, Swisher, WolfY   |
-|           1 |    3711 | 2023-10-29 | MOUZ             | L   | 0.026      | -            | -                | -                | -         |          -0.01 | malbsMd, maNkz, reck, Swisher, WolfY   |
+|           53 |       68 | 2024-04-19 | Liquid           | W   | 1.000      | 0.143        | 0.111 (0.016)    | 0.728 (0.104)    | 0 (0.000) |    26.57 | malbsMd, reck, s1n, slaxz-, Swisher    |
+|           52 |       75 | 2024-04-19 | Legacy           | W   | 1.000      | 0.143        | 0.055 (0.008)    | 0.501 (0.072)    | 0 (0.000) |    22.73 | malbsMd, reck, s1n, slaxz-, Swisher    |
+|           51 |      118 | 2024-04-18 | Liquid           | L   | 1.000      | -            | -                | -                | -         |    -3.99 | malbsMd, reck, s1n, slaxz-, Swisher    |
+|           50 |      123 | 2024-04-18 | Elevate          | W   | 1.000      | 0.143        | 0.038 (0.005)    | -                | 0 (0.000) |    14.84 | malbsMd, reck, s1n, slaxz-, Swisher    |
+|           49 |      693 | 2024-03-27 | Take Flyte       | W   | 1.000      | 0.477        | -                | 0.318 (0.152)    | 0 (0.000) |     7.22 | malbsMd, reck, s1n, stamina, Swisher   |
+|           48 |      698 | 2024-03-27 | Take Flyte       | W   | 1.000      | 0.477        | -                | 0.318 (0.152)    | 0 (0.000) |     7.69 | malbsMd, reck, s1n, stamina, Swisher   |
+|           47 |      836 | 2024-03-19 | Mythic           | L   | 0.976      | -            | -                | -                | -         |   -20.46 | dephh, malbsMd, reck, stamina, Swisher |
+|           46 |      839 | 2024-03-19 | Mythic           | L   | 0.975      | -            | -                | -                | -         |   -22.02 | dephh, malbsMd, reck, stamina, Swisher |
+|           45 |      927 | 2024-03-14 | Nouns            | L   | 0.942      | -            | -                | -                | -         |   -21.31 | dephh, malbsMd, reck, stamina, Swisher |
+|           44 |      930 | 2024-03-14 | Nouns            | L   | 0.942      | -            | -                | -                | -         |   -22.71 | dephh, malbsMd, reck, stamina, Swisher |
+|           43 |      959 | 2024-03-13 | Wildcard         | L   | 0.936      | -            | -                | -                | -         |   -20.20 | dephh, malbsMd, reck, slaxz-, Swisher  |
+|           42 |      961 | 2024-03-13 | Wildcard         | W   | 0.935      | 0.477        | 0.021 (0.009)    | 0.503 (0.225)    | 0 (0.000) |     8.95 | dephh, malbsMd, reck, slaxz-, Swisher  |
+|           41 |     1214 | 2024-03-04 | Legacy           | L   | 0.874      | -            | -                | -                | -         |   -10.65 | dephh, malbsMd, reck, slaxz-, Swisher  |
+|           40 |     1240 | 2024-03-03 | Wildcard         | W   | 0.866      | 0.143        | -                | 0.503 (0.062)    | 1 (0.866) |     9.22 | dephh, malbsMd, reck, slaxz-, Swisher  |
+|           39 |     1265 | 2024-03-02 | Imperial         | L   | 0.859      | -            | -                | -                | -         |    -0.92 | dephh, malbsMd, reck, slaxz-, Swisher  |
+|           38 |     1284 | 2024-03-01 | ODDIK            | W   | 0.854      | 0.143        | -                | 0.552 (0.067)    | 1 (0.854) |    10.04 | dephh, malbsMd, reck, slaxz-, Swisher  |
+|           37 |     1846 | 2024-02-02 | Rebels           | L   | 0.667      | -            | -                | -                | -         |   -13.31 | dephh, malbsMd, reck, slaxz-, Swisher  |
+|           36 |     1882 | 2024-02-01 | Rooster          | W   | 0.659      | -            | -                | -                | 1 (0.659) |     4.19 | dephh, malbsMd, reck, slaxz-, Swisher  |
+|           35 |     1901 | 2024-01-31 | GamerLegion      | L   | 0.653      | -            | -                | -                | -         |    -2.80 | dephh, malbsMd, reck, slaxz-, Swisher  |
+|           34 |     2103 | 2024-01-20 | Liquid           | W   | 0.583      | 0.143        | 0.111 (0.009)    | -                | 0 (0.000) |    14.34 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           33 |     2108 | 2024-01-20 | Wildcard         | W   | 0.582      | -            | -                | -                | -         |     6.60 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           32 |     2151 | 2024-01-19 | BOSS             | W   | 0.576      | -            | -                | -                | -         |     6.51 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           31 |     2157 | 2024-01-19 | Wildcard         | L   | 0.575      | -            | -                | -                | -         |   -11.68 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           30 |     2396 | 2024-01-14 | Nouns            | W   | 0.542      | -            | -                | -                | -         |     2.74 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           29 |     2414 | 2024-01-13 | Wildcard         | L   | 0.536      | -            | -                | -                | -         |   -11.83 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           28 |     2462 | 2024-01-12 | Liquid           | W   | 0.529      | 0.143        | 0.111 (0.008)    | -                | -         |    13.13 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           27 |     2470 | 2024-01-12 | Rocket           | W   | 0.529      | -            | -                | -                | -         |     2.60 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           26 |     2716 | 2023-12-16 | BESTIA           | L   | 0.346      | -            | -                | -                | -         |    -9.14 | dephh, malbsMd, reck, slaxz-, Swisher  |
+|           25 |     2744 | 2023-12-15 | Virtus.pro       | L   | 0.339      | -            | -                | -                | -         |    -0.28 | dephh, malbsMd, reck, slaxz-, Swisher  |
+|           24 |     2755 | 2023-12-13 | Nouns            | W   | 0.329      | -            | -                | -                | -         |     2.08 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           23 |     2764 | 2023-12-12 | BOSS             | W   | 0.322      | 0.303        | 0.034 (0.003)    | -                | -         |     3.57 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           22 |     2773 | 2023-12-11 | Torqued          | W   | 0.316      | -            | -                | -                | -         |     0.35 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           21 |     2783 | 2023-12-10 | BOSS             | W   | 0.309      | 0.500        | 0.034 (0.005)    | 0.530 (0.082)    | -         |     3.46 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           20 |     2849 | 2023-12-07 | BOSS             | W   | 0.289      | 0.500        | 0.034 (0.005)    | 0.530 (0.076)    | -         |     3.32 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           19 |     2875 | 2023-12-06 | Party Astronauts | W   | 0.282      | 0.500        | -                | 0.554 (0.078)    | -         |     2.50 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           18 |     2940 | 2023-12-03 | Take Flyte       | W   | 0.262      | -            | -                | -                | -         |     1.63 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           17 |     2942 | 2023-12-03 | NRG              | W   | 0.262      | -            | -                | -                | -         |     2.17 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           16 |     2961 | 2023-12-02 | Wildcard         | W   | 0.255      | -            | -                | -                | -         |     2.66 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           15 |     3119 | 2023-11-22 | Rocket           | W   | 0.188      | -            | -                | -                | -         |     0.91 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           14 |     3162 | 2023-11-19 | BOSS             | W   | 0.169      | 0.500        | 0.034 (0.003)    | -                | -         |     2.03 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           13 |     3216 | 2023-11-17 | NRG              | W   | 0.155      | -            | -                | -                | -         |     1.32 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           12 |     3247 | 2023-11-16 | NRG              | W   | 0.149      | -            | -                | -                | -         |     1.28 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           11 |     3249 | 2023-11-16 | Party Astronauts | W   | 0.148      | -            | -                | -                | -         |     1.36 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|           10 |     3286 | 2023-11-15 | Wildcard         | W   | 0.142      | -            | -                | -                | -         |     1.54 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|            9 |     3289 | 2023-11-15 | Party Astronauts | L   | 0.141      | -            | -                | -                | -         |    -3.16 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|            8 |     3319 | 2023-11-14 | MIGHT            | W   | 0.135      | -            | -                | -                | -         |     0.85 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|            7 |     3323 | 2023-11-14 | 5Fyctimz         | W   | 0.134      | -            | -                | -                | -         |     0.17 | malbsMd, maNkz, reck, slaxz-, Swisher  |
+|            6 |     3391 | 2023-11-11 | FLUFFY AIMERS    | W   | 0.116      | -            | -                | -                | -         |     0.55 | malbsMd, maNkz, reck, Swisher, WolfY   |
+|            5 |     3393 | 2023-11-11 | Take Flyte       | W   | 0.115      | -            | -                | -                | -         |     0.77 | malbsMd, maNkz, reck, Swisher, WolfY   |
+|            4 |     3419 | 2023-11-10 | Elevate          | W   | 0.109      | -            | -                | -                | -         |     1.25 | malbsMd, maNkz, reck, Swisher, WolfY   |
+|            3 |     3446 | 2023-11-08 | Party Astronauts | W   | 0.095      | -            | -                | -                | -         |     0.52 | malbsMd, maNkz, reck, Swisher, WolfY   |
+|            2 |     3679 | 2023-10-30 | Complexity       | L   | 0.032      | -            | -                | -                | -         |    -0.08 | malbsMd, maNkz, reck, Swisher, WolfY   |
+|            1 |     3711 | 2023-10-29 | MOUZ             | L   | 0.026      | -            | -                | -                | -         |    -0.01 | malbsMd, maNkz, reck, Swisher, WolfY   |
 
 <br />
 <span id="table2"></span><br />
