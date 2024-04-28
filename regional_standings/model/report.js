@@ -240,7 +240,7 @@ function displayTeamRankingSummary( team, teams ){
     output += formatLine( `To calculate a roster's Bounty Offered:` );
     output += formatLine( '',true );
     output += formatLine( `- First, take the sum of their top 10 scaled winnings (${ USDollar.format(team.scaledWinnings.toFixed(2)) })`, true );
-    output += formatLine( `- Divide that value by the 5th highest value among all rosters (${ USDollar.format( nthHighest( teams.map( t => t.scaledWinnings ) , 5 ) ) })`, true);
+    output += formatLine( `- Divide that value by the highest value among all rosters (${ USDollar.format( nthHighest( teams.map( t => t.scaledWinnings ) , 1 ) ) })`, true);
     output += formatLine( `- The final value (${ team.bountyOffered.toFixed(2) }) is scaled by the curve function.[<sup>3</sup>](#curveFunction)`, true)
     output += formatLine('\nTop ten winnings for this roster:');
     var winningsTable = new Table();

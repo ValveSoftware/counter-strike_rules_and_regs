@@ -24,7 +24,7 @@ function generateRanking( versionTimestamp = -1)
 {
     // Parameters
     const rankingContext = new RankingContext;
-    rankingContext.setHveMod(1).setOutlierCount(5);
+    rankingContext.setHveMod(1).setOutlierCount(1);
 
     const dataLoader = new DataLoader( rankingContext );
     dataLoader.loadData( versionTimestamp );
