@@ -4,23 +4,23 @@ Roster: Cabbi, IceBerg, kwezz, Lucky, MistR<br />
 Region: [Europe]( ../standings_europe.md)<br />
 <br />
 Global Rank: [31](../standings_global.md)<br />
-Regional Rank: [23]( ../standings_europe.md)<br />
-Final Rank Value:  1245.6<br />
+Regional Rank: [21]( ../standings_europe.md)<br />
+Final Rank Value:  1203.2<br />
 <br />
-Final Rank Value (1245.6) = Starting Rank Value (1062.5) + Head To Head Adjustments (183.0)<br />
+Final Rank Value (1203.2) = Starting Rank Value (1040.9) + Head To Head Adjustments (162.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.579[<sup>1</sup>](#table2)
-- Bounty Collected: 0.510[<sup>2</sup>](#table1)
-- Opponent Network: 0.302[<sup>2</sup>](#table1)
+- Bounty Offered: 0.555[<sup>1</sup>](#table2)
+- Bounty Collected: 0.465[<sup>2</sup>](#table1)
+- Opponent Network: 0.301[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.348<br />
+The average of these factors is 0.330<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1062.5
-- 400 + ( ( 0.348 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 1062.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1040.9
+- 400 + ( ( 0.330 - 0.000 ) / ( 0.824 - 0.000 ) ) * 1600 = 1040.9
 
 
 #### Factors<br />
@@ -36,116 +36,117 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           92 |        3 | 2024-05-06 | ALTERNATE aTTaX   | W   | 1.000      | 0.396        | -                | 0.779 (0.309)    | 0 (0.000) |     5.20 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           91 |       17 | 2024-05-05 | Gaimin Gladiators | L   | 1.000      | -            | -                | -                | -         |   -17.32 | Cabbi, IceBerg, kwezz, Lucky, PR1mE       |
-|           90 |       27 | 2024-05-05 | Come on now dawg  | W   | 1.000      | -            | -                | -                | 0 (0.000) |     0.25 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           89 |       76 | 2024-05-02 | fnatic            | W   | 1.000      | 0.384        | 0.327 (0.126)    | 0.677 (0.260)    | 0 (0.000) |    14.65 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           88 |      110 | 2024-05-01 | 3DMAX             | W   | 1.000      | 0.384        | -                | 0.810 (0.311)    | 0 (0.000) |    15.69 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           87 |      127 | 2024-04-30 | OG                | W   | 1.000      | 0.384        | 0.580 (0.223)    | -                | 0 (0.000) |    21.62 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           86 |      155 | 2024-04-29 | 500               | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.60 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           85 |      183 | 2024-04-27 | 777               | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.71 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           84 |      187 | 2024-04-27 | JANO              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.67 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           83 |      252 | 2024-04-25 | Passion UA        | W   | 1.000      | 0.384        | 0.111 (0.043)    | 0.644 (0.248)    | 0 (0.000) |     5.32 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           82 |      286 | 2024-04-23 | Gaimin Gladiators | W   | 1.000      | 0.384        | 0.189 (0.073)    | 0.990 (0.381)    | 0 (0.000) |    21.60 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           81 |      290 | 2024-04-23 | BLEED             | W   | 1.000      | 0.384        | 0.400 (0.154)    | 1.000 (0.384)    | -         |    18.75 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           80 |      337 | 2024-04-20 | Eternal Fire      | W   | 1.000      | 0.143        | 0.397 (0.057)    | -                | -         |    30.42 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           79 |      351 | 2024-04-20 | Cloud9            | W   | 1.000      | 0.143        | 0.472 (0.067)    | -                | -         |    29.52 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           78 |      387 | 2024-04-19 | Eternal Fire      | L   | 1.000      | -            | -                | -                | -         |    -0.79 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           77 |      396 | 2024-04-19 | Cloud9            | W   | 1.000      | 0.143        | 0.472 (0.067)    | -                | -         |    30.00 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           76 |      423 | 2024-04-18 | Guild Eagles      | W   | 1.000      | -            | -                | -                | -         |    14.17 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           75 |      430 | 2024-04-18 | RUBY              | W   | 1.000      | -            | -                | -                | -         |     8.51 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           74 |      438 | 2024-04-18 | GamerLegion       | W   | 1.000      | -            | -                | -                | -         |    27.52 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           73 |      480 | 2024-04-17 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |   -19.71 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           72 |      516 | 2024-04-16 | Guild Eagles      | L   | 1.000      | -            | -                | -                | -         |   -17.25 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           71 |      538 | 2024-04-15 | ex-Preasy         | W   | 1.000      | 0.384        | 0.173 (0.067)    | 0.700 (0.269)    | -         |    17.54 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           70 |      555 | 2024-04-14 | UNiTY             | W   | 1.000      | -            | -                | -                | -         |     7.99 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           69 |      613 | 2024-04-11 | Enterprise        | W   | 1.000      | -            | -                | -                | -         |    14.25 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           68 |      655 | 2024-04-10 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |   -20.34 | fear, jackasmo, jambo, s-chilla, zeRRoFIX |
-|           67 |      789 | 2024-04-06 | UNiTY             | W   | 0.997      | -            | -                | -                | -         |     8.55 | K1-FiDa, Levi, M1key, NIO, Pechyn         |
-|           66 |      846 | 2024-04-04 | UNiTY             | W   | 0.985      | -            | -                | -                | -         |     8.20 | K1-FiDa, Levi, M1key, NIO, Pechyn         |
-|           65 |      930 | 2024-04-02 | Permitta          | W   | 0.971      | 0.333        | -                | 0.979 (0.317)    | -         |    13.95 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           64 |      939 | 2024-04-01 | Nexus             | L   | 0.965      | -            | -                | -                | -         |   -18.72 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           63 |     1014 | 2024-03-27 | Rebels            | L   | 0.933      | -            | -                | -                | -         |   -12.55 | casey, Flayy, innocent, kisserek, olimp   |
-|           62 |     1048 | 2024-03-25 | Nexus             | W   | 0.920      | -            | -                | -                | -         |    10.39 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           61 |     1073 | 2024-03-22 | Nemiga            | W   | 0.900      | 0.372        | 0.667 (0.223)    | 0.724 (0.243)    | -         |    22.59 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           60 |     1138 | 2024-03-19 | RUBY              | W   | 0.880      | -            | -                | -                | -         |     7.92 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           59 |     1150 | 2024-03-18 | Insilio           | W   | 0.873      | -            | -                | -                | -         |    11.92 | faydett, FpSSS, Pipw, Polt, sugaR         |
-|           58 |     1219 | 2024-03-15 | ECLOT             | W   | 0.851      | -            | -                | -                | -         |    15.62 | Blytz, Dytor, forsyy, kreaz, nbqq         |
-|           57 |     1288 | 2024-03-13 | BLEED             | L   | 0.838      | -            | -                | -                | -         |    -6.28 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           56 |     1336 | 2024-03-11 | Nemiga            | L   | 0.826      | -            | -                | -                | -         |    -3.87 | 1eeR, FL4MUS, khaN, riskyb0b, Xant3r      |
-|           55 |     1361 | 2024-03-10 | Sampi             | L   | 0.818      | -            | -                | -                | -         |   -13.17 | Cabbi, IceBerg, Kristou, Lucky, MistR     |
-|           54 |     1387 | 2024-03-09 | Permitta          | W   | 0.812      | 0.372        | -                | 0.979 (0.296)    | -         |    12.81 | Cabbi, IceBerg, larsen, Lucky, MistR      |
-|           53 |     1406 | 2024-03-08 | ALTERNATE aTTaX   | L   | 0.804      | -            | -                | -                | -         |   -15.10 | ArroW, awzek, FreeZe, hyped, skyye        |
-|           52 |     1418 | 2024-03-07 | Insilio           | W   | 0.800      | -            | -                | -                | -         |    10.67 | faydett, FpSSS, Pipw, Polt, sugaR         |
-|           51 |     1430 | 2024-03-07 | ex-sYnck          | W   | 0.799      | -            | -                | -                | -         |     4.86 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           50 |     1463 | 2024-03-06 | Alliance          | W   | 0.791      | -            | -                | -                | -         |     8.54 | avid, b0denmaster, PlesseN, robiin, twist |
-|           49 |     1497 | 2024-03-05 | Johnny Speeds     | L   | 0.786      | -            | -                | -                | -         |   -18.38 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           48 |     1505 | 2024-03-05 | ALTERNATE aTTaX   | L   | 0.784      | -            | -                | -                | -         |   -15.87 | ArroW, awzek, FreeZe, hyped, skyye        |
-|           47 |     1521 | 2024-03-04 | Entropiq          | L   | 0.778      | -            | -                | -                | -         |   -19.62 | c0llins, Marix, mwlky, oxygeN, tiziaN     |
-|           46 |     1565 | 2024-03-02 | brazylijski luz   | W   | 0.765      | -            | -                | -                | -         |     5.91 | Furlan, phr, POLO, Prism, Qlocuu          |
-|           45 |     1600 | 2024-02-29 | JANO              | W   | 0.751      | -            | -                | -                | -         |     3.80 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           44 |     1608 | 2024-02-28 | Sampi             | W   | 0.746      | -            | -                | -                | -         |    11.30 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           43 |     1625 | 2024-02-27 | V1dar             | L   | 0.740      | -            | -                | -                | -         |   -21.70 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           42 |     1666 | 2024-02-25 | Sangal            | L   | 0.727      | -            | -                | -                | -         |   -18.23 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           41 |     1672 | 2024-02-25 | PGE Turow         | L   | 0.725      | -            | -                | -                | -         |   -20.04 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           40 |     1712 | 2024-02-24 | MOUZ NXT          | L   | 0.718      | -            | -                | -                | -         |   -11.84 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           39 |     1764 | 2024-02-21 | Sampi             | W   | 0.698      | -            | -                | -                | -         |     9.16 | fino, manguss, sAvana1, The eLiVe, ZEDKO  |
-|           38 |     1859 | 2024-02-17 | Zero Tenacity     | W   | 0.673      | -            | -                | -                | -         |     6.66 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           37 |     2008 | 2024-02-11 | ARCRED            | W   | 0.632      | -            | -                | -                | -         |     2.48 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           36 |     2010 | 2024-02-10 | Nemiga            | L   | 0.627      | -            | -                | -                | -         |    -4.13 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           35 |     2013 | 2024-02-10 | AMKAL             | W   | 0.626      | -            | -                | -                | -         |    14.19 | Forester, ICY, Krad, NickelBack, TRAVIS   |
-|           34 |     2027 | 2024-02-09 | FORZE             | W   | 0.620      | -            | -                | -                | -         |    10.71 | gokushima, r3salt, SELLTER, shalfey, tN1R |
-|           33 |     2032 | 2024-02-09 | Insilio           | W   | 0.619      | -            | -                | -                | -         |     7.49 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           32 |     2041 | 2024-02-08 | Nemiga            | L   | 0.614      | -            | -                | -                | -         |    -3.75 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           31 |     2044 | 2024-02-08 | FORZE             | W   | 0.613      | -            | -                | -                | -         |    10.70 | gokushima, r3salt, SELLTER, shalfey, tN1R |
-|           30 |     2076 | 2024-02-05 | Entropiq          | W   | 0.591      | -            | -                | -                | -         |     3.44 | c0llins, Marix, mwlky, oxygeN, tiziaN     |
-|           29 |     2093 | 2024-02-04 | TMVG              | L   | 0.586      | -            | -                | -                | -         |   -17.34 | shaker, spargo, STOVVE, ykis, yolt        |
-|           28 |     2109 | 2024-02-03 | showmakerz        | W   | 0.580      | -            | -                | -                | -         |     0.94 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           27 |     2115 | 2024-02-03 | Gaimin Gladiators | W   | 0.580      | -            | -                | -                | -         |    15.35 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           26 |     2126 | 2024-02-03 | Sampi             | L   | 0.578      | -            | -                | -                | -         |   -10.05 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           25 |     2146 | 2024-02-02 | EYEBALLERS        | L   | 0.573      | -            | -                | -                | -         |   -11.71 | HEAP, JW, Peppzor, Sapec, SHiNE           |
-|           24 |     2201 | 2024-01-31 | Permitta          | L   | 0.559      | -            | -                | -                | -         |   -11.43 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           23 |     2212 | 2024-01-30 | Insilio           | W   | 0.554      | -            | -                | -                | -         |     6.27 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           22 |     2214 | 2024-01-30 | FORZE             | W   | 0.554      | -            | -                | -                | -         |     3.63 | gokushima, r3salt, shalfey, sstiNiX, tN1R |
-|           21 |     2222 | 2024-01-30 | RUSH B            | W   | 0.553      | -            | -                | -                | -         |     3.10 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           20 |     2636 | 2024-01-16 | EYEBALLERS        | L   | 0.460      | -            | -                | -                | -         |    -9.49 | HEAP, JW, Peppzor, Sapec, SHiNE           |
-|           19 |     2650 | 2024-01-16 | ARCRED            | W   | 0.460      | -            | -                | -                | -         |     1.99 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           18 |     2864 | 2024-01-09 | Enterprise        | L   | 0.414      | -            | -                | -                | -         |    -8.35 | bajmi, Demho, ex1st, fr3nd, TOAO          |
-|           17 |     2884 | 2024-01-09 | ECLOT             | W   | 0.413      | -            | -                | -                | -         |     7.95 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           16 |     2896 | 2024-01-09 | PERA              | W   | 0.413      | -            | -                | -                | -         |     4.25 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           15 |     2940 | 2023-12-20 | NOM               | L   | 0.278      | -            | -                | -                | -         |    -7.80 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           14 |     2945 | 2023-12-19 | ex-Anonymo        | L   | 0.272      | -            | -                | -                | -         |    -7.26 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           13 |     2983 | 2023-12-17 | PGE Turow         | W   | 0.258      | -            | -                | -                | -         |     1.10 | b1elany, darko, gRuChA, kadziu, Markoś    |
-|           12 |     3220 | 2023-12-05 | EYEBALLERS        | L   | 0.179      | -            | -                | -                | -         |    -3.83 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
-|           11 |     3317 | 2023-11-29 | Alliance          | L   | 0.139      | -            | -                | -                | -         |    -3.13 | avid, b0denmaster, PlesseN, robiin, twist |
-|           10 |     3321 | 2023-11-29 | paiN              | L   | 0.138      | -            | -                | -                | -         |    -0.07 | biguzera, kauez, lux, n1ssim, nqz         |
-|            9 |     3378 | 2023-11-25 | ex-Preasy         | L   | 0.111      | -            | -                | -                | -         |    -1.96 | Anlelele, Cabbi, IceBerg, kwezz, Lucky    |
-|            8 |     3406 | 2023-11-23 | SAW               | L   | 0.099      | -            | -                | -                | -         |    -0.35 | Anlelele, Cabbi, IceBerg, kwezz, Lucky    |
-|            7 |     3448 | 2023-11-20 | PERA              | L   | 0.080      | -            | -                | -                | -         |    -1.80 | Anlelele, Cabbi, IceBerg, kwezz, Lucky    |
-|            6 |     3474 | 2023-11-19 | ARCRED            | W   | 0.072      | -            | -                | -                | -         |     0.29 | 1NVISIBLEE, DSSj, hurtslxrd, Ryujin, shg  |
-|            5 |     3499 | 2023-11-18 | MOUZ NXT          | W   | 0.066      | -            | -                | -                | -         |     1.03 | Chr1zN, Neityu, Nexius, PR, sirah         |
-|            4 |     3530 | 2023-11-17 | GenOne            | W   | 0.059      | -            | -                | -                | -         |     0.12 | Anlelele, Cabbi, IceBerg, kwezz, Lucky    |
-|            3 |     3576 | 2023-11-16 | Alliance          | L   | 0.051      | -            | -                | -                | -         |    -1.16 | Anlelele, Cabbi, IceBerg, kwezz, Lucky    |
-|            2 |     3627 | 2023-11-14 | Sprout            | W   | 0.039      | -            | -                | -                | -         |     0.15 | Anlelele, Cabbi, IceBerg, kwezz, Lucky    |
-|            1 |     3700 | 2023-11-11 | B8                | L   | 0.020      | -            | -                | -                | -         |    -0.59 | amster, cptkurtka023, npl, OWNER, r1nkle  |
+|           92 |      250 | 2024-05-20 | Monte             | L   | 1.000      | -            | -                | -                | -         |   -14.50 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           91 |      265 | 2024-05-19 | Passion UA        | W   | 1.000      | 0.500        | -                | 0.759 (0.380)    | 0 (0.000) |     5.82 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           90 |      292 | 2024-05-18 | B8                | L   | 1.000      | -            | -                | -                | -         |   -18.82 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           89 |      303 | 2024-05-18 | Monte             | W   | 1.000      | 0.384        | 0.181 (0.070)    | -                | 0 (0.000) |    16.52 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           88 |      309 | 2024-05-18 | ALTERNATE aTTaX   | W   | 1.000      | 0.500        | -                | 0.650 (0.325)    | 0 (0.000) |     4.44 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           87 |      342 | 2024-05-17 | ex-Guild Eagles   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.02 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           86 |      379 | 2024-05-16 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |   -26.34 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           85 |      427 | 2024-05-15 | Endpoint          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.09 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           84 |      599 | 2024-05-09 | 1WIN              | W   | 1.000      | 0.396        | -                | 0.666 (0.264)    | 0 (0.000) |     7.66 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           83 |      622 | 2024-05-08 | Grannys Knockers  | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.48 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           82 |      640 | 2024-05-07 | 9 Pandas          | W   | 1.000      | 0.396        | 0.108 (0.043)    | 0.798 (0.316)    | 0 (0.000) |     9.67 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           81 |      654 | 2024-05-06 | ALTERNATE aTTaX   | W   | 1.000      | 0.396        | -                | 0.650 (0.258)    | 0 (0.000) |     5.83 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           80 |      668 | 2024-05-05 | Gaimin Gladiators | L   | 1.000      | -            | -                | -                | -         |   -18.59 | Cabbi, IceBerg, kwezz, Lucky, PR1mE       |
+|           79 |      678 | 2024-05-05 | Come on now dawg  | W   | 1.000      | -            | -                | -                | 0 (0.000) |     0.32 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           78 |      727 | 2024-05-02 | fnatic            | W   | 1.000      | 0.384        | 0.148 (0.057)    | -                | -         |    13.10 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           77 |      761 | 2024-05-01 | 3DMAX             | W   | 1.000      | 0.384        | 0.105 (0.040)    | 0.669 (0.257)    | -         |    15.91 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           76 |      778 | 2024-04-30 | OG                | W   | 1.000      | 0.384        | 0.278 (0.107)    | -                | -         |    19.50 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           75 |      806 | 2024-04-29 | 500               | W   | 0.997      | -            | -                | -                | -         |     3.61 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           74 |      834 | 2024-04-27 | 777               | W   | 0.986      | -            | -                | -                | -         |     2.38 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           73 |      838 | 2024-04-27 | JANO              | W   | 0.985      | -            | -                | -                | -         |     2.00 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           72 |      903 | 2024-04-25 | Passion UA        | W   | 0.971      | 0.384        | -                | 0.759 (0.283)    | -         |     5.90 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           71 |      937 | 2024-04-23 | Gaimin Gladiators | W   | 0.958      | 0.384        | 0.090 (0.033)    | 0.809 (0.298)    | -         |    18.87 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           70 |      941 | 2024-04-23 | BLEED             | W   | 0.957      | 0.384        | 0.246 (0.091)    | 0.982 (0.361)    | -         |    19.71 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           69 |      988 | 2024-04-20 | Eternal Fire      | W   | 0.939      | 0.143        | 1.000 (0.134)    | -                | -         |    29.07 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           68 |     1002 | 2024-04-20 | Cloud9            | W   | 0.938      | -            | -                | -                | -         |    26.15 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           67 |     1038 | 2024-04-19 | Eternal Fire      | L   | 0.932      | -            | -                | -                | -         |    -0.39 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           66 |     1047 | 2024-04-19 | Cloud9            | W   | 0.932      | -            | -                | -                | -         |    26.63 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           65 |     1074 | 2024-04-18 | ex-Guild Eagles   | W   | 0.926      | -            | -                | -                | -         |    11.99 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           64 |     1081 | 2024-04-18 | RUBY              | W   | 0.925      | -            | -                | -                | -         |     9.30 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           63 |     1089 | 2024-04-18 | GamerLegion       | W   | 0.925      | 0.143        | 0.224 (0.030)    | -                | -         |    21.90 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           62 |     1131 | 2024-04-17 | Passion UA        | L   | 0.918      | -            | -                | -                | -         |   -17.44 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           61 |     1167 | 2024-04-16 | ex-Guild Eagles   | L   | 0.912      | -            | -                | -                | -         |   -17.11 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           60 |     1189 | 2024-04-15 | ex-Preasy         | W   | 0.905      | -            | -                | -                | -         |    13.44 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           59 |     1206 | 2024-04-14 | UNiTY             | W   | 0.897      | -            | -                | -                | -         |     6.88 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           58 |     1264 | 2024-04-11 | Enterprise        | W   | 0.877      | -            | -                | -                | -         |    10.77 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           57 |     1306 | 2024-04-10 | Passion UA        | L   | 0.871      | -            | -                | -                | -         |   -17.06 | fear, jackasmo, jambo, s-chilla, zeRRoFIX |
+|           56 |     1440 | 2024-04-06 | UNiTY             | W   | 0.843      | -            | -                | -                | -         |     6.87 | K1-FiDa, Levi, M1key, NIO, Pechyn         |
+|           55 |     1497 | 2024-04-04 | UNiTY             | W   | 0.831      | -            | -                | -                | -         |     6.59 | K1-FiDa, Levi, M1key, NIO, Pechyn         |
+|           54 |     1581 | 2024-04-02 | Permitta          | W   | 0.816      | 0.333        | -                | 1.000 (0.272)    | -         |    10.82 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           53 |     1590 | 2024-04-01 | Nexus             | L   | 0.811      | -            | -                | -                | -         |   -16.52 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           52 |     1665 | 2024-03-27 | Rebels            | L   | 0.779      | -            | -                | -                | -         |   -10.70 | casey, Flayy, innocent, kisserek, olimp   |
+|           51 |     1699 | 2024-03-25 | Nexus             | W   | 0.766      | -            | -                | -                | -         |     8.09 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           50 |     1724 | 2024-03-22 | Nemiga            | W   | 0.746      | 0.372        | 0.363 (0.101)    | -                | -         |    17.92 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           49 |     1789 | 2024-03-19 | RUBY              | W   | 0.726      | -            | -                | -                | -         |     7.35 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           48 |     1801 | 2024-03-18 | Insilio           | W   | 0.719      | -            | -                | -                | -         |     9.18 | faydett, FpSSS, Pipw, Polt, sugaR         |
+|           47 |     1870 | 2024-03-15 | ECLOT             | W   | 0.697      | -            | -                | -                | -         |    11.63 | Blytz, Dytor, forsyy, kreaz, nbqq         |
+|           46 |     1939 | 2024-03-13 | BLEED             | L   | 0.684      | -            | -                | -                | -         |    -4.37 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           45 |     1987 | 2024-03-11 | Nemiga            | L   | 0.672      | -            | -                | -                | -         |    -4.02 | 1eeR, FL4MUS, khaN, riskyb0b, Xant3r      |
+|           44 |     2012 | 2024-03-10 | Sampi             | L   | 0.664      | -            | -                | -                | -         |   -12.22 | Cabbi, IceBerg, Kristou, Lucky, MistR     |
+|           43 |     2038 | 2024-03-09 | Permitta          | W   | 0.658      | -            | -                | -                | -         |     9.23 | Cabbi, IceBerg, larsen, Lucky, MistR      |
+|           42 |     2057 | 2024-03-08 | ALTERNATE aTTaX   | L   | 0.650      | -            | -                | -                | -         |   -12.52 | ArroW, awzek, FreeZe, hyped, skyye        |
+|           41 |     2069 | 2024-03-07 | Insilio           | W   | 0.646      | -            | -                | -                | -         |     7.70 | faydett, FpSSS, Pipw, Polt, sugaR         |
+|           40 |     2081 | 2024-03-07 | ex-sYnck          | W   | 0.645      | -            | -                | -                | -         |     2.35 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           39 |     2114 | 2024-03-06 | Alliance          | W   | 0.637      | -            | -                | -                | -         |     6.03 | avid, b0denmaster, PlesseN, robiin, twist |
+|           38 |     2148 | 2024-03-05 | Johnny Speeds     | L   | 0.632      | -            | -                | -                | -         |   -11.08 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           37 |     2156 | 2024-03-05 | ALTERNATE aTTaX   | L   | 0.630      | -            | -                | -                | -         |   -12.86 | ArroW, awzek, FreeZe, hyped, skyye        |
+|           36 |     2172 | 2024-03-04 | Entropiq          | L   | 0.624      | -            | -                | -                | -         |   -17.33 | c0llins, Marix, mwlky, oxygeN, tiziaN     |
+|           35 |     2216 | 2024-03-02 | brazylijski luz   | W   | 0.611      | -            | -                | -                | -         |     4.09 | Furlan, phr, POLO, Prism, Qlocuu          |
+|           34 |     2251 | 2024-02-29 | JANO              | W   | 0.597      | -            | -                | -                | -         |     2.87 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           33 |     2259 | 2024-02-28 | Sampi             | W   | 0.592      | -            | -                | -                | -         |     7.31 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           32 |     2276 | 2024-02-27 | V1dar             | L   | 0.586      | -            | -                | -                | -         |   -17.20 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           31 |     2317 | 2024-02-25 | Sangal            | L   | 0.573      | -            | -                | -                | -         |    -8.42 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           30 |     2323 | 2024-02-25 | PGE Turow         | L   | 0.571      | -            | -                | -                | -         |   -15.91 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           29 |     2363 | 2024-02-24 | MOUZ NXT          | L   | 0.563      | -            | -                | -                | -         |    -8.69 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           28 |     2415 | 2024-02-21 | Sampi             | W   | 0.544      | -            | -                | -                | -         |     5.99 | fino, manguss, sAvana1, The eLiVe, ZEDKO  |
+|           27 |     2510 | 2024-02-17 | Zero Tenacity     | W   | 0.518      | -            | -                | -                | -         |     7.81 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           26 |     2659 | 2024-02-11 | ARCRED            | W   | 0.478      | -            | -                | -                | -         |     1.67 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           25 |     2661 | 2024-02-10 | Nemiga            | L   | 0.473      | -            | -                | -                | -         |    -3.71 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           24 |     2664 | 2024-02-10 | AMKAL             | W   | 0.472      | -            | -                | -                | -         |    10.93 | Forester, ICY, Krad, NickelBack, TRAVIS   |
+|           23 |     2678 | 2024-02-09 | FORZE             | W   | 0.466      | -            | -                | -                | -         |     6.60 | gokushima, r3salt, SELLTER, shalfey, tN1R |
+|           22 |     2683 | 2024-02-09 | Insilio           | W   | 0.465      | -            | -                | -                | -         |     5.00 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           21 |     2692 | 2024-02-08 | Nemiga            | L   | 0.460      | -            | -                | -                | -         |    -3.48 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           20 |     2695 | 2024-02-08 | FORZE             | W   | 0.459      | -            | -                | -                | -         |     6.42 | gokushima, r3salt, SELLTER, shalfey, tN1R |
+|           19 |     2727 | 2024-02-05 | Entropiq          | W   | 0.437      | -            | -                | -                | -         |     1.44 | c0llins, Marix, mwlky, oxygeN, tiziaN     |
+|           18 |     2744 | 2024-02-04 | TMVG              | L   | 0.432      | -            | -                | -                | -         |   -12.78 | shaker, spargo, STOVVE, ykis, yolt        |
+|           17 |     2760 | 2024-02-03 | showmakerz        | W   | 0.426      | -            | -                | -                | -         |     0.61 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           16 |     2766 | 2024-02-03 | Gaimin Gladiators | W   | 0.426      | -            | -                | -                | -         |    10.12 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           15 |     2777 | 2024-02-03 | Sampi             | L   | 0.424      | -            | -                | -                | -         |    -8.62 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           14 |     2797 | 2024-02-02 | EYEBALLERS        | L   | 0.419      | -            | -                | -                | -         |    -9.31 | HEAP, JW, Peppzor, Sapec, SHiNE           |
+|           13 |     2852 | 2024-01-31 | Permitta          | L   | 0.405      | -            | -                | -                | -         |    -8.76 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           12 |     2863 | 2024-01-30 | Insilio           | W   | 0.400      | -            | -                | -                | -         |     3.95 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|           11 |     2865 | 2024-01-30 | FORZE             | W   | 0.400      | -            | -                | -                | -         |     1.60 | gokushima, r3salt, shalfey, sstiNiX, tN1R |
+|           10 |     2873 | 2024-01-30 | RUSH B            | W   | 0.399      | -            | -                | -                | -         |     1.84 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|            9 |     3287 | 2024-01-16 | EYEBALLERS        | L   | 0.306      | -            | -                | -                | -         |    -6.87 | HEAP, JW, Peppzor, Sapec, SHiNE           |
+|            8 |     3301 | 2024-01-16 | ARCRED            | W   | 0.306      | -            | -                | -                | -         |     1.09 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|            7 |     3515 | 2024-01-09 | Enterprise        | L   | 0.260      | -            | -                | -                | -         |    -5.82 | bajmi, Demho, ex1st, fr3nd, TOAO          |
+|            6 |     3535 | 2024-01-09 | ECLOT             | W   | 0.259      | -            | -                | -                | -         |     4.20 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|            5 |     3547 | 2024-01-09 | PERA              | W   | 0.259      | -            | -                | -                | -         |     2.45 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|            4 |     3591 | 2023-12-20 | NOM               | L   | 0.124      | -            | -                | -                | -         |    -3.54 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|            3 |     3596 | 2023-12-19 | ex-Anonymo        | L   | 0.118      | -            | -                | -                | -         |    -3.32 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
+|            2 |     3634 | 2023-12-17 | PGE Turow         | W   | 0.104      | -            | -                | -                | -         |     0.39 | b1elany, darko, gRuChA, kadziu, Markoś    |
+|            1 |     3871 | 2023-12-05 | EYEBALLERS        | L   | 0.025      | -            | -                | -                | -         |    -0.56 | Cabbi, IceBerg, kwezz, Lucky, MistR       |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($30,430.80)
-- Divide that value by the 5th highest value among all rosters ($162,092.66)
-- The final value (0.19) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+- First, take the sum of their top 10 scaled winnings ($47,361.84)
+- Divide that value by the 5th highest value among all rosters ($300,941.06)
+- The final value (0.16) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
+| 2024-05-18 |      1.000 | $5,000.00      | $5,000.00       |
+| 2024-05-09 |      1.000 | $14,000.00     | $14,000.00      |
 | 2024-05-02 |      1.000 | $12,500.00     | $12,500.00      |
-| 2024-04-27 |      1.000 | $6,375.00      | $6,375.00       |
-| 2024-04-06 |      0.997 | $5,000.00      | $4,987.34       |
-| 2024-03-25 |      0.920 | $7,000.00      | $6,437.85       |
-| 2023-11-21 |      0.087 | $1,500.00      | $130.61         |
+| 2024-04-27 |      0.986 | $6,375.00      | $6,285.77       |
+| 2024-04-06 |      0.843 | $5,000.00      | $4,216.88       |
+| 2024-03-25 |      0.766 | $7,000.00      | $5,359.20       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
