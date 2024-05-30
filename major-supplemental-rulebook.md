@@ -44,7 +44,7 @@ The Major features 24 teams
 - 8 teams receive Opening Stage byes and are invited directly to the Elimination stage.
 
 #### Invitations [RMR]
-RMR invites are sent to teams of three or more members of the core lineup who participated in the Elimination Stage of the previous Major.
+Half of a region's RMR teams will be directly invited via Regional Standings. The remaining positions will be filled via closed qualifiers. The date of the Regional Standings used for invitations will be communicated in advance by the TO.
 
 #### World Regions
 Separating world-wide competition into regions that allow players to compete with low latency is important to measure skill on a level playing field.
@@ -65,6 +65,11 @@ In the event that the RMRs must be held online, there will be 5 RMR regions
 - Asia
 - Oceania
 
+### Regional Standing
+Teams in each World Region are sorted via an official Regional Standing. 
+
+If a team is invited to participate in a stage of the event based on their Regional Standing, at least three out of the five members of the core roster (the five players indicated in the Regional Standing) must accept the invitation, otherwise the invitation will be extended to the next-highest rated roster in the region.
+
 #### Team Regional Assignment
 A team’s region is determined by the citizenship of the majority of its players. In case of a tie, the team chooses between the two.
 In the case of players that don't belong to one of the 3 regions (Europe, Asia, Americas), those players can assign themselves to a region already represented on the roster.
@@ -75,8 +80,6 @@ The number of teams invited from each region depends on the performance of that 
 - One Opening stage invitation is assigned to the region for every team of that region that reached the Elimination stage of the previous Major.
 - One Elimination stage invitation is assigned to the region for every team of that region that reached the Playoff stage of the previous Major.
 
-Teams that earn an invitation for their region (i.e., top 16 teams from the Major) are given a chance to defend their regional invitation at the following RMR. If a team is able to--and opts to--play in a different region, their previous region loses an invitation and their new region gains an invitation. In other words, teams that change regions take their invites with them.
-
 Additionally, 8 Opening stage invitations are distributed to regions.
 
 |     Region | Additional Opening Stage Invitations |
@@ -84,7 +87,7 @@ Additionally, 8 Opening stage invitations are distributed to regions.
 |     Europe | 3          |
 |    America | 3          |
 |       Asia | 2          |
-| **Totals** | **8**      |
+| **Total** | **8**      |
 
 Note that for the purposes of RMR, regions represented by more than 8 teams will be subdivided into groups of 8 or less, so that each group can be resolved with one of the available [RMR formats](#format_rmr).
 
@@ -279,7 +282,7 @@ The resulting groups are:
 | Avg. Strength = 8.5 | Avg. Strength = 8.5 |
 
 #### Step 2: Assign Qualifying Teams to Groups
-All Invited and Qualified Teams are first sorted by [Regional Standing](#Regional-Standing), and then assigned to their corresponding RMR (e.g., the highest-ranked EUR team is assigned to slot 1 in the EUR 1 RMR). Within each RMR, the highest-ranked teams are paired with the lowest-ranked teams.     
+All Invited and Qualified Teams are first sorted by [Regional Standing](#Regional-Standing), and then assigned to their corresponding RMR (e.g., the highest-ranked EUR team is assigned to slot 1 in the EUR 1 RMR). If the time between the Closed Qualifiers and RMR is more than a month, an updated Regional Standing will be provided prior to the start of the RMR (the date of these standings will be announced in advance by the TO). Within each RMR, the highest-ranked teams are paired with the lowest-ranked teams.     
 
 E.g., With two 16-team RMRs, the EUR regional teams would be assigned as follows: 
 
@@ -377,15 +380,13 @@ All Major and RMR events are to use the following map pick-ban process for deter
 
 <a id="format_closed"></a>
 ### Format [Closed Qualifier]
-All teams not invited to an RMR due to their position from the prior Major (i.e., the top 16 teams at that event) will qualify via closed qualifier. The closed qualifier requirements are as follows:
+All teams not directly invited to an RMR will qualify via closed qualifier. The closed qualifier requirements are as follows:
 - Each region will hold one closed qualifier
   - The closed qualifier may be held online.
   - If a region must be subdivided to accommodate ping of participating teams (e.g., AMER -> NA and SA), RMR invitations will be split evenly among the regions. If invitations cannot be evenly split, the remaining invitation(s) will be granted to the subdivided qualifier featuring the team with the highest Regional Standing.
 - The closed qualifier format will follow the RMR format for the corresponding number of teams.
-- Half of the teams in the closed qualifier will be invited directly based on their [Regional Standing](#Regional-Standing). The other half are to qualify through open qualifiers.
-
-### Regional Standing
-Teams in each Major Region are sorted via an official Regional Standing.
+- All teams in the closed qualifier will be invited directly based on their [Regional Standing](#Regional-Standing). If it is not practical to fill all closed qualifier positions via Regional Standings, the TO may supplement with open qualifiers.
+- The date of the Regional Standings used for the purpose of invitations will be announced in advance by the TO.
 
 <a id="seeding"></a>
 ### Seeding
@@ -752,41 +753,41 @@ Final Major Rankings are determined by (in order)
 1. Opening Stage Difficulty
 1. Initial Seeding
 
-#### Example: 2023 Paris
+#### Example: 2024 Copenhagen
 |  # | Team              | Position         | W/L<sub>L</sub> | D<sub>L</sub> | W/L<sub>C</sub> | D<sub>C</sub> | Initial Seeding | Next Major Slot                   |
 |---:|:------------------|:----------------:|:---------------:|:-------------:|:---------------:|:-------------:|:---------------:|:---------------------------------:|
-|  1 | Team Vitality     | Major Champion   |                 |               |                 |               |                 | EUR #1  <br><sub>Elimination Stage</sub>     |
-|  2 | GamerLegion       | Grand-finalist   |                 |               |                 |               |                 | EUR #2  <br><sub>Elimination Stage</sub>     |
-|  3 | Heroic     		 | Semi-finalist    | 3-0             |               |                 |               |                 | EUR #3  <br><sub>Elimination Stage</sub>     |
-|  4 | Apeks             | Semi-finalist    | 3-2             |               |                 |               |                 | EUR #4  <br><sub>Elimination Stage</sub>     |
-|  5 | Team Liquid       | Quarter-finalist | 3-1             | 0             |                 |               |                 | AMER #1  <br><sub>Elimination Stage</sub>     |
-|  6 | Monte             | Quarter-finalist | 3-1             | -2            |                 |               |                 | EUR #5  <br><sub>Elimination Stage</sub>     |
-|  7 | Into The Breach   | Quarter-finalist | 3-2             | 1             |                 |               |                 | EUR #6  <br><sub>Elimination Stage</sub>     |
-|  8 | FaZe Clan         | Quarter-finalist | 3-2             | -2            |                 |               |                 | EUR #7  <br><sub>Elimination Stage</sub>     |
-|  9 | Natus Vincere     | -                | 2-3             | 6             |                 |               |                 | EUR #8  <br><sub>Opening Stage</sub> |
-| 10 | Fnatic       	 | -                | 2-3             | 2             |                 |               |                 | EUR #9 <br><sub>Opening Stage</sub> |
-| 11 | Ninjas In Pyjamas | -                | 2-3             | -6            |                 |               |                 | EUR #10 <br><sub>Opening Stage</sub> |
-| 12 | ENCE   			 | -                | 1-3             | 1             | 3-0             |               |                 | EUR #11 <br><sub>Opening Stage</sub> |
-| 13 | Bad News Eagles   | -                | 1-3             | -2            | 3-2             |               |                 | EUR #12 <br><sub>Opening Stage</sub> |
-| 14 | G2 Esports        | -                | 1-3             | -3            |                 |               |                 | EUR #13 <br><sub>Opening Stage</sub> |
-| 15 | 9INE 			 | -                | 0-3             | 5             |                 |               |                 | EUR #14 <br><sub>Opening Stage</sub> |
-| 16 | FURIA Esports     | -                | 0-3             | -1            |                 |               |                 | AMER #2 <br><sub>Opening Stage</sub> |
-| 17 | FORZE Esports  	 | -                | -               | -             | 2-3             | 4             |                 | EUR #15 <br><sub>Opening Stage</sub>  |
-| 18 | Grayhound Gaming  | -                | -               | -             | 2-3             | 2             |                 | ASIA #1 <br><sub>Opening Stage</sub>  |
-| 19 | paiN Gaming       | -                | -               | -             | 2-3             | 0             |                 | AMER #3 <br><sub>Opening Stage</sub>  |
-| 20 | Complexity Gaming | -                | -               | -             | 1-3             | 4             | 21              | AMER #4 <br><sub>Opening Stage</sub>  |
-| 21 | The MongolZ       | -                | -               | -             | 1-3             | 4             | 22              | ASIA #2 <br><sub>Opening Stage</sub>  |
-| 22 | OG       		 | -                | -               | -             | 1-3             | 3             |                 | EUR #16 <br><sub>Opening Stage</sub>  |
-| 23 | MOUZ         	 | -                | -               | -             | 0-3             | 1             | 18              | EUR #17 <br><sub>Opening Stage</sub>  |
-| 24 | Fluxo   			 | -                | -               | -             | 0-3             | 1             | 23              | AMER #5 <br><sub>Opening Stage</sub>  |
+|  1 | Natus Vincere 	| Major Champion   |                 |               |                 |               |                 | EUR #1  <br><sub>Elimination Stage</sub>     |
+|  2 | FaZe Clan 		| Grand-finalist   |                 |               |                 |               |                 | EUR #2  <br><sub>Elimination Stage</sub>     |
+|  3 | Team Vitality 	| Semi-finalist    | 3-1             |               |                 |               |                 | EUR #3  <br><sub>Elimination Stage</sub>     |
+|  4 | G2 Esports 		| Semi-finalist    | 3-2             |               |                 |               |                 | EUR #4  <br><sub>Elimination Stage</sub>     |
+|  5 | Team Spirit 		| Quarter-finalist | 3-0             | 1             |                 |               |                 | EUR #5  <br><sub>Elimination Stage</sub>     |
+|  6 | MOUZ 			| Quarter-finalist | 3-0             | -1            |                 |               |                 | EUR #6  <br><sub>Elimination Stage</sub>     |
+|  7 | Eternal Fire 	| Quarter-finalist | 3-1             | 5             |                 |               |                 | EUR #7  <br><sub>Elimination Stage</sub>     |
+|  8 | Cloud9 			| Quarter-finalist | 3-1             | 3             |                 |               |                 | EUR #8  <br><sub>Elimination Stage</sub>     |
+|  9 | Complexity Gaming | -               | 2-3           	 | 3             |                 |               |                 | AMER #1  <br><sub>Opening Stage</sub> |
+| 10 | Virtus.pro 		| -                | 2-3           	 | -2            |                 |               |                 | EUR #9 <br><sub>Opening Stage</sub> |
+| 11 | paiN Gaming 		| -                | 2-3           	 | -6            |                 |               |                 | AMER #2 <br><sub>Opening Stage</sub> |
+| 12 | Imperial Esports | -                | 1-3           	 | 5             |                 |               |                 | AMER #3 <br><sub>Opening Stage</sub> |
+| 13 | ECSTATIC 		| -                | 1-3           	 | 3             |                 |               |                 | EUR #10 <br><sub>Opening Stage</sub> |
+| 14 | HEROIC 			| -                | 1-3           	 | -2            |                 |               |                 | EUR #11 <br><sub>Opening Stage</sub> |
+| 15 | The MongolZ 		| -                | 0-3           	 | 2             |                 |               |                 | ASIA #1 <br><sub>Opening Stage</sub> |
+| 16 | FURIA Esports 	| -                | 0-3           	 | 0             |                 |               |                 | AMER #4 <br><sub>Opening Stage</sub> |
+| 17 | SAW 				| -                | -               | -             | 2-3             | 2             | 15              | EUR #12 <br><sub>Opening Stage</sub>  |
+| 18 | Legacy 			| -                | -               | -             | 2-3             | 2             | 24              | AMER #5 <br><sub>Opening Stage</sub>  |
+| 19 | GamerLegion 		| -                | -               | -             | 2-3             | -2            |                 | EUR #13 <br><sub>Opening Stage</sub>  |
+| 20 | Lynn Vision 	 	| -                | -               | -             | 1-3             | 7             |                 | ASIA #2 <br><sub>Opening Stage</sub>  |
+| 21 | ENCE 			| -                | -               | -             | 1-3             | 1             |                 | EUR #14 <br><sub>Opening Stage</sub>  |
+| 22 | Apeks 			| -                | -               | -             | 1-3             | -1            |                 | AMER #6 <br><sub>Opening Stage</sub>  |
+| 23 | AMKAL ESPORTS 	| -                | -               | -             | 0-3             | -2            | 22              | ASIA #3 <br><sub>Opening Stage</sub>  |
+| 24 | KOI 				| -                | -               | -             | 0-3             | -2            | 23              | AMER #7 <br><sub>Opening Stage</sub>  |
 
 <a id="Regional-Major-Invites"></a>
-##### Major Invites for Spring 2024
+##### Major Invites for Winter 2024
 |     Region | Elimination Stage | Opening Stage  |
 |-----------:|:-------:|:-----------:|
-|   Europe   | 7       | 10    	     |
-|    America | 1       | 4           |
-|       Asia | -       | 2           |
+|   Europe   | 8       | 6    	     |
+|    America | 0       | 7           |
+|       Asia | -       | 3           |
 | **Totals** | **8**   | **16**      |
 
 <a id="Final-Ranking-RMR"></a>
