@@ -78,7 +78,9 @@ function initTeams( matches, events, rankingContext ) {
         return team;
     }
 
-    matches.forEach( match => {
+    matches.forEach( (match, idx) => {
+        match.umid = idx;
+
         match.team1 = insertTeam( match.team1Name, match.team1Players );
         match.team2 = insertTeam( match.team2Name, match.team2Players );
 

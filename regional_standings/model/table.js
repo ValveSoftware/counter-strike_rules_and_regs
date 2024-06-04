@@ -436,6 +436,49 @@ class Table
 			console.log( markdownRow( row ) );
 		}
 	}
+
+	printMarkdownToString()
+	{
+		function markdownRow( arr ) {
+			return ['| ', arr.join(' | '),' |'].join('') + '\n';
+		}
+
+		// TODO: should probably escape markdown special characters.
+		let [headerRow, tableRows, summaryRow] = this.generate();
+
+		// Generate alignment/table-header row
+		let sepRowSplit = [];
+		for( const col of this.columns )
+		{
+			let headerSep;
+			if( col.padDirection < 0 )
+			{
+				headerSep = '-:'; // right justified
+			}
+			else if( col.padDirection > 0 )
+			{
+				headerSep = ':-'; // left justified
+			}
+			else
+			{
+				headerSep = ':-:'; // centered
+			}
+			sepRowSplit.push( headerSep );
+		}
+		const sepRow = markdownRow( sepRowSplit );
+
+		// Print table
+		let output = '';
+
+		output += markdownRow( headerRow );
+		output += sepRow;
+		for( const row of tableRows )
+		{
+			output += markdownRow( row );
+		}
+
+		return output;
+	}
 }
 
 module.exports = Table;

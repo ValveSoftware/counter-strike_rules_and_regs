@@ -2,13 +2,12 @@
 
 module.exports = {
     generateRanking: generateRanking,
-    displayRankings: displayRankings,
 }
 
 const RankingContext = require('./ranking_context');
 const DataLoader = require('./data_loader');
 const Glicko = require('./glicko');
-const Table = require('./table');
+const Report = require('./report');
 const remapValueClamped = require('./util/remap_value_clamped');
 
 const SEED_MODIFIER_FACTORS = {
@@ -46,34 +45,10 @@ function generateRanking( versionTimestamp = -1)
     // Remove rosters with no wins from the standings
     teams = teams.filter( t => t.distinctTeamsDefeated > 0 );
 
+    // Determine global and regional rank for each roster
+    applyRanking( teams );
+
     return [matches,teams];
-}
-
-function displayRankings( teams, regions = [0,1,2] ) {
-    var table = new Table();
-
-    // Sort teams by rank value
-    let sortedTeams = [...teams].sort((a, b) => b.rankValue - a.rankValue);
-
-    table.addNumericColumn( 'Standing' );
-    table.addNumericColumn( 'Points' ).setPrecision(0);
-    table.addColumn( 'Team Name' ).setMinWidth(12);
-    table.addColumn( 'Roster' );
-
-    var dispRank = 0;
-    sortedTeams.forEach((t, idx) => {
-		if (t.matchesPlayed >= 10 && regions.some(r => r === t.region) ) {
-
-			dispRank += 1;
-            table.addElem( dispRank );
-            table.addElem( t.glickoTeam.rank() );
-            table.addElem( t.name );
-            table.addElem( t.players.map(p => p.nick).join(', ') );
-            table.commitRow();
-        }
-    });
-
-    table.printMarkdown();
 }
 
 //--------------------------------------------------------------------------------------------------
@@ -87,7 +62,7 @@ function seedTeams( glicko, teams ) {
 	// remap teams from current range to minRankValue..maxRankValue
     let minSeedValue = Math.min( ...teams.map(t => t.seedValue ) );
     let maxSeedValue = Math.max( ...teams.map(t => t.seedValue ) );
-    
+
     teams.forEach( team => {
         team.rankValue = remapValueClamped( team.seedValue, minSeedValue, maxSeedValue, MIN_SEEDED_RANK, MAX_SEEDED_RANK );
 
@@ -122,7 +97,41 @@ function runMatches( glicko, matches ) {
         let team2 = match.team2;
 
         let [winTeam, loseTeam] = ( match.winningTeam === 1) ? [team1,team2] : [team2,team1];
+
+        winTeam.startingRankValue = winTeam.glickoTeam.rank();
+        loseTeam.startingRankValue = loseTeam.glickoTeam.rank();
+        
         glicko.singleMatch( winTeam.glickoTeam, loseTeam.glickoTeam, match.informationContent );
+        
+        match.winnerDeltaRankValue = winTeam.glickoTeam.rank() - winTeam.startingRankValue;
+        match.loserDeltaRankValue = loseTeam.glickoTeam.rank() - loseTeam.startingRankValue;
     } );
 }
 
+
+//--------------------------------------------------------------------------------------------------
+//--------------------------------------------------------------------------------------------------
+// Apply global and regional standings
+function applyRanking( teams ){
+    teams.sort( (a,b ) => b.rankValue - a.rankValue );
+
+    let globalRank = 0;
+    let regions = [0,1,2];
+
+    teams.forEach( t => {
+        if (t.matchesPlayed >= 10) {
+            globalRank += 1;
+            t.globalRank = globalRank;
+        }
+    });
+
+    regions.forEach( r => {
+        let regionalRank = 0;
+        teams.forEach( t => {            
+            if ( t.matchesPlayed >= 10 && r === t.region ) {
+                regionalRank += 1;
+                t.regionalRank = regionalRank;
+            }    
+        });       
+    });
+}
