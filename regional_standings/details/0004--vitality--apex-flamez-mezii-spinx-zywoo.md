@@ -5,22 +5,22 @@ Region: [Europe]( ../standings_europe.md)<br />
 <br />
 Global Rank: [4](../standings_global.md)<br />
 Regional Rank: [4]( ../standings_europe.md)<br />
-Final Rank Value:  1835.1<br />
+Final Rank Value:  1928.3<br />
 <br />
-Final Rank Value (1835.1) = Starting Rank Value (1861.4) + Head To Head Adjustments (-26.4)<br />
+Final Rank Value (1928.3) = Starting Rank Value (1942.1) + Head To Head Adjustments (-13.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.865[<sup>1</sup>](#table2)
-- Bounty Collected: 0.650[<sup>2</sup>](#table1)
-- Opponent Network: 0.496[<sup>2</sup>](#table1)
+- Bounty Offered: 0.852[<sup>1</sup>](#table2)
+- Bounty Collected: 0.761[<sup>2</sup>](#table1)
+- Opponent Network: 0.481[<sup>2</sup>](#table1)
 - LAN Wins: 1.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.753<br />
+The average of these factors is 0.774<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1861.4
-- 400 + ( ( 0.753 - 0.000 ) / ( 0.824 - 0.000 ) ) * 1600 = 1861.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1942.1
+- 400 + ( ( 0.774 - 0.000 ) / ( 0.803 - 0.000 ) ) * 1600 = 1942.1
 
 
 #### Factors<br />
@@ -36,53 +36,56 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           29 |        0 | 2024-05-29 | 9z            | L   | 1.000      | -            | -                | -                | -         |   -30.24 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           28 |       44 | 2024-05-27 | G2            | W   | 1.000      | 0.624        | 0.469 (0.293)    | 0.565 (0.352)    | 1 (1.000) |    10.54 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           27 |       54 | 2024-05-27 | Monte         | W   | 1.000      | 0.624        | 0.181 (0.113)    | 0.611 (0.382)    | 1 (1.000) |     0.89 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           26 |      524 | 2024-05-12 | MOUZ          | L   | 1.000      | -            | -                | -                | -         |   -10.73 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           25 |      555 | 2024-05-11 | Astralis      | W   | 1.000      | 0.889        | 0.395 (0.351)    | 0.495 (0.440)    | 1 (1.000) |    11.50 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           24 |      573 | 2024-05-10 | FaZe          | W   | 1.000      | 0.889        | 1.000 (0.889)    | 0.688 (0.612)    | 1 (1.000) |    20.67 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           23 |      825 | 2024-04-28 | TheMongolz    | W   | 0.991      | 0.889        | 0.176 (0.155)    | 0.583 (0.513)    | 1 (0.991) |     3.53 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           22 |      898 | 2024-04-25 | BetBoom       | W   | 0.972      | 0.889        | 0.392 (0.339)    | 0.951 (0.822)    | 1 (0.972) |     1.72 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           21 |      935 | 2024-04-23 | Sharks        | W   | 0.958      | 0.889        | -                | 0.530 (0.451)    | 1 (0.958) |     0.20 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           20 |     1599 | 2024-03-30 | FaZe          | L   | 0.799      | -            | -                | -                | -         |    -7.97 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           19 |     1626 | 2024-03-28 | Cloud9        | W   | 0.785      | 1.000        | 0.188 (0.147)    | 0.382 (0.300)    | 1 (0.785) |     3.08 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           18 |     1713 | 2024-03-23 | Complexity    | W   | 0.752      | 1.000        | 0.260 (0.196)    | -                | 1 (0.752) |     4.00 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           17 |     1730 | 2024-03-22 | Imperial      | W   | 0.744      | 1.000        | 0.373 (0.277)    | 0.889 (0.662)    | 1 (0.744) |     3.21 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           16 |     1749 | 2024-03-21 | TheMongolz    | W   | 0.739      | 1.000        | 0.176 (0.130)    | 0.583 (0.430)    | -         |     2.58 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           15 |     1756 | 2024-03-21 | Eternal Fire  | L   | 0.738      | -            | -                | -                | -         |   -12.03 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           14 |     2411 | 2024-02-21 | ENCE          | W   | 0.545      | -            | -                | -                | -         |     1.46 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           13 |     2441 | 2024-02-20 | Cloud9        | L   | 0.538      | -            | -                | -                | -         |   -15.48 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           12 |     2458 | 2024-02-19 | HEROIC        | W   | 0.533      | -            | -                | -                | -         |     5.09 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           11 |     2474 | 2024-02-19 | GamerLegion   | W   | 0.530      | -            | -                | -                | -         |     0.39 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           10 |     2723 | 2024-02-05 | HEROIC        | L   | 0.438      | -            | -                | -                | -         |    -9.74 | apEX, flameZ, mezii, Spinx, ZywOo |
-|            9 |     2757 | 2024-02-03 | ENCE          | L   | 0.427      | -            | -                | -                | -         |   -12.55 | apEX, flameZ, mezii, Spinx, ZywOo |
-|            8 |     2907 | 2024-01-27 | Astralis      | W   | 0.378      | -            | -                | -                | -         |     4.13 | apEX, flameZ, mezii, Spinx, ZywOo |
-|            7 |     2926 | 2024-01-26 | Falcons       | W   | 0.371      | -            | -                | -                | -         |     1.19 | apEX, flameZ, mezii, Spinx, ZywOo |
-|            6 |     2973 | 2024-01-23 | Astralis      | L   | 0.353      | -            | -                | -                | -         |    -7.38 | apEX, flameZ, mezii, Spinx, ZywOo |
-|            5 |     3004 | 2024-01-22 | OG            | W   | 0.345      | -            | -                | -                | -         |     0.26 | apEX, flameZ, mezii, Spinx, ZywOo |
-|            4 |     3631 | 2023-12-17 | FaZe          | W   | 0.105      | -            | -                | -                | -         |     2.26 | apEX, flameZ, mezii, Spinx, ZywOo |
-|            3 |     3666 | 2023-12-16 | Natus Vincere | W   | 0.098      | -            | -                | -                | -         |     1.60 | apEX, flameZ, mezii, Spinx, ZywOo |
-|            2 |     3698 | 2023-12-14 | Cloud9        | W   | 0.084      | -            | -                | -                | -         |     0.19 | apEX, flameZ, mezii, Spinx, ZywOo |
-|            1 |     3709 | 2023-12-13 | Natus Vincere | W   | 0.077      | -            | -                | -                | -         |     1.25 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           31 |      384 | 2024-06-02 | G2            | L   | 1.000      | -            | -                | -                | -         |   -17.77 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           30 |      418 | 2024-06-01 | Spirit        | W   | 1.000      | 0.624        | 1.000 (0.624)    | 0.454 (0.284)    | 1 (1.000) |    15.74 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           29 |      453 | 2024-05-31 | HEROIC        | W   | 1.000      | 0.624        | 0.362 (0.226)    | 0.635 (0.396)    | 1 (1.000) |     6.83 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           28 |      500 | 2024-05-29 | 9z            | L   | 1.000      | -            | -                | -                | -         |   -30.48 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           27 |      544 | 2024-05-27 | G2            | W   | 1.000      | 0.624        | 0.746 (0.466)    | 0.580 (0.362)    | 1 (1.000) |    10.98 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           26 |      554 | 2024-05-27 | Monte         | W   | 1.000      | 0.624        | -                | 0.686 (0.428)    | 1 (1.000) |     0.69 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           25 |     1024 | 2024-05-12 | MOUZ          | L   | 1.000      | -            | -                | -                | -         |   -12.99 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           24 |     1055 | 2024-05-11 | Astralis      | W   | 0.999      | 0.889        | 0.474 (0.421)    | 0.537 (0.477)    | 1 (0.999) |    13.44 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           23 |     1073 | 2024-05-10 | FaZe          | W   | 0.993      | 0.889        | 1.000 (0.883)    | 0.588 (0.519)    | 1 (0.993) |    17.50 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           22 |     1325 | 2024-04-28 | The MongolZ   | W   | 0.912      | 0.889        | 0.978 (0.793)    | 0.738 (0.598)    | 1 (0.912) |    11.03 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           21 |     1398 | 2024-04-25 | BetBoom       | W   | 0.892      | 0.889        | 0.427 (0.339)    | 0.917 (0.728)    | 1 (0.892) |     2.79 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           20 |     1435 | 2024-04-23 | Sharks        | W   | 0.879      | -            | -                | -                | 1 (0.879) |     0.05 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           19 |     2099 | 2024-03-30 | FaZe          | L   | 0.720      | -            | -                | -                | -         |    -9.73 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           18 |     2126 | 2024-03-28 | Cloud9        | W   | 0.706      | -            | -                | -                | 1 (0.706) |     1.48 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           17 |     2213 | 2024-03-23 | Complexity    | W   | 0.673      | 1.000        | 0.271 (0.183)    | -                | -         |     3.59 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           16 |     2230 | 2024-03-22 | Imperial      | W   | 0.665      | 1.000        | 0.415 (0.276)    | 0.799 (0.532)    | -         |     1.91 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           15 |     2249 | 2024-03-21 | The MongolZ   | W   | 0.660      | 1.000        | 0.978 (0.645)    | 0.738 (0.487)    | -         |     9.20 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           14 |     2256 | 2024-03-21 | Eternal Fire  | L   | 0.659      | -            | -                | -                | -         |   -12.53 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           13 |     2911 | 2024-02-21 | ENCE          | W   | 0.466      | -            | -                | -                | -         |     1.08 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           12 |     2941 | 2024-02-20 | Cloud9        | L   | 0.459      | -            | -                | -                | -         |   -13.80 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           11 |     2958 | 2024-02-19 | HEROIC        | W   | 0.454      | -            | -                | -                | -         |     4.25 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           10 |     2974 | 2024-02-19 | GamerLegion   | W   | 0.451      | -            | -                | -                | -         |     0.16 | apEX, flameZ, mezii, Spinx, ZywOo |
+|            9 |     3223 | 2024-02-05 | HEROIC        | L   | 0.359      | -            | -                | -                | -         |    -8.05 | apEX, flameZ, mezii, Spinx, ZywOo |
+|            8 |     3257 | 2024-02-03 | ENCE          | L   | 0.348      | -            | -                | -                | -         |   -10.29 | apEX, flameZ, mezii, Spinx, ZywOo |
+|            7 |     3407 | 2024-01-27 | Astralis      | W   | 0.299      | -            | -                | -                | -         |     4.42 | apEX, flameZ, mezii, Spinx, ZywOo |
+|            6 |     3426 | 2024-01-26 | Falcons       | W   | 0.292      | -            | -                | -                | -         |     0.52 | apEX, flameZ, mezii, Spinx, ZywOo |
+|            5 |     3473 | 2024-01-23 | Astralis      | L   | 0.273      | -            | -                | -                | -         |    -4.64 | apEX, flameZ, mezii, Spinx, ZywOo |
+|            4 |     3504 | 2024-01-22 | OG            | W   | 0.266      | -            | -                | -                | -         |     0.13 | apEX, flameZ, mezii, Spinx, ZywOo |
+|            3 |     4131 | 2023-12-17 | FaZe          | W   | 0.026      | -            | -                | -                | -         |     0.45 | apEX, flameZ, mezii, Spinx, ZywOo |
+|            2 |     4166 | 2023-12-16 | Natus Vincere | W   | 0.019      | -            | -                | -                | -         |     0.23 | apEX, flameZ, mezii, Spinx, ZywOo |
+|            1 |     4198 | 2023-12-14 | Cloud9        | W   | 0.004      | -            | -                | -                | -         |     0.01 | apEX, flameZ, mezii, Spinx, ZywOo |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($210,369.70)
-- Divide that value by the 5th highest value among all rosters ($300,941.06)
-- The final value (0.70) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+- First, take the sum of their top 10 scaled winnings ($203,876.67)
+- Divide that value by the 5th highest value among all rosters ($304,111.55)
+- The final value (0.67) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
+| 2024-06-02 |      1.000 | $42,000.00     | $42,000.00      |
 | 2024-05-12 |      1.000 | $80,000.00     | $80,000.00      |
-| 2024-03-31 |      0.806 | $80,000.00     | $64,491.21      |
-| 2024-02-11 |      0.479 | $10,000.00     | $4,790.47       |
-| 2024-01-28 |      0.386 | $22,500.00     | $8,680.92       |
-| 2023-12-17 |      0.105 | $500,000.00    | $52,407.10      |
+| 2024-03-31 |      0.727 | $80,000.00     | $58,157.43      |
+| 2024-02-11 |      0.400 | $10,000.00     | $3,998.75       |
+| 2024-01-28 |      0.307 | $22,500.00     | $6,899.54       |
+| 2023-12-17 |      0.026 | $500,000.00    | $12,820.95      |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
