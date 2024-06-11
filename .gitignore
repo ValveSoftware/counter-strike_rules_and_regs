@@ -2,4 +2,4 @@
 *.tmp
 *.json
 *ts.md
-/regional_standings/data
+/regional_standings
