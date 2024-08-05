@@ -132,6 +132,8 @@ For Tier 2 Events, the Announcement Date must be at least 3 months before the st
 - The Qualifying Rank from which Licensee will begin invitations.
 
 - The prize pool and the rules for its distribution. To the degree that Licensee compensates Teams, Rosters or Athletes for appearing at Tournaments in any other way (e.g. guaranteed payments for appearances, revenue shares in sponsorships or media rights etc.), Licensee will publish comprehensive information of all such compensation.
+  
+- Any integrity or conduct rules that may disqualify a team from a Direct VRS Invite. (see 5.4)
 
 ### 5. Competition / Integrity.
 
@@ -144,3 +146,9 @@ For Tier 2 Events, the Announcement Date must be at least 3 months before the st
 Within its sole discretion, Valve reserves the right to a) require that Licensee address and remove the Entanglement within a reasonable period of time, not to exceed two weeks, or b) terminate the Agreement without cost or penalty for Valve.
 
 An explicit or implicit approval by Valve shall be valid for the duration of one year starting on the date that Valve has received disclosure, unless explicitly otherwise scoped by Valve when granting the approval. The approval period shall thereafter auto-renew by the same time it was initially granted until terminated.
+
+5.4 **Invite Exceptions.** The Licensee may have rules that disqualify certain individuals from participating in their events due to misconduct, cheating infractions, being flagged by esports bodies as a matchmaking fix risk, or other integrity or compliance issues. If the Licensee wishes to disqualify any Rosters, they must:
+
+- Publish the disqualification rules as part of **Additional Information**. (see 4.3)
+
+- Publish the details of any disqualification decision at the time it occurs.
