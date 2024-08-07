@@ -196,37 +196,6 @@ The RMR format for a region is determined by the number of slots for that region
 	Best of 3: Decider matches.
 
 - 5 to 8 invites: 16 team [Swiss bracket](#Swiss-Bracket)
-	
-	Best of 3: Decider matches (e.g., matches where a team reaches their third win or third loss).
-	
-	At times, it will be necessary to determine Opening or Elimination Stage invitations among a group of teams with identical records. In that case the following process should be used to separate them:
-	
-		1 team: one of the two 3-0 teams.
-		- The two 3-0 teams play a best of 3 and the loser is eliminated.
-
-		2 teams: both 3-0 teams.
-		
-		3 teams: both 3-0 teams and one of the three 3-1 teams.
-		- The three 3-1 teams are first sorted by difficulty score. 
-		- The lower two teams play a best of 3 and the loser is eliminated. 
-		- The remaining two teams play a best of 3 and the loser is eliminated.
-
-		4 teams: both 3-0 teams and two of the three 3-1 teams.
-		- The three 3-1 teams are first sorted by difficulty score. 
-		- The lower two teams play a best of 3 and the loser is eliminated. 	
-		
-		5 teams: both 3-0 teams and all three 3-1 teams.
-		
-		6 teams: both 3-0 teams, all three 3-1 teams, and one of the three 3-2 team. 
-		- The three 3-2 teams are first sorted by difficulty score. 
-		- The lower two teams play a best of 3 and the loser is eliminated. 
-		- The remaining two teams play a best of 3 and the loser is eliminated.
-	
-		7 teams: both 3-0 teams, all three 3-1 teams, and two of the three 3-2 teams.
-		- The three 3-2 teams are first sorted by difficulty score. 
-		- The lower two teams play a best of 3 and the loser is eliminated. 
-
-		8 teams: both 3-0, all three 3-1, and all three 3-2 teams.
 
 - 9 to 16 invites: subdivide teams by [Final Ranking](#Final-Rankings-Major), placing teams into two groups. The resulting groups are to use the format appropriate for that number of invites, per the above.
 
