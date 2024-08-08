@@ -209,8 +209,9 @@ The RMR format for a region is determined by the number of slots for that region
 		- The remaining two teams play a best of 3 and the loser is eliminated.
 	
 		7 teams: both 3-0 teams, all three 3-1 teams, and two of the three 3-2 teams.
-		- The three 3-2 teams are first sorted by difficulty score. 
-		- The lower two teams play a best of 3 and the loser is eliminated. 
+		- The three 3-2 teams are first sorted by difficulty score.
+  		- The top two teams play a best of 3 and the loser gets a second chance. 
+		- The remaining two teams play a best of 3 and the loser is eliminated. 
 
 		8 teams: both 3-0, all three 3-1, and all three 3-2 teams.
 
