@@ -55,7 +55,7 @@ For Ranked Events, in addition to the terms of the Limited Game Tournament Licen
 
 a) Licensee determines the Qualifying Rank from which to invite Rosters (1 for Tier 1 Events, 9 or lower for Tier 2 Events) as well as the number of Rosters that are to appear in the Tournament's main event and publishes this information on the Announcement Date.
 
-b) On the Invite Date, Licensee invites a number of Rosters that equals 1.5 times the number of Qualified Rosters that are to appear in the Main Event in order of their Qualifying Rank. If the Invite Date occurs in the last week of a month, Licensee will base the Qualifying Ranks on the VRS from the 1st of that month. Otherwise, Licensee will use the VRS from the 1st of the month preceding the Invite Date. For Tier 1 events, the invites have to be based on the global VRS or a sub-list thereof that is officially provided by Valve. For Tier 2 Events, Licensee may apply additional filters insofar as they do not lead to the specific targeting of individual Teams or Rosters. For the avoidance of doubt, filtering by country or gender is permitted.
+b) On the Invite Date (no earlier than 8 weeks prior to the start of the Tournament's Main Event), Licensee invites a number of Rosters that equals 1.5 times the number of Qualified Rosters that are to appear in the Main Event in order of their Qualifying Rank. If the Invite Date occurs in the last week of a month, Licensee will base the Qualifying Ranks on the VRS from the 1st of that month. Otherwise, Licensee will use the VRS from the 1st of the month preceding the Invite Date. For Tier 1 events, the invites have to be based on the global VRS or a sub-list thereof that is officially provided by Valve. For Tier 2 Events, Licensee may apply additional filters insofar as they do not lead to the specific targeting of individual Teams or Rosters. For the avoidance of doubt, filtering by country or gender is permitted.
 
 > *Example: Licensee wishes to operate a Tournament that involves 16 European Rosters based on Direct VRS Invites, starting at Qualifying Rank 9. Accordingly, Licensee sends invites to the 24 Rosters that occupy European Qualifying Ranks 9-32.*
 
@@ -147,7 +147,7 @@ Within its sole discretion, Valve reserves the right to a) require that Licensee
 
 An explicit or implicit approval by Valve shall be valid for the duration of one year starting on the date that Valve has received disclosure, unless explicitly otherwise scoped by Valve when granting the approval. The approval period shall thereafter auto-renew by the same time it was initially granted until terminated.
 
-5.4 **Invite Exceptions.** The Licensee may have rules that disqualify certain individuals from participating in their events due to misconduct, cheating infractions, being flagged by esports bodies as a matchmaking fix risk, or other integrity or compliance issues. If the Licensee wishes to disqualify any Rosters, they must:
+5.4 **Invite Exceptions.** Licensee may have rules that disqualify certain individuals from participating in their events due to misconduct, cheating infractions, being flagged by esports bodies as a matchmaking fix risk, or other integrity or compliance issues. If the Licensee wishes to disqualify any Rosters, they must:
 
 - Publish the disqualification rules as part of **Additional Information**. (see 4.3)
 
