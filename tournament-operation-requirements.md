@@ -55,7 +55,7 @@ For Ranked Events, in addition to the terms of the Limited Game Tournament Licen
 
 a) Licensee determines the Qualifying Rank from which to invite Rosters (1 for Tier 1 Events, 9 or lower for Tier 2 Events) as well as the number of Rosters that are to appear in the Tournament's main event and publishes this information on the Announcement Date.
 
-b) On the Invite Date (no earlier than 8 weeks prior to the start of the Tournament's Main Event), Licensee invites a number of Rosters that equals 1.5 times the number of Qualified Rosters that are to appear in the Main Event in order of their Qualifying Rank. If the Invite Date occurs in the last week of a month, Licensee will base the Qualifying Ranks on the VRS from the 1st of that month. Otherwise, Licensee will use the VRS from the 1st of the month preceding the Invite Date. For Tier 1 events, the invites have to be based on the global VRS or a sub-list thereof that is officially provided by Valve. For Tier 2 Events, Licensee may apply additional filters insofar as they do not lead to the specific targeting of individual Teams or Rosters. For the avoidance of doubt, filtering by country or gender is permitted.
+b) On the Invite Date, Licensee invites a number of Rosters that equals 1.5 times the number of Qualified Rosters that are to appear in the Main Event in order of their Qualifying Rank. If the Invite Date occurs in the last week of a month, Licensee will base the Qualifying Ranks on the VRS from the 1st of that month. Otherwise, Licensee will use the VRS from the 1st of the month preceding the Invite Date. For Tier 1 events, the invites have to be based on the global VRS or a sub-list thereof that is officially provided by Valve. For Tier 2 Events, Licensee may apply additional filters insofar as they do not lead to the specific targeting of individual Teams or Rosters. For the avoidance of doubt, filtering by country or gender is permitted.
 
 > *Example: Licensee wishes to operate a Tournament that involves 16 European Rosters based on Direct VRS Invites, starting at Qualifying Rank 9. Accordingly, Licensee sends invites to the 24 Rosters that occupy European Qualifying Ranks 9-32.*
 
@@ -107,13 +107,21 @@ c) Licensee may choose to include additional Qualified Rosters, following the gu
 
 4.1 **Announcement Date.** For Tier 1 Events and Wildcard Events the following rules apply:
 
-- For events starting between 1 January, 2025 and 31 December, 2025, the Announcement Date must be no later than 1 September, 2024.
+- For events starting between 1 January, 2025 and 31 December, 2025:
+	- The Announcement Date must be no later than 1 September, 2024.
+	- The Invite Date must follow the announcement of Additional Information by no fewer than 30 days. 
 
-- For events starting between 1 January, 2026 and 31 December, 2026, the Announcement Date must be no later than 1 January, 2025.
+- For events starting between 1 January, 2026 and 31 December, 2026:
+  	- The Announcement Date must be no later than 1 January, 2025.
+  	- The Invite Date must follow the announcement of Additional Information by no fewer than 60 days. 
 
-- For events starting after 31 December, 2026, the Announcement Date must be at least 24 months prior to the start of the Tournament's Main Event.
+- For events starting after 31 December, 2026:
+  	- The Announcement Date must be at least 24 months prior to the start of the Tournament's Main Event
+  	- The Invite Date must follow the announcement of Additional Information by no fewer than 6 months.
 
-For Tier 2 Events, the Announcement Date must be at least 3 months before the start of the Tournament's Main Event.
+For Tier 2 Events and Wildcard Events the following rules apply:
+  - The Announcement Date must be at least 3 months before the start of the Tournament's Main Event.
+  - The Invite Date must follow the announcement of Additional Information by no fewer than 30 days.
 
 4.2 **Basic Information.** For all types of events, Licensee shall publish at least the dates and the identity of the operator of the Tournament.
 
