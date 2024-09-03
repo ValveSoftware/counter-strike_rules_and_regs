@@ -142,6 +142,8 @@ For Tier 2 Events and Wildcard Events the following rules apply:
 - The prize pool and the rules for its distribution. To the degree that Licensee compensates Teams, Rosters or Athletes for appearing at Tournaments in any other way (e.g. guaranteed payments for appearances, revenue shares in sponsorships or media rights etc.), Licensee will publish comprehensive information of all such compensation.
   
 - Any integrity or conduct rules that may disqualify a team from a Direct VRS Invite. (see 5.4)
+  
+- The VRS publication date from which Direct VRS Invites will be issued. (see 3.1.1b)
 
 ### 5. Competition / Integrity.
 
