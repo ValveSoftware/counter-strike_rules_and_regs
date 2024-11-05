@@ -55,7 +55,7 @@ For Ranked Events, in addition to the terms of the Limited Game Tournament Licen
 
 a) Licensee determines the Qualifying Rank from which to invite Rosters (1 for Tier 1 Events, 9 or lower for Tier 2 Events) as well as the number of Rosters that are to appear in the Tournament's main event and publishes this information on the Announcement Date.
 
-b) On the Invite Date, Licensee invites a number of Rosters that equals 1.5 times the number of Qualified Rosters that are to appear in the Main Event in order of their Qualifying Rank. If the Invite Date occurs in the last week of a month, Licensee will base the Qualifying Ranks on the VRS from the 1st of that month. Otherwise, Licensee will use the VRS from the 1st of the month preceding the Invite Date. For Tier 1 events, the invites have to be based on the global VRS or a sub-list thereof that is officially provided by Valve. For Tier 2 Events, Licensee may apply additional filters insofar as they do not lead to the specific targeting of individual Teams or Rosters. For the avoidance of doubt, filtering by country or gender is permitted.
+b) On the Invite Date, Licensee invites a number of Rosters that equals 1.5 times the number of Qualified Rosters that are to appear in the Main Event in order of their Qualifying Rank. Licensee will use the most recent version of the Invitation VRS (counter-strike_regional_standings\invitation\) as of the Invite Date. For Tier 1 events, the invites have to be based on the global VRS or a sub-list thereof that is officially provided by Valve (Europe, Americas, Asia). For Tier 2 Events, Licensee may apply additional filters (e.g., "North America") insofar as they do not lead to the specific targeting of individual Teams or Rosters. For the avoidance of doubt, filtering by country or gender is permitted.
 
 > *Example: Licensee wishes to operate a Tournament that involves 16 European Rosters based on Direct VRS Invites, starting at Qualifying Rank 9. Accordingly, Licensee sends invites to the 24 Rosters that occupy European Qualifying Ranks 9-32.*
 
@@ -91,7 +91,11 @@ a) The Tournament must involve a Direct VRS Invite that is subject to the follow
 
 a) Licensee can choose whether the eligibility of Rosters for participation in a Tournament should be based on Direct VRS Invites (3.1.1), Open Qualifiers (3.1.2), or a combination of both.
 
-b) If Licensee decides to include Direct VRS Invites, the Qualifying Rank of the invited Rosters must be no better than 9.
+b) If Licensee decides to include Direct VRS Invites from the global VRS or official sub-list, the Qualifying Rank of the invited Rosters must be no better than 9.
+
+c) If Licensee decides to include Direct VRS Invites from a filtered version of the VRS, the Qualifying Rank of the invited Rosters may begin at 1.
+
+> *Example: If licensee filters the Americas VRS to "North America," licensee may invite from Rank 1.*
 
 3.2.3 **Wildcard Events.** For every three completed Tier 1 events, Licensee may operate one Wildcard Event. If Licensee defines a Tournament as a Wildcard Event, the following rules shall apply:
 
