@@ -13,7 +13,7 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 |:-----------|:----------|
 | ESL Pro League Season 21 | May directly invite some teams based on their performance in previous Pro League Seasons |
 | ESL Pro League Season 22 | The event may invite additional wildcard rosters to the closed qualifier|
-| IEM Dallas               | NA and SA may be applied as VRS filters despite note being official regions |
+| IEM Dallas               | NA and SA may be applied as VRS filters despite not being official regions |
 | EWC 2025                 | May invite the winner of Hero Esports ACL in lieu of one VRS invitation |
 | BLAST Rivals             | May run one Wildcard event after two Tier 1 events instead of three |
 | BLAST Open               | May run regional VRS qualifiers to fill four positions in lieu of VRS invitations for position 13-16 in their event. The qualifiers cover Europe, Asia, NA and SA.<ul><li>Each Qualifier covers at least 16 VRS teams beyond those already invited to the event, in the respective region</li><li>NA and SA are applied as VRS filters despite not being official regions, provided each receive an equal number of invitations to the main event and 16+ VRS invitations to the qualifier</li></ul>|
