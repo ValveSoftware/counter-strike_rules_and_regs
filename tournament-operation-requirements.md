@@ -11,7 +11,7 @@ If you're interested in running a Counter-Strike tournament you will need a lice
 
 ## Tournament Operating Requirements
 
-The following rules shall apply to all Counter Strike 2 Tournament(s) that conclude after December 31, 2024:
+The following rules shall apply to all Counter Strike 2 Tournament(s) that conclude after December 31, 2024.
 
 ### 1. Definitions
 
@@ -25,15 +25,17 @@ The following rules shall apply to all Counter Strike 2 Tournament(s) that concl
 
 1.5 **"Open Qualifier"** shall mean a method of selecting Qualified Rosters according to the procedure defined in section 3.1.2 hereunder.
 
-1.6 **"Qualified Roster(s)"** shall mean any Roster that has been selected to appear in the Main Event of a given Tournament in accordance with the procedures defined herein.
+1.6 **"Closed Qualifier"** shall mean a method of selecting Qualified Rosters according to the procedure defined in section 3.1.3 hereunder.
 
-1.7 **"Roster"** shall be a collection of five specific Athletes, irrespective of their current or later association with a given Team organization.
+1.7 **"Qualified Roster(s)"** shall mean any Roster that has been selected to appear in the Main Event of a given Tournament in accordance with the procedures defined herein.
 
-1.8 **"Valve Regional Standings"** or **"VRS"** shall mean the official system for ranking the performance of Rosters published by Valve, which is provided in a version calculated and published on a monthly basis that shall be the basis for Direct VRS Invites (the "**Qualifying Rank**").
+1.8 **"Roster"** shall be a collection of five specific Athletes, irrespective of their current or later association with a given Team organization.
 
-1.9 **Ranked Event** shall mean a Tournament for which the outcome generates data used by the Valve Regional Standings to determine the relative performance of Rosters.
+1.9 **"Valve Regional Standings"** or **"VRS"** shall mean the official system for ranking the performance of Rosters published by Valve, which is provided in a version calculated and published on a monthly basis that shall be the basis for Direct VRS Invites.
 
-1.10 **Unranked Event** shall mean a Tournament for which the outcome does not generate data used by the Valve Regional Standings to determine the relative performance of Rosters.
+1.10 **Ranked Event** shall mean a Tournament for which the outcome generates data used by the Valve Regional Standings to determine the relative performance of Rosters.
+
+1.11 **Unranked Event** shall mean a Tournament for which the outcome does not generate data used by the Valve Regional Standings to determine the relative performance of Rosters.
 
 ### 2. **Rules for Unranked Events.** 
 
@@ -53,21 +55,27 @@ For Ranked Events, in addition to the terms of the Limited Game Tournament Licen
 
 3.1.1 **Direct VRS Invites.** The selection process for Direct VRS Invites shall be as follows:
 
-a) Licensee determines the Qualifying Rank from which to invite Rosters (1 for Tier 1 Events, 9 or lower for Tier 2 Events) as well as the number of Rosters that are to appear in the Tournament's main event and publishes this information on the Announcement Date.
+a) Licensee chooses the VRS rank from which to start inviting Rosters (see 3.2.1 for Tier 1 Events, 3.2.2 for Tier 2 Events), the VRS list(s) used for invitations, as well as the number of Rosters that will appear at the event. For Tier 1 events, invites must be based on the global VRS or a sub-list officially provided by Valve (Europe, Americas, Asia). For Tier 2 Events, Licensee may apply additional filters to the VRS lists (e.g., "North America") insofar as they do not lead to the specific targeting of individual Teams or Rosters. For the avoidance of doubt, filtering by country or gender is permitted.
 
-b) On the Invite Date, Licensee invites a number of Rosters that equals 1.5 times the number of Qualified Rosters that are to appear in the Main Event in order of their Qualifying Rank. Licensee will use the most recent version of the Invitation VRS (counter-strike_regional_standings\invitation\) as of the Invite Date. For Tier 1 events, the invites have to be based on the global VRS or a sub-list thereof that is officially provided by Valve (Europe, Americas, Asia). For Tier 2 Events, Licensee may apply additional filters (e.g., "North America") insofar as they do not lead to the specific targeting of individual Teams or Rosters. For the avoidance of doubt, filtering by country or gender is permitted.
+b) On the Invite Date, Licensee invites (in VRS order) a number of Rosters that equals 1.5 times the number of Rosters that are to appear in the Main Event. Licensee will use the most recent version of the Invitation VRS (counter-strike_regional_standings\invitation\) as of the Invite Date. 
 
-> *Example: Licensee wishes to operate a Tournament that involves 16 European Rosters based on Direct VRS Invites, starting at Qualifying Rank 9. Accordingly, Licensee sends invites to the 24 Rosters that occupy European Qualifying Ranks 9-32.*
+> *Example: Licensee wishes to operate a Tournament that involves 16 European Rosters based on Direct VRS Invites, starting at VRS rank 9. Accordingly, Licensee sends invites to the 24 Rosters that occupy European VRS ranks 9-32.*
 
-c) Rosters are only able to participate in a Tournament based on a Direct VRS Invite if at least three of the Athletes on the participating Roster were also present on the Roster on the Invite Date. If any Rosters cannot participate or choose to decline the Direct VRS Invite, Licensee shall proceed down the VRS in order of Qualifying Ranks until all announced slots to the Tournament are filled.
+c) Licensee may allow the highest VRS ranked Rosters to directly proceed to the Main Event, filling up to half of the Main Event positions. All remaining positions in the Main Event must be determined by a separate qualifying process (the "**Closed Qualifier**").
 
-d) Licensee may allow the invited Rosters with the highest Qualifying Rank to directly proceed to the Main Event, filling up to half of the Main Event positions. All remaining positions in the Main Event must be determined by a separate qualifying process (the "**Closed Qualifier**").
+> *Example 1: Licensee runs a 16-team Main Event, and therefore invites 24 Rosters. Eight may proceed directly to the Main Event. The remaining 16 enter a Closed Qualifier to identify the eight Rosters that will qualify to the Main Event.*
 
-> *Example: Licensee runs a 16-team Main Event, and therefore invites 24 Rosters. Eight may proceed directly to the Main Event. The remaining 16 enter a Closed Qualifier to identify the eight Rosters that will qualify to the Main Event.*
+d) Directly invited VRS Rosters may only participate in a Tournament if at least three of the Athletes on the participating Roster were also present on the Roster on the Invite Date. If any Rosters cannot participate or choose to decline the Direct VRS Invite, Licensee shall proceed down the VRS in order until all announced slots to the Tournament are filled. In the event that there are fewer eligible VRS rosters than the number of announced Direct VRS Invites, Licensee may supplement with Open Qualifiers at their discretion.
 
 3.1.2 **Open Qualifiers.** For Open Qualifiers, Licensee can use any criteria that in good faith are reasonable and transparent, and do not specifically target individual Rosters or Teams. Acceptable criteria include demographics and region (e.g. \"Female Rosters based in Canada\").
 
-3.1.3 **Wildcard Invite.** The following additional Wildcard process shall be allowed: For any Tournaments in which 8 or more Rosters compete as part of the Main Event, Licensee may choose to directly invite 2 Rosters ("**Wildcard Invite**"). For each additional 8 Rosters competing in the main event, Licensee may add 2 more Wildcard Invites. Wildcard Invites may be invited to participate in a Closed Qualifier but not directly join the Main Event. For the purposes of event seeding, Wildcard Invites are considered to have the lowest Qualifying Rank. A Roster shall only be eligible for a Wildcard Invite if it fulfills at least one of the following requirements:
+3.1.3 **Closed Qualifier.** For the Closed Qualifier, Licensee will include all invited rosters that are not directly invited to the Main Event. Licensee may supplement these invited rosters with Open Qualifiers at their discretion.
+
+3.1.4 **Wildcard Invite.** For any Tournaments in which 8 or more Rosters compete as part of the Main Event, Licensee may choose to directly invite 2 eligible Rosters ("**Wildcard Invite**") on the Invite Date. For each additional 8 Rosters competing in the main event, Licensee may add 2 more Wildcard Invites. 
+
+Wildcard Invites may be invited to participate in a Closed Qualifier but not directly proceed to the Main Event. For the purposes of event seeding, Wildcard Invites are considered to have the lowest VRS rank. If Licensee chooses not to make use of previously announced Wildcard Invitations, they may invite the next highest ranked Rosters from the VRS lists already announced for the event.
+
+A Roster shall only be eligible for a Wildcard Invite if it fulfills at least one of the following requirements as of the Invitation Date:
 
 - It includes at least 3 players who individually were members of a top 8 Roster on the VRS at any time during the preceding 12 months.
 
@@ -77,23 +85,25 @@ d) Licensee may allow the invited Rosters with the highest Qualifying Rank to di
 
 3.2.1 **Tier 1 Events.** If Licensee defines a Tournament as a Tier 1 Event then the following rules shall apply:
 
-a) The Tournament must involve a Direct VRS Invite that is subject to the following special rules that take precedence over section 3.1.1 above:
+a) The Tournament must involve a Direct VRS Invite that is subject to the following:
 
-- The list of invited Rosters always starts with the Roster that has the top Qualifying Rank (i.e., the #1 team) at the time of the Invite Date. Licensee may supplement this with an Open Qualifier at Licensee's discretion.
+- The list of invited Rosters always starts with the Roster that has the top VRS rank (i.e., the #1 team) at the time of the Invite Date. Licensee may supplement this with an Open Qualifier at their discretion.
 
-- The invitation to the Direct VRS Invite process must be extended to at least 16 Rosters and feed at least 8 Qualified Rosters into the Main Event.
+- Direct VRS Invites must be extended to at least 16 Rosters, and the Main Event must feature at least 8 Rosters. (This supersedes 3.1.1)
 
-- Licensee may choose to additionally invite to the Closed Qualifier any Rosters who won a Tier 2 event in the preceding 6 months.
+- Licensee may choose to additionally invite to the Closed Qualifier any Rosters who won a Tier 2 event in the preceding 6 months. (This supersedes 3.1.1)
 
 > *Example: Licensee wants to operate a Tier 1 Event with an 8-Roster Main Event. Licensee must invite 16 Rosters. Licensee additionally invites 4 rosters who had won recent Tier 2 events (for a total of 20 invited rosters). Licensee allows 4 of the top-ranked Rosters to directly proceed to the Main Event. The other 4 positions in the Main Event are determined by a Closed Qualifier involving the remaining 16 Rosters.*
 
 3.2.2 **Tier 2 Events.** If Licensee defines a Tournament as a Tier 2 Event, the following rules shall apply:
 
-a) Licensee can choose whether the eligibility of Rosters for participation in a Tournament should be based on Direct VRS Invites (3.1.1), Open Qualifiers (3.1.2), or a combination of both.
+a) At their discretion, Licensee may fill any number of Main Event slots by Open Qualifiers. For any remaining Main Event slots filled by VRS Qualified Rosters, Licensee must follow the process described in 3.1.1.
 
-b) If Licensee decides to include Direct VRS Invites from the global VRS or official sub-list, the Qualifying Rank of the invited Rosters must be no better than 9.
+> *Example: Licensee wants to operate a Tier 2 Event with an 8-Roster Main Event--six slots filled by Open Qualifiers, and two Main Event slots from Direct VRS Invites using a VRS filtered for Australian teams starting at position 1. They extend an invitation to the top three Australian teams by VRS, and the top team may proceed directly to the Main Event. The remaining two teams play in a closed qualifier.*
 
-c) If Licensee decides to include Direct VRS Invites from a filtered version of the VRS, the Qualifying Rank of the invited Rosters may begin at 1.
+b) If Licensee decides to include Direct VRS Invites from the global VRS or official sub-list, the VRS rank of the invited Rosters must be no better than 9.
+
+c) If Licensee decides to include Direct VRS Invites from a filtered version of the VRS, the VRS rank of the invited Rosters may begin at 1.
 
 > *Example: If licensee filters the Americas VRS to "North America," licensee may invite from Rank 1.*
 
@@ -123,15 +133,26 @@ c) Licensee may choose to include additional Qualified Rosters, following the gu
   	- The Announcement Date must be at least 24 months prior to the start of the Tournament's Main Event
   	- The Invite Date must follow the announcement of Additional Information by no fewer than 6 months.
 
-For Tier 2 Events and Wildcard Events the following rules apply:
-  - The Announcement Date must be at least 3 months before the start of the Tournament's Main Event.
+For Tier 2 Events that include Direct VRS Invites the following rules apply:
+  - The Announcement Date must be at least 2 months before the start of the Tournament's Main Event.
   - The Invite Date must follow the announcement of Additional Information by no fewer than 30 days.
+
+For Tier 2 Events that do not have any direct VRS invites the following Rules apply:
+  - The Announcement Date must be at least two weeks before the start of the Tournament's Main Event.
 
 4.2 **Basic Information.** For all types of events, Licensee shall publish at least the dates and the identity of the operator of the Tournament.
 
-4.3 **Additional** **Information.** Licensee shall publish the following additional information no later than 12 months before the Tournament Main Event for Tier 1 and Wildcard Events and no later than 3 months before the Tournament Main Event of Tier 2:
+4.3 **Additional** **Information.** Licensee shall publish the following additional information no later than 12 months before the Tournament Main Event for Tier 1 and Wildcard Events, no later than 2 months before the Tournament Main Event of Tier 2 Events that feature VRS invitations, and no later than two weeks before the Tournament Main Event of Tier 2 Event that do not feature any VRS invitations:
+
+- A definition of the filters to the VRS (if any) that Direct VRS Invites will be based on.
+
+- The VRS rank from which Licensee will begin invitations.
 
 - The number of Rosters subject to a Direct VRS Invite and/or Wildcard Invite, if any.
+
+- The Invitation Date.
+
+- The VRS publication date from which Direct VRS Invites will be issued. (see 3.1.1b)
 
 - The location.
 
@@ -139,15 +160,10 @@ For Tier 2 Events and Wildcard Events the following rules apply:
 
 - Whether qualifiers and/or the Main Event are online or LAN.
 
-- A definition of the filters to the VRS (if any) that Direct VRS Invites will be based on.
-
-- The Qualifying Rank from which Licensee will begin invitations.
-
 - The prize pool and the rules for its distribution. To the degree that Licensee compensates Teams, Rosters or Athletes for appearing at Tournaments in any other way (e.g. guaranteed payments for appearances, revenue shares in sponsorships or media rights etc.), Licensee will publish comprehensive information of all such compensation.
   
 - Any integrity or conduct rules that may disqualify a team from a Direct VRS Invite. (see 5.4)
   
-- The VRS publication date from which Direct VRS Invites will be issued. (see 3.1.1b)
 
 ### 5. Competition / Integrity.
 
