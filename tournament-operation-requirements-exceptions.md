@@ -23,3 +23,6 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 | Hero Esports ACL         | May run a Tier 1 Asia event announced after the deadline has passed |
 | Launders LAN             | May announce/operate with shorter timeframe than required for Tier 2 events |
 | BrisVegas LAN            | May announce/operate with shorter timeframe than required for Tier 2 events |
+| CCT S2 Europe Series 16  | May announce/operate with shorter timeframe than required for Tier 2 events |
+| CCT S2 SA Series 6       | May announce/operate with shorter timeframe than required for Tier 2 events |
+| CCT S2 NA Series 4       | May announce/operate with shorter timeframe than required for Tier 2 events <br />May invite one team from out of region to the closed qualifier, after having invited all VRS teams within the region |
