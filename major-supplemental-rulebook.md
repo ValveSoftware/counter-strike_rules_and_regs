@@ -180,7 +180,16 @@ The MRQ requirements are as follows:
 
 The MRQ format for a region is determined by the number of Major slots for that region. The formats are as follows:
 
-- For 3 and 4 invitations, 8 teams are divided into two GSL groups:
+- For 1 invitation, 4 teams play a double-elimination bracket:
+
+| Opening Matches |
+|:----------------|
+| 1 v 4 |
+| 2 v 3 |
+
+- All matches are best of 3
+
+- For 2 to 4 invitations, 8 teams are divided into two GSL groups:
 
 | Group A | Group B |
 |:--------|:--------|
@@ -191,36 +200,37 @@ The MRQ format for a region is determined by the number of Major slots for that 
 
 | Opening Matches |
 |:----------------|
-| 1 v 5 |
-| 2 v 6 |
-| 3 v 7 |
-| 4 v 8 |
+| 1 v 8 |
+| 2 v 7 |
+| 3 v 6 |
+| 4 v 5 |
 
-All matches are best of 3.
+- All matches are best of 3
 
+- For 2 Invitations (e.g. Asia split):
+    - Teams with 2-0 record face teams with 2-1 record from the other group
+    - Teams with 3 total wins advance
 
-- For 3 Invitations (e.g., NA/SA split):
-    - Teams with 2-0 record advance.
+- For 3 Invitations (e.g. NA/SA split):
+    - Teams with 2-0 record advance
     - Teams with a 1-1 record play the following matches:
         - Highest seed from A faces lowest seed from B
         - Highest seed from B faces lowest seed from A
-    - Teams with 2-1 record play and the loser is eliminated.
+    - Teams with 2-1 record play and the loser is eliminated
 
 - For 4 Invitations (Asia):
-    - Teams with 2-0 record advance.
+    - Teams with 2-0 record advance
     - Teams with 1-1 record play the following matches:
         - Highest seed from A faces lowest seed from B
         - Highest seed from B faces lowest seed from A
-    - Teams with 2-1 record advance.
+    - Teams with 2-1 record advance
 
 - For 6 Invitations (Americas, Europe): 16 team [Swiss bracket](#Swiss-Bracket)
-	
-	Decider matches (Advancement or Elimination) are best of 3.
-	All other matches are best of 1.
-
-	- Teams with 3-0 record advance.
-	- Teams with 3-1 record advance.
-	- Teams with 3-2 compete for 1 spot:
+    - Decider matches (Advancement or Elimination) are best of 3.
+    - All other matches are best of 1.
+    - Teams with 3-0 record advance.
+    - Teams with 3-1 record advance.
+    - Teams with 3-2 compete for 1 spot:
         - The three 3-2 record teams are first sorted by difficulty score. 
         - The lower two teams play a best of 3 and the loser is eliminated. 
         - The remaining two teams play a best of 3 and the loser is eliminated.
