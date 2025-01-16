@@ -63,15 +63,16 @@ If a team is invited to participate in a stage of the event based on their Regio
 
 <a id="regional-assignments"></a>
 #### Team Regional Assignment
-A team’s region is determined by the citizenship of the majority of its players. In case of a tie, the team chooses between the two.
-In the case of players that don't belong to one of the 3 regions (Europe, Asia, Americas), those players can assign themselves to a region already represented on the roster.
-If all players are from another region, then they can choose any region.
-
+A team’s region is determined by the region of the VRS from which they have been invited.
 
 #### Invitation Process
 Invitations will be sent to intact teams, per the [invitation](#Invitations) requirements above. 
 
-If a team declines an invitation, or is no longer intact, the next-highest ranked team receives their invitation. If there are no additional teams available, then the remaining slots are to be determined by a last-chance regional qualifier.
+Invitations are first sent to teams invited to participate in Stage 3. Then invitations are sent to teams invited to Stage 2. Finally, invitations are sent to teams invited to the MRQs.
+
+If a team declines an invitation, or is no longer intact, they do not participate in the Major and the next-highest ranked team receives their invitation. If there are no additional teams available, then the remaining slots are to be determined by a last-chance regional qualifier.
+
+In the event that a team would be invited to a particular stage based on more than one regional VRS, they are considered to have been invited based on the region with greater representation in the Major (i.e., Europe, then America, then Asia).
 
 ### Team Rosters
 #### Team Requirements
@@ -180,7 +181,31 @@ The MRQ requirements are as follows:
 
 The MRQ format for a region is determined by the number of Major slots for that region. The formats are as follows:
 
-- For 3 and 4 invitations, 8 teams are divided into two GSL groups:
+#### 1 and 2 Invitations: 
+- 4-team Double-Elimination Bracket
+- All matches are best of 3.
+
+- For 1 Invitation:
+    - Game 1: Seed 1 v Seed 3
+    - Game 2: Seed 2 v Seed 4
+    - Game 3: Winner 1 v Winner 2
+    - Game 4: Loser 1 v Loser 2
+    - Game 5: Winner 4 v Loser 3
+    - Game 6: Winner 3 v Winner 5
+    - Winner 6 Advances
+
+- For 2 Invitations:
+    - Game 1: Seed 1 v Seed 3
+    - Game 2: Seed 2 v Seed 4
+    - Game 3: Winner 1 v Winner 2
+    - Winner 3 Advances
+    - Game 4: Loser 1 v Loser 2
+    - Game 5: Winner 4 v Loser 3    
+    - Winner 5 Advances
+
+#### For 3 and 4 invitations
+- 8 teams are divided into two GSL groups
+- All matches are best of 3.
 
 | Group A | Group B |
 |:--------|:--------|
@@ -195,9 +220,6 @@ The MRQ format for a region is determined by the number of Major slots for that 
 | 2 v 6 |
 | 3 v 7 |
 | 4 v 8 |
-
-All matches are best of 3.
-
 
 - For 3 Invitations (e.g., NA/SA split):
     - Teams with 2-0 record advance.
@@ -225,7 +247,7 @@ All matches are best of 3.
         - The lower two teams play a best of 3 and the loser is eliminated. 
         - The remaining two teams play a best of 3 and the loser is eliminated.
 
-##### Swiss Bracket
+### Swiss Bracket
 - Teams play against opponents of identical W-L record.
 - Three wins advance---Three losses eliminate
 - All elimination and advancement matches are to be best of three.
