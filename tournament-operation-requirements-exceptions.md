@@ -22,7 +22,14 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 | PGL Belgrade             | May run regional VRS qualifiers to fill four positions in lieu of VRS invitations for position 13-16 in their event. The qualifiers cover Europe, Asia, NA and SA.<ul><li>Each Qualifier covers at least 16 VRS teams beyond those already invited to the event, in the respective region</li><li>NA and SA are applied as VRS filters despite not being official regions, provided each receive an equal number of invitations to the main event and 16+ VRS invitations to the qualifier</li></ul>|
 | Hero Esports ACL         | May run a Tier 1 Asia event announced after the deadline has passed |
 | Launders LAN             | May announce/operate with shorter timeframe than required for Tier 2 events |
-| BrisVegas LAN            | May announce/operate with shorter timeframe than required for Tier 2 events |
+| DFRAG Invitational       | May announce/operate with shorter timeframe than required for Tier 2 events |
 | CCT S2 Europe Series 16  | May announce/operate with shorter timeframe than required for Tier 2 events |
 | CCT S2 SA Series 6       | May announce/operate with shorter timeframe than required for Tier 2 events |
 | CCT S2 NA Series 4       | May announce/operate with shorter timeframe than required for Tier 2 events <br />May invite one team from out of region to the closed qualifier, after having invited all VRS teams within the region |
+
+
+## Exceptions for 2026
+
+| Event Name | Exception |
+|:-----------|:----------|
+| ACL X CS2 2026         | May announce/operate a Tier 1 Asia event with shorter timeframe than required for Tier 1 events |
