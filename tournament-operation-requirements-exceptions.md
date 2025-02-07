@@ -26,7 +26,7 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 | CCT S2 Europe Series 16  | May announce/operate with shorter timeframe than required for Tier 2 events |
 | CCT S2 SA Series 6       | May announce/operate with shorter timeframe than required for Tier 2 events |
 | CCT S2 NA Series 4       | May announce/operate with shorter timeframe than required for Tier 2 events <br />May invite one team from out of region to the closed qualifier, after having invited all VRS teams within the region |
-| Skyesports World Tour 2025       | May reduce previously announced prize pool.<br>May adjust tournament format with shorter timeframe than required for Tier 1 events |
+| Skyesports Masters 2025       | May reduce previously announced prize pool.<br>May adjust tournament format with shorter timeframe than required for Tier 1 events |
 | ESL Impact 7       | May directly invite some teams based on their performance in previous ESL Impact seasons |
 | Elisa Open Suomi 8      | May announce/operate with shorter timeframe than required for Tier 2 events<br>May directly invite some teams based on their performance in previous Elisa Open Suomi seasons |
 
