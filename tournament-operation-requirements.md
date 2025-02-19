@@ -139,7 +139,7 @@ If Tournament Operator defines a Tournament as a Tier 2 Tournament, the followin
 
 3.8.4 If Tournament Operator decides to include Direct VRS Invites from an unfiltered VRS list, the VRS rank of the invited Rosters must be no better than 9. 
 
-3.8.5 If Tournament Operator decides to include Direct VRS Invites from a filtered version of the VRS, the VRS rank of the invited Rosters may begin at 1. A filtering of a VRS list must be meaningful--a filtering that produces a list that is nearly identical to the unfiltered one is not to be considered 'filtered' for this purpose.
+3.8.5 If Tournament Operator decides to include Direct VRS Invites from a filtered version of the VRS, the VRS rank of the invited Rosters may begin at 1 and the number of invited Rosters must be at least 8. A filtering of a VRS list must be meaningful--a filtering that produces a list that is nearly identical to the unfiltered one is not to be considered 'filtered' for this purpose.
 
 
 3.9 **Wildcard Tournaments.** For every three completed Tournaments, Tournament Operator may operate one Wildcard Tournament of equivalent or lesser Tier. If Tournament Operator defines a Tournament as a Wildcard Tournament, the following rules shall apply:
