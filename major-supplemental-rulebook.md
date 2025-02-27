@@ -579,7 +579,7 @@ Below is a step-by-step test to confirm that GOTV and caster camera/audio are wo
 1. Create your game server login token for CS AppID 730 at: https://steamcommunity.com/dev/managegameservers
 
 1. Launch the game server using bash on Linux 
-`./cs2 -dedicated -debug -console +game_type 0 +game_mode 1 +mapgroup mg_dust247 +map de_dust2 +sv_setsteamaccount TOKEN_FROM_PREV_STEP +tv_enable 1 -ip 10.10.10.12`
+`./game/bin/linuxsteamrt64/cs2 -dedicated -debug -console +game_type 0 +game_mode 1 +mapgroup mg_dust247 +map de_dust2 +sv_setsteamaccount TOKEN_FROM_PREV_STEP +tv_enable 1 -ip 10.10.10.12`
 
 1. On the game server enable CSTV camera man SteamID (and optionally set a shorter TV delay for testing):
     ``` 
