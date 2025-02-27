@@ -1,15 +1,9 @@
-# The CS Supplemental Rulebook
+# The CS Major Supplemental Rulebook
 
 ### Foreword
 The goal of the Major is to bring together the best Counter-Strike players in the world to a LAN setting, provide them an opportunity to claim their title, and to demonstrate to millions of CS players around the world just how high the Counter-Strike skill ceiling is.
 
-The Major represents the pinnacle of Counter-Strike skill and provides an open invitation for the best in the world to participate regardless of their means or access.
-
-Historically, the rules and requirements for Majors have been communicated publicly through different channels or to partners privately. By consolidating them into a single document, we hope to eliminate inconsistencies across Valve-sponsored events and allow tournament operators to prepare their staff well in advance of their events.
-
 This document does not contain all of the rules of the tournament; only the ones we require to be uniform across all Major events. For the complete body of tournament rules for your event, contact the tournament organizer.
-
-If you would like to contact the CS team with questions or comments, feel free to send an email to csgoteamfeedback [at] valvesoftware.com, with the subject #MajorsRule.
 
 ## Tournament Organizer Obligations
 *What is expected of tournament organizers with respect to this document.*
@@ -20,88 +14,74 @@ The Tournament Organizer ("TO") will include this document in its tournament rul
 ### Deliverables
 These are the main deliverables outlined in this document that are required of the TO, along with their due date (relative to the start of the event).
 
-|                          Deliverable | Due            | RMR | Major |
-|-------------------------------------:|----------------|:---:|:-----:|
-|       [Final Rosters](#Team-Rosters) | 10 days prior  | ✔   |       |
-|             [Agreements](#Agreement) | 48 hours prior | ✔   |       |
-|      [CoI Disclosures](#Disclosures) | 24 hours prior | ✔   |       |
-| [Final Rankings](#Final-Ranking-RMR) | End of event   | ✔   | ✔     |
-|        [Server Demos](#Server-Demos) | End of event   |     | ✔     |
-|          [Mugshots](#mugshots-major) | End of event   |     | ✔     |
+|                          Deliverable | Due            | MRQ | Major |
+|-------------------------------------:|----------------|:-----------:|:-----:|
+|       [Final Rosters](#Team-Rosters) | Start        | ✔             |       |
+|             [Agreements](#Agreement) | Start        | ✔             |       |
+|      [CoI Disclosures](#Disclosures) | Start        | ✔             |       |
+|        [Server Demos](#Server-Demos) | End    |               | ✔     |
+|          [Mugshots](#mugshots-major) | End   |               | ✔     |
 
 
 ## Participants
 *Rules and procedures for determining who is to participate in the events.*
 
 ### Invitations
-#### Invitations [MAJOR]
-Major invites are sent to the core lineup (not including a substitute) who earned an invitation from the most recent RMR.
 
-A team cannot adjust their core lineup between the RMR and the Major. However, they can register a different coach or substitute player.
+The Major features 32 teams
+- 16 teams are invited to Stage 1 from the Major Regional Qualifiers.
+- 8 teams are invited to Stage 2 based on Valve Regional Standing.
+- 8 teams are invited to Stage 3 based on Valve Regional Standing.
 
-The Major features 24 teams
-- 16 teams are invited to enter the Major in the Opening stage.
-- 8 teams receive Opening Stage byes and are invited directly to the Elimination stage.
+Invitations are allocated according to the number of teams from the region that earned their respective position in the Major:
+- One Stage 2 invitation is assigned to the region for every team of that region that reached Stage 3 of the previous Major.
+- One Stage 3 invitation is assigned to the region for every team of that region that reached the Playoffs of the previous Major.
+  
+Top teams that have not been invited to Stage 2 or Stage 3 are invited to their region's respective Major Regional Qualifier (MRQ), with the following distribution:
 
-#### Invitations [RMR]
-Half of a region's RMR teams will be directly invited via Regional Standings. The remaining positions will be filled via closed qualifiers. The date of the Regional Standings used for invitations will be communicated in advance by the TO.
+|    Region |     MRQ Invitations           |        Stage 1 Invitations |
+| --------: | :----------------------------:|:------------------------: |
+|    Europe |          Next 16 from VRS     |        6                  |
+|   America |          Next 16 from VRS     |        6                  |
+|      Asia |           Next 8 from VRS     |        4                  |
+| **Total** |           **40**              |     **16**                |
 
-#### World Regions
-Separating world-wide competition into regions that allow players to compete with low latency is important to measure skill on a level playing field.
+<a id="Regional-Major-Invites"></a>
+##### Major Invites for Summer 2025 based on performance of regions in [Winter 2024](#Final-Rankings-Major):
+|     Region | Stage 1 | Stage 2 | Stage 3 |
+|-----------:|:-------:|:-------:|:--------|
+|     Europe | 6       | 4       | 6       |
+|    America | 6       | 4       | 1       |
+|       Asia | 4       | -       | 1       |
+| **Totals** | **16**  | **8**   | **8**   |
 
-Regional Major Ranking events (RMRs) sort teams within their region, and the top teams from each region receive Major invitations.
-
-RMR regions roughly correspond to their geographic equivalent. On the edges, countries should be assigned to the region that provides teams the lowest latency in qualifiers.
-
-The 3 RMR regions are
-- Europe
-- America
-- Asia
-
-In the event that the RMRs must be held online, there will be 5 RMR regions
-- Europe
-- North America
-- South America
-- Asia
-- Oceania
 
 ### Regional Standing
-Teams in each World Region are sorted via an official Regional Standing. 
+Teams in each world region are sorted via Valve Regional Standing (VRS). The three VRS regions are EU, Americas, and Asia, and these three lists are used for the purposes of invitation. A global version of the VRS is used only for the [pre-event seeding](#Pre-event-Seeding) of stages, after invitations have been accepted.
 
-If a team is invited to participate in a stage of the event based on their Regional Standing, at least three out of the five members of the core roster (the five players indicated in the Regional Standing) must accept the invitation, otherwise the invitation will be extended to the next-highest rated roster in the region.
+If a team is invited to participate in a stage of the event based on their Regional Standing, at least three out of the five members of the core roster (the five players indicated in the Regional Standing) must accept the invitation, otherwise the invitation will be extended to the next-highest ranked roster in the region.
 
+<a id="regional-assignments"></a>
 #### Team Regional Assignment
-A team’s region is determined by the citizenship of the majority of its players. In case of a tie, the team chooses between the two.
-In the case of players that don't belong to one of the 3 regions (Europe, Asia, Americas), those players can assign themselves to a region already represented on the roster.
-If all players are from another region, then they can choose any region.
-
-#### Regional Representation
-The number of teams invited from each region depends on the performance of that region in the preceding Major. Opening and Elimination Stage invitations are allocated according to the number of teams from the region that earned their respective position in the Major:
-- One Opening stage invitation is assigned to the region for every team of that region that reached the Elimination stage of the previous Major.
-- One Elimination stage invitation is assigned to the region for every team of that region that reached the Playoff stage of the previous Major.
-
-Additionally, 8 Opening stage invitations are distributed to regions.
-
-|     Region | Additional Opening Stage Invitations |
-|-----------:|:----------:|
-|     Europe | 3          |
-|    America | 3          |
-|       Asia | 2          |
-| **Total** | **8**      |
-
-Note that for the purposes of RMR, regions represented by more than 8 teams will be subdivided into groups of 8 or less, so that each group can be resolved with one of the available [RMR formats](#format_rmr).
+A team’s region is determined by the region of the VRS from which they have been invited.
 
 #### Invitation Process
 Invitations will be sent to intact teams, per the [invitation](#Invitations) requirements above. 
 
-If a team declines an invitation, or is no longer intact, the next-highest ranked team receives their invitation. If there are no additional teams available, then the remaining slots are to be determined by a last-chance regional qualifier.
+Invitations are first sent to teams invited to participate in Stage 3. Then invitations are sent to teams invited to Stage 2. Finally, invitations are sent to teams invited to the MRQs.
+
+If a team declines an invitation, or is no longer intact, they do not participate in the Major and the next-highest ranked team receives their invitation. If there are no additional teams available, then the remaining slots are to be determined by a last-chance regional qualifier.
+
+In the event that a team would be invited to a particular stage based on more than one regional VRS, they are considered to have been invited based on the region with greater representation in the Major (i.e., Europe, then America, then Asia).
 
 ### Team Rosters
 #### Team Requirements
 - Team roster must include 5 players ("Core Lineup").
 - Team roster may optionally include 1 coach.
-- Team roster may optionally include 1 substitute player.
+- Team roster may optionally include 1 substitute player that, were they to replace any core player, would not alter the [Regional Assignment](#regional-assignments) of the Core Lineup.
 - The coach and substitute may be the same person.
+
+A team cannot adjust their Core Lineup between the MRQ and the Major. However, they can register a different coach or substitute player.
 
 #### Participant Manifest
 The TO needs to collect the following of all registered participants and [deliver them to Valve](#Deliverables) (Excel or CSV). 
@@ -175,135 +155,105 @@ Individuals (including coaches) that are prohibited from participation in the ev
 
 <a id="Structure"></a>
 
-### Format [Major]
+### Major Format
 
-1. Opening Stage
+1. Stage 1
     - Swiss bracket 
     - 16 Teams
-1. Elimination Stage
+2. Stage 2
+    - Swiss bracket 
+    - 16 Teams 
+3. Stage 3
     - Swiss bracket 
     - 16 Teams
-1. Playoffs Stage
+4. Playoffs
     - Single elimination bracket
-    - Top 8 from the Elimination Stage
+    - Top 8 from Stage 3
 
-<a id="format_rmr"></a>
-### Format [RMR]
-The RMR format for a region is determined by the number of slots for that region. All teams not directly invited due to RMR position are to qualify in through [closed qualifiers](#format_closed). The formats are as follows:
+<a id="format_MRQ"></a>
+### MRQ Format
 
-- 1-4 invites: 8-team double-elimination bracket
+The MRQ requirements are as follows:
+- Each region will hold one Major Regional Qualifier.
+- The MRQ may be held online.
+- If a region must be subdivided to accommodate ping of participating teams (e.g., AMER -> NA and SA), Major invitations will be split evenly among the regions. If invitations cannot be evenly split, the remaining invitation(s) will be granted to the subdivided qualifier featuring the team with the highest Regional Standing.
+- All teams in the MRQ will be invited directly based on their [Regional Standing](#Regional-Standing). If it is not practical to fill all closed qualifier positions via Regional Standings, the TO may supplement with open qualifiers.
+
+The MRQ format for a region is determined by the number of Major slots for that region. The formats are as follows:
+
+#### 1 and 2 Invitations: 
+- 4-team Double-Elimination Bracket
+- All matches are best of 3.
+
+- For 1 Invitation:
+    - Game 1: Seed 1 v Seed 3
+    - Game 2: Seed 2 v Seed 4
+    - Game 3: Winner 1 v Winner 2
+    - Game 4: Loser 1 v Loser 2
+    - Game 5: Winner 4 v Loser 3
+    - Game 6: Winner 3 v Winner 5
+    - Winner 6 Advances
+
+- For 2 Invitations:
+    - Game 1: Seed 1 v Seed 3
+    - Game 2: Seed 2 v Seed 4
+    - Game 3: Winner 1 v Winner 2
+    - Winner 3 Advances
+    - Game 4: Loser 1 v Loser 2
+    - Game 5: Winner 4 v Loser 3    
+    - Winner 5 Advances
+
+#### For 3 and 4 invitations
+- 8 teams are divided into two GSL groups
+- All matches are best of 3.
+
+| Group A | Group B |
+|:--------|:--------|
+|1        |2        |
+|4        |3        |
+|5        |6        |
+|8        |7        |     
+
+| Opening Matches |
+|:----------------|
+| 1 v 5 |
+| 2 v 6 |
+| 3 v 7 |
+| 4 v 8 |
+
+- For 3 Invitations (e.g., NA/SA split):
+    - Teams with 2-0 record advance.
+    - Teams with a 1-1 record play the following matches:
+        - Highest seed from A faces lowest seed from B
+        - Highest seed from B faces lowest seed from A
+    - Teams with 2-1 record play and the loser is eliminated.
+
+- For 4 Invitations (Asia):
+    - Teams with 2-0 record advance.
+    - Teams with 1-1 record play the following matches:
+        - Highest seed from A faces lowest seed from B
+        - Highest seed from B faces lowest seed from A
+    - Teams with 2-1 record advance.
+
+- For 6 Invitations (Americas, Europe): 16 team [Swiss bracket](#Swiss-Bracket)
 	
-	Best of 3: Decider matches.
+	Decider matches (Advancement or Elimination) are best of 3.
+	All other matches are best of 1.
 
-- 5 to 8 invites: 16 team [Swiss bracket](#Swiss-Bracket)
-	
-	Best of 3: Decider matches (e.g., matches where a team reaches their third win or third loss).
-	
-	At times, it will be necessary to determine Opening or Elimination Stage invitations among a group of teams with identical records. In that case the following process should be used to separate them:
-	
-		1 team: one of the two 3-0 teams.
-		- The two 3-0 teams play a best of 3 and the loser is eliminated.
+	- Teams with 3-0 record advance.
+	- Teams with 3-1 record advance.
+	- Teams with 3-2 compete for 1 spot:
+        - The three 3-2 record teams are first sorted by difficulty score. 
+        - The lower two teams play a best of 3 and the loser is eliminated. 
+        - The remaining two teams play a best of 3 and the loser is eliminated.
 
-		2 teams: both 3-0 teams.
-		
-		3 teams: both 3-0 teams and one of the three 3-1 teams.
-		- The three 3-1 teams are first sorted by difficulty score. 
-		- The lower two teams play a best of 3 and the loser is eliminated. 
-		- The remaining two teams play a best of 3 and the loser is eliminated.
-
-		4 teams: both 3-0 teams and two of the three 3-1 teams.
-		- The three 3-1 teams are first sorted by difficulty score. 
-		- The lower two teams play a best of 3 and the loser is eliminated. 	
-		
-		5 teams: both 3-0 teams and all three 3-1 teams.
-		
-		6 teams: both 3-0 teams, all three 3-1 teams, and one of the three 3-2 team. 
-		- The three 3-2 teams are first sorted by difficulty score. 
-		- The lower two teams play a best of 3 and the loser is eliminated. 
-		- The remaining two teams play a best of 3 and the loser is eliminated.
-	
-		7 teams: both 3-0 teams, all three 3-1 teams, and two of the three 3-2 teams.
-		- The three 3-2 teams are first sorted by difficulty score. 
-		- The lower two teams play a best of 3 and the loser is eliminated. 
-
-		8 teams: both 3-0, all three 3-1, and all three 3-2 teams.
-
-- 9 to 16 invites: subdivide teams by [Final Ranking](#Final-Rankings-Major), placing teams into two groups. The resulting groups are to use the format appropriate for that number of invites, per the above.
-
-- 17 to 21 invites: subdivide teams by [Final Ranking](#Final-Rankings-Major), placing teams into two groups. The groups each play a 16 team [Swiss bracket](#Swiss-Bracket) with 8 teams advancing. Teams with a 2-3 record play in a last-chance single-elimination Bo3 bracket, with teams from group 1 playing initial matchups against teams from group 2 following the Swiss matchup rules. After initial matchups, the subsequent format depends on the number of invites:
-
-		17 teams:
-		- The three remaining 3-3 teams are first sorted by difficulty score. 
-		- The lower two teams play a best of 3 and the loser is eliminated. 
-		- The remaining two teams play a best of 3 and the loser is eliminated.
-
-		18 teams:
-		- The three remaining 3-3 teams are first sorted by difficulty score. 
-		- The lower two teams play a best of 3 and the loser is eliminated. 	
-		
-		19 teams: all three remaining 3-3 teams.
-
-		20 teams:
-		- The three 3-3 teams advance.
-		- The three remaining 2-4 teams are first sorted by difficulty score.
-		- The upper two teams play a best of 3 and the winner advances.
-
-		21 teams:
-		- The three 3-3 teams advance.
-		- The three remaining 2-4 teams are first sorted by difficulty score.
-		- The upper two teams play a best of 3 and the winner advances.
-		- The remaining two teams play a best of 3 and the winner advances.
-    
-
-#### Step 1: Assign Slots to Groups
-In order to ensure that the resulting groups are as similar in strength as possible, the highest and lowest ranked invitation slots are paired and placed into a group, and this process continues for each subsequent group.
- 
-E.g., given 16 EUR regional slots, pair slots according to the rule above and split into two groups: 
-| EUR 1    | EUR 2    |
-|----------|----------|
-| 1 and 16 | 2 and 15 |
-| 3 and 14 | 4 and 13 |
-| 5 and 12 | 6 and 11 |
-| 7 and 10 | 8 and 9  |
-
-
-The resulting groups are:
-
-| EUR 1               | EUR 2               |
-|---------------------|---------------------|
-| 1                   | 2                   |
-| 3                   | 4                   |
-| 5                   | 6                   |
-| 7                   | 8                   |
-| 10                  | 9                   |
-| 12                  | 11                  |
-| 14                  | 13                  |
-| 16                  | 15                  |
-| Avg. Strength = 8.5 | Avg. Strength = 8.5 |
-
-#### Step 2: Assign Qualifying Teams to Groups
-All Invited and Qualified Teams are first sorted by [Regional Standing](#Regional-Standing), and then assigned to their corresponding RMR (e.g., the highest-ranked EUR team is assigned to slot 1 in the EUR 1 RMR). If the time between the Closed Qualifiers and RMR is more than a month, an updated Regional Standing will be provided prior to the start of the RMR (the date of these standings will be announced in advance by the TO). Within each RMR, the highest-ranked teams are paired with the lowest-ranked teams.     
-
-E.g., With two 16-team RMRs, the EUR regional teams would be assigned as follows: 
-
-|     EUR 1 |     EUR 2 |
-|----------:|----------:|
-| 1  and 32 | 2  and 31 |
-| 3  and 30 | 4  and 29 |
-| 5  and 28 | 6  and 27 |
-| 7  and 26 | 8  and 25 |
-| 10 and 24 | 9  and 23 |
-| 12 and 22 | 11 and 21 |
-| 14 and 20 | 13 and 19 |
-| 16 and 18 | 15 and 17 |
-
-##### Swiss Bracket
+### Swiss Bracket
 - Teams play against opponents of identical W-L record.
 - Three wins advance---Three losses eliminate
 - All elimination and advancement matches are to be best of three.
 - All other matches are to be best of one.
 - Teams are not to play the same opponent twice in the same stage, if possible.
-- Matchups shall be determined by [seed](#seeding). The first round follows the [Initial Matchups](#Initial-Matchups). In round 2 and 3, the highest seeded team faces the lowest seeded team available that does not result in a rematch within the stage. In the case that the final matchup assigned is a rematch, the final two high seed matchup teams swap opponents. In other rounds, refer to the following table and select the top-most row that does not result in a rematch:
+- Match-ups shall be determined by [seed](#seeding). The first round follows the [Initial Match-ups](#Initial-Match-ups). In round 2 and 3, the highest seeded team faces the lowest seeded team available that does not result in a rematch within the stage. In the case that the final match-up assigned is a rematch, the final two high seed match-up teams swap opponents. In other rounds, refer to the following table and select the top-most row that does not result in a rematch:
 
 | Priority |  |  |  |
 |:--------:|--------:|--------:|--------:|
@@ -323,9 +273,9 @@ E.g., With two 16-team RMRs, the EUR regional teams would be assigned as follows
 |14        | 1v2    |3v5    |4v6    |
 |15        | 1v2    |3v4    |5v6    |
 
-<a id="Initial-Matchups"></a>
-##### Initial Swiss Matchups
-Matchups for the first round of the Swiss format are as follows:
+<a id="Initial-Match-ups"></a>
+##### Initial Swiss Match-ups
+Match-ups for the first round of the Swiss format are as follows:
 |   Swiss Round 1 |
 |----------:|
 | 1  vs. 9  |
@@ -337,16 +287,6 @@ Matchups for the first round of the Swiss format are as follows:
 | 7 vs. 15  |
 | 8 vs. 16  |
 
-##### Double Elimination Bracket
-- Opening Matches
-  - 1 vs. 8
-  - 2 vs. 7
-  - 3 vs. 6
-  - 4 vs. 5
-- Grand Final
-  - Best of Three
-  - Upper bracket team chooses whether to act first in the map veto.
-
 ##### Single Elimination Bracket
 - Bracket A:
   - 1 vs. 8
@@ -357,7 +297,7 @@ Matchups for the first round of the Swiss format are as follows:
 - All matches are best of three
 
 ### Map Pick-Ban
-All Major and RMR events are to use the following map pick-ban process for determining which map (bo1) or maps (bo3) are played.
+All Major and MRQ events are to use the following map pick-ban process for determining which map (bo1) or maps (bo3) are played.
 
 #### Best of 1 Pick-Ban Process
 1. The higher seed team chooses to be Team A or Team B
@@ -378,38 +318,32 @@ All Major and RMR events are to use the following map pick-ban process for deter
 1. Team A removes one map
 1. Team B chooses starting side on map 3
 
-<a id="format_closed"></a>
-### Format [Closed Qualifier]
-All teams not directly invited to an RMR will qualify via closed qualifier. The closed qualifier requirements are as follows:
-- Each region will hold one closed qualifier
-  - The closed qualifier may be held online.
-  - If a region must be subdivided to accommodate ping of participating teams (e.g., AMER -> NA and SA), RMR invitations will be split evenly among the regions. If invitations cannot be evenly split, the remaining invitation(s) will be granted to the subdivided qualifier featuring the team with the highest Regional Standing.
-- The closed qualifier format will follow the RMR format for the corresponding number of teams.
-- All teams in the closed qualifier will be invited directly based on their [Regional Standing](#Regional-Standing). If it is not practical to fill all closed qualifier positions via Regional Standings, the TO may supplement with open qualifiers.
-- The date of the Regional Standings used for the purpose of invitations will be announced in advance by the TO.
-
 <a id="seeding"></a>
 ### Seeding
 <a id="Pre-event-Seeding"></a>
 #### Pre-event Seeding
-Coming into the event, all 24 teams are sorted based on their current [Regional Standing](#Regional-Standing), and assigned to a slot corresponding to the [Next Major Slot](#Final-Rankings-Major).
+Coming into the event, all 32 teams are sorted based on their current global standing in the [VRS](#Regional-Standing).
 
 #### Stage Seeding
-* Opening Stage: 
+* Stage 1: 
 	* All teams will use their [pre-event seed](#Pre-event-Seeding).
 
-* Elimination Stage: 
-	* The top 8 teams will use their [pre-event seed](#Pre-event-Seeding).
-	* The bottom 8 teams will use their final seed from the Opening stage (see [Mid-stage Seed Calculation](#Mid-Stage-Seed-Calculation)).
+* Stage 2: 
+	* The teams directly invited to this stage will be seeds 1-8, and use their [pre-event seed](#Pre-event-Seeding).
+	* The advancing 8 teams will be seeds 9-16 and use their final seed from the previous stage (see [Mid-stage Seed Calculation](#Mid-Stage-Seed-Calculation)).
 
-* Playoff Stage:
-	* All teams will use their final seed from the Elimination stage (see [Mid-stage Seed Calculation](#Mid-stage-Seed-Calculation)).
+* Stage 3: 
+	* The teams directly invited to this stage will be seeds 1-8, and use their [pre-event seed](#Pre-event-Seeding).
+	* The advancing 8 teams will be seeds 9-16 and use their final seed from the previous stage (see [Mid-stage Seed Calculation](#Mid-Stage-Seed-Calculation)).
+
+* Playoffs:
+	* All teams will use their final seed from Stage 3 (see [Mid-stage Seed Calculation](#Mid-stage-Seed-Calculation)).
 
 ##### Mid-stage Seed Calculation
-For all Swiss matchups (e.g., the Opening and Elimination stage, and Swiss RMR formats), after the initial matches, seed is determined (in order) by:
+For all Swiss match-ups, after the initial matches, seed is determined (in order) by:
 1. Current W-L record in the stage
-1. [Difficulty Score](#Difficulty-score) in the current stage
-1. Initial seeding of the current stage
+2. [Difficulty Score](#Difficulty-score) in the current stage
+3. Initial seeding of the current stage
 
 ##### Difficulty Score (Buchholz)
 Each team's Difficulty Score is tracked for the purpose of tie-breaking. 
@@ -424,7 +358,7 @@ The Difficulty Score is the sum of current wins minus the sum of current losses 
 *Therefore, if both Team A and B have the same win-loss record, Team A gets the higher seed because it played against teams that were more difficult to defeat.*
 
 ## Technical Specifications
-*Requirements that pertain to the technical setup, configuration, and execution of the RMRs and Majors.*
+*Requirements that pertain to the technical setup, configuration, and execution of the MRQs and Majors.*
 
 ### Maps
 The TO is to use the up-to-date in-game versions of the maps in the Active Duty Map Group.
@@ -635,28 +569,28 @@ Servers must be configured to submit logs in order for the match results to pres
 1. Provide Valve the Steam ID of the account ("Admin") that will be setting and submitting the match logs in order to enable the Control Room.
 1. Provide Valve a Web API key for the Admin account. If you don't have one, create one [here.](https://steamcommunity.com/dev)
 
-<a id="GOTV"></a>
-#### GOTV [Major]
-##### Pre-event GOTV Testing
+<a id="CSTV"></a>
+#### CSTV [Major]
+##### Pre-event CSTV Testing
 Below is a step-by-step test to confirm that GOTV and caster camera/audio are working correctly.
 
-1. Get a vanilla CS game server install using SteamCMD >> app_update 740 validate.
+1. Get a vanilla CS game server install using SteamCMD >> app_update 730 validate.
 
 1. Create your game server login token for CS AppID 730 at: https://steamcommunity.com/dev/managegameservers
 
 1. Launch the game server using bash on Linux 
-`./srcds_run -debug -game csgo -console +game_type 0 +game_mode 1 +mapgroup mg_dust247 +map de_dust2 -tickrate 128 +sv_setsteamaccount TOKEN_FROM_PREV_STEP +tv_enable 1 -ip 10.10.10.12`
+`./cs2 -dedicated -debug -console +game_type 0 +game_mode 1 +mapgroup mg_dust247 +map de_dust2 +sv_setsteamaccount TOKEN_FROM_PREV_STEP +tv_enable 1 -ip 10.10.10.12`
 
-1. On the game server enable GOTV camera man SteamID (and optionally set a shorter TV delay for testing):
+1. On the game server enable CSTV camera man SteamID (and optionally set a shorter TV delay for testing):
     ``` 
     sv_spec_hear 4
     tv_delay 7
     tv_allow_camera_man_steamid STEAM_ID_OF_OBSERVER
-    (optionally start GOTV+ broadcast upload)
+    (optionally start CSTV broadcast upload)
     ```
 1. Connect players to the game server:
     * one player connect CT (connect XX.XX.XX.XX:27015)
-    * tester connect to the GOTV port (connect XX.XX.XX.XX:27020) or start watching playcast 
+    * tester connect to the CSTV port (connect XX.XX.XX.XX:27020) or start watching playcast 
 
 1. Run the game on observer computer with -interactivecaster launch option
 1. Connect observer's game to the server as spectator (connect XX.XX.XX.XX:27015, then press 'M' to switch to spectator, will appear on the scoreboard as 'SPEC')
@@ -746,61 +680,42 @@ Return to the Control Room and click the `SAVE FINAL SCORE` button. This will cl
 ### Final Rankings [Major]
 
 Final Major Rankings are determined by (in order) 
-1. Position in Champions Stage
-1. Elimination Stage W-L record 
-1. Elimination Stage Difficulty
-1. Opening Stage W-L record
-1. Opening Stage Difficulty
-1. Initial Seeding
+1. Position in Playoffs
+2. Stage 3 W-L record 
+3. Stage 3 Difficulty
+4. Stage 2 W-L record
+5. Stage 2 Difficulty
+6. Stage 1 W-L record
+7. Stage 1 Difficulty
+8. Initial Seeding
 
-#### Example: 2024 Copenhagen
-|  # | Team              | Position         | W/L<sub>L</sub> | D<sub>L</sub> | W/L<sub>C</sub> | D<sub>C</sub> | Initial Seeding | Next Major Slot                   |
-|---:|:------------------|:----------------:|:---------------:|:-------------:|:---------------:|:-------------:|:---------------:|:---------------------------------:|
-|  1 | Natus Vincere 	| Major Champion   |                 |               |                 |               |                 | EUR #1  <br><sub>Elimination Stage</sub>     |
-|  2 | FaZe Clan 		| Grand-finalist   |                 |               |                 |               |                 | EUR #2  <br><sub>Elimination Stage</sub>     |
-|  3 | Team Vitality 	| Semi-finalist    | 3-1             |               |                 |               |                 | EUR #3  <br><sub>Elimination Stage</sub>     |
-|  4 | G2 Esports 		| Semi-finalist    | 3-2             |               |                 |               |                 | EUR #4  <br><sub>Elimination Stage</sub>     |
-|  5 | Team Spirit 		| Quarter-finalist | 3-0             | 1             |                 |               |                 | EUR #5  <br><sub>Elimination Stage</sub>     |
-|  6 | MOUZ 			| Quarter-finalist | 3-0             | -1            |                 |               |                 | EUR #6  <br><sub>Elimination Stage</sub>     |
-|  7 | Eternal Fire 	| Quarter-finalist | 3-1             | 5             |                 |               |                 | EUR #7  <br><sub>Elimination Stage</sub>     |
-|  8 | Cloud9 			| Quarter-finalist | 3-1             | 3             |                 |               |                 | EUR #8  <br><sub>Elimination Stage</sub>     |
-|  9 | Complexity Gaming | -               | 2-3           	 | 3             |                 |               |                 | AMER #1  <br><sub>Opening Stage</sub> |
-| 10 | Virtus.pro 		| -                | 2-3           	 | -2            |                 |               |                 | EUR #9 <br><sub>Opening Stage</sub> |
-| 11 | paiN Gaming 		| -                | 2-3           	 | -6            |                 |               |                 | AMER #2 <br><sub>Opening Stage</sub> |
-| 12 | Imperial Esports | -                | 1-3           	 | 5             |                 |               |                 | AMER #3 <br><sub>Opening Stage</sub> |
-| 13 | ECSTATIC 		| -                | 1-3           	 | 3             |                 |               |                 | EUR #10 <br><sub>Opening Stage</sub> |
-| 14 | HEROIC 			| -                | 1-3           	 | -2            |                 |               |                 | EUR #11 <br><sub>Opening Stage</sub> |
-| 15 | The MongolZ 		| -                | 0-3           	 | 2             |                 |               |                 | ASIA #1 <br><sub>Opening Stage</sub> |
-| 16 | FURIA Esports 	| -                | 0-3           	 | 0             |                 |               |                 | AMER #4 <br><sub>Opening Stage</sub> |
-| 17 | SAW 				| -                | -               | -             | 2-3             | 2             | 15              | EUR #12 <br><sub>Opening Stage</sub>  |
-| 18 | Legacy 			| -                | -               | -             | 2-3             | 2             | 24              | AMER #5 <br><sub>Opening Stage</sub>  |
-| 19 | GamerLegion 		| -                | -               | -             | 2-3             | -2            |                 | EUR #13 <br><sub>Opening Stage</sub>  |
-| 20 | Lynn Vision 	 	| -                | -               | -             | 1-3             | 7             |                 | ASIA #2 <br><sub>Opening Stage</sub>  |
-| 21 | ENCE 			| -                | -               | -             | 1-3             | 1             |                 | EUR #14 <br><sub>Opening Stage</sub>  |
-| 22 | Apeks 			| -                | -               | -             | 1-3             | -1            |                 | AMER #6 <br><sub>Opening Stage</sub>  |
-| 23 | AMKAL ESPORTS 	| -                | -               | -             | 0-3             | -2            | 22              | ASIA #3 <br><sub>Opening Stage</sub>  |
-| 24 | KOI 				| -                | -               | -             | 0-3             | -2            | 23              | AMER #7 <br><sub>Opening Stage</sub>  |
-
-<a id="Regional-Major-Invites"></a>
-##### Major Invites for Winter 2024
-|     Region | Elimination Stage | Opening Stage  |
-|-----------:|:-------:|:-----------:|
-|   Europe   | 8       | 6    	     |
-|    America | 0       | 7           |
-|       Asia | -       | 3           |
-| **Totals** | **8**   | **16**      |
-
-<a id="Final-Ranking-RMR"></a>
-### Final Rankings [RMR]
-
-Final RMR Rankings for Swiss Formats are determined by (in order) 
-1. W-L record
-1. Difficulty
-1. Initial Seeding
-
-Final RMR Rankings for all other formats are determined by final placements.
-
-The final standings for each RMR must be [delivered to Valve](#Deliverables) upon completion of the event.
+#### Results: 2024 Shanghai
+|    # | Team              |     Position     | W/L<sub>L</sub> | D<sub>L</sub> | W/L<sub>C</sub> | D<sub>C</sub> | Initial Seeding |             Next Major Invitation Earned|
+| ---: | :---------------- | :--------------: | :-------------: | :-----------: | :-------------: | :-----------: | :-------------: | :--------------------------------------: |
+|    1 | Team Spirit       |  Major Champion  |                 |               |                 |               |                 | EUR <br><sub>Stage 3</sub> |
+|    2 | FaZe Clan         |  Grand-finalist  |                 |               |                 |               |                 | EUR <br><sub>Stage 3</sub> |
+|    3 | G2 Esports        |  Semi-finalist   |       3-1       |               |                 |               |                 | EUR <br><sub>Stage 3</sub> |
+|    4 | MOUZ              |  Semi-finalist   |       3-2       |               |                 |               |                 | EUR <br><sub>Stage 3</sub> |
+|    5 | The Mongolz       | Quarter-finalist |       3-0       |       4       |                 |               |                 | ASIA <br><sub>Stage 3</sub> |
+|    6 | Team Vitality     | Quarter-finalist |       3-0       |      -4       |                 |               |                 | EUR <br><sub>Stage 3</sub> |
+|    7 | Team Liquid       | Quarter-finalist |       3-1       |               |                 |               |                 | AMER <br><sub>Stage 3</sub> |
+|    8 | HEROIC            | Quarter-finalist |       3-2       |               |                 |               |                 | EUR <br><sub>Stage 3</sub> |
+|    9 | FURIA Esports     |        -         |       2-3       |       6       |                 |               |                 | AMER <br><sub>Stage 2</sub>   |
+|   10 | MIBR              |        -         |       2-3       |       3       |                 |               |                 | AMER <br><sub>Stage 2</sub>    |
+|   11 | Natus Vincere     |        -         |       2-3       |       2       |                 |               |                 | EUR  <br><sub>Stage 2</sub>   |
+|   12 | GamerLegion       |        -         |       1-3       |       1       |                 |               |                 | EUR  <br><sub>Stage 2</sub>   |
+|   13 | 3DMAX             |        -         |       1-3       |       0       |                 |               |                 | EUR  <br><sub>Stage 2</sub>   |
+|   14 | paiN Gaming       |        -         |       1-3       |      -5       |                 |               |                 | AMER  <br><sub>Stage 2</sub>   |
+|   15 | Wildcard          |        -         |       0-3       |       1       |       3-2       |      -1       |                 | AMER  <br><sub>Stage 2</sub>   |
+|   16 | BIG               |        -         |       0-3       |       1       |       3-2       |      -3       |                 | EUR  <br><sub>Stage 2</sub>   |
+|   17 | FlyQuest          |        -         |        -        |       -       |       2-3       |       6       |                 |      |
+|   18 | Passion UA        |        -         |        -        |       -       |       2-3       |       4       |                 |      |
+|   19 | Complexity Gaming |        -         |        -        |       -       |       2-3       |      -6       |                 |      |
+|   20 | Virtus.pro        |        -         |        -        |       -       |       1-3       |       1       |      10         |      |
+|   21 | Cloud9            |        -         |        -        |       -       |       1-3       |       1       |      19         |      |
+|   22 | Rare Atom         |        -         |        -        |       -       |       1-3       |      -1       |                 |      |
+|   23 | Imperial Esports  |        -         |        -        |       -       |       0-3       |       3       |                 |      |
+|   24 | Fnatic            |        -         |        -        |       -       |       0-3       |      -3       |                 |      |
 
 <a id="Server-Demos"></a>
 ### Server Demos [Major]
