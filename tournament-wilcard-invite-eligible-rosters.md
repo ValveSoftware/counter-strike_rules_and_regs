@@ -34,3 +34,7 @@ The following is a list of rosters that achieved eligibility to receive a Wildca
 | BC.Game | jkaem, nexa, nawwk, CYPHER, pr1metapz | 2025-02-23 | Tier 2 |
 | ALASKA | arTisT, Extinct, Girafffe, Vacancy, Tree60 | 2025-02-23 | Tier 2 |
 | 8Sins | Wolfie, Dutchy, Prime, wfn, moz | 2025-02-23 | Tier 2 |
+| Gods Reign | R2B2, Ph1NNN, f1redup, Bhavi, Rossi| 2025-03-01 | Tier 2 |
+| Victores Sumus | Benzene, arakyN, Recoilmaster, ChAmP, RaYzEr | 2025-03-01 | Tier 2 |
+| BLUEJAYS | Fruitcupx, snav, SLIGHT, freshie, Wolffe | 2025-03-02 | Tier 2 |
+| Marsborne | chop, Grizz, motm, WolfY, Minus | 2025-03-02 | Tier 2 |
