@@ -10,7 +10,7 @@ For any questions or exception requests, contact csgoteamfeedback@valvesoftware.
 
 ## Tournament Operating Requirements
 
-The following rules shall apply to all Counter Strike 2 Tournament(s) that conclude after December 31, 2024.
+The following rules shall apply to all Counter Strike 2 Tournament(s). The version of the Tournament Operation Requirements that apply to a Tournament is [the version that was current](https://github.com/ValveSoftware/counter-strike_rules_and_regs/commits/main/tournament-operation-requirements.md) as of the Tournament's Additional Information deadline.
 
 ### 1. Definitions
 
