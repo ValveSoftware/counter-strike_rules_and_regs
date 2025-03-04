@@ -35,6 +35,8 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 | Galaxy Battle STARTER    | May announce/operate with shorter timeframe than required for Tier 2 events. |
 | FISSURE Playground 1 | May split the announced prize pool between prize pool and performance based team award. |
 | FISSURE Playground 2 | May split the announced prize pool between prize pool and performance based team award. |
+| PrizePicks NA Revival Series May 2 | May operate under the [January 9th version of the Tournament Operation Requirements](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/5d975a93ed573c1f3820cf8c9176fe97d96bfd81/tournament-operation-requirements.md) |
+| PrizePicks NA Revival Series May 30 | May operate under the [January 9th version of the Tournament Operation Requirements](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/5d975a93ed573c1f3820cf8c9176fe97d96bfd81/tournament-operation-requirements.md) |
 
 ## Exceptions for 2026
 
