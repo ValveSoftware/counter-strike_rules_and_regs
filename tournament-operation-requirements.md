@@ -151,54 +151,72 @@ If Tournament Operator defines a Tournament as a Tier 2 Tournament, the followin
 3.9.3 Tournament Operator may additionally invite from the VRS or include Open Qualifiers.
 
 
-
 ### 4. Announcements and Publication of Tournament Information.
 
-4.1 **Announcement Date.** For Tier 1 Tournaments and Wildcard Tournaments the following rules apply:
+4.1 **Basic Information** refers to the following details:
+
+- The identity of the tournament operator.
+- The dates for the main event of the tournament.
+
+4.2 **Additional Information** refers to the following details:
+
+- **General event details**:
+	- The geographical region where the tournament takes place, e.g., North America, West Asia, Brazil.
+	- The prize pool and the rules for its distribution. If any special distributions are applicable (e.g. guaranteed payments for appearances, revenue shares in sponsorships or media rights etc.), the Tournament Operator will publish comprehensive information on all such compensation.
+	- Which tournament stages are played Online or Offline.
+	- The total number of teams for all stages which include direct VRS invitations. 
+	- The detailed event format for all stages which include direct VRS invitations.
+
+- **Team selection details**:
+	- The VRS lists which are used for the VRS invitations and the filters applied to each list.
+	- The VRS rank from which Tournament Operator will begin invitations.
+	- The number of direct VRS invitations from each of the selected lists and/or Wildcard invitations.
+	- The date on which VRS invitations will be sent.
+	- The total number of Open Qualifiers.
+	- Any integrity or conduct rules that may disqualify a Roster from participation.
+
+4.3 **Qualifier Information** refers to the following details (only applicable if qualifiers are held):
+
+- The dates for all Open Qualifiers of the tournament.
+- The detailed event format for all Open Qualifiers.
+- The number of teams qualifying from each Open Qualifier.
+- The regional filters for each Open Qualifier.
+
+4.4 **Announcement Dates.**
+For Tier 1 Tournaments and Wildcard Tournaments, the following rules apply:
 
 - For Tournaments starting between 1 January, 2025 and 31 December, 2025:
-	- The Announcement Date must be no later than 1 September, 2024.
-	- The Invite Date must follow the announcement of Additional Information by no fewer than 30 days. 
+	- The Announcement Date for **Basic Information** must be no later than 1 September, 2024.
+	- The Announcement Date for **Additional Information** must be at least 12 months before the start of the Tournament's main event.
+	- The Invite Date has to be at least 30 days after the announcement of Additional Information. 
+	- The Announcement Date for **Qualifier Information** must be at least 2 weeks before the start of the first Open Qualifier.
 
 - For Tournaments starting between 1 January, 2026 and 31 December, 2026:
-  	- The Announcement Date must be no later than 1 January, 2025.
-  	- The Invite Date must follow the announcement of Additional Information by no fewer than 60 days. 
+	- The Announcement Date for **Basic Information** must be no later than 1 January, 2025.
+	- The Announcement Date for **Additional Information** must be at least 12 months before the start of the Tournament's main event.
+	- The Invite Date has to be at least 60 days after the announcement of Additional Information. 
+	- The Announcement Date for **Qualifier Information** must be at least 1 month before the start of the first Open Qualifier.
 
 - For Tournaments starting after 31 December, 2026:
-  	- The Announcement Date must be at least 24 months prior to the start of the Tournament's main event
-  	- The Invite Date must follow the announcement of Additional Information by no fewer than 6 months.
+	- The Announcement Date for **Basic Information** must be at least 24 months before the start of the Tournament's main event.
+	- The Announcement Date for **Additional Information** must be at least 12 months before the start of the Tournament's main event.
+	- The Invite Date has to be at least 6 months after the announcement of Additional Information. 
+	- The Announcement Date for **Qualifier Information** must be at least 2 months before the start of the first Open Qualifier.
 
 For Tier 2 Tournaments that include Direct VRS Invites the following rules apply:
-  - The Announcement Date must be at least 2 months before the start of the Tournament's main event.
-  - The Invite Date must follow the announcement of Additional Information by no fewer than 30 days.
+- The Announcement Date for **Basic Information** and **Additional Information** must be at least 2 months before the start of the Tournament's main event.
+- The Invite Date has to be at least 30 days after the announcement of Additional Information.
+- The Announcement Date for **Qualifier Information** must be at least 1 week before the start of the first Open Qualifier.
 
 For Tier 2 Tournaments that do not have any direct VRS invites the following Rules apply:
-  - The Announcement Date must be at least two weeks before the start of the Tournament's main event.
+- The Announcement Date for **Basic Information** and **Additional Information** must be at least two weeks before the start of the Tournament's main event.
+- The Announcement Date for **Qualifier Information** must be at least 1 week before the start of the first Open Qualifier.
 
-4.2 **Basic Information.** For all types of Tournaments, Tournament Operator shall publish at least the dates and the identity of the operator of the Tournament.
+4.5 **Permitted changes after announcement deadlines.**
+The following changes are permitted despite happening after the before-mentioned announcement deadlines:
+- The addition of further Open Qualifiers, should there not be enough rosters eligible for VRS invites.
+- An increase in the number of teams advancing from the Open Qualifiers, should there not be enough rosters eligible for VRS invites.
 
-4.3 **Additional** **Information.** Tournament Operator shall publish the following additional information no later than 12 months before the Tournament main event for Tier 1 and Wildcard Tournaments, no later than 2 months before the Tournament main event of Tier 2 Tournaments that feature VRS invitations, and no later than two weeks before the Tournament main event of Tier 2 Tournament that do not feature any VRS invitations:
-
-- A definition of the filters to the VRS (if any) that Direct VRS Invites will be based on.
-
-- The VRS rank from which Tournament Operator will begin invitations.
-
-- The number of Rosters subject to a Direct VRS Invite and/or Wildcard Invite, if any.
-
-- The Invitation Date.
-
-- The VRS publication date from which Direct VRS Invites will be issued.
-
-- The broader geographical region where the Tournament takes place, e.g., North America, West Europe, Southeast Asia, etc.
-
-- Whether an Open Qualifier will be part of the Tournament and if so, the rules for such an Open Qualifier.
-
-- Which Tournament stages are online or LAN.
-
-- The prize pool and the rules for its distribution. To the degree that Tournament Operator compensates Teams, Rosters or Athletes for appearing at Tournaments in any other way (e.g. guaranteed payments for appearances, revenue shares in sponsorships or media rights etc.), Tournament Operator will publish comprehensive information of all such compensation.
-  
-- Any integrity or conduct rules that may disqualify a Roster from a Direct VRS Invite.
-  
 
 ### 5. Competition / Integrity.
 
