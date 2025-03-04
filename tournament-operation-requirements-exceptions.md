@@ -13,6 +13,9 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 |:-----------|:----------|
 | ESL Pro League Season 21 | May directly invite some teams based on their performance in previous Pro League Seasons. |
 | ESL Pro League Season 22 | May invite additional wildcard rosters to the closed qualifier.|
+| ESL Challenger League Season 50 | May invite the top 4 teams from ESEA Advanced Season 52 and 53. |
+| ESEA Advanced Season 52 NA | May directly invite some teams based on their performance in previous ESEA Advanced NA Seasons. |
+| ESEA Advanced Season 52 Europe | May directly invite some teams based on their performance in previous ESEA Advanced Europe Seasons. |
 | IEM Dallas               | May apply NA and SA as VRS filters despite not being official regions. |
 | EWC 2025                 | May invite the winner of Hero Esports ACL in lieu of one VRS invitation.|
 | BLAST Rivals             | May run one Wildcard event after two Tier 1 events instead of three. |
