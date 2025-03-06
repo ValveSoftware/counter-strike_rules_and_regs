@@ -34,6 +34,8 @@ The following rules shall apply to all Counter Strike 2 Tournament(s). The versi
 
 1.10 **"Invite Date"** shall be the date on which the invitations to Rosters for a given Tournament are being sent out.
 
+1.11 **"Tournament Dates"** shall mean the entire period of the Tournament, spanning from its start date to its end date, and includes all days during which Rosters could be required to be present (e.g., for matches, media, meetings, or other Tournament-related activities).
+
 
 
 ### 2. **Rules for Unranked Tournaments.** 
@@ -86,7 +88,7 @@ If Tournament Operator defines a Tournament as a Ranked Tournament, then the fol
 
 3.4.2 A Directly Invited VRS Roster cannot start at a later stage than another Directly Invited VRS Roster with a higher VRS Rank.
 
-3.4.3 For the purposes of seeding within a stage, Tournament Operator will use the Global VRS rank if available.
+3.4.3 For the purposes of seeding within a stage, Tournament Operator will use the Global VRS rank from the Invitation VRS, if applicable.
 
 3.4.4 Rosters without a Global VRS rank cannot be seeded higher than VRS Ranked Rosters.
 
@@ -175,7 +177,7 @@ For Tier 2 Tournaments that include Direct VRS Invites the following rules apply
 For Tier 2 Tournaments that do not have any direct VRS invites the following Rules apply:
   - The Announcement Date must be at least two weeks before the start of the Tournament's main event.
 
-4.2 **Basic Information.** For all types of Tournaments, Tournament Operator shall publish at least the dates and the identity of the operator of the Tournament.
+4.2 **Basic Information.** For all types of Tournaments, on the Announcement Date, Tournament Operator shall publish the Tournament Dates and the identity of the Tournament Operator.
 
 4.3 **Additional** **Information.** Tournament Operator shall publish the following additional information no later than 12 months before the Tournament main event for Tier 1 and Wildcard Tournaments, no later than 2 months before the Tournament main event of Tier 2 Tournaments that feature VRS invitations, and no later than two weeks before the Tournament main event of Tier 2 Tournament that do not feature any VRS invitations:
 
