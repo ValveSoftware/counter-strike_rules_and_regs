@@ -15,13 +15,6 @@ The following is a list of rosters that achieved eligibility to receive a Wildca
 | MOUZ | Brollan, torzsi, Spinx, Jimpphat, xertioN | 2025-02-23 | Tier 1 |
 | Falcons | NiKo, Magisk, TeSeS, degster, kyxsan | 2025-02-23 | Tier 1 |
 | Shimmer | Stx, empathy, Fawx, raven, milo | 2025-01-04 | Tier 2 |
-| Lotus fe | abby,tokkis,gadfly,Zazu,cyclone | 2025-01-04 | Tier 2 |
-| Preasy | AcilioN, Patti, Griller, Viggo, Beccie | 2025-01-07 | Tier 2 |
-| CPH Wolves | Jackinho, szejn, b1elany, aNdu, Tapewaare | 2025-01-07 | Tier 2 |
-| Wildcard | stanislaw, Sonic, phzy, susp, JBa | 2025-01-12 | Tier 2 |
-| 9 Pandas | Krad, shalfey, d1Ledez, r3salt, Alv | 2025-01-12 | Tier 2 |
-| BESTIA | Nokste, pancc, luchov, naz, tomaszin | 2025-01-12 | Tier 2 |
-| Legacy | dumau, latto, n1ssim, lux, saadzin | 2025-01-12 | Tier 2 |
 | 500 | SPELLAN, CeRz, SHiPZ, Rainwaker, oxygeN | 2025-02-15 | Tier 2 |
 | Partizan | emi, c0llins, Kind0, Dragon, VLDN | 2025-02-15 | Tier 2 |
 | K27 | X5G7V, xeedo, relaxxie, kash1d, qw1nk1 | 2025-02-16 | Tier 2 |
