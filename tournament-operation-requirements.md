@@ -106,7 +106,7 @@ For Open Qualifiers, Tournament Operator can use any criteria that in good faith
 
 3.6.2 If Tournament Operator chooses not to make use of previously announced Wildcard invitations, they may invite the next highest ranked Rosters from the VRS lists already announced for the Tournament.
 
-3.6.3 A Roster shall only be eligible for a Wildcard Invite if it is ranked lower than 12 on all VRS lists and it fulfills at least one of the following requirements as of the Invitation Date:
+3.6.3 A Roster shall only be eligible for a Wildcard Invite if it is ranked lower than 12 on the Global VRS list and it fulfills at least one of the following requirements as of the Invitation Date:
 
 a) It includes at least 3 players who individually were members of a top 12 Roster on an Invite VRS List at any time during the preceding 6 months.
 
