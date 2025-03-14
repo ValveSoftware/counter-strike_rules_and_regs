@@ -14,7 +14,7 @@ The following rules shall apply to all Counter Strike 2 Tournament(s). The versi
 
 ### 1. Definitions
 
-1.1 **"Valve Regional Standings"** or **"VRS"** shall mean the official system for ranking the performance of Rosters published by Valve, which is provided in a version calculated and published on a monthly basis that shall be the basis for Direct VRS Invites.
+1.1 **"Valve Regional Standings"** or **"VRS"** shall mean the official system for ranking the performance of Rosters published by Valve, which is published monthly and shall be the basis for Direct VRS Invites. For avoidance of doubt, the only versions relevant to this document are provided in [counter-strike_regional_standings/invitation](https://github.com/ValveSoftware/counter-strike_regional_standings/tree/main/invitation)
 
 1.2 **"Roster"** shall be a collection of five specific Athletes, irrespective of their current or later association with a given Team organization.
 
@@ -62,7 +62,7 @@ If Tournament Operator defines a Tournament as a Ranked Tournament, then the fol
 
 3.2.2 Tournament Operator must invite a minimum of two Rosters from any single VRS list.
 
-3.2.3 Tournament Operator must use the most recent version of the Invitation VRS (counter-strike_regional_standings\invitation\), as of the Invite Date.
+3.2.3 Tournament Operator must use the most recent version of the VRS, as of the Invite Date.
 
 3.2.4 Tournament Operator must invite Rosters sequentially, starting with the chosen starting VRS rank.
 
@@ -88,9 +88,10 @@ If Tournament Operator defines a Tournament as a Ranked Tournament, then the fol
 
 3.4.2 A Directly Invited VRS Roster cannot start at a later stage than another Directly Invited VRS Roster with a higher VRS Rank.
 
-3.4.3 For the purposes of seeding within a stage, Tournament Operator will use the Global VRS rank from the Invitation VRS, if applicable.
+3.4.3 Rosters without a Global VRS rank cannot be seeded higher than VRS Ranked Rosters.
 
-3.4.4 Rosters without a Global VRS rank cannot be seeded higher than VRS Ranked Rosters.
+3.4.4 Initial seeding will use the version of the VRS that was specified in the Additional Information announcement.
+
 
 
 3.5 **Open Qualifiers.** 
@@ -103,11 +104,11 @@ For Open Qualifiers, Tournament Operator can use any criteria that in good faith
 
 3.6.1 For every 8 Rosters invited from a VRS, 2 eligible Rosters ("**Wildcard Invite**") can be invited to the Tournament. 
 
-3.6.2 If Tournament Operator chooses not to make use of previously announced Wildcard Invitations, they may invite the next highest ranked Rosters from the VRS lists already announced for the Tournament.
+3.6.2 If Tournament Operator chooses not to make use of previously announced Wildcard invitations, they may invite the next highest ranked Rosters from the VRS lists already announced for the Tournament.
 
-3.6.3 A Roster shall only be eligible for a Wildcard Invite if it fulfills at least one of the following requirements as of the Invitation Date:
+3.6.3 A Roster shall only be eligible for a Wildcard Invite if it is ranked lower than 12 on all VRS lists and it fulfills at least one of the following requirements as of the Invitation Date:
 
-a) It includes at least 3 players who individually were members of a top 8 Roster on an Invite VRS List at any time during the preceding 6 months.
+a) It includes at least 3 players who individually were members of a top 12 Roster on an Invite VRS List at any time during the preceding 6 months.
 
 b) It has placed first or second place in any Tournament, of equal or lesser tier than the one issuing the invite, during the preceding 6 months.
 
@@ -119,7 +120,7 @@ If the Tournament Operator defines the Tournament as a "Tier 1" Tournament then 
 
 3.7.1 Tournament Operator must invite from one or more of the official VRS lists: Global, Americas, Europe, Asia.
 
-3.7.2 The Tournament must invite a minimum of 16 Rosters by Direct VRS Invite.
+3.7.2 The Tournament must invite a minimum of 20 Rosters by Direct VRS Invite.
 
 3.7.3 The list of invited Rosters always starts with the Roster that has the top VRS rank (i.e., the #1 Roster) at the time of the Invite Date. 
 
@@ -139,9 +140,7 @@ If Tournament Operator defines a Tournament as a Tier 2 Tournament, the followin
 
 3.8.3 Tournament Operator may apply additional filters to the VRS lists (e.g., "North America") insofar as they do not lead to the specific targeting of individual Teams or Rosters. For the avoidance of doubt, filtering by country or gender is permitted.
 
-3.8.4 If Tournament Operator decides to include Direct VRS Invites from an unfiltered VRS list, the VRS rank of the invited Rosters must be no better than 9. 
-
-3.8.5 If Tournament Operator decides to include Direct VRS Invites from a filtered version of the VRS, the VRS rank of the invited Rosters may begin at 1 and the number of invited Rosters must be at least 8. A filtering of a VRS list must be meaningful--a filtering that produces a list that is nearly identical to the unfiltered one is not to be considered 'filtered' for this purpose.
+3.8.4 The VRS rank of the invited Rosters must be lower than 12 on the Global VRS at the time of the Invite Date.
 
 
 3.9 **Wildcard Tournaments.** For every three completed Tournaments, Tournament Operator may operate one Wildcard Tournament of equivalent or lesser Tier. If Tournament Operator defines a Tournament as a Wildcard Tournament, the following rules shall apply:
@@ -167,7 +166,7 @@ If Tournament Operator defines a Tournament as a Tier 2 Tournament, the followin
   	- The Invite Date must follow the announcement of Additional Information by no fewer than 60 days. 
 
 - For Tournaments starting after 31 December, 2026:
-  	- The Announcement Date must be at least 24 months prior to the start of the Tournament's main event
+  	- The Announcement Date must be at least 22 months prior to the start of the Tournament's main event
   	- The Invite Date must follow the announcement of Additional Information by no fewer than 6 months.
 
 For Tier 2 Tournaments that include Direct VRS Invites the following rules apply:
@@ -179,7 +178,7 @@ For Tier 2 Tournaments that do not have any direct VRS invites the following Rul
 
 4.2 **Basic Information.** For all types of Tournaments, on the Announcement Date, Tournament Operator shall publish the Tournament Dates and the identity of the Tournament Operator.
 
-4.3 **Additional** **Information.** Tournament Operator shall publish the following additional information no later than 12 months before the Tournament main event for Tier 1 and Wildcard Tournaments, no later than 2 months before the Tournament main event of Tier 2 Tournaments that feature VRS invitations, and no later than two weeks before the Tournament main event of Tier 2 Tournament that do not feature any VRS invitations:
+4.3 **Additional** **Information.** Tournament Operator shall publish the following additional information no later than 10 months before the Tournament main event for Tier 1 and Wildcard Tournaments, no later than 2 months before the Tournament main event of Tier 2 Tournaments that feature VRS invitations, and no later than two weeks before the Tournament main event of Tier 2 Tournament that do not feature any VRS invitations:
 
 - A definition of the filters to the VRS (if any) that Direct VRS Invites will be based on.
 
@@ -191,7 +190,9 @@ For Tier 2 Tournaments that do not have any direct VRS invites the following Rul
 
 - The VRS publication date from which Direct VRS Invites will be issued.
 
-- The broader geographical region where the Tournament takes place, e.g., North America, West Europe, Southeast Asia, etc.
+- The VRS publication date which will be used for seeding.
+
+- The visa region where the Tournament takes place, e.g., USA, Schengen, China, etc.
 
 - Whether an Open Qualifier will be part of the Tournament and if so, the rules for such an Open Qualifier.
 
