@@ -18,23 +18,25 @@ The following rules shall apply to all Counter Strike 2 Tournament(s). The versi
 
 1.2 **"Roster"** shall be a collection of five specific Athletes, irrespective of their current or later association with a given Team organization.
 
-1.3 **"Qualified Roster(s)"** shall mean any Roster that has been selected to appear in the Tournament in accordance with the procedures defined herein.
+1.3 **"Invited Roster(s)"** shall mean any Roster that has been invited to appear in the Tournament in accordance with the procedures defined herein.
 
-1.4 **"Direct VRS Invite"** shall mean a method of selecting Qualified Rosters from the VRS.
+1.4 **"Participating Roster(s)"** shall mean the five Athletes that participate in the Tournament in accordance with the procedures defined herein.
 
-1.5 **"Ranked Tournament"** shall mean a Tournament for which the outcome generates data used by the Valve Regional Standings to determine the relative performance of Rosters.
+1.5 **"Direct VRS Invite"** shall mean a method of selecting Rosters from the VRS.
 
-1.6 **"Unranked Tournament"** shall mean a Tournament for which the outcome does not generate data used by the Valve Regional Standings to determine the relative performance of Rosters.
+1.6 **"Ranked Tournament"** shall mean a Tournament for which the outcome generates data used by the Valve Regional Standings to determine the relative performance of Rosters.
 
-1.7 **"Main Stage"** shall mean the stage of a Tournament past which no Rosters enter (i.e., Rosters are only eliminated past this point).
+1.7 **"Unranked Tournament"** shall mean a Tournament for which the outcome does not generate data used by the Valve Regional Standings to determine the relative performance of Rosters.
 
-1.8 **"Open Qualifier"** shall mean a stage of the Tournament that is open to the public.
+1.8 **"Main Stage"** shall mean the stage of a Tournament past which no Rosters enter (i.e., Rosters are only eliminated past this point).
 
-1.9 **"Announcement Date"** shall mean the date on which a Tournament is announced to the public.
+1.9 **"Open Qualifier"** shall mean a stage of the Tournament that is open to the public.
 
-1.10 **"Invite Date"** shall be the date on which the invitations to Rosters for a given Tournament are being sent out.
+1.10 **"Announcement Date"** shall mean the date on which a Tournament is announced to the public.
 
-1.11 **"Tournament Dates"** shall mean the entire period of the Tournament, spanning from its start date to its end date, and includes all days during which Rosters could be required to be present (e.g., for matches, media, meetings, or other Tournament-related activities).
+1.11 **"Invite Date"** shall be the date on which the invitations to Rosters for a given Tournament are being sent out.
+
+1.12 **"Tournament Dates"** shall mean the entire period of the Tournament, spanning from its start date to its end date, and includes all days during which Rosters could be required to be present (e.g., for matches, media, meetings, or other Tournament-related activities).
 
 
 
@@ -66,10 +68,16 @@ If Tournament Operator defines a Tournament as a Ranked Tournament, then the fol
 
 3.2.4 Tournament Operator must invite Rosters sequentially, starting with the chosen starting VRS rank.
 
-3.2.5 Directly invited VRS Rosters may only accept an invitation for a Tournament if at least three of the Athletes on Roster were also present on the Roster on the Invite Date. 
- 
-3.2.6 If any Rosters cannot accept, or choose to decline the Direct VRS Invite, Tournament Operator shall proceed down the VRS in order until all announced slots to the Tournament are filled. 
- 
+3.2.5 Directly invited VRS Rosters may only accept an invitation for a Tournament if:
+
+a) At least three of the Participating Roster's Athletes were on the Invited Roster on the Invite Date.
+
+b) The Participating Roster satisfies the invite criteria (e.g. regional, demographic, etc).
+
+c) The Roster has not previously declined an invitation to the same Tournament.
+
+3.2.6 If any Rosters cannot accept, or choose to decline the Direct VRS Invite, Tournament Operator shall proceed down the VRS in order until all announced slots to the Tournament are filled.
+
 3.2.7 In the event that there are fewer eligible VRS rosters than the number of announced Direct VRS Invites, the Tournament Operator may supplement with Open Qualifiers.
 
 

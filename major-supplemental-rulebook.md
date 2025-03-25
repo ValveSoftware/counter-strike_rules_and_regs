@@ -59,7 +59,7 @@ Top teams that have not been invited to Stage 2 or Stage 3 are invited to their 
 ### Regional Standing
 Teams in each world region are sorted via Valve Regional Standing (VRS). The three VRS regions are EU, Americas, and Asia, and these three lists are used for the purposes of invitation. A global version of the VRS is used only for the [pre-event seeding](#Pre-event-Seeding) of stages, after invitations have been accepted.
 
-If a team is invited to participate in a stage of the event based on their Regional Standing, at least three out of the five members of the core roster (the five players indicated in the Regional Standing) must accept the invitation, otherwise the invitation will be extended to the next-highest ranked roster in the region.
+If a team is invited to participate in a stage of the event based on their Regional Standing, at least three out of the five members of the core roster (the five players indicated in the Regional Standing) must accept the invitation and the resulting roster must satisfy the original regional criteria, otherwise the invitation will be extended to the next-highest ranked roster in the region.
 
 <a id="regional-assignments"></a>
 #### Team Regional Assignment
