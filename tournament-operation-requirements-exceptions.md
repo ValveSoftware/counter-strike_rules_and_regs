@@ -32,6 +32,8 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 | Skyesports Masters 2025       | May reduce previously announced prize pool.<br>May adjust tournament format with shorter timeframe than required for Tier 1 events. |
 | ESL Impact 7       | May directly invite some teams based on their performance in previous ESL Impact seasons. |
 | Elisa Open Suomi 8       | May announce/operate with shorter timeframe than required for Tier 2 events.<br>May directly invite some teams based on their performance in previous Elisa Open Suomi seasons. |
+| Elisa Open Suomi 9       | May directly invite some teams based on their performance in previous Elisa Open Suomi seasons. |
+| Elisa Nordic Championship 2025      | May run one Wildcard event after two Tier 2 events instead of three.<br>May invite the first and second place participants from Dust2.dk Ligaen S28. |
 | Galaxy Battle STARTER    | May announce/operate with shorter timeframe than required for Tier 2 events. |
 | FISSURE Playground 1 | May split the announced prize pool between prize pool and performance based team award. |
 | FISSURE Playground 2 | May split the announced prize pool between prize pool and performance based team award. |
