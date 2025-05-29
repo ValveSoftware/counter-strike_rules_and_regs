@@ -106,6 +106,8 @@ c) The Roster has not previously declined an invitation to the same Tournament.
 
 For Open Qualifiers, Tournament Operator can use any criteria that in good faith are reasonable and transparent, and do not specifically target individual Rosters. Acceptable criteria include demographics and region (e.g. \"Female Rosters based in Canada\").
 
+3.5.1 Teams entering into an Open Qualifier must start within the same stage.
+
 
 
 3.6 **Wildcard Invite.** 
