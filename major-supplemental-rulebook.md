@@ -14,13 +14,13 @@ The Tournament Organizer ("TO") will include this document in its tournament rul
 ### Deliverables
 These are the main deliverables outlined in this document that are required of the TO, along with their due date (relative to the start of the event).
 
-|                          Deliverable | Due            | MRQ | Major |
-|-------------------------------------:|----------------|:-----------:|:-----:|
-|       [Final Rosters](#Team-Rosters) | Start        | ✔             |       |
-|             [Agreements](#Agreement) | Start        | ✔             |       |
-|      [CoI Disclosures](#Disclosures) | Start        | ✔             |       |
-|        [Server Demos](#Server-Demos) | End    |               | ✔     |
-|          [Mugshots](#mugshots-major) | End   |               | ✔     |
+|                          Deliverable | Due            | 
+|-------------------------------------:|----------------|
+|       [Final Rosters](#Team-Rosters) | Start          |
+|             [Agreements](#Agreement) | Start          |
+|      [CoI Disclosures](#Disclosures) | Start          |
+|        [Server Demos](#Server-Demos) | End            |
+|          [Mugshots](#mugshots-major) | End            |
 
 
 ## Participants
@@ -29,22 +29,14 @@ These are the main deliverables outlined in this document that are required of t
 ### Invitations
 
 The Major features 32 teams
-- 16 teams are invited to Stage 1 from the Major Regional Qualifiers.
-- 8 teams are invited to Stage 2 based on Valve Regional Standing.
-- 8 teams are invited to Stage 3 based on Valve Regional Standing.
+- 16 teams are invited to Stage 1 from the Valve Regional Standing.
+- 8 teams are invited to Stage 2 from the Valve Regional Standing.
+- 8 teams are invited to Stage 3 from the Valve Regional Standing.
 
 Invitations are allocated according to the number of teams from the region that earned their respective position in the Major:
 - One Stage 2 invitation is assigned to the region for every team of that region that reached Stage 3 of the previous Major.
 - One Stage 3 invitation is assigned to the region for every team of that region that reached the Playoffs of the previous Major.
   
-Top teams that have not been invited to Stage 2 or Stage 3 are invited to their region's respective Major Regional Qualifier (MRQ), with the following distribution:
-
-|    Region |     MRQ Invitations           |        Stage 1 Invitations |
-| --------: | :----------------------------:|:------------------------: |
-|    Europe |          Next 16 from VRS     |        6                  |
-|   America |          Next 16 from VRS     |        6                  |
-|      Asia |           Next 8 from VRS     |        4                  |
-| **Total** |           **40**              |     **16**                |
 
 <a id="Regional-Major-Invites"></a>
 ##### Major Invites for Summer 2025 based on performance of regions in [Winter 2024](#Final-Rankings-Major):
@@ -59,20 +51,20 @@ Top teams that have not been invited to Stage 2 or Stage 3 are invited to their 
 ### Regional Standing
 Teams in each world region are sorted via Valve Regional Standing (VRS). The three VRS regions are EU, Americas, and Asia, and these three lists are used for the purposes of invitation. A global version of the VRS is used only for the [pre-event seeding](#Pre-event-Seeding) of stages, after invitations have been accepted.
 
-If a team is invited to participate in a stage of the event based on their Regional Standing, at least three out of the five members of the core roster (the five players indicated in the Regional Standing) must accept the invitation and the resulting roster must satisfy the original regional criteria, otherwise the invitation will be extended to the next-highest ranked roster in the region.
+If a team is invited to participate in a stage of the event based on their Regional Standing, at least three out of the five members of the core roster (the five players indicated in the Regional Standing) must accept the invitation and the resulting roster must satisfy the invitation's [Regional Assignment](#regional-assignments), otherwise the invitation will be extended to the next-highest ranked roster in the region.
 
 <a id="regional-assignments"></a>
 #### Team Regional Assignment
-A team’s region is determined by the region of the VRS from which they have been invited.
 
+A team's Regional Assignment is the region represented by the majority of its players. In the case of a tie, their Regional Assignment is the region with greater representation in the Major (i.e., Europe, then Americas, then Asia).
+
+ 
 #### Invitation Process
 Invitations will be sent to intact teams, per the [invitation](#Invitations) requirements above. 
 
-Invitations are first sent to teams invited to participate in Stage 3. Then invitations are sent to teams invited to Stage 2. Finally, invitations are sent to teams invited to the MRQs.
+Invitations are first sent to teams invited to participate in Stage 3. Then invitations are sent to teams invited to Stage 2. Finally, invitations are sent to teams invited to Stage 1.
 
 If a team declines an invitation, or is no longer intact, they do not participate in the Major and the next-highest ranked team receives their invitation. If there are no additional teams available, then the remaining slots are to be determined by a last-chance regional qualifier.
-
-In the event that a team would be invited to a particular stage based on more than one regional VRS, they are considered to have been invited based on the region with greater representation in the Major (i.e., Europe, then America, then Asia).
 
 ### Team Rosters
 #### Team Requirements
@@ -81,7 +73,7 @@ In the event that a team would be invited to a particular stage based on more th
 - Team roster may optionally include 1 substitute player that, were they to replace any core player, would not alter the [Regional Assignment](#regional-assignments) of the Core Lineup.
 - The coach and substitute may be the same person.
 
-A team cannot adjust their Core Lineup between the MRQ and the Major. However, they can register a different coach or substitute player.
+A team cannot adjust their Roster after the registration deadline.
 
 #### Participant Manifest
 The TO needs to collect the following of all registered participants and [deliver them to Valve](#Deliverables) (Excel or CSV). 
@@ -170,83 +162,6 @@ Individuals (including coaches) that are prohibited from participation in the ev
     - Single elimination bracket
     - Top 8 from Stage 3
 
-<a id="format_MRQ"></a>
-### MRQ Format
-
-The MRQ requirements are as follows:
-- Each region will hold one Major Regional Qualifier.
-- The MRQ may be held online.
-- If a region must be subdivided to accommodate ping of participating teams (e.g., AMER -> NA and SA), Major invitations will be split evenly among the regions. If invitations cannot be evenly split, the remaining invitation(s) will be granted to the subdivided qualifier featuring the team with the highest Regional Standing.
-- All teams in the MRQ will be invited directly based on their [Regional Standing](#Regional-Standing). If it is not practical to fill all closed qualifier positions via Regional Standings, the TO may supplement with open qualifiers.
-
-The MRQ format for a region is determined by the number of Major slots for that region. The formats are as follows:
-
-#### 1 and 2 Invitations: 
-- 4-team Double-Elimination Bracket
-- All matches are best of 3.
-
-- For 1 Invitation:
-    - Game 1: Seed 1 v Seed 3
-    - Game 2: Seed 2 v Seed 4
-    - Game 3: Winner 1 v Winner 2
-    - Game 4: Loser 1 v Loser 2
-    - Game 5: Winner 4 v Loser 3
-    - Game 6: Winner 3 v Winner 5
-    - Winner 6 Advances
-
-- For 2 Invitations:
-    - Game 1: Seed 1 v Seed 3
-    - Game 2: Seed 2 v Seed 4
-    - Game 3: Winner 1 v Winner 2
-    - Winner 3 Advances
-    - Game 4: Loser 1 v Loser 2
-    - Game 5: Winner 4 v Loser 3    
-    - Winner 5 Advances
-
-#### For 3 and 4 invitations
-- 8 teams are divided into two GSL groups
-- All matches are best of 3.
-
-| Group A | Group B |
-|:--------|:--------|
-|1        |2        |
-|4        |3        |
-|5        |6        |
-|8        |7        |     
-
-| Opening Matches |
-|:----------------|
-| 1 v 5 |
-| 2 v 6 |
-| 3 v 7 |
-| 4 v 8 |
-
-- For 3 Invitations (e.g., NA/SA split):
-    - Teams with 2-0 record advance.
-    - Teams with a 1-1 record play the following matches:
-        - Highest seed from A faces lowest seed from B
-        - Highest seed from B faces lowest seed from A
-    - Teams with 2-1 record play and the loser is eliminated.
-
-- For 4 Invitations (Asia):
-    - Teams with 2-0 record advance.
-    - Teams with 1-1 record play the following matches:
-        - Highest seed from A faces lowest seed from B
-        - Highest seed from B faces lowest seed from A
-    - Teams with 2-1 record advance.
-
-- For 6 Invitations (Americas, Europe): 16 team [Swiss bracket](#Swiss-Bracket)
-	
-	Decider matches (Advancement or Elimination) are best of 3.
-	All other matches are best of 1.
-
-	- Teams with 3-0 record advance.
-	- Teams with 3-1 record advance.
-	- Teams with 3-2 compete for 1 spot:
-        - The three 3-2 record teams are first sorted by difficulty score. 
-        - The lower two teams play a best of 3 and the loser is eliminated. 
-        - The remaining two teams play a best of 3 and the loser is eliminated.
-
 ### Swiss Bracket
 - Teams play against opponents of identical W-L record.
 - Three wins advance---Three losses eliminate
@@ -297,7 +212,7 @@ Match-ups for the first round of the Swiss format are as follows:
 - All matches are best of three
 
 ### Map Pick-Ban
-All Major and MRQ events are to use the following map pick-ban process for determining which map (bo1) or maps (bo3) are played.
+All Major matches are to use the following map pick-ban process for determining which map (bo1) or maps (bo3) are played.
 
 #### Best of 1 Pick-Ban Process
 1. The higher seed team chooses to be Team A or Team B
@@ -358,7 +273,7 @@ The Difficulty Score is the sum of current wins minus the sum of current losses 
 *Therefore, if both Team A and B have the same win-loss record, Team A gets the higher seed because it played against teams that were more difficult to defeat.*
 
 ## Technical Specifications
-*Requirements that pertain to the technical setup, configuration, and execution of the MRQs and Majors.*
+*Requirements that pertain to the technical setup, configuration, and execution of the Major.*
 
 ### Maps
 The TO is to use the up-to-date in-game versions of the maps in the Active Duty Map Group.
