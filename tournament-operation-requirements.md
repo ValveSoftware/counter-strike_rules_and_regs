@@ -80,6 +80,12 @@ c) The Roster has not previously declined an invitation to the same Tournament.
 
 3.2.7 In the event that there are fewer eligible VRS rosters than the number of announced Direct VRS Invites, the Tournament Operator may supplement with Open Qualifiers.
 
+3.2.8 For compensation determined by final standing (e.g., prize pools):
+
+a) The compensation for a given standing cannot exceed the compensation for any higher standing ( e.g., a qualifier cannot award a prize that is greater than any main event prize).
+
+b) The compensation for a given standing must be equivalent to the compensation for all equal standings (e.g., all prizes for identical placement in parallel matches, such as different qualifiers, must be identical).
+
 
 3.3 **VRS Subdivision**
 
@@ -87,7 +93,7 @@ c) The Roster has not previously declined an invitation to the same Tournament.
 
 3.3.2 Tournament Operator may subdivide Asia VRS invitations equally between Oceania, West Asia, and East Asia.
 
-3.3.3 If Tournament Operator subdivides a VRS region in this way, Rosters must have majority citizenship in the relevant subregion.
+3.3.3 If Tournament Operator subdivides a VRS region in this way, Rosters must have a plurality of citizenships from the relevant subregion (among the players from the region).
 
 
 3.4 **VRS Priority.**
