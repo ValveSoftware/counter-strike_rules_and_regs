@@ -39,46 +39,44 @@ Invitations are allocated according to the number of teams from the region that 
   
 
 <a id="Regional-Major-Invites"></a>
-##### Major Invites for Summer 2025 based on performance of regions in [Winter 2024](#Final-Rankings-Major):
-|     Region | Stage 1 | Stage 2 | Stage 3 |
-|-----------:|:-------:|:-------:|:--------|
-|     Europe | 6       | 4       | 6       |
-|    America | 6       | 4       | 1       |
-|       Asia | 4       | -       | 1       |
+##### Major Invites for Winter 2025 based on performance of regions in [Previous Major](#Final-Rankings-Major):
+| Region     | Stage 1 | Stage 2 | Stage 3 |
+| ---------: | :-----: | :-----: | ------- |
+| Europe     |         | 5       | 5       |
+| America    |         | 2       | 2       |
+| Asia       |         | 1       | 1       |
+| TBD        | 16      |         |         |
 | **Totals** | **16**  | **8**   | **8**   |
 
 
 ### Regional Standing
-Teams in each world region are sorted via Valve Regional Standing (VRS). The three VRS regions are EU, Americas, and Asia, and these three lists are used for the purposes of invitation. A global version of the VRS is used only for the [pre-event seeding](#Pre-event-Seeding) of stages, after invitations have been accepted.
-
-If a team is invited to participate in a stage of the event based on their Regional Standing, at least three out of the five members of the core roster (the five players indicated in the Regional Standing) must accept the invitation and the resulting roster must satisfy the invitation's [Regional Assignment](#regional-assignments), otherwise the invitation will be extended to the next-highest ranked roster in the region.
+Rosters in each world region are sorted via Valve Regional Standing (VRS). The three VRS regions are EU, Americas, and Asia, and these three lists are used for the purposes of invitation. A global version of the VRS is used only for the [pre-event seeding](#Pre-event-Seeding) of stages, after invitations have been accepted.
 
 <a id="regional-assignments"></a>
-#### Team Regional Assignment
+#### Roster Regional Assignment
 
-A team's Regional Assignment is the region represented by the majority of its players. In the case of a tie, their Regional Assignment is the region with greater representation in the Major (i.e., Europe, then Americas, then Asia).
+A roster's Regional Assignment is the region represented by the majority of its players. In the case of a tie, their Regional Assignment is the region with greater representation in the Major (i.e., Europe, then Americas, then Asia).
 
  
 #### Invitation Process
-Invitations will be sent to intact teams, per the [invitation](#Invitations) requirements above. 
+Invitations will be sent to intact rosters, per the [invitation](#Invitations) requirements above. 
 
-Invitations are first sent to teams invited to participate in Stage 3. Then invitations are sent to teams invited to Stage 2. Finally, invitations are sent to teams invited to Stage 1.
+Invitations are first sent to rosters invited to participate in Stage 3. Then invitations are sent to rosters invited to Stage 2. Finally, invitations are sent to rosters invited to Stage 1.
 
-If a team declines an invitation, or is no longer intact, they do not participate in the Major and the next-highest ranked team receives their invitation. If there are no additional teams available, then the remaining slots are to be determined by a last-chance regional qualifier.
+If a roster declines an invitation, or is no longer intact, they do not participate in the Major and the next-highest ranked roster receives their invitation. If there are no additional rosters available, then the remaining slots are to be determined by a last-chance regional qualifier.
 
 ### Team Rosters
 #### Team Requirements
-- Team roster must include 5 players ("Core Lineup").
-- Team roster may optionally include 1 coach.
-- Team roster may optionally include 1 substitute player that, were they to replace any core player, would not alter the [Regional Assignment](#regional-assignments) of the Core Lineup.
+- The registered roster must match the invited roster ("Core Lineup").
+- The registered roster may optionally include 1 coach.
+- The registered roster may optionally include 1 substitute player that, were they to replace any core player, would not alter the [Regional Assignment](#regional-assignments) of the Core Lineup.
 - The coach and substitute may be the same person.
 
-A team cannot adjust their Roster after the registration deadline.
 
 #### Participant Manifest
 The TO needs to collect the following of all registered participants and [deliver them to Valve](#Deliverables) (Excel or CSV). 
 
-- Team 
+- Team organization
 - Position (player, sub, or coach)
 - Full name
 - Nickname
@@ -592,7 +590,7 @@ Return to the Control Room and click the `SAVE FINAL SCORE` button. This will cl
 *Obligations that pertain to the completion of the tournaments.*
 <a id="Final-Rankings-Major"></a>
 
-### Final Rankings [Major]
+### Final Rankings
 
 Final Major Rankings are determined by (in order) 
 1. Position in Playoffs
@@ -604,33 +602,44 @@ Final Major Rankings are determined by (in order)
 7. Stage 1 Difficulty
 8. Initial Seeding
 
-#### Results: 2024 Shanghai
-|    # | Team              |     Position     | W/L<sub>L</sub> | D<sub>L</sub> | W/L<sub>C</sub> | D<sub>C</sub> | Initial Seeding |             Next Major Invitation Earned|
-| ---: | :---------------- | :--------------: | :-------------: | :-----------: | :-------------: | :-----------: | :-------------: | :--------------------------------------: |
-|    1 | Team Spirit       |  Major Champion  |                 |               |                 |               |                 | EUR <br><sub>Stage 3</sub> |
-|    2 | FaZe Clan         |  Grand-finalist  |                 |               |                 |               |                 | EUR <br><sub>Stage 3</sub> |
-|    3 | G2 Esports        |  Semi-finalist   |       3-1       |               |                 |               |                 | EUR <br><sub>Stage 3</sub> |
-|    4 | MOUZ              |  Semi-finalist   |       3-2       |               |                 |               |                 | EUR <br><sub>Stage 3</sub> |
-|    5 | The Mongolz       | Quarter-finalist |       3-0       |       4       |                 |               |                 | ASIA <br><sub>Stage 3</sub> |
-|    6 | Team Vitality     | Quarter-finalist |       3-0       |      -4       |                 |               |                 | EUR <br><sub>Stage 3</sub> |
-|    7 | Team Liquid       | Quarter-finalist |       3-1       |               |                 |               |                 | AMER <br><sub>Stage 3</sub> |
-|    8 | HEROIC            | Quarter-finalist |       3-2       |               |                 |               |                 | EUR <br><sub>Stage 3</sub> |
-|    9 | FURIA Esports     |        -         |       2-3       |       6       |                 |               |                 | AMER <br><sub>Stage 2</sub>   |
-|   10 | MIBR              |        -         |       2-3       |       3       |                 |               |                 | AMER <br><sub>Stage 2</sub>    |
-|   11 | Natus Vincere     |        -         |       2-3       |       2       |                 |               |                 | EUR  <br><sub>Stage 2</sub>   |
-|   12 | GamerLegion       |        -         |       1-3       |       1       |                 |               |                 | EUR  <br><sub>Stage 2</sub>   |
-|   13 | 3DMAX             |        -         |       1-3       |       0       |                 |               |                 | EUR  <br><sub>Stage 2</sub>   |
-|   14 | paiN Gaming       |        -         |       1-3       |      -5       |                 |               |                 | AMER  <br><sub>Stage 2</sub>   |
-|   15 | Wildcard          |        -         |       0-3       |       1       |       3-2       |      -1       |                 | AMER  <br><sub>Stage 2</sub>   |
-|   16 | BIG               |        -         |       0-3       |       1       |       3-2       |      -3       |                 | EUR  <br><sub>Stage 2</sub>   |
-|   17 | FlyQuest          |        -         |        -        |       -       |       2-3       |       6       |                 |      |
-|   18 | Passion UA        |        -         |        -        |       -       |       2-3       |       4       |                 |      |
-|   19 | Complexity Gaming |        -         |        -        |       -       |       2-3       |      -6       |                 |      |
-|   20 | Virtus.pro        |        -         |        -        |       -       |       1-3       |       1       |      10         |      |
-|   21 | Cloud9            |        -         |        -        |       -       |       1-3       |       1       |      19         |      |
-|   22 | Rare Atom         |        -         |        -        |       -       |       1-3       |      -1       |                 |      |
-|   23 | Imperial Esports  |        -         |        -        |       -       |       0-3       |       3       |                 |      |
-|   24 | Fnatic            |        -         |        -        |       -       |       0-3       |      -3       |                 |      |
+#### Results: 2025 Austin
+| #   | Team               | Position         | W/L<sub>Stage 3</sub> | D<sub>Stage 3</sub> | W/L<sub>Stage 2</sub> | D<sub>Stage 2</sub> | W/L<sub>Stage 1</sub> | D<sub>Stage 1</sub> | Initial Seeding | Region |
+| --: | ------------------ | :--------------: | :-------------------: | :-----------------: | :-------------------: | :-----------------: | :-------------------: | ------------------- | --------------- | ------ |
+| 1   | Team Vitality      | Major Champion   |                       |                     |                       |                     |                       |                     |                 | Eu     |
+| 2   | The Mongolz        | Grand-finalist   |                       |                     |                       |                     |                       |                     |                 | Asia   |
+| 3   | MOUZ               | Semi-finalist    |                       |                     |                       |                     |                       |                     |                 | Eu     |
+| 4   | paiN               | Semi-finalist    |                       |                     |                       |                     |                       |                     |                 | Amer   |
+| 5   | Team Spirit        | Quarter-finalist | 3-0                   | 1                   |                       |                     |                       |                     |                 | Eur    |
+| 6   | FURIA Esports      | Quarter-finalist | 3-0                   | -2                  |                       |                     |                       |                     |                 | Amer   |
+| 7   | Faze Clan          | Quarter-finalist | 3-1                   | -1                  |                       |                     |                       |                     |                 | Eur    |
+| 8   | Natus Vincere      | Quarter-finalist | 3-1                   | -3                  |                       |                     |                       |                     |                 | Eur    |
+| --: | ------------------ | :--------------: | :-------------------: | :-----------------: | :-------------------: | :-----------------: | :-------------------: | ------------------- | --------------- | ------ |
+| 9   | Virtus Pro         | -                | 2-3                   | 6                   |                       |                     |                       |                     |                 | Eur    |
+| 10  | Legacy             | -                | 2-3                   | 2                   |                       |                     |                       |                     |                 | Amer   |
+| 11  | G2 Esports         | -                | 2-3                   | 0                   |                       |                     |                       |                     |                 | Eur    |
+| 12  | Aurora Gaming      | -                | 1-3                   | 5                   |                       |                     |                       |                     |                 | Eur    |
+| 13  | 3DMAX              | -                | 1-3                   | 4                   |                       |                     |                       |                     |                 | Eur    |
+| 14  | Lynn Vision Gaming | -                | 1-3                   | 0                   |                       |                     |                       |                     |                 | Asia   |
+| 15  | Nemiga Gaming      | -                | 0-3                   | 5                   |                       |                     |                       |                     |                 | Eur    |
+| 16  | Team Liquid        | -                | 0-3                   | 0                   |                       |                     |                       |                     |                 | Amer   |
+| --: | ------------------ | :--------------: | :-------------------: | :-----------------: | :-------------------: | :-----------------: | :-------------------: | ------------------- | --------------- | ------ |
+| 17  | B8                 | -                |                       |                     | 2-3                   | 3                   |                       |                     |                 | Eur    |
+| 18  | MIBR               | -                |                       |                     | 2-3                   | 0                   |                       |                     |                 | Amer   |
+| 19  | HEROIC             | -                |                       |                     | 2-3                   | -4                  |                       |                     |                 | Eur    |
+| 20  | TYLOO              | -                |                       |                     | 1-3                   | -1                  |                       |                     |                 | Asia   |
+| 21  | M80                | -                |                       |                     | 1-3                   | -2                  |                       |                     |                 | Amer   |
+| 22  | Team Falcons       | -                |                       |                     | 1-3                   | -4                  |                       |                     |                 | Eur    |
+| 23  | BetBoom Team       | -                |                       |                     | 0-3                   | 0                   |                       |                     |                 | Eur    |
+| 24  | OG                 | -                |                       |                     | 0-3                   | -1                  |                       |                     |                 | Eur    |
+| --: | ------------------ | :--------------: | :-------------------: | :-----------------: | :-------------------: | :-----------------: | :-------------------: | ------------------- | --------------- | ------ |
+| 25  | FlyQuest           | -                |                       |                     |                       |                     | 2-3                   | 5                   | 29              | Asia   |
+| 26  | NRG                | -                |                       |                     |                       |                     | 2-3                   | 5                   | 37              | Amer   |
+| 27  | Wildcard           | -                |                       |                     |                       |                     | 2-3                   | 4                   |                 | Amer   |
+| 28  | Imperial           | -                |                       |                     |                       |                     | 1-3                   | 3                   |                 | Amer   |
+| 29  | Chinggis           | -                |                       |                     |                       |                     | 1-3                   | 2                   |                 | Asia   |
+| 30  | Complexity         | -                |                       |                     |                       |                     | 1-3                   | -1                  |                 | Amer   |
+| 31  | Metizport          | -                |                       |                     |                       |                     | 0-3                   | -2                  |                 | Eur    |
+| 32  | Fluxo              | -                |                       |                     |                       |                     | 0-3                   | -5                  |                 | Amer   |
 
 <a id="Server-Demos"></a>
 ### Server Demos [Major]
