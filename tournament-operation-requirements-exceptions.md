@@ -12,14 +12,16 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 | Event Name | Exception |
 |:-----------|:----------|
 | ESL Pro League Season 21 | May directly invite some teams based on their performance in previous Pro League Seasons. |
-| ESL Pro League Season 22 | May invite additional wildcard rosters to the closed qualifier.|
+| ESL Pro League Season 22 | May invite additional wildcard rosters to the closed qualifier.<br>May run a third/fourth place match and divide the fourth place prize pool accordingly.|
 | ESL Challenger League Season 50 | May invite the top 4 teams from ESEA Advanced Season 52 and 53. |
 | ESEA Advanced Season 52 NA | May directly invite some teams based on their performance in previous ESEA Advanced NA Seasons. |
 | ESEA Advanced Season 52 Europe | May directly invite some teams based on their performance in previous ESEA Advanced Europe Seasons. |
 | IEM Dallas               | May apply NA and SA as VRS filters despite not being official regions. |
-| EWC 2025                 | May invite the winner of Hero Esports ACL in lieu of one VRS invitation.|
+| IEM Chengdu              | May run a third/fourth place match and divide the fourth place prize pool accordingly.|
+| EWC 2025                 | May invite the winner of Hero Esports ACL in lieu of one VRS invitation.<br>May run a third/fourth place match and divide the fourth place prize pool accordingly.|
 | BLAST Rivals             | May run one Wildcard event after two Tier 1 events instead of three. |
-| BLAST Open               | May run regional VRS qualifiers to fill four positions in lieu of VRS invitations for position 13-16 in their event. The qualifiers cover Europe, Asia, NA and SA.<ul><li>Each Qualifier covers at least 16 VRS teams beyond those already invited to the event, in the respective region.</li><li>NA and SA are applied as VRS filters despite not being official regions, provided each receive an equal number of invitations to the main event and 16+ VRS invitations to the qualifier.</li></ul>|
+| BLAST Open               | May run regional VRS qualifiers to fill four positions in lieu of VRS invitations for position 13-16 in their event. The qualifiers cover Europe, Asia, NA and SA.<ul><li>Each Qualifier covers at least 16 VRS teams beyond those already invited to the event, in the respective region.</li><li>NA and SA are applied as VRS filters despite not being official regions, provided each receive an equal number of invitations to the main event and 16+ VRS invitations to the qualifier.</li></ul>May change Season 2 group stage matches online status after the additional information deadline. |
+| BLAST Premier Bounty     | May consider MRQs as a Tier 2 event for the purpose of wildcard invitations.|
 | PGL Bucharest            | May run regional VRS qualifiers to fill four positions in lieu of VRS invitations for position 13-16 in their event. The qualifiers cover Europe, Asia, NA and SA.<ul><li>Each Qualifier covers at least 16 VRS teams beyond those already invited to the event, in the respective region.</li><li>NA and SA are applied as VRS filters despite not being official regions, provided each receive an equal number of invitations to the main event and 16+ VRS invitations to the qualifier.</li></ul>May split the announced prize pool between prize pool and performance based team award.|
 | PGL Astana               | May run regional VRS qualifiers to fill four positions in lieu of VRS invitations for position 13-16 in their event. The qualifiers cover Europe, Asia, NA and SA.<ul><li>Each Qualifier covers at least 16 VRS teams beyond those already invited to the event, in the respective region.</li><li>NA and SA are applied as VRS filters despite not being official regions, provided each receive an equal number of invitations to the main event and 16+ VRS invitations to the qualifier.</li></ul>May split the announced prize pool between prize pool and performance based team award.|
 | PGL Belgrade             | May run regional VRS qualifiers to fill four positions in lieu of VRS invitations for position 13-16 in their event. The qualifiers cover Europe, Asia, NA and SA.<ul><li>Each Qualifier covers at least 16 VRS teams beyond those already invited to the event, in the respective region.</li><li>NA and SA are applied as VRS filters despite not being official regions, provided each receive an equal number of invitations to the main event and 16+ VRS invitations to the qualifier.</li></ul>May adjust tournament format with shorter timeframe than required for Tier 1 events.<br>May split the announced prize pool between prize pool and performance based team award.|
@@ -41,10 +43,13 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 | PrizePicks NA Revival Series May 30 | May operate under the [January 9th version of the Tournament Operation Requirements](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/5d975a93ed573c1f3820cf8c9176fe97d96bfd81/tournament-operation-requirements.md) |
 | YaLLa Compass Qatar 2025 |  May reduce previously announced prize pool.<br>May operate the event online. |
 | FiReLEAGUE Buenos Aires 2025 | May adjust tournament format with shorter timeframe than required for Tier 2 events. |
+| CAC 2025 | May invite two past winners of prior CAC events as Wildcard invitations.
 
 ## Exceptions for 2026
 
 | Event Name | Exception |
 |:-----------|:----------|
 | ACL X CS2 2026         | May announce/operate a Tier 1 Asia event with shorter timeframe than required for Tier 1 events.<br>May invite 16 teams from the VRS instead of 20. |
+| BLAST Rivals       | May run one Wildcard event after two Tier 1 events instead of three. |
+| IEM Krakow             | May run a third/fourth place match and divide the fourth place prize pool accordingly.|
 | XPL 2026 | May invite 16 teams from the VRS instead of 20. |
