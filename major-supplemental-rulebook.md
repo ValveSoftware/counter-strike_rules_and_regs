@@ -42,11 +42,11 @@ Invitations are allocated according to the number of teams from the region that 
 ##### Major Invites for Winter 2025 based on performance of regions in [Previous Major](#Final-Rankings-Major):
 | Region     | Stage 1 | Stage 2 | Stage 3 |
 | ---------: | :-----: | :-----: | ------- |
-| Europe     |         | 5       | 5       |
-| America    |         | 2       | 2       |
-| Asia       |         | 1       | 1       |
-| TBD        | 16      |         |         |
-| **Totals** | **16**  | **8**   | **8**   |
+| Europe     | 6        | 5       | 5      |
+| America    | 6        | 2       | 2      |
+| Asia       | 4        | 1       | 1      |
+| TBD        |          |         |        |
+| **Totals** | **16**   | **8**   | **8**  |
 
 
 ### Regional Standing
