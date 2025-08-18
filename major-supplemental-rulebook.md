@@ -166,7 +166,7 @@ Individuals (including coaches) that are prohibited from participation in the ev
 - All elimination and advancement matches are to be best of three.
 - All other matches are to be best of one.
 - Teams are not to play the same opponent twice in the same stage, if possible.
-- Match-ups shall be determined by [seed](#seeding). The first round follows the [Initial Match-ups](#Initial-Match-ups). In round 2 and 3, the highest seeded team faces the lowest seeded team available that does not result in a rematch within the stage. In other rounds, refer to the following table and select the top-most row that does not result in a rematch:
+- Match-ups shall be determined by [seed](#seeding). The first round follows the [Initial Match-ups](#Initial-Match-ups). In round 2 and 3, the highest seeded team faces the lowest seeded team available that does not result in a rematch within the stage. In the case that the final match-up assigned is a rematch, the final two high seed match-up teams swap opponents. In other rounds, refer to the following table and select the top-most row that does not result in a rematch:
 
 | Priority |  |  |  |
 |:--------:|--------:|--------:|--------:|
