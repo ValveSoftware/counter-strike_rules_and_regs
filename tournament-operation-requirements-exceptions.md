@@ -17,7 +17,7 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 | ESEA Advanced Season 52 NA | May directly invite some teams based on their performance in previous ESEA Advanced NA Seasons. |
 | ESEA Advanced Season 52 Europe | May directly invite some teams based on their performance in previous ESEA Advanced Europe Seasons. |
 | IEM Dallas               | May apply NA and SA as VRS filters despite not being official regions. |
-| IEM Chengdu              | May run a third/fourth place match and divide the fourth place prize pool accordingly.|
+| IEM Chengdu              | May run a third/fourth place match and divide the fourth place prize pool accordingly.<br>May update disqualification rules after the additional information deadline.|
 | EWC 2025                 | May invite the winner of Hero Esports ACL in lieu of one VRS invitation.<br>May run a third/fourth place match and divide the fourth place prize pool accordingly.|
 | BLAST Rivals             | May run one Wildcard event after two Tier 1 events instead of three. |
 | BLAST Open               | May run regional VRS qualifiers to fill four positions in lieu of VRS invitations for position 13-16 in their event. The qualifiers cover Europe, Asia, NA and SA.<ul><li>Each Qualifier covers at least 16 VRS teams beyond those already invited to the event, in the respective region.</li><li>NA and SA are applied as VRS filters despite not being official regions, provided each receive an equal number of invitations to the main event and 16+ VRS invitations to the qualifier.</li></ul>May change Season 2 group stage matches online status after the additional information deadline. |
@@ -37,6 +37,8 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 | Elisa Open Suomi 9       | May directly invite some teams based on their performance in previous Elisa Open Suomi seasons. |
 | Elisa Nordic Championship 2025      | May run one Wildcard event after two Tier 2 events instead of three.<br>May invite the first and second place participants from Dust2.dk Ligaen S28. |
 | Galaxy Battle STARTER    | May announce/operate with shorter timeframe than required for Tier 2 events. |
+| Galaxy Battle Phase 4    | May update tournament format after the additional information deadline. |
+| Galaxy Battle Phase 5    | May update tournament format after the additional information deadline. |
 | FISSURE Playground 1 | May split the announced prize pool between prize pool and performance based team award. |
 | FISSURE Playground 2 | May split the announced prize pool between prize pool and performance based team award. |
 | PrizePicks NA Revival Series May 2 | May operate under the [January 9th version of the Tournament Operation Requirements](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/5d975a93ed573c1f3820cf8c9176fe97d96bfd81/tournament-operation-requirements.md) |
