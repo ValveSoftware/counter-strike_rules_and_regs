@@ -189,6 +189,7 @@ For Tier 2 Tournaments that include Direct VRS Invites the following rules apply
 
 For Tier 2 Tournaments that do not have any direct VRS invites the following Rules apply:
   - The Announcement Date must be at least two weeks before the start of the Tournament's main event.
+  - There must be an announcement containing details of the process to signing up to the Tournament at least 7 days prior to the opening of the process to signup to the Tournament.
 
 4.2 **Basic Information.** For all types of Tournaments, on the Announcement Date, Tournament Operator shall publish the Tournament Dates and the identity of the Tournament Operator.
 
