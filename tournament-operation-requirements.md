@@ -148,7 +148,7 @@ If the Tournament Operator defines the Tournament as a "Tier 1" Tournament then 
 
 If Tournament Operator defines a Tournament as a Tier 2 Tournament, the following rules shall apply:
 
-3.8.1 The Tournament Operator may invite entirely by one or more Open Qualifiers.
+3.8.1 The Tournament Operator may populate their Tournament entirely by one or more Open Qualifiers.
 
 3.8.2 If the Tournament Operator invites *any* Rosters by Direct VRS Invite, then the Tournament must invite a minimum of 4 Rosters by Direct VRS Invite.
 
