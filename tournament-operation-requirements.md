@@ -192,7 +192,10 @@ For Tier 2 Tournaments that do not have any direct VRS invites the following Rul
 
 4.2 **Basic Information.** For all types of Tournaments, on the Announcement Date, Tournament Operator shall publish the Tournament Dates and the identity of the Tournament Operator.
 
-4.3 **Additional** **Information.** Tournament Operator shall publish the following additional information no later than the earliest of the following dates: two weeks prior to any Open Qualifier, 10 months before the Tournament main event for Tier 1 and Tier 1 Wildcard Tournaments, 2 months before the Tournament main event of Tier 2 Tournaments that feature VRS invitations and Tier 2 Wildcard Tournaments, or two weeks before the Tournament main event of Tier 2 Tournament that do not feature any VRS invitations:
+4.3 **Additional** **Information.** Tournament Operator shall publish the following additional information no later than the earliest of the following dates: 
+a) Tier 1 and Tier 1 Wildcard Tournaments: 10 months before the Tournament main event or two weeks prior to any Open Qualifier
+b) Tier 2 Tournaments that feature VRS invitations and Tier 2 Wildcard Tournaments: two months before the Tournament main event or two weeks prior to any Open Qualifier
+c) Tier 2 Tournament that do not feature any VRS invitations: two weeks before the Tournament main event or two weeks prior to any qualifier, and there needs to be at least one week between announcement and registration
 
 - A definition of the filters to the VRS (if any) that Direct VRS Invites will be based on.
 
@@ -216,9 +219,11 @@ For Tier 2 Tournaments that do not have any direct VRS invites the following Rul
   
 - Any integrity or conduct rules that disqualify a Roster from a Direct VRS Invite. Disqualification rules cannot be selectively applied at the discretion of the Tournament Operator. They must be transparent, based exclusively on specific objective criteria, and applied irrespective of the affected Roster or circumstances surrounding the Tournament.
   
-4.4 **Verifiability of Date of Publication**
+4.4 **Verifiability of Data**
 
 - Any published information must be published on a platform that does not allow modification of past posts (e.g., X.com), preserves version history (e.g., Github.com), or it must be preserved on an independent archiving platform (e.g., Internet Archive's Wayback Machine).
+- If the event has "first-come-first-served" registration, then rosters' registration time and order needs to be publicly inspectable (e.g. Google form registration that posts to a view-only publicly visible sheet that contains timestamps.)
+
 
 ### 5. Competition / Integrity.
 
