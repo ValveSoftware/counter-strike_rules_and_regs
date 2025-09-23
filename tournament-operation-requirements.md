@@ -192,13 +192,17 @@ For Tier 2 Tournaments that do not have any direct VRS invites the following Rul
 
 4.2 **Basic Information.** For all types of Tournaments, on the Announcement Date, Tournament Operator shall publish the Tournament Dates and the identity of the Tournament Operator.
 
-4.3 **Additional** **Information.** Tournament Operator shall publish the following additional information no later than the earliest of the following dates: 
+4.3 **Additional Information.** 
+
+4.3.1 Tournament Operator shall publish the following additional information no later than the earliest of the following dates: 
 
 a) Tier 1 and Tier 1 Wildcard Tournaments: 10 months before the Tournament main event or two weeks prior to any Open Qualifier
 
 b) Tier 2 Tournaments that feature VRS invitations and Tier 2 Wildcard Tournaments: two months before the Tournament main event or two weeks prior to any Open Qualifier
 
 c) Tier 2 Tournament that do not feature any VRS invitations: two weeks before the Tournament main event or two weeks prior to any qualifier, and there needs to be at least one week between announcement and registration
+
+4.3.2 The Additional Information shall include:
 
 - A definition of the filters to the VRS (if any) that Direct VRS Invites will be based on.
 
