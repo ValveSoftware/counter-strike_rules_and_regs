@@ -58,6 +58,7 @@ If Tournament Operator defines a Tournament as a Ranked Tournament, then the fol
 
 3.1 **License.** Tournament Operator must comply with the terms of the Limited Game Tournament License ([https://store.steampowered.com/tourney/limited_license](https://store.steampowered.com/tourney/limited_license)).
 
+
 3.2 **Invites.**
 
 3.2.1 Tournament Operator chooses the VRS list or lists, and for each list, the number of Rosters to invite and the VRS ranks from which to start the invitations.
@@ -70,7 +71,7 @@ If Tournament Operator defines a Tournament as a Ranked Tournament, then the fol
 
 3.2.5 Directly invited VRS Rosters may only accept an invitation for a Tournament if:
 
-a) At least three of the Participating Roster's Athletes were on the Invited Roster on the Invite Date.
+a) At least three of the Participating Roster's Athletes were on the Invited Roster on the Invite Date and will play in each event match.
 
 b) The Participating Roster satisfies the invite criteria (e.g. regional, demographic, etc).
 
@@ -85,7 +86,6 @@ c) The Roster has not previously declined an invitation to the same Tournament.
 a) The compensation for a given standing cannot exceed the compensation for any higher standing ( e.g., a qualifier cannot award a prize that is greater than any main event prize).
 
 b) The compensation for a given standing must be equivalent to the compensation for all equal standings (e.g., all prizes for identical placement in parallel matches, such as different qualifiers, must be identical).
-
 
 3.3 **VRS Subdivision**
 
@@ -107,11 +107,9 @@ b) The compensation for a given standing must be equivalent to the compensation 
 3.4.4 Initial seeding will use the version of the VRS that was specified in the Additional Information announcement.
 
 
-
 3.5 **Open Qualifiers.** 
 
 For Open Qualifiers, Tournament Operator can use any criteria that in good faith are reasonable and transparent, and do not specifically target individual Rosters. Acceptable criteria include demographics and region (e.g. \"Female Rosters based in Canada\").
-
 
 
 3.6 **Wildcard Invite.** 
@@ -127,7 +125,6 @@ a) It includes at least 3 players who individually were members of a top 12 Rost
 b) It has placed first or second place in any Tournament, of equal or lesser tier than the one issuing the invite, during the preceding 6 months.
 
 
-
 3.7 **Tier 1 Tournaments.** 
 
 If the Tournament Operator defines the Tournament as a "Tier 1" Tournament then the following rules shall apply:
@@ -141,7 +138,6 @@ If the Tournament Operator defines the Tournament as a "Tier 1" Tournament then 
 3.7.4 The Main Stage must feature a minimum of 8 Rosters.
 
 3.7.5 Tournament Operator may additionally include Open Qualifiers.
-
 
 
 3.8 **Tier 2 Tournaments.** 
@@ -165,6 +161,10 @@ If Tournament Operator defines a Tournament as a Tier 2 Tournament, the followin
 
 3.9.3 Tournament Operator may additionally invite from the VRS or include Open Qualifiers.
 
+
+3.10 **Additional Rules**
+
+3.10.1 Tournament Operator will declare a forfeit in any match in which a roster does not field at least three of the Invited Roster Athletes for the entirety of the match. 
 
 
 ### 4. Announcements and Publication of Tournament Information.
