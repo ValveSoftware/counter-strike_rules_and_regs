@@ -46,6 +46,8 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 | YaLLa Compass Qatar 2025 |  May reduce previously announced prize pool.<br>May operate the event online. |
 | FiReLEAGUE Buenos Aires 2025 | May adjust tournament format with shorter timeframe than required for Tier 2 events. |
 | CAC 2025 | May invite two past winners of prior CAC events as Wildcard invitations.
+| Chennai Esports Global Championship | May announce event details according to the August 5th version of the Tournament Operation Requirements. |
+| Nodwin Clutch Series #2 | May announce event dates after the additional information deadline. |
 
 ## Exceptions for 2026
 
