@@ -57,6 +57,7 @@ Rosters in each world region are sorted via Valve Regional Standing (VRS). The t
 
 A roster's Regional Assignment is the region represented by the majority of its players. In the case of a tie, their Regional Assignment is the region with greater representation in the Major (i.e., Europe, then Americas, then Asia).
 
+A roster is only eligible for a Regional Assignment if they did not appear in any other region's VRS list in the preceding three calendar months.
  
 #### Invitation Process
 Invitations will be sent to intact rosters, per the [invitation](#Invitations) requirements above. 
