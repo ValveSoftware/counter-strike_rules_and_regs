@@ -231,7 +231,6 @@ c) Tier 2 Tournament that do not feature any VRS invitations: two weeks before t
 4.4 **Verifiability of Data**
 
 - Any published information must be published on a platform that does not allow modification of past posts (e.g., X.com), preserves version history (e.g., Github.com), or it must be preserved on an independent archiving platform (e.g., Internet Archive's Wayback Machine).
-- If the event has "first-come-first-served" registration, then rosters' registration time and order needs to be publicly inspectable (e.g. Google form registration that posts to a view-only publicly visible sheet that contains timestamps.)
 
 
 ### 5. Competition / Integrity.
