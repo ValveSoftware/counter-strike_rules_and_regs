@@ -248,7 +248,7 @@ Within its sole discretion, Valve reserves the right to a) require that Tourname
 
 An explicit or implicit approval by Valve shall be valid for the duration of one year starting on the date that Valve has received disclosure, unless explicitly otherwise scoped by Valve when granting the approval. The approval period shall thereafter auto-renew by the same time it was initially granted until terminated.
 
-5.4 **Invite Exceptions.** Tournament Operator may have rules that disqualify certain Participants from their Tournaments due to misconduct, cheating infractions, being flagged by esports bodies as a matchmaking fix risk, or other integrity or compliance issues. If the Tournament Operator wishes to disqualify any Participant, they must:
+5.4 **Participant Exceptions.** Tournament Operator may have rules that disqualify certain Participants from their Tournaments due to misconduct, cheating infractions, being flagged by esports bodies as a matchmaking fix risk, or other integrity or compliance issues. If the Tournament Operator wishes to disqualify any Participant, they must:
 
 - Publish the disqualification rules as part of **Additional Information**.
 
