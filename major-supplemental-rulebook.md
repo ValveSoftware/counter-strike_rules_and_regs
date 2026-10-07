@@ -39,12 +39,12 @@ Invitations are allocated according to the number of teams from the region that 
   
 
 <a id="Regional-Major-Invites"></a>
-##### Major Invites for Winter 2025 based on performance of regions in [Previous Major](#Final-Rankings-Major):
+##### Major Invites for Summer 2026 based on performance of regions in [Previous Major](#Final-Rankings-Major):
 | Region     | Stage 1 | Stage 2 | Stage 3 |
 | ---------: | :-----: | :-----: | ------- |
-| Europe     | 6        | 5       | 5      |
-| America    | 6        | 2       | 2      |
-| Asia       | 4        | 1       | 1      |
+| Europe     | 6        | 5       | 6      |
+| America    | 6        | 3       | 1      |
+| Asia       | 4        | 0       | 1      |
 | TBD        |          |         |        |
 | **Totals** | **16**   | **8**   | **8**  |
 
@@ -603,44 +603,44 @@ Final Major Rankings are determined by (in order)
 7. Stage 1 Difficulty
 8. Initial Seeding
 
-#### Results: 2025 Austin
+#### Results: 2025 Budapest
 | #   | Team               | Position | W/L<sub>St.3</sub> | D<sub>St.3</sub> | W/L<sub>St.2</sub> | D<sub>St.2</sub> | W/L<sub>St.1</sub> | D<sub>St.1</sub> | Seeding | Region |
 | --: | ------------------ | :------: | :----------------: | :--------------: | :----------------: | :--------------: | :----------------: | ---------------- | ------- | ------ |
-| 1   | Team Vitality      | 1st      |                    |                  |                    |                  |                    |                  |         | Eu     |
-| 2   | The Mongolz        | 2nd      |                    |                  |                    |                  |                    |                  |         | Asia   |
-| 3   | MOUZ               | 3rd      |                    |                  |                    |                  |                    |                  |         | Eu     |
-| 4   | paiN               | 3rd      |                    |                  |                    |                  |                    |                  |         | Amer   |
-| 5   | Team Spirit        | 5th      | 3-0                | 1                |                    |                  |                    |                  |         | Eur    |
-| 6   | FURIA Esports      | 5th      | 3-0                | -2               |                    |                  |                    |                  |         | Amer   |
-| 7   | Faze Clan          | 5th      | 3-1                | -1               |                    |                  |                    |                  |         | Eur    |
-| 8   | Natus Vincere      | 5th      | 3-1                | -3               |                    |                  |                    |                  |         | Eur    |
+| 1   | Team Vitality      | 1st      |                    |                  |                    |                  |                    |                  |         | Eur    |
+| 2   | Faze Clan          | 2nd      |                    |                  |                    |                  |                    |                  |         | Eur    |
+| 3   | Team Spirit        | 3rd      |                    |                  |                    |                  |                    |                  |         | Eur    |
+| 4   | Natus Vincere      | 3rd      |                    |                  |                    |                  |                    |                  |         | Eur    |
+| 5   | FURIA Esports      | 5th      | 3-0                | -2               |                    |                  |                    |                  |         | Amer   |
+| 6   | MOUZ               | 5th      | 3-1                | 0                |                    |                  |                    |                  |         | Eur    |
+| 7   | The MongolZ        | 5th      | 3-1                | -5               |                    |                  |                    |                  |         | Asia   |
+| 8   | Team Falcons       | 5th      | 3-2                | -3               |                    |                  |                    |                  |         | Eur    |
 |     |                    |          |                    |                  |                    |                  |                    |                  |         |        |
-| 9   | Virtus Pro         | -        | 2-3                | 6                |                    |                  |                    |                  |         | Eur    |
-| 10  | Legacy             | -        | 2-3                | 2                |                    |                  |                    |                  |         | Amer   |
-| 11  | G2 Esports         | -        | 2-3                | 0                |                    |                  |                    |                  |         | Eur    |
-| 12  | Aurora Gaming      | -        | 1-3                | 5                |                    |                  |                    |                  |         | Eur    |
-| 13  | 3DMAX              | -        | 1-3                | 4                |                    |                  |                    |                  |         | Eur    |
-| 14  | Lynn Vision Gaming | -        | 1-3                | 0                |                    |                  |                    |                  |         | Asia   |
-| 15  | Nemiga Gaming      | -        | 0-3                | 5                |                    |                  |                    |                  |         | Eur    |
-| 16  | Team Liquid        | -        | 0-3                | 0                |                    |                  |                    |                  |         | Amer   |
+| 9   | B8                 | -        | 2-3                | 4                |                    |                  |                    |                  |         | Eur    |
+| 10  | G2 Esports         | -        | 2-3                | 3                |                    |                  |                    |                  |         | Eur    |
+| 11  | Passion UA         | -        | 2-3                | -4               |                    |                  |                    |                  |         | Amer   |
+| 12  | Imperial           | -        | 1-3                | 5                |                    |                  |                    |                  |         | Amer   |
+| 13  | 3DMAX              | -        | 1-3                | -2               |                    |                  |                    |                  |         | Eur    |
+| 14  | paiN               | -        | 1-3                | -3               |                    |                  |                    |                  |         | Amer   |
+| 15  | Team Liquid        | -        | 0-3                | 4                |                    |                  |                    |                  |         | Eur    |
+| 16  | PARIVISION         | -        | 0-3                | 1                |                    |                  |                    |                  |         | Eur    |
 |     |                    |          |                    |                  |                    |                  |                    |                  |         |        |
-| 17  | B8                 | -        |                    |                  | 2-3                | 3                |                    |                  |         | Eur    |
-| 18  | MIBR               | -        |                    |                  | 2-3                | 0                |                    |                  |         | Amer   |
-| 19  | HEROIC             | -        |                    |                  | 2-3                | -4               |                    |                  |         | Eur    |
-| 20  | TYLOO              | -        |                    |                  | 1-3                | -1               |                    |                  |         | Asia   |
-| 21  | M80                | -        |                    |                  | 1-3                | -2               |                    |                  |         | Amer   |
-| 22  | Team Falcons       | -        |                    |                  | 1-3                | -4               |                    |                  |         | Eur    |
-| 23  | BetBoom Team       | -        |                    |                  | 0-3                | 0                |                    |                  |         | Eur    |
-| 24  | OG                 | -        |                    |                  | 0-3                | -1               |                    |                  |         | Eur    |
+| 17  | Ninjas in Pyjamas  | -        |                    |                  | 2-3                | 3                |                    |                  |         | Eur    |
+| 18  | M80                | -        |                    |                  | 2-3                | -2               |                    |                  |         | Amer   |
+| 19  | Astralis           | -        |                    |                  | 2-3                | -6               |                    |                  |         | Eur    |
+| 20  | Fnatic             | -        |                    |                  | 1-3                | 6                |                    |                  |         | Eur    |
+| 21  | Aurora Gaming      | -        |                    |                  | 1-3                | 3                |                    |                  |         | Eur    |
+| 22  | TYLOO              | -        |                    |                  | 1-3                | 1                |                    |                  |         | Asia   |
+| 23  | MIBR               | -        |                    |                  | 0-3                | 4                |                    |                  |         | Amer   |
+| 24  | FlyQuest           | -        |                    |                  | 0-3                | 3                |                    |                  |         | Asia   |
 |     |                    |          |                    |                  |                    |                  |                    |                  |         |        |
-| 25  | FlyQuest           | -        |                    |                  |                    |                  | 2-3                | 5                | 29      | Asia   |
-| 26  | NRG                | -        |                    |                  |                    |                  | 2-3                | 5                | 37      | Amer   |
-| 27  | Wildcard           | -        |                    |                  |                    |                  | 2-3                | 4                |         | Amer   |
-| 28  | Imperial           | -        |                    |                  |                    |                  | 1-3                | 3                |         | Amer   |
-| 29  | Chinggis           | -        |                    |                  |                    |                  | 1-3                | 2                |         | Asia   |
-| 30  | Complexity         | -        |                    |                  |                    |                  | 1-3                | -1               |         | Amer   |
-| 31  | Metizport          | -        |                    |                  |                    |                  | 0-3                | -2               |         | Eur    |
-| 32  | Fluxo              | -        |                    |                  |                    |                  | 0-3                | -5               |         | Amer   |
+| 25  | NRG                | -        |                    |                  |                    |                  | 2-3                | 9                |         | Amer   |
+| 26  | Fluxo              | -        |                    |                  |                    |                  | 2-3                | 6                |         | Amer   |
+| 27  | Legacy             | -        |                    |                  |                    |                  | 2-3                | 1                |         | Amer   |
+| 28  | The Huns Esports   | -        |                    |                  |                    |                  | 1-3                | 1                |         | Asia   |
+| 29  | RED Canids         | -        |                    |                  |                    |                  | 1-3                | 0                |         | Amer   |
+| 30  | GamerLegion        | -        |                    |                  |                    |                  | 1-3                | -5               |         | Eur    |
+| 31  | Lynn Vision Gaming | -        |                    |                  |                    |                  | 0-3                | 1                |         | Asia   |
+| 32  | Rare Atom          | -        |                    |                  |                    |                  | 0-3                | -2               |         | Asia   |
 
 <a id="Server-Demos"></a>
 ### Server Demos
