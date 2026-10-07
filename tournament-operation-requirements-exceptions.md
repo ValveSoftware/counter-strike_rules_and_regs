@@ -57,3 +57,4 @@ If there are exceptions that we have failed to note here, or are not aware of, p
 | BLAST Rivals       | May run one Wildcard event after two Tier 1 events instead of three. |
 | IEM Krakow             | May run a third/fourth place match and divide the fourth place prize pool accordingly.|
 | XPL 2026 | May invite 16 teams from the VRS instead of 20. |
+| Singapore 2026 Major | BC.Game (asap, Magisk, mzinho, s1mple, Senzu) are assigned to the Asia region and are eligible for a Major invitation. |
