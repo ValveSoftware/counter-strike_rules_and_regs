@@ -208,10 +208,12 @@ Match-ups for the first round of the Swiss format are as follows:
 - Bracket B:
   - 2 vs. 7
   - 3 vs. 6
-- All matches are best of three
+- All matches (except for the Grand Final) are best of three
+- Grand Final is best of five
+
 
 ### Map Pick-Ban
-All Major matches are to use the following map pick-ban process for determining which map (bo1) or maps (bo3) are played.
+All Major matches are to use the following map pick-ban process for determining which map (bo1) or maps (bo3 or bo5) are played.
 
 #### Best of 1 Pick-Ban Process
 1. The higher seed team chooses to be Team A or Team B
@@ -231,6 +233,20 @@ All Major matches are to use the following map pick-ban process for determining 
 1. Team B removes one map
 1. Team A removes one map
 1. Team B chooses starting side on map 3
+
+#### Best of 5 Pick/Ban Process
+1. The higher seed team chooses to be Team A or Team B
+1. Team A removes 1 map
+1. Team B removes 1 map
+1. Team A picks the map 1
+1. Team B chooses starting side on map 1
+1. Team B picks map 2
+1. Team A chooses starting side on map 2
+1. Team A picks the map 3
+1. Team B chooses starting side on map 3
+1. Team B picks map 4
+1. Team A chooses starting side on map 4
+1. Team B chooses starting side on map 5
 
 <a id="seeding"></a>
 ### Seeding
@@ -645,3 +661,4 @@ Final Major Rankings are determined by (in order)
 <a id="Server-Demos"></a>
 ### Server Demos
 [Deliver to Valve.](#Deliverables)
+
